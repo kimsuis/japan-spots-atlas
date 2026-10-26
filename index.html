@@ -1,0 +1,342 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>일본 관광지 지도</title>
+<meta name="description" content="일본 47개 도도부현의 관광지를 지도와 카드로 정리했어요. 대중교통·JR 지역 패스 기준 접근법, 계절, 걷는 양을 함께 담았어요.">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.css">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@400;500;700&display=swap">
+<style>
+:root{
+  --bg:#f6f4ef; --panel:#ffffff; --ink:#1d1f23; --muted:#6b6f78; --line:#e4e0d8;
+  --chip:#f0ede6; --chip-on:#1d1f23; --chip-on-ink:#fff; --accent:#c8442f;
+  --fit-top:#1f7a4d; --fit-mid:#b7791f; --fit-low:#7a7f88;
+  --shadow:0 1px 2px rgba(0,0,0,.05),0 4px 14px rgba(0,0,0,.05);
+}
+@media (prefers-color-scheme: dark){
+  :root:not([data-theme="light"]){
+    --bg:#15171b; --panel:#1e2126; --ink:#ecebe7; --muted:#9a9ea7; --line:#2e3239;
+    --chip:#2a2e35; --chip-on:#ecebe7; --chip-on-ink:#15171b; --accent:#ef7a62;
+    --fit-top:#4fbf87; --fit-mid:#e0a84a; --fit-low:#9a9ea7;
+    --shadow:0 1px 2px rgba(0,0,0,.3);
+  }
+  :root:not([data-theme="light"]) .leaflet-tile-pane{filter:invert(.9) hue-rotate(180deg) brightness(.95) contrast(.9)}
+}
+:root[data-theme="dark"]{
+  --bg:#15171b; --panel:#1e2126; --ink:#ecebe7; --muted:#9a9ea7; --line:#2e3239;
+  --chip:#2a2e35; --chip-on:#ecebe7; --chip-on-ink:#15171b; --accent:#ef7a62;
+  --fit-top:#4fbf87; --fit-mid:#e0a84a; --fit-low:#9a9ea7;
+  --shadow:0 1px 2px rgba(0,0,0,.3);
+}
+:root[data-theme="dark"] .leaflet-tile-pane{filter:invert(.9) hue-rotate(180deg) brightness(.95) contrast(.9)}
+
+*{box-sizing:border-box}
+html,body{margin:0}
+body{min-height:100vh}
+body{background:var(--bg);color:var(--ink);font:15px/1.55 "Noto Sans KR",system-ui,-apple-system,"Malgun Gothic",sans-serif;-webkit-text-size-adjust:100%}
+button,input,select{font:inherit;color:inherit}
+a{color:var(--accent)}
+
+header{position:sticky;top:0;z-index:1000;background:var(--bg);border-bottom:1px solid var(--line);padding:12px 16px 10px}
+.top{display:flex;align-items:center;gap:12px;flex-wrap:wrap}
+h1{font-size:19px;margin:0;letter-spacing:-.01em;white-space:nowrap}
+h1 small{font-weight:400;color:var(--muted);font-size:13px;margin-left:6px}
+.search{flex:1 1 240px;display:flex;gap:8px;min-width:0}
+.search input{flex:1;min-width:0;padding:8px 12px;border:1px solid var(--line);border-radius:10px;background:var(--panel)}
+.iconbtn{border:1px solid var(--line);background:var(--panel);border-radius:10px;padding:8px 12px;cursor:pointer;white-space:nowrap}
+.iconbtn[aria-pressed="true"]{background:var(--chip-on);color:var(--chip-on-ink);border-color:var(--chip-on)}
+
+.filters{display:none;margin-top:10px;gap:8px;flex-direction:column}
+.filters.open{display:flex}
+.frow{display:flex;gap:6px;align-items:center;flex-wrap:wrap}
+.frow > .lab{font-size:12px;color:var(--muted);width:52px;flex:none}
+.chip{border:1px solid transparent;background:var(--chip);border-radius:999px;padding:4px 11px;font-size:13px;cursor:pointer;white-space:nowrap}
+.chip[aria-pressed="true"]{background:var(--chip-on);color:var(--chip-on-ink)}
+.frow select{padding:4px 8px;border-radius:8px;border:1px solid var(--line);background:var(--panel);max-width:100%}
+.status{margin-top:8px;font-size:13px;color:var(--muted);display:flex;gap:10px;align-items:center;flex-wrap:wrap}
+.status button{background:none;border:0;padding:0;color:var(--accent);cursor:pointer;font-size:13px}
+
+main{display:grid;grid-template-columns:minmax(0,1fr) 440px;height:calc(100vh - var(--hh,64px))}
+#map{height:100%;min-height:300px}
+#list{overflow-y:auto;padding:12px 14px 40px;border-left:1px solid var(--line)}
+.pref-h{font-size:13px;color:var(--muted);margin:18px 2px 8px;display:flex;justify-content:space-between}
+.pref-h:first-child{margin-top:4px}
+
+.card{background:var(--panel);border:1px solid var(--line);border-radius:14px;padding:12px 14px;margin-bottom:10px;box-shadow:var(--shadow);cursor:pointer;transition:border-color .15s}
+.card:hover{border-color:var(--muted)}
+.card.sel{border-color:var(--accent);box-shadow:0 0 0 2px color-mix(in srgb,var(--accent) 25%,transparent)}
+.c-head{display:flex;justify-content:space-between;gap:8px;align-items:flex-start}
+.c-name{font-weight:700;font-size:16px;line-height:1.35}
+.c-ja{color:var(--muted);font-size:12px;margin-top:1px}
+.fit{font-size:11.5px;font-weight:700;padding:2px 8px;border-radius:999px;white-space:nowrap;border:1px solid currentColor}
+.fit.f0{color:var(--fit-top)} .fit.f1{color:var(--fit-mid)} .fit.f2{color:var(--fit-low)}
+.c-meta{font-size:12.5px;color:var(--muted);margin:6px 0 4px;display:flex;gap:6px;flex-wrap:wrap;align-items:center}
+.cat{display:inline-flex;align-items:center;gap:4px}
+.dot{width:8px;height:8px;border-radius:50%;display:inline-block}
+.visited{font-size:11px;background:var(--chip);border-radius:6px;padding:1px 6px;color:var(--muted)}
+.c-sum{margin:4px 0 0}
+.c-do{margin:4px 0 0;color:var(--muted);font-size:14px}
+.c-more{display:none;margin-top:10px;border-top:1px dashed var(--line);padding-top:10px;font-size:13.5px}
+.card.open .c-more{display:block}
+.kv{display:grid;grid-template-columns:64px 1fr;gap:4px 10px}
+.kv dt{color:var(--muted)}
+.kv dd{margin:0;overflow-wrap:anywhere}
+.pass{display:inline-block;background:var(--chip);border-radius:6px;padding:0 6px;margin:0 4px 2px 0;font-size:12.5px}
+.warn{color:var(--accent)}
+.links{margin-top:8px;display:flex;gap:14px;flex-wrap:wrap;font-size:13px}
+
+.empty{color:var(--muted);text-align:center;padding:40px 10px}
+.mtabs{display:none}
+footer{font-size:12px;color:var(--muted);padding:14px 4px 0;line-height:1.6}
+
+.leaflet-popup-content{font:13px/1.45 "Noto Sans KR",system-ui,sans-serif;margin:10px 12px}
+.leaflet-popup-content b{font-size:14px}
+.leaflet-container{background:var(--bg)}
+
+@media (max-width: 860px){
+  header{position:relative}
+  main{display:block;height:auto}
+  #map{height:calc(100vh - 46px)}
+  #list{border-left:0;padding:10px 16px 40px}
+  body.view-list #map{display:none}
+  body.view-map #list{display:none}
+  .mtabs{display:flex;position:sticky;top:0;z-index:999;background:var(--bg);border-bottom:1px solid var(--line);padding:6px 16px;gap:6px}
+  .mtabs button{flex:1;border:1px solid var(--line);background:var(--panel);border-radius:8px;padding:6px;cursor:pointer}
+  .mtabs button[aria-pressed="true"]{background:var(--chip-on);color:var(--chip-on-ink);border-color:var(--chip-on)}
+  h1 small{display:none}
+  .frow > .lab{width:100%}
+}
+</style>
+</head>
+<body class="view-list">
+<header id="hdr">
+  <div class="top">
+    <h1>일본 관광지 지도<small id="total"></small></h1>
+    <div class="search">
+      <input id="q" type="search" placeholder="이름·지역·역·패스 검색" autocomplete="off">
+      <button class="iconbtn" id="ftoggle" aria-pressed="false" aria-controls="filters">필터</button>
+      <button class="iconbtn" id="theme" title="밝게/어둡게">◐</button>
+    </div>
+  </div>
+  <div class="filters" id="filters">
+    <div class="frow" id="f-region"><span class="lab">지방</span></div>
+    <div class="frow" id="f-cat"><span class="lab">종류</span></div>
+    <div class="frow" id="f-season"><span class="lab">계절</span></div>
+    <div class="frow" id="f-fit"><span class="lab">추천도</span></div>
+    <div class="frow" id="f-etc"><span class="lab">기타</span></div>
+    <div class="frow"><span class="lab">JR 패스</span><select id="f-pass"><option value="">전체</option></select></div>
+  </div>
+  <div class="status"><span id="count"></span><button id="reset" hidden>필터 초기화</button></div>
+</header>
+<div class="mtabs" id="mtabs">
+  <button data-view="list" aria-pressed="true">목록</button>
+  <button data-view="map" aria-pressed="false">지도</button>
+</div>
+<main>
+  <div id="map" role="region" aria-label="지도"></div>
+  <div id="list"></div>
+</main>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.js"></script>
+<script src="data/spots.js"></script>
+<script>window.VISITED_AREAS = window.VISITED_AREAS || null;</script>
+<script src="visited.js" onerror="void 0"></script>
+<script>
+(function(){
+const SPOTS = window.SPOTS || [];
+const REGIONS = ["홋카이도","도호쿠","간토","고신에쓰","호쿠리쿠","도카이","간사이","주고쿠","시코쿠","규슈","오키나와"];
+const CATS = {
+  view:["전망·로프웨이","#3b7dd8"], boat:["배·유람선","#1a9bb0"], onsen:["온천","#d0563b"],
+  nature:["자연·호수·폭포","#3f9a52"], festival:["축제·불꽃","#d43f8d"], night:["야경·별·라이트업","#6a4fc4"],
+  snow:["눈·얼음","#5aa6d6"], volcano:["화산·사구·지형","#a15a2a"], cape:["곶·섬·해안","#1f6fa3"],
+  town:["옛 거리·마을","#b48a2c"], culture:["성·신사·유적","#7d6b5d"], train:["관광열차","#c27c12"], city:["도시·먹거리","#5f6670"]
+};
+const SEASONS = ["봄","여름","가을","겨울"];
+const FITS = ["매우 잘 맞음","조건부","백업"];
+const FITCLS = {"매우 잘 맞음":"f0","조건부":"f1","백업":"f2"};
+
+const store = {
+  get(k){ try{ return localStorage.getItem(k) }catch(e){ return null } },
+  set(k,v){ try{ localStorage.setItem(k,v) }catch(e){} }
+};
+
+// 가 본 지역 표시는 로컬 전용 visited.js 가 있을 때만
+const visitedSet = Array.isArray(window.VISITED_AREAS) ? new Set(window.VISITED_AREAS) : null;
+const isVisited = s => visitedSet && (visitedSet.has(s.area) || visitedSet.has(s.id));
+
+const state = { q:"", region:new Set(), cat:new Set(), season:new Set(), fit:new Set(), walk:false, unvisited:false, pass:"" };
+
+const esc = s => String(s ?? "").replace(/[&<>"']/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
+
+function chip(container, key, value, label, color){
+  const b = document.createElement("button");
+  b.className = "chip"; b.type = "button"; b.setAttribute("aria-pressed","false");
+  b.innerHTML = (color ? `<span class="dot" style="background:${color}"></span> ` : "") + esc(label);
+  b.onclick = () => {
+    const set = state[key];
+    set.has(value) ? set.delete(value) : set.add(value);
+    b.setAttribute("aria-pressed", set.has(value));
+    render();
+  };
+  container.appendChild(b);
+}
+const presentRegions = REGIONS.filter(r => SPOTS.some(s => s.region === r));
+presentRegions.forEach(r => chip(document.getElementById("f-region"), "region", r, r));
+Object.entries(CATS).forEach(([k,[l,c]]) => chip(document.getElementById("f-cat"), "cat", k, l, c));
+SEASONS.forEach(s => chip(document.getElementById("f-season"), "season", s, s));
+FITS.forEach(f => chip(document.getElementById("f-fit"), "fit", f, f));
+
+function toggleChip(container, label, key){
+  const b = document.createElement("button");
+  b.className = "chip"; b.type="button"; b.textContent = label; b.setAttribute("aria-pressed","false");
+  b.onclick = () => { state[key] = !state[key]; b.setAttribute("aria-pressed", state[key]); render(); };
+  container.appendChild(b);
+}
+const etc = document.getElementById("f-etc");
+toggleChip(etc, "걷기 적음만", "walk");
+if (visitedSet) toggleChip(etc, "안 가 본 지역만", "unvisited");
+
+const passes = [...new Set(SPOTS.flatMap(s => s.jr_pass || []))].sort((a,b)=>a.localeCompare(b,"ko"));
+const passSel = document.getElementById("f-pass");
+passes.forEach(p => { const o = document.createElement("option"); o.value = p; o.textContent = p; passSel.appendChild(o); });
+const noneOpt = document.createElement("option"); noneOpt.value = "__none"; noneOpt.textContent = "JR 패스 없음(사철·버스·배)"; passSel.appendChild(noneOpt);
+passSel.onchange = () => { state.pass = passSel.value; render(); };
+
+document.getElementById("total").textContent = `${SPOTS.length}곳 · 47개 도도부현`;
+
+// 지도
+const map = L.map("map", { zoomControl:true, preferCanvas:true }).setView([36.5, 137.5], 5);
+L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {
+  maxZoom: 18, attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
+}).addTo(map);
+const markers = new Map();
+SPOTS.forEach(s => {
+  const color = CATS[s.categories[0]]?.[1] || "#888";
+  const m = L.circleMarker([s.lat, s.lng], { radius: s.fit === "매우 잘 맞음" ? 7 : 5.5, color:"#fff", weight:1.5, fillColor:color, fillOpacity:.95 });
+  m.bindPopup(`<b>${esc(s.name_ko)}</b><br>${esc(s.pref)} · ${esc(s.area)}<br>${esc(s.summary)}`);
+  m.on("click", () => select(s.id, false));
+  markers.set(s.id, m);
+});
+const layer = L.layerGroup().addTo(map);
+if (SPOTS.length) map.fitBounds(SPOTS.map(s => [s.lat, s.lng]), { padding:[20,20] });
+
+function matches(s){
+  if (state.region.size && !state.region.has(s.region)) return false;
+  if (state.cat.size && !s.categories.some(c => state.cat.has(c))) return false;
+  if (state.season.size && !s.seasons.some(x => state.season.has(x))) return false;
+  if (state.fit.size && !state.fit.has(s.fit)) return false;
+  if (state.walk && s.walking !== "적음") return false;
+  if (state.unvisited && isVisited(s)) return false;
+  if (state.pass === "__none" && s.jr_pass.length) return false;
+  if (state.pass && state.pass !== "__none" && !s.jr_pass.includes(state.pass)) return false;
+  if (state.q){
+    const hay = [s.name_ko,s.name_ja,s.pref,s.area,s.station,s.summary,s.do,s.access,s.event,...s.jr_pass].join(" ").toLowerCase();
+    if (!state.q.split(/\s+/).every(w => hay.includes(w))) return false;
+  }
+  return true;
+}
+
+function card(s){
+  const cats = s.categories.map(c => `<span class="cat"><span class="dot" style="background:${CATS[c][1]}"></span>${CATS[c][0]}</span>`).join(" ");
+  const pass = s.jr_pass.length ? s.jr_pass.map(p => `<span class="pass">${esc(p)}</span>`).join("") : "JR 패스 해당 없음";
+  const row = (k,v,cls) => v ? `<dt>${k}</dt><dd${cls?` class="${cls}"`:""}>${v}</dd>` : "";
+  const gmap = `https://www.google.com/maps/search/?api=1&query=${s.lat},${s.lng}`;
+  return `<article class="card" id="c-${esc(s.id)}" data-id="${esc(s.id)}">
+    <div class="c-head"><div><div class="c-name">${esc(s.name_ko)}</div><div class="c-ja">${esc(s.name_ja)}</div></div>
+      <span class="fit ${FITCLS[s.fit]}">${esc(s.fit)}</span></div>
+    <div class="c-meta"><span>${esc(s.pref)} · ${esc(s.area)}</span>${cats}${isVisited(s) ? '<span class="visited">가 본 지역</span>' : ""}</div>
+    <p class="c-sum">${esc(s.summary)}</p>
+    ${s.do ? `<p class="c-do">${esc(s.do)}</p>` : ""}
+    <div class="c-more"><dl class="kv">
+      ${row("가는 법", esc(s.access))}
+      ${row("가까운 역", esc(s.station))}
+      ${row("JR 패스", pass)}
+      ${row("좋은 때", esc([s.seasons.join("·"), s.best_time].filter(Boolean).join(" — ")))}
+      ${row("행사", esc(s.event))}
+      ${row("시간", esc(s.duration))}
+      ${row("비용", esc(s.cost))}
+      ${row("걷기", esc(s.walking))}
+      ${row("조건", esc(s.condition))}
+      ${row("주의", esc(s.caution), "warn")}
+    </dl>
+    <div class="links">${s.url ? `<a href="${esc(s.url)}" target="_blank" rel="noopener">공식 사이트</a>` : ""}<a href="${gmap}" target="_blank" rel="noopener">구글 지도</a>${(s.sources||[]).map((u,i)=>`<a href="${esc(u)}" target="_blank" rel="noopener">출처 ${i+1}</a>`).join("")}</div>
+    </div></article>`;
+}
+
+let shown = [];
+function render(){
+  shown = SPOTS.filter(matches);
+  const list = document.getElementById("list");
+  let html = "", cur = "";
+  const counts = {};
+  shown.forEach(s => counts[s.pref] = (counts[s.pref]||0)+1);
+  shown.forEach(s => {
+    if (s.pref !== cur){ cur = s.pref; html += `<div class="pref-h"><span>${esc(s.region)} · <b>${esc(s.pref)}</b></span><span>${counts[s.pref]}곳</span></div>`; }
+    html += card(s);
+  });
+  if (!shown.length) html = `<div class="empty">조건에 맞는 곳이 없어요. 필터를 줄여 보세요.</div>`;
+  html += `<footer>조사 기준일 2026-10-27. 운행 시각·요금·축제 날짜는 바뀔 수 있으니 출발 전에 공식 사이트에서 확인하세요.<br>지도 © OpenStreetMap contributors.</footer>`;
+  list.innerHTML = html;
+  layer.clearLayers();
+  shown.forEach(s => layer.addLayer(markers.get(s.id)));
+  const active = state.q || state.region.size || state.cat.size || state.season.size || state.fit.size || state.walk || state.unvisited || state.pass;
+  document.getElementById("count").textContent = active ? `${shown.length}곳 표시 중` : `전체 ${shown.length}곳`;
+  document.getElementById("reset").hidden = !active;
+}
+
+function select(id, fly){
+  document.querySelectorAll(".card.sel").forEach(c => c.classList.remove("sel"));
+  const el = document.getElementById("c-" + id);
+  const s = SPOTS.find(x => x.id === id);
+  if (el){ el.classList.add("sel","open"); if (!fly) { setView("list"); el.scrollIntoView({behavior:"smooth", block:"center"}); } }
+  if (fly && s){ map.flyTo([s.lat, s.lng], Math.max(map.getZoom(), 10), {duration:.6}); markers.get(id).openPopup(); }
+}
+
+document.getElementById("list").addEventListener("click", e => {
+  if (e.target.closest("a")) return;
+  const c = e.target.closest(".card"); if (!c) return;
+  const wasOpen = c.classList.contains("open");
+  c.classList.toggle("open", !wasOpen);
+  if (!wasOpen) select(c.dataset.id, window.innerWidth > 860);
+});
+
+let qt;
+document.getElementById("q").addEventListener("input", e => { clearTimeout(qt); qt = setTimeout(() => { state.q = e.target.value.trim().toLowerCase(); render(); }, 120); });
+
+const ft = document.getElementById("ftoggle"), fl = document.getElementById("filters");
+function setFilters(open){ fl.classList.toggle("open", open); ft.setAttribute("aria-pressed", open); measure(); store.set("jsa.filters", open ? "1" : "0"); }
+ft.onclick = () => setFilters(!fl.classList.contains("open"));
+
+document.getElementById("reset").onclick = () => {
+  Object.assign(state, { q:"", walk:false, unvisited:false, pass:"" });
+  ["region","cat","season","fit"].forEach(k => state[k].clear());
+  document.querySelectorAll(".filters .chip").forEach(b => b.setAttribute("aria-pressed","false"));
+  document.getElementById("q").value = ""; passSel.value = "";
+  render();
+};
+
+function setView(v){
+  if (window.innerWidth > 860) return;
+  document.body.className = "view-" + v;
+  document.querySelectorAll("#mtabs button").forEach(b => b.setAttribute("aria-pressed", b.dataset.view === v));
+  if (v === "map") setTimeout(() => { map.invalidateSize(); document.getElementById("mtabs").scrollIntoView(); }, 50);
+}
+document.querySelectorAll("#mtabs button").forEach(b => b.onclick = () => setView(b.dataset.view));
+
+const root = document.documentElement;
+const savedTheme = store.get("jsa.theme"); if (savedTheme) root.dataset.theme = savedTheme;
+document.getElementById("theme").onclick = () => {
+  const dark = root.dataset.theme ? root.dataset.theme === "dark" : matchMedia("(prefers-color-scheme: dark)").matches;
+  root.dataset.theme = dark ? "light" : "dark"; store.set("jsa.theme", root.dataset.theme);
+};
+
+function measure(){ root.style.setProperty("--hh", document.getElementById("hdr").offsetHeight + "px"); map.invalidateSize(); }
+window.addEventListener("resize", measure);
+if (store.get("jsa.filters") === "1") setFilters(true);
+render(); measure();
+})();
+</script>
+</body>
+</html>
