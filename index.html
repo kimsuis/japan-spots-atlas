@@ -2,340 +2,524 @@
 <html lang="ko">
 <head>
 <meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <title>일본 관광지 지도</title>
-<meta name="description" content="일본 47개 도도부현의 관광지를 지도와 카드로 정리했어요. 대중교통·JR 지역 패스 기준 접근법, 계절, 걷는 양을 함께 담았어요.">
+<meta name="description" content="일본 47개 도도부현의 관광지 360곳을 지도로 정리했어요. 대중교통·JR 지역 패스 기준 가는 법, 계절, 걷는 양을 함께 담았어요.">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.5.3/MarkerCluster.min.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/pretendard@1.3.9/dist/web/static/pretendard.min.css">
 <link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@400;500;700&display=swap">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Noto+Serif+KR:wght@700;900&display=swap">
 <style>
 :root{
-  --bg:#f6f4ef; --panel:#ffffff; --ink:#1d1f23; --muted:#6b6f78; --line:#e4e0d8;
-  --chip:#f0ede6; --chip-on:#1d1f23; --chip-on-ink:#fff; --accent:#c8442f;
-  --fit-top:#1f7a4d; --fit-mid:#b7791f; --fit-low:#7a7f88;
-  --shadow:0 1px 2px rgba(0,0,0,.05),0 4px 14px rgba(0,0,0,.05);
+  --bg:#f6f3ec; --surface:#ffffff; --surface-2:#faf8f3; --ink:#1a1c21; --ink-2:#3d4149; --muted:#7a7f88;
+  --line:#e8e3d8; --line-2:#efebe2; --chip:#efebe2; --chip-ink:#3d4149;
+  --accent:#d4442a; --accent-ink:#ffffff; --accent-soft:#fbeae5;
+  --good:#1e7d52; --good-soft:#e3f3ea; --mid:#a86a12; --mid-soft:#fbf0dc; --low:#6f747d; --low-soft:#eeeeef;
+  --warn-soft:#fdeceb; --warn:#b4321f;
+  --shadow-sm:0 1px 2px rgba(20,20,30,.06);
+  --shadow:0 2px 6px rgba(20,20,30,.06),0 10px 30px rgba(20,20,30,.08);
+  --r:14px;
 }
 @media (prefers-color-scheme: dark){
   :root:not([data-theme="light"]){
-    --bg:#15171b; --panel:#1e2126; --ink:#ecebe7; --muted:#9a9ea7; --line:#2e3239;
-    --chip:#2a2e35; --chip-on:#ecebe7; --chip-on-ink:#15171b; --accent:#ef7a62;
-    --fit-top:#4fbf87; --fit-mid:#e0a84a; --fit-low:#9a9ea7;
-    --shadow:0 1px 2px rgba(0,0,0,.3);
+    --bg:#101215; --surface:#181b20; --surface-2:#1d2027; --ink:#eeece7; --ink-2:#c9cbd0; --muted:#8d939d;
+    --line:#2a2e36; --line-2:#22262d; --chip:#252930; --chip-ink:#c9cbd0;
+    --accent:#ff6f50; --accent-ink:#1a0d09; --accent-soft:#3a201a;
+    --good:#5cc994; --good-soft:#18302a; --mid:#e7b15a; --mid-soft:#352a17; --low:#9aa0aa; --low-soft:#262a31;
+    --warn-soft:#3a1d1a; --warn:#ff8b78;
+    --shadow-sm:0 1px 2px rgba(0,0,0,.4); --shadow:0 2px 6px rgba(0,0,0,.35),0 12px 32px rgba(0,0,0,.35);
   }
-  :root:not([data-theme="light"]) .leaflet-tile-pane{filter:invert(.9) hue-rotate(180deg) brightness(.95) contrast(.9)}
 }
 :root[data-theme="dark"]{
-  --bg:#15171b; --panel:#1e2126; --ink:#ecebe7; --muted:#9a9ea7; --line:#2e3239;
-  --chip:#2a2e35; --chip-on:#ecebe7; --chip-on-ink:#15171b; --accent:#ef7a62;
-  --fit-top:#4fbf87; --fit-mid:#e0a84a; --fit-low:#9a9ea7;
-  --shadow:0 1px 2px rgba(0,0,0,.3);
+  --bg:#101215; --surface:#181b20; --surface-2:#1d2027; --ink:#eeece7; --ink-2:#c9cbd0; --muted:#8d939d;
+  --line:#2a2e36; --line-2:#22262d; --chip:#252930; --chip-ink:#c9cbd0;
+  --accent:#ff6f50; --accent-ink:#1a0d09; --accent-soft:#3a201a;
+  --good:#5cc994; --good-soft:#18302a; --mid:#e7b15a; --mid-soft:#352a17; --low:#9aa0aa; --low-soft:#262a31;
+  --warn-soft:#3a1d1a; --warn:#ff8b78;
+  --shadow-sm:0 1px 2px rgba(0,0,0,.4); --shadow:0 2px 6px rgba(0,0,0,.35),0 12px 32px rgba(0,0,0,.35);
 }
-:root[data-theme="dark"] .leaflet-tile-pane{filter:invert(.9) hue-rotate(180deg) brightness(.95) contrast(.9)}
 
 *{box-sizing:border-box}
-html,body{margin:0}
-body{min-height:100vh}
-body{background:var(--bg);color:var(--ink);font:15px/1.55 "Noto Sans KR",system-ui,-apple-system,"Malgun Gothic",sans-serif;-webkit-text-size-adjust:100%}
+html,body{margin:0;height:100%}
+body{background:var(--bg);color:var(--ink);font:15px/1.6 Pretendard,"Pretendard Variable",system-ui,-apple-system,"Malgun Gothic",sans-serif;
+  -webkit-font-smoothing:antialiased;display:flex;flex-direction:column;overflow:hidden;letter-spacing:-.005em}
 button,input,select{font:inherit;color:inherit}
-a{color:var(--accent)}
+button{cursor:pointer}
+a{color:inherit}
+.sr{position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0 0 0 0)}
 
-header{position:sticky;top:0;z-index:1000;background:var(--bg);border-bottom:1px solid var(--line);padding:12px 16px 10px}
-.top{display:flex;align-items:center;gap:12px;flex-wrap:wrap}
-h1{font-size:19px;margin:0;letter-spacing:-.01em;white-space:nowrap}
-h1 small{font-weight:400;color:var(--muted);font-size:13px;margin-left:6px}
-.search{flex:1 1 240px;display:flex;gap:8px;min-width:0}
-.search input{flex:1;min-width:0;padding:8px 12px;border:1px solid var(--line);border-radius:10px;background:var(--panel)}
-.iconbtn{border:1px solid var(--line);background:var(--panel);border-radius:10px;padding:8px 12px;cursor:pointer;white-space:nowrap}
-.iconbtn[aria-pressed="true"]{background:var(--chip-on);color:var(--chip-on-ink);border-color:var(--chip-on)}
+/* ── 상단 ───────────────────────── */
+.top{display:flex;align-items:center;gap:16px;padding:14px 20px 10px;background:var(--bg)}
+.brand{display:flex;align-items:center;gap:11px;min-width:0;flex:none}
+.mark{width:36px;height:36px;border-radius:10px;background:var(--accent);color:#fff;display:grid;place-items:center;
+  font:900 19px/1 "Noto Serif KR",serif;box-shadow:var(--shadow-sm)}
+.brand h1{margin:0;font:900 19px/1.15 "Noto Serif KR",serif;letter-spacing:-.02em;white-space:nowrap}
+.brand p{margin:2px 0 0;font-size:12.5px;color:var(--muted);white-space:nowrap}
+.search{flex:1;max-width:520px;margin-left:auto;position:relative}
+.search svg{position:absolute;left:13px;top:50%;transform:translateY(-50%);color:var(--muted)}
+.search input{width:100%;height:40px;padding:0 14px 0 38px;border-radius:999px;border:1px solid var(--line);
+  background:var(--surface);outline:none;transition:border-color .15s,box-shadow .15s}
+.search input:focus{border-color:var(--accent);box-shadow:0 0 0 3px var(--accent-soft)}
+.icon-btn{width:40px;height:40px;flex:none;border-radius:999px;border:1px solid var(--line);background:var(--surface);
+  display:grid;place-items:center;color:var(--ink-2)}
+.icon-btn:hover{border-color:var(--muted)}
 
-.filters{display:none;margin-top:10px;gap:8px;flex-direction:column}
-.filters.open{display:flex}
-.frow{display:flex;gap:6px;align-items:center;flex-wrap:wrap}
-.frow > .lab{font-size:12px;color:var(--muted);width:52px;flex:none}
-.chip{border:1px solid transparent;background:var(--chip);border-radius:999px;padding:4px 11px;font-size:13px;cursor:pointer;white-space:nowrap}
-.chip[aria-pressed="true"]{background:var(--chip-on);color:var(--chip-on-ink)}
-.frow select{padding:4px 8px;border-radius:8px;border:1px solid var(--line);background:var(--panel);max-width:100%}
-.status{margin-top:8px;font-size:13px;color:var(--muted);display:flex;gap:10px;align-items:center;flex-wrap:wrap}
-.status button{background:none;border:0;padding:0;color:var(--accent);cursor:pointer;font-size:13px}
+/* ── 필터 ───────────────────────── */
+.filters{display:flex;align-items:center;gap:8px;padding:0 20px 10px;overflow-x:auto;scrollbar-width:none}
+.filters::-webkit-scrollbar,.cats::-webkit-scrollbar{display:none}
+.filters::after,.cats::after{content:"";flex:none;width:6px}
+.pill{flex:none;height:34px;border-radius:999px;border:1px solid var(--line);background:var(--surface);
+  padding:0 14px;font-size:13.5px;font-weight:500;color:var(--ink-2);display:inline-flex;align-items:center;gap:6px;white-space:nowrap}
+select.pill{appearance:none;-webkit-appearance:none;padding-right:30px;
+  background-image:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='10' height='6' fill='none' stroke='%237a7f88' stroke-width='1.6'%3E%3Cpath d='M1 1l4 4 4-4'/%3E%3C/svg%3E");
+  background-repeat:no-repeat;background-position:right 12px center}
+.pill:hover{border-color:var(--muted)}
+.pill.on{background:var(--ink);color:var(--bg);border-color:var(--ink)}
+select.pill.on{background-image:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='10' height='6' fill='none' stroke='%23999' stroke-width='1.6'%3E%3Cpath d='M1 1l4 4 4-4'/%3E%3C/svg%3E")}
+.sep{width:1px;height:20px;background:var(--line);flex:none;margin:0 2px}
+.count{margin-left:auto;flex:none;font-size:13px;color:var(--muted);white-space:nowrap;padding-left:8px}
+.count b{color:var(--ink);font-weight:700}
+.reset{flex:none;border:0;background:none;color:var(--accent);font-size:13px;font-weight:600;padding:0 4px}
 
-main{display:grid;grid-template-columns:minmax(0,1fr) 440px;height:calc(100vh - var(--hh,64px))}
-#map{height:100%;min-height:300px}
-#list{overflow-y:auto;padding:12px 14px 40px;border-left:1px solid var(--line)}
-.pref-h{font-size:13px;color:var(--muted);margin:18px 2px 8px;display:flex;justify-content:space-between}
-.pref-h:first-child{margin-top:4px}
+.cats{display:flex;gap:6px;padding:0 20px 12px;overflow-x:auto;scrollbar-width:none;border-bottom:1px solid var(--line)}
+.cat{flex:none;height:32px;border-radius:999px;border:1px solid transparent;background:var(--chip);color:var(--chip-ink);
+  padding:0 12px 0 9px;font-size:13px;font-weight:500;display:inline-flex;align-items:center;gap:6px}
+.cat .e{font-size:14px;line-height:1}
+.cat:hover{border-color:var(--line)}
+.cat.on{background:var(--c);color:#fff}
 
-.card{background:var(--panel);border:1px solid var(--line);border-radius:14px;padding:12px 14px;margin-bottom:10px;box-shadow:var(--shadow);cursor:pointer;transition:border-color .15s}
-.card:hover{border-color:var(--muted)}
-.card.sel{border-color:var(--accent);box-shadow:0 0 0 2px color-mix(in srgb,var(--accent) 25%,transparent)}
-.c-head{display:flex;justify-content:space-between;gap:8px;align-items:flex-start}
-.c-name{font-weight:700;font-size:16px;line-height:1.35}
-.c-ja{color:var(--muted);font-size:12px;margin-top:1px}
-.fit{font-size:11.5px;font-weight:700;padding:2px 8px;border-radius:999px;white-space:nowrap;border:1px solid currentColor}
-.fit.f0{color:var(--fit-top)} .fit.f1{color:var(--fit-mid)} .fit.f2{color:var(--fit-low)}
-.c-meta{font-size:12.5px;color:var(--muted);margin:6px 0 4px;display:flex;gap:6px;flex-wrap:wrap;align-items:center}
-.cat{display:inline-flex;align-items:center;gap:4px}
-.dot{width:8px;height:8px;border-radius:50%;display:inline-block}
-.visited{font-size:11px;background:var(--chip);border-radius:6px;padding:1px 6px;color:var(--muted)}
-.c-sum{margin:4px 0 0}
-.c-do{margin:4px 0 0;color:var(--muted);font-size:14px}
-.c-more{display:none;margin-top:10px;border-top:1px dashed var(--line);padding-top:10px;font-size:13.5px}
-.card.open .c-more{display:block}
-.kv{display:grid;grid-template-columns:64px 1fr;gap:4px 10px}
-.kv dt{color:var(--muted)}
-.kv dd{margin:0;overflow-wrap:anywhere}
-.pass{display:inline-block;background:var(--chip);border-radius:6px;padding:0 6px;margin:0 4px 2px 0;font-size:12.5px}
-.warn{color:var(--accent)}
-.links{margin-top:8px;display:flex;gap:14px;flex-wrap:wrap;font-size:13px}
+/* ── 본문 ───────────────────────── */
+main{flex:1;min-height:0;display:grid;grid-template-columns:minmax(360px,440px) 1fr}
+#side{position:relative;min-height:0;border-right:1px solid var(--line);background:var(--bg)}
+#list{height:100%;overflow-y:auto;padding:4px 14px 90px;scroll-behavior:smooth}
+#mapwrap{position:relative;min-height:0;isolation:isolate}
+#map{position:absolute;inset:0;background:var(--surface-2)}
 
-.empty{color:var(--muted);text-align:center;padding:40px 10px}
-.mtabs{display:none}
-footer{font-size:12px;color:var(--muted);padding:14px 4px 0;line-height:1.6}
+.group{position:sticky;top:0;z-index:2;background:var(--bg);display:flex;align-items:baseline;gap:8px;padding:14px 4px 8px}
+.group h2{margin:0;font-size:15px;font-weight:800;letter-spacing:-.01em}
+.group span{font-size:12.5px;color:var(--muted)}
+.group i{font-style:normal;margin-left:auto;font-size:12px;color:var(--muted)}
 
-.leaflet-popup-content{font:13px/1.45 "Noto Sans KR",system-ui,sans-serif;margin:10px 12px}
-.leaflet-popup-content b{font-size:14px}
-.leaflet-container{background:var(--bg)}
+.card{display:flex;gap:12px;padding:12px;margin-bottom:8px;border-radius:var(--r);background:var(--surface);
+  border:1px solid var(--line-2);box-shadow:var(--shadow-sm);cursor:pointer;transition:transform .12s,box-shadow .12s,border-color .12s;text-align:left;width:100%}
+.card:hover{box-shadow:var(--shadow);border-color:var(--line);transform:translateY(-1px)}
+.card.sel{border-color:var(--accent);box-shadow:0 0 0 3px var(--accent-soft)}
+.thumb{flex:none;width:58px;height:58px;border-radius:12px;display:grid;place-items:center;font-size:26px;
+  background:linear-gradient(140deg,color-mix(in srgb,var(--c) 22%,var(--surface)),color-mix(in srgb,var(--c) 42%,var(--surface)))}
+.cbody{min-width:0;flex:1}
+.ctop{display:flex;align-items:flex-start;gap:8px}
+.ctop h3{margin:0;font-size:15.5px;font-weight:700;line-height:1.35;letter-spacing:-.015em;flex:1;min-width:0}
+.sub{font-size:12.5px;color:var(--muted);margin-top:1px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.sum{margin:6px 0 0;font-size:13.5px;line-height:1.5;color:var(--ink-2);display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
+.meta{display:flex;flex-wrap:wrap;gap:4px 10px;margin-top:7px;font-size:12px;color:var(--muted)}
+.meta span{display:inline-flex;align-items:center;gap:3px}
+.been{color:var(--good)!important;font-weight:600}
 
+.fit{flex:none;font-size:11px;font-weight:700;border-radius:6px;padding:2px 7px;line-height:1.5;white-space:nowrap}
+.fit.f0{background:var(--good-soft);color:var(--good)}
+.fit.f1{background:var(--mid-soft);color:var(--mid)}
+.fit.f2{background:var(--low-soft);color:var(--low)}
+
+.empty{text-align:center;color:var(--muted);padding:60px 20px}
+.empty b{display:block;font-size:30px;margin-bottom:6px}
+.foot{font-size:12px;color:var(--muted);line-height:1.7;padding:18px 4px 0}
+
+/* ── 상세 ───────────────────────── */
+#detail{position:absolute;inset:0;z-index:5;background:var(--surface);overflow-y:auto;transform:translateX(-102%);
+  transition:transform .26s cubic-bezier(.2,.8,.2,1);visibility:hidden}
+#detail.open{transform:none;visibility:visible}
+.d-bar{position:sticky;top:0;z-index:3;display:flex;align-items:center;gap:8px;padding:10px 12px;background:color-mix(in srgb,var(--surface) 88%,transparent);
+  backdrop-filter:blur(8px);border-bottom:1px solid var(--line-2)}
+.back{border:0;background:none;display:inline-flex;align-items:center;gap:6px;font-size:14px;font-weight:600;padding:6px 8px;border-radius:8px;color:var(--ink-2)}
+.back:hover{background:var(--chip)}
+.hero{padding:22px 20px 18px;background:linear-gradient(160deg,color-mix(in srgb,var(--c) 20%,var(--surface)),var(--surface) 70%)}
+.hero .big{width:64px;height:64px;border-radius:16px;display:grid;place-items:center;font-size:32px;margin-bottom:14px;
+  background:color-mix(in srgb,var(--c) 30%,var(--surface));box-shadow:var(--shadow-sm)}
+.hero h2{margin:0;font:900 24px/1.25 "Noto Serif KR",serif;letter-spacing:-.025em}
+.hero .ja{color:var(--muted);font-size:13.5px;margin-top:3px}
+.hero .loc{margin-top:10px;display:flex;flex-wrap:wrap;gap:6px;align-items:center}
+.tag{font-size:12px;font-weight:600;border-radius:6px;padding:3px 8px;background:var(--chip);color:var(--chip-ink)}
+.tag.c{background:color-mix(in srgb,var(--c) 16%,var(--surface));color:var(--ink)}
+.d-body{padding:4px 20px 40px}
+.lead{font-size:15.5px;line-height:1.65;margin:14px 0 0}
+.todo{margin:14px 0 0;padding:12px 14px;border-radius:12px;background:var(--surface-2);border:1px solid var(--line-2);font-size:14px;color:var(--ink-2)}
+.todo b{display:block;font-size:12px;color:var(--muted);font-weight:600;margin-bottom:2px}
+.facts{display:grid;grid-template-columns:repeat(2,1fr);gap:8px;margin-top:16px}
+.fact{padding:11px 12px;border-radius:12px;border:1px solid var(--line-2);background:var(--surface-2)}
+.fact small{display:block;font-size:11.5px;color:var(--muted);font-weight:600}
+.fact div{font-size:14px;font-weight:600;margin-top:1px;line-height:1.4}
+.sec{margin-top:22px}
+.sec h4{margin:0 0 8px;font-size:13px;color:var(--muted);font-weight:700;letter-spacing:.02em}
+.sec p{margin:0;font-size:14.5px;line-height:1.65;color:var(--ink-2)}
+.station{font-weight:700;color:var(--ink);margin-bottom:4px;display:block}
+.passes{display:flex;flex-wrap:wrap;gap:6px;margin-top:10px}
+.pass{font-size:12.5px;font-weight:600;padding:4px 9px;border-radius:8px;border:1px solid var(--line);background:var(--surface)}
+.pass.none{color:var(--muted);border-style:dashed}
+.note{margin-top:10px;padding:11px 13px;border-radius:12px;font-size:14px;line-height:1.55}
+.note b{display:block;font-size:12px;margin-bottom:2px}
+.note.ev{background:var(--accent-soft);color:var(--ink)} .note.ev b{color:var(--accent)}
+.note.cond{background:var(--mid-soft);color:var(--ink)} .note.cond b{color:var(--mid)}
+.note.warn{background:var(--warn-soft);color:var(--ink)} .note.warn b{color:var(--warn)}
+.links{display:flex;flex-wrap:wrap;gap:8px;margin-top:22px}
+.btn{display:inline-flex;align-items:center;gap:6px;height:38px;padding:0 14px;border-radius:10px;font-size:13.5px;font-weight:600;
+  text-decoration:none;border:1px solid var(--line);background:var(--surface)}
+.btn:hover{border-color:var(--muted)}
+.btn.primary{background:var(--accent);color:#fff;border-color:var(--accent)}
+.srcs{margin-top:10px;font-size:12px;color:var(--muted)}
+.srcs a{color:var(--muted);margin-right:10px}
+.near{display:grid;gap:6px}
+.near button{display:flex;align-items:center;gap:10px;padding:8px 10px;border-radius:10px;border:1px solid var(--line-2);background:var(--surface-2);text-align:left}
+.near button:hover{border-color:var(--line)}
+.near .e{width:30px;height:30px;border-radius:8px;display:grid;place-items:center;font-size:16px;background:color-mix(in srgb,var(--c) 25%,var(--surface));flex:none}
+.near .t{flex:1;min-width:0;font-size:13.5px;font-weight:600;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.near small{color:var(--muted);font-size:12px;flex:none}
+
+/* ── 지도 ───────────────────────── */
+.leaflet-container{font-family:inherit}
+.pin{width:14px;height:14px;border-radius:50%;background:var(--c);border:2px solid #fff;box-shadow:0 1px 3px rgba(0,0,0,.35)}
+.pin.pin-top{width:16px;height:16px}
+.pin.pin-been{opacity:.55}
+.selpin{width:42px;height:42px;border-radius:50% 50% 50% 4px;transform:rotate(-45deg);background:var(--accent);border:3px solid #fff;
+  box-shadow:0 4px 12px rgba(0,0,0,.35);display:grid;place-items:center}
+.selpin span{transform:rotate(45deg);font-size:19px}
+.cluster{border-radius:50%;background:color-mix(in srgb,var(--accent) 88%,transparent);color:#fff;font-weight:800;font-size:13px;
+  display:grid;place-items:center;border:3px solid color-mix(in srgb,#fff 70%,transparent);box-shadow:0 2px 8px rgba(0,0,0,.25)}
+.leaflet-tooltip.tip{background:var(--surface);color:var(--ink);border:1px solid var(--line);border-radius:8px;box-shadow:var(--shadow);
+  font:600 12.5px/1.3 Pretendard,system-ui,sans-serif;padding:5px 9px}
+.leaflet-tooltip.tip::before{display:none}
+.leaflet-control-zoom a{background:var(--surface)!important;color:var(--ink)!important;border-color:var(--line)!important}
+.leaflet-control-attribution{background:color-mix(in srgb,var(--surface) 80%,transparent)!important;color:var(--muted)!important}
+.leaflet-control-attribution a{color:var(--muted)!important}
+.legend{position:absolute;left:12px;bottom:22px;z-index:500;display:flex;gap:10px;align-items:center;padding:7px 11px;border-radius:10px;
+  background:color-mix(in srgb,var(--surface) 92%,transparent);border:1px solid var(--line);box-shadow:var(--shadow-sm);font-size:12px;color:var(--muted)}
+.legend i{display:inline-block;width:10px;height:10px;border-radius:50%;border:2px solid #fff;box-shadow:0 0 0 1px var(--line);vertical-align:-1px;margin-right:4px}
+
+.viewtoggle{display:none}
+
+/* ── 모바일 ───────────────────────── */
 @media (max-width: 860px){
-  header{position:relative}
-  main{display:block;height:auto}
-  #map{height:calc(100vh - 46px)}
-  #list{border-left:0;padding:10px 16px 40px}
-  body.view-list #map{display:none}
-  body.view-map #list{display:none}
-  .mtabs{display:flex;position:sticky;top:0;z-index:999;background:var(--bg);border-bottom:1px solid var(--line);padding:6px 16px;gap:6px}
-  .mtabs button{flex:1;border:1px solid var(--line);background:var(--panel);border-radius:8px;padding:6px;cursor:pointer}
-  .mtabs button[aria-pressed="true"]{background:var(--chip-on);color:var(--chip-on-ink);border-color:var(--chip-on)}
-  h1 small{display:none}
-  .frow > .lab{width:100%}
+  .top{padding:12px 16px 8px;gap:10px;flex-wrap:wrap}
+  .brand p{display:none}
+  .search{order:3;flex-basis:100%;max-width:none}
+  .theme{margin-left:auto}
+  .filters{padding:0 16px 8px}
+  .cats{padding:0 16px 10px}
+  main{display:block;position:relative}
+  #side,#mapwrap{position:absolute;inset:0}
+  #side{border-right:0}
+  #list{padding:2px 16px 100px}
+  body.v-map #side{visibility:hidden}
+  body.v-list #mapwrap{visibility:hidden}
+  .count{margin-left:6px}
+  #detail{position:fixed;z-index:30;transform:translateY(100%);border-radius:0}
+  #detail.open{transform:none}
+  .viewtoggle{display:inline-flex;position:fixed;left:50%;bottom:calc(18px + env(safe-area-inset-bottom));transform:translateX(-50%);z-index:20;
+    height:44px;padding:0 20px;border-radius:999px;border:0;background:var(--ink);color:var(--bg);font-weight:700;font-size:14px;
+    align-items:center;gap:8px;box-shadow:0 6px 20px rgba(0,0,0,.25)}
+  body.detail-open .viewtoggle{display:none}
+  .legend{bottom:76px}
 }
 </style>
 </head>
-<body class="view-list">
-<header id="hdr">
-  <div class="top">
-    <h1>일본 관광지 지도<small id="total"></small></h1>
-    <div class="search">
-      <input id="q" type="search" placeholder="이름·지역·역·패스 검색" autocomplete="off">
-      <button class="iconbtn" id="ftoggle" aria-pressed="false" aria-controls="filters">필터</button>
-      <button class="iconbtn" id="theme" title="밝게/어둡게">◐</button>
-    </div>
+<body class="v-list">
+<header class="top">
+  <div class="brand">
+    <div class="mark" aria-hidden="true">日</div>
+    <div><h1>일본 관광지 지도</h1><p id="stats"></p></div>
   </div>
-  <div class="filters" id="filters">
-    <div class="frow" id="f-region"><span class="lab">지방</span></div>
-    <div class="frow" id="f-cat"><span class="lab">종류</span></div>
-    <div class="frow" id="f-season"><span class="lab">계절</span></div>
-    <div class="frow" id="f-fit"><span class="lab">추천도</span></div>
-    <div class="frow" id="f-etc"><span class="lab">기타</span></div>
-    <div class="frow"><span class="lab">JR 패스</span><select id="f-pass"><option value="">전체</option></select></div>
-  </div>
-  <div class="status"><span id="count"></span><button id="reset" hidden>필터 초기화</button></div>
+  <label class="search"><span class="sr">검색</span>
+    <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg>
+    <input id="q" type="search" placeholder="장소·지역·역·패스 이름으로 검색" autocomplete="off">
+  </label>
+  <button class="icon-btn theme" id="theme" title="밝게/어둡게" aria-label="테마 전환">
+    <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M21 12.8A9 9 0 1 1 11.2 3a7 7 0 0 0 9.8 9.8z"/></svg>
+  </button>
 </header>
-<div class="mtabs" id="mtabs">
-  <button data-view="list" aria-pressed="true">목록</button>
-  <button data-view="map" aria-pressed="false">지도</button>
-</div>
+<nav class="filters" aria-label="필터">
+  <select class="pill" id="f-region" aria-label="지방"><option value="">전국</option></select>
+  <select class="pill" id="f-season" aria-label="계절"><option value="">모든 계절</option></select>
+  <select class="pill" id="f-fit" aria-label="추천도"><option value="">모든 추천도</option></select>
+  <select class="pill" id="f-pass" aria-label="JR 패스"><option value="">모든 패스</option></select>
+  <span class="sep"></span>
+  <button class="pill" id="f-walk" aria-pressed="false">🚶 걷기 적음</button>
+  <button class="pill" id="f-unv" aria-pressed="false" hidden>✨ 안 가 본 곳</button>
+  <select class="pill" id="f-sort" aria-label="정렬"><option value="region">지역순</option><option value="fit">추천순</option></select>
+  <span class="count" id="count"></span>
+  <button class="reset" id="reset" hidden>초기화</button>
+</nav>
+<div class="cats" id="cats" role="group" aria-label="종류"></div>
 <main>
-  <div id="map" role="region" aria-label="지도"></div>
-  <div id="list"></div>
+  <section id="side" aria-label="목록">
+    <div id="list"></div>
+    <article id="detail" aria-live="polite"></article>
+  </section>
+  <section id="mapwrap" aria-label="지도">
+    <div id="map"></div>
+    <div class="legend"><span><i style="background:var(--accent)"></i>장소 묶음</span><span id="lg-been" hidden><i style="background:#999;opacity:.55"></i>가 본 지역</span></div>
+  </section>
 </main>
+<button class="viewtoggle" id="vt">🗺️ 지도 보기</button>
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.5.3/leaflet.markercluster.min.js"></script>
 <script src="data/spots.js"></script>
-<script>window.VISITED_AREAS = window.VISITED_AREAS || null;</script>
-<script src="visited.js" onerror="void 0"></script>
+<script src="visited.js"></script>
 <script>
 (function(){
 const SPOTS = window.SPOTS || [];
+const BY_ID = new Map(SPOTS.map(s => [s.id, s]));
 const REGIONS = ["홋카이도","도호쿠","간토","고신에쓰","호쿠리쿠","도카이","간사이","주고쿠","시코쿠","규슈","오키나와"];
 const CATS = {
-  view:["전망·로프웨이","#3b7dd8"], boat:["배·유람선","#1a9bb0"], onsen:["온천","#d0563b"],
-  nature:["자연·호수·폭포","#3f9a52"], festival:["축제·불꽃","#d43f8d"], night:["야경·별·라이트업","#6a4fc4"],
-  snow:["눈·얼음","#5aa6d6"], volcano:["화산·사구·지형","#a15a2a"], cape:["곶·섬·해안","#1f6fa3"],
-  town:["옛 거리·마을","#b48a2c"], culture:["성·신사·유적","#7d6b5d"], train:["관광열차","#c27c12"], city:["도시·먹거리","#5f6670"]
+  view:["전망·로프웨이","#3b7dd8","🚡"], boat:["배·유람선","#1597a8","⛴️"], onsen:["온천","#d4512f","♨️"],
+  nature:["자연·호수·폭포","#3a9150","🌲"], festival:["축제·불꽃","#d23f86","🎆"], night:["야경·별·라이트업","#6a4fc4","🌌"],
+  snow:["눈·얼음","#4a9fd4","❄️"], volcano:["화산·사구·지형","#a2582a","🌋"], cape:["곶·섬·해안","#1f6fa3","🏝️"],
+  town:["옛 거리·마을","#b08325","🏘️"], culture:["성·신사·유적","#7b6656","⛩️"], train:["관광열차","#c47a0e","🚃"], city:["도시·먹거리","#5c6470","🏙️"]
 };
 const SEASONS = ["봄","여름","가을","겨울"];
+const SEASON_E = {"봄":"🌸","여름":"🌻","가을":"🍁","겨울":"⛄"};
 const FITS = ["매우 잘 맞음","조건부","백업"];
-const FITCLS = {"매우 잘 맞음":"f0","조건부":"f1","백업":"f2"};
+const FIT_LABEL = {"매우 잘 맞음":"강력 추천","조건부":"조건부","백업":"무난"};
+const FIT_CLS = {"매우 잘 맞음":"f0","조건부":"f1","백업":"f2"};
+const FIT_RANK = {"매우 잘 맞음":0,"조건부":1,"백업":2};
 
 const store = {
   get(k){ try{ return localStorage.getItem(k) }catch(e){ return null } },
   set(k,v){ try{ localStorage.setItem(k,v) }catch(e){} }
 };
-
-// 가 본 지역 표시는 로컬 전용 visited.js 가 있을 때만
-const visitedSet = Array.isArray(window.VISITED_AREAS) ? new Set(window.VISITED_AREAS) : null;
-const isVisited = s => visitedSet && (visitedSet.has(s.area) || visitedSet.has(s.id));
-
-const state = { q:"", region:new Set(), cat:new Set(), season:new Set(), fit:new Set(), walk:false, unvisited:false, pass:"" };
-
 const esc = s => String(s ?? "").replace(/[&<>"']/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
+const cat0 = s => CATS[s.categories[0]] || CATS.nature;
+const visited = new Set(Array.isArray(window.VISITED_AREAS) ? window.VISITED_AREAS : []);
+const been = s => visited.has(s.id) || visited.has(s.area);
+const $ = id => document.getElementById(id);
 
-function chip(container, key, value, label, color){
+const state = { q:"", region:"", season:"", fit:"", pass:"", walk:false, unv:false, cats:new Set(), sort: store.get("jsa.sort") || "region" };
+
+/* 필터 UI */
+const opt = (sel, v, t) => { const o = document.createElement("option"); o.value = v; o.textContent = t; sel.appendChild(o); };
+REGIONS.filter(r => SPOTS.some(s => s.region === r)).forEach(r => opt($("f-region"), r, r));
+SEASONS.forEach(s => opt($("f-season"), s, `${SEASON_E[s]} ${s}`));
+FITS.forEach(f => opt($("f-fit"), f, FIT_LABEL[f]));
+[...new Set(SPOTS.flatMap(s => s.jr_pass))].sort((a,b) => a.localeCompare(b,"ko")).forEach(p => opt($("f-pass"), p, p));
+opt($("f-pass"), "__none", "JR 패스 없이 (사철·버스·배)");
+$("f-sort").value = state.sort;
+
+const cats = $("cats");
+Object.entries(CATS).forEach(([k,[label,color,e]]) => {
   const b = document.createElement("button");
-  b.className = "chip"; b.type = "button"; b.setAttribute("aria-pressed","false");
-  b.innerHTML = (color ? `<span class="dot" style="background:${color}"></span> ` : "") + esc(label);
-  b.onclick = () => {
-    const set = state[key];
-    set.has(value) ? set.delete(value) : set.add(value);
-    b.setAttribute("aria-pressed", set.has(value));
-    render();
-  };
-  container.appendChild(b);
+  b.className = "cat"; b.style.setProperty("--c", color); b.dataset.k = k; b.setAttribute("aria-pressed","false");
+  b.innerHTML = `<span class="e">${e}</span>${label}`;
+  b.onclick = () => { state.cats.has(k) ? state.cats.delete(k) : state.cats.add(k); syncUI(); render(); };
+  cats.appendChild(b);
+});
+
+["region","season","fit","pass"].forEach(k => $("f-"+k).addEventListener("change", e => {
+  state[k] = e.target.value; syncUI(); render(k === "region");
+}));
+$("f-sort").addEventListener("change", e => { state.sort = e.target.value; store.set("jsa.sort", state.sort); render(); });
+$("f-walk").onclick = () => { state.walk = !state.walk; syncUI(); render(); };
+$("f-unv").onclick = () => { state.unv = !state.unv; syncUI(); render(); };
+if (visited.size){ $("f-unv").hidden = false; $("lg-been").hidden = false; }
+let qt; $("q").addEventListener("input", e => { clearTimeout(qt); qt = setTimeout(() => { state.q = e.target.value.trim().toLowerCase(); syncUI(); render(); }, 120); });
+$("reset").onclick = () => {
+  Object.assign(state, { q:"", region:"", season:"", fit:"", pass:"", walk:false, unv:false }); state.cats.clear();
+  ["region","season","fit","pass"].forEach(k => $("f-"+k).value = ""); $("q").value = "";
+  syncUI(); render(true);
+};
+function active(){ return !!(state.q || state.region || state.season || state.fit || state.pass || state.walk || state.unv || state.cats.size); }
+function syncUI(){
+  ["region","season","fit","pass"].forEach(k => $("f-"+k).classList.toggle("on", !!state[k]));
+  $("f-walk").classList.toggle("on", state.walk); $("f-walk").setAttribute("aria-pressed", state.walk);
+  $("f-unv").classList.toggle("on", state.unv); $("f-unv").setAttribute("aria-pressed", state.unv);
+  cats.querySelectorAll(".cat").forEach(b => { const on = state.cats.has(b.dataset.k); b.classList.toggle("on", on); b.setAttribute("aria-pressed", on); });
+  $("reset").hidden = !active();
 }
-const presentRegions = REGIONS.filter(r => SPOTS.some(s => s.region === r));
-presentRegions.forEach(r => chip(document.getElementById("f-region"), "region", r, r));
-Object.entries(CATS).forEach(([k,[l,c]]) => chip(document.getElementById("f-cat"), "cat", k, l, c));
-SEASONS.forEach(s => chip(document.getElementById("f-season"), "season", s, s));
-FITS.forEach(f => chip(document.getElementById("f-fit"), "fit", f, f));
 
-function toggleChip(container, label, key){
-  const b = document.createElement("button");
-  b.className = "chip"; b.type="button"; b.textContent = label; b.setAttribute("aria-pressed","false");
-  b.onclick = () => { state[key] = !state[key]; b.setAttribute("aria-pressed", state[key]); render(); };
-  container.appendChild(b);
+$("stats").textContent = `47개 도도부현 · ${SPOTS.length}곳` + (visited.size ? ` · 가 본 지역 ${SPOTS.filter(been).length}곳` : "");
+
+/* 지도 */
+const root = document.documentElement;
+const saved = store.get("jsa.theme"); if (saved) root.dataset.theme = saved;
+const mq = matchMedia("(prefers-color-scheme: dark)");
+const isDark = () => root.dataset.theme ? root.dataset.theme === "dark" : mq.matches;
+
+const map = L.map("map", { zoomControl:false, minZoom:4, maxZoom:16, worldCopyJump:true }).setView([36.2, 137.8], 5);
+L.control.zoom({ position:"topright" }).addTo(map);
+const ESRI = "https://server.arcgisonline.com/ArcGIS/rest/services/Canvas/";
+const ATTR = 'Tiles &copy; <a href="https://www.esri.com/">Esri</a> — Esri, HERE, Garmin, &copy; OpenStreetMap contributors';
+let tiles = [];
+function setTiles(){
+  tiles.forEach(t => map.removeLayer(t));
+  const tone = isDark() ? "Dark" : "Light";
+  tiles = [
+    L.tileLayer(`${ESRI}World_${tone}_Gray_Base/MapServer/tile/{z}/{y}/{x}`, { maxZoom:16, attribution:ATTR }),
+    L.tileLayer(`${ESRI}World_${tone}_Gray_Reference/MapServer/tile/{z}/{y}/{x}`, { maxZoom:16 })
+  ];
+  tiles.forEach(t => t.addTo(map));
 }
-const etc = document.getElementById("f-etc");
-toggleChip(etc, "걷기 적음만", "walk");
-if (visitedSet) toggleChip(etc, "안 가 본 지역만", "unvisited");
+setTiles();
+mq.addEventListener?.("change", () => { if (!root.dataset.theme) setTiles(); });
+$("theme").onclick = () => { root.dataset.theme = isDark() ? "light" : "dark"; store.set("jsa.theme", root.dataset.theme); setTiles(); };
 
-const passes = [...new Set(SPOTS.flatMap(s => s.jr_pass || []))].sort((a,b)=>a.localeCompare(b,"ko"));
-const passSel = document.getElementById("f-pass");
-passes.forEach(p => { const o = document.createElement("option"); o.value = p; o.textContent = p; passSel.appendChild(o); });
-const noneOpt = document.createElement("option"); noneOpt.value = "__none"; noneOpt.textContent = "JR 패스 없음(사철·버스·배)"; passSel.appendChild(noneOpt);
-passSel.onchange = () => { state.pass = passSel.value; render(); };
-
-document.getElementById("total").textContent = `${SPOTS.length}곳 · 47개 도도부현`;
-
-// 지도
-const map = L.map("map", { zoomControl:true, preferCanvas:true }).setView([36.5, 137.5], 5);
-L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {
-  maxZoom: 18, attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
+const cluster = L.markerClusterGroup({
+  showCoverageOnHover:false, maxClusterRadius:44, spiderfyOnMaxZoom:true, disableClusteringAtZoom:10,
+  iconCreateFunction: c => { const n = c.getChildCount(); const z = n < 10 ? 32 : n < 40 ? 38 : 46;
+    return L.divIcon({ html:`<div class="cluster" style="width:${z}px;height:${z}px">${n}</div>`, className:"", iconSize:[z,z] }); }
 }).addTo(map);
 const markers = new Map();
 SPOTS.forEach(s => {
-  const color = CATS[s.categories[0]]?.[1] || "#888";
-  const m = L.circleMarker([s.lat, s.lng], { radius: s.fit === "매우 잘 맞음" ? 7 : 5.5, color:"#fff", weight:1.5, fillColor:color, fillOpacity:.95 });
-  m.bindPopup(`<b>${esc(s.name_ko)}</b><br>${esc(s.pref)} · ${esc(s.area)}<br>${esc(s.summary)}`);
-  m.on("click", () => select(s.id, false));
+  const top = s.fit === "매우 잘 맞음";
+  const icon = L.divIcon({ className:"", iconSize: top ? [16,16] : [14,14],
+    html:`<div class="pin${top ? " pin-top" : ""}${been(s) ? " pin-been" : ""}" style="--c:${cat0(s)[1]}"></div>` });
+  const m = L.marker([s.lat, s.lng], { icon, title: s.name_ko });
+  m.bindTooltip(`${cat0(s)[2]} ${esc(s.name_ko)}`, { className:"tip", direction:"top", offset:[0,-8] });
+  m.on("click", () => openDetail(s.id));
   markers.set(s.id, m);
 });
-const layer = L.layerGroup().addTo(map);
-if (SPOTS.length) map.fitBounds(SPOTS.map(s => [s.lat, s.lng]), { padding:[20,20] });
+let selMarker = null;
+function markSelected(s){
+  if (selMarker) map.removeLayer(selMarker);
+  if (!s) { selMarker = null; return; }
+  selMarker = L.marker([s.lat, s.lng], { zIndexOffset:1000, interactive:false,
+    icon: L.divIcon({ className:"", iconSize:[42,42], iconAnchor:[21,46], html:`<div class="selpin"><span>${cat0(s)[2]}</span></div>` }) }).addTo(map);
+}
 
+/* 목록 */
 function matches(s){
-  if (state.region.size && !state.region.has(s.region)) return false;
-  if (state.cat.size && !s.categories.some(c => state.cat.has(c))) return false;
-  if (state.season.size && !s.seasons.some(x => state.season.has(x))) return false;
-  if (state.fit.size && !state.fit.has(s.fit)) return false;
+  if (state.region && s.region !== state.region) return false;
+  if (state.season && !s.seasons.includes(state.season)) return false;
+  if (state.fit && s.fit !== state.fit) return false;
+  if (state.pass === "__none" ? s.jr_pass.length : state.pass && !s.jr_pass.includes(state.pass)) return false;
   if (state.walk && s.walking !== "적음") return false;
-  if (state.unvisited && isVisited(s)) return false;
-  if (state.pass === "__none" && s.jr_pass.length) return false;
-  if (state.pass && state.pass !== "__none" && !s.jr_pass.includes(state.pass)) return false;
+  if (state.unv && been(s)) return false;
+  if (state.cats.size && !s.categories.some(c => state.cats.has(c))) return false;
   if (state.q){
-    const hay = [s.name_ko,s.name_ja,s.pref,s.area,s.station,s.summary,s.do,s.access,s.event,...s.jr_pass].join(" ").toLowerCase();
+    const hay = [s.name_ko,s.name_ja,s.pref,s.region,s.area,s.station,s.summary,s.do,s.event,...s.jr_pass,...s.categories.map(c=>CATS[c]?.[0])].join(" ").toLowerCase();
     if (!state.q.split(/\s+/).every(w => hay.includes(w))) return false;
   }
   return true;
 }
-
 function card(s){
-  const cats = s.categories.map(c => `<span class="cat"><span class="dot" style="background:${CATS[c][1]}"></span>${CATS[c][0]}</span>`).join(" ");
-  const pass = s.jr_pass.length ? s.jr_pass.map(p => `<span class="pass">${esc(p)}</span>`).join("") : "JR 패스 해당 없음";
-  const row = (k,v,cls) => v ? `<dt>${k}</dt><dd${cls?` class="${cls}"`:""}>${v}</dd>` : "";
-  const gmap = `https://www.google.com/maps/search/?api=1&query=${s.lat},${s.lng}`;
-  return `<article class="card" id="c-${esc(s.id)}" data-id="${esc(s.id)}">
-    <div class="c-head"><div><div class="c-name">${esc(s.name_ko)}</div><div class="c-ja">${esc(s.name_ja)}</div></div>
-      <span class="fit ${FITCLS[s.fit]}">${esc(s.fit)}</span></div>
-    <div class="c-meta"><span>${esc(s.pref)} · ${esc(s.area)}</span>${cats}${isVisited(s) ? '<span class="visited">가 본 지역</span>' : ""}</div>
-    <p class="c-sum">${esc(s.summary)}</p>
-    ${s.do ? `<p class="c-do">${esc(s.do)}</p>` : ""}
-    <div class="c-more"><dl class="kv">
-      ${row("가는 법", esc(s.access))}
-      ${row("가까운 역", esc(s.station))}
-      ${row("JR 패스", pass)}
-      ${row("좋은 때", esc([s.seasons.join("·"), s.best_time].filter(Boolean).join(" — ")))}
-      ${row("행사", esc(s.event))}
-      ${row("시간", esc(s.duration))}
-      ${row("비용", esc(s.cost))}
-      ${row("걷기", esc(s.walking))}
-      ${row("조건", esc(s.condition))}
-      ${row("주의", esc(s.caution), "warn")}
-    </dl>
-    <div class="links">${s.url ? `<a href="${esc(s.url)}" target="_blank" rel="noopener">공식 사이트</a>` : ""}<a href="${gmap}" target="_blank" rel="noopener">구글 지도</a>${(s.sources||[]).map((u,i)=>`<a href="${esc(u)}" target="_blank" rel="noopener">출처 ${i+1}</a>`).join("")}</div>
-    </div></article>`;
+  const c = cat0(s);
+  return `<button class="card" id="c-${esc(s.id)}" data-id="${esc(s.id)}">
+    <div class="thumb" style="--c:${c[1]}">${c[2]}</div>
+    <div class="cbody">
+      <div class="ctop"><h3>${esc(s.name_ko)}</h3><span class="fit ${FIT_CLS[s.fit]}">${FIT_LABEL[s.fit]}</span></div>
+      <div class="sub">${esc(s.pref)} · ${esc(s.area)} · ${s.categories.map(k => CATS[k]?.[0]).filter(Boolean).join(", ")}</div>
+      <p class="sum">${esc(s.summary)}</p>
+      <div class="meta"><span>⏱ ${esc(s.duration)}</span><span>🚶 걷기 ${esc(s.walking)}</span><span>${s.seasons.length === 4 ? "📅 사계절" : s.seasons.map(x => SEASON_E[x]).join("")+" "+s.seasons.join("·")}</span>${s.jr_pass.length ? `<span>🎫 패스 ${s.jr_pass.length}종</span>` : ""}${been(s) ? `<span class="been">✓ 가 본 지역</span>` : ""}</div>
+    </div></button>`;
 }
-
 let shown = [];
-function render(){
+function render(fitRegion){
   shown = SPOTS.filter(matches);
-  const list = document.getElementById("list");
-  let html = "", cur = "";
-  const counts = {};
-  shown.forEach(s => counts[s.pref] = (counts[s.pref]||0)+1);
-  shown.forEach(s => {
-    if (s.pref !== cur){ cur = s.pref; html += `<div class="pref-h"><span>${esc(s.region)} · <b>${esc(s.pref)}</b></span><span>${counts[s.pref]}곳</span></div>`; }
-    html += card(s);
-  });
-  if (!shown.length) html = `<div class="empty">조건에 맞는 곳이 없어요. 필터를 줄여 보세요.</div>`;
-  html += `<footer>조사 기준일 2026-10-27. 운행 시각·요금·축제 날짜는 바뀔 수 있으니 출발 전에 공식 사이트에서 확인하세요.<br>지도 © OpenStreetMap contributors.</footer>`;
-  list.innerHTML = html;
-  layer.clearLayers();
-  shown.forEach(s => layer.addLayer(markers.get(s.id)));
-  const active = state.q || state.region.size || state.cat.size || state.season.size || state.fit.size || state.walk || state.unvisited || state.pass;
-  document.getElementById("count").textContent = active ? `${shown.length}곳 표시 중` : `전체 ${shown.length}곳`;
-  document.getElementById("reset").hidden = !active;
+  if (state.sort === "fit") shown = [...shown].sort((a,b) => FIT_RANK[a.fit] - FIT_RANK[b.fit] || REGIONS.indexOf(a.region) - REGIONS.indexOf(b.region));
+  let html = "";
+  if (state.sort === "region"){
+    const counts = {}; shown.forEach(s => counts[s.pref] = (counts[s.pref] || 0) + 1);
+    let cur = "";
+    shown.forEach(s => {
+      if (s.pref !== cur){ cur = s.pref; html += `<div class="group"><h2>${esc(s.pref)}</h2>${s.region !== s.pref ? `<span>${esc(s.region)}</span>` : ""}<i>${counts[s.pref]}곳</i></div>`; }
+      html += card(s);
+    });
+  } else {
+    let cur = "";
+    shown.forEach(s => { if (s.fit !== cur){ cur = s.fit; html += `<div class="group"><h2>${FIT_LABEL[s.fit]}</h2><i>${shown.filter(x => x.fit === cur).length}곳</i></div>`; } html += card(s); });
+  }
+  if (!shown.length) html = `<div class="empty"><b>🔍</b>조건에 맞는 곳이 없어요.<br>필터를 조금 줄여 보세요.</div>`;
+  html += `<p class="foot">조사 기준일 2026-10-27 · 운행 시각, 요금, 축제 날짜, 패스 적용 범위는 바뀔 수 있으니 출발 전에 공식 사이트에서 확인하세요.</p>`;
+  $("list").innerHTML = html;
+  $("count").innerHTML = active() ? `<b>${shown.length}</b> / ${SPOTS.length}곳` : `<b>${SPOTS.length}</b>곳`;
+  cluster.clearLayers();
+  cluster.addLayers(shown.map(s => markers.get(s.id)));
+  if (fitRegion && shown.length) map.fitBounds(shown.map(s => [s.lat, s.lng]), { padding:[40,40], maxZoom:9 });
+  const sel = currentId && $("c-" + currentId); if (sel) sel.classList.add("sel");
 }
+$("list").addEventListener("click", e => { const c = e.target.closest(".card"); if (c) openDetail(c.dataset.id); });
 
-function select(id, fly){
-  document.querySelectorAll(".card.sel").forEach(c => c.classList.remove("sel"));
-  const el = document.getElementById("c-" + id);
-  const s = SPOTS.find(x => x.id === id);
-  if (el){ el.classList.add("sel","open"); if (!fly) { setView("list"); el.scrollIntoView({behavior:"smooth", block:"center"}); } }
-  if (fly && s){ map.flyTo([s.lat, s.lng], Math.max(map.getZoom(), 10), {duration:.6}); markers.get(id).openPopup(); }
+/* 상세 */
+const km = (a,b) => { const R=6371, r=x=>x*Math.PI/180, dl=r(b.lat-a.lat), dg=r(b.lng-a.lng);
+  const h=Math.sin(dl/2)**2+Math.cos(r(a.lat))*Math.cos(r(b.lat))*Math.sin(dg/2)**2; return 2*R*Math.asin(Math.sqrt(h)); };
+let currentId = null;
+function openDetail(id, opts = {}){
+  const s = BY_ID.get(id); if (!s) return;
+  currentId = id;
+  const c = cat0(s);
+  const near = SPOTS.filter(x => x.id !== id).map(x => [x, km(s,x)]).filter(([,d]) => d < 70).sort((a,b) => a[1]-b[1]).slice(0,4);
+  const gmap = `https://www.google.com/maps/search/?api=1&query=${s.lat},${s.lng}`;
+  const d = $("detail");
+  d.style.setProperty("--c", c[1]);
+  d.innerHTML = `
+    <div class="d-bar"><button class="back" id="back"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"><path d="M15 18l-6-6 6-6"/></svg>목록</button></div>
+    <div class="hero">
+      <div class="big">${c[2]}</div>
+      <h2>${esc(s.name_ko)}</h2>
+      <div class="ja">${esc(s.name_ja)}</div>
+      <div class="loc"><span class="fit ${FIT_CLS[s.fit]}">${FIT_LABEL[s.fit]}</span><span class="tag">${[...new Set([s.region, s.pref])].map(esc).join(" · ")} · ${esc(s.area)}</span>
+        ${s.categories.map(k => CATS[k] ? `<span class="tag c" style="--c:${CATS[k][1]}">${CATS[k][2]} ${CATS[k][0]}</span>` : "").join("")}
+        ${been(s) ? `<span class="tag" style="background:var(--good-soft);color:var(--good)">✓ 가 본 지역</span>` : ""}</div>
+    </div>
+    <div class="d-body">
+      <p class="lead">${esc(s.summary)}</p>
+      ${s.do ? `<div class="todo"><b>가서 할 것</b>${esc(s.do)}</div>` : ""}
+      <div class="facts">
+        <div class="fact"><small>⏱ 필요한 시간</small><div>${esc(s.duration)}</div></div>
+        <div class="fact"><small>🚶 걷는 양</small><div>${esc(s.walking)}</div></div>
+        <div class="fact"><small>📅 좋은 때</small><div>${s.seasons.length === 4 ? "사계절" : s.seasons.join(" · ")}</div></div>
+        <div class="fact"><small>💴 비용</small><div>${esc(s.cost || "—")}</div></div>
+      </div>
+      ${s.best_time ? `<div class="sec"><h4>추천 시기</h4><p>${esc(s.best_time)}</p></div>` : ""}
+      <div class="sec"><h4>가는 법</h4>
+        <p>${s.station ? `<span class="station">🚉 ${esc(s.station)}</span>` : ""}${esc(s.access)}</p>
+        <div class="passes">${s.jr_pass.length ? s.jr_pass.map(p => `<span class="pass">🎫 ${esc(p)}</span>`).join("") : `<span class="pass none">JR 지역 패스 해당 없음</span>`}</div>
+      </div>
+      ${s.event ? `<div class="note ev"><b>🎆 행사·일정</b>${esc(s.event)}</div>` : ""}
+      ${s.condition ? `<div class="note cond"><b>🌤 날씨·조건</b>${esc(s.condition)}</div>` : ""}
+      ${s.caution ? `<div class="note warn"><b>⚠️ 주의</b>${esc(s.caution)}</div>` : ""}
+      <div class="links">
+        ${s.url ? `<a class="btn primary" href="${esc(s.url)}" target="_blank" rel="noopener">공식 사이트 ↗</a>` : ""}
+        <a class="btn" href="${gmap}" target="_blank" rel="noopener">📍 구글 지도</a>
+      </div>
+      ${(s.sources||[]).length ? `<div class="srcs">출처 ${s.sources.map((u,i) => `<a href="${esc(u)}" target="_blank" rel="noopener">[${i+1}]</a>`).join("")}</div>` : ""}
+      ${near.length ? `<div class="sec"><h4>근처 70km 안의 다른 곳</h4><div class="near">${near.map(([x,dist]) =>
+        `<button data-id="${esc(x.id)}" style="--c:${cat0(x)[1]}"><span class="e">${cat0(x)[2]}</span><span class="t">${esc(x.name_ko)}</span><small>${Math.round(dist)}km</small></button>`).join("")}</div></div>` : ""}
+    </div>`;
+  d.scrollTop = 0;
+  d.classList.add("open"); document.body.classList.add("detail-open");
+  $("back").onclick = closeDetail;
+  d.querySelectorAll(".near button").forEach(b => b.onclick = () => openDetail(b.dataset.id));
+  document.querySelectorAll(".card.sel").forEach(x => x.classList.remove("sel"));
+  $("c-" + id)?.classList.add("sel");
+  markSelected(s);
+  if (!opts.noFly) map.flyTo([s.lat, s.lng], Math.max(map.getZoom(), 10), { duration:.7 });
+  if (location.hash !== "#" + id) history.replaceState(null, "", "#" + id);
 }
+function closeDetail(){
+  $("detail").classList.remove("open"); document.body.classList.remove("detail-open");
+  markSelected(null);
+  history.replaceState(null, "", location.pathname + location.search);
+  const c = currentId && $("c-" + currentId);
+  currentId = null;
+  if (c && !isMobile()) c.scrollIntoView({ block:"center", behavior:"instant" });
+}
+document.addEventListener("keydown", e => { if (e.key === "Escape" && currentId) closeDetail(); });
 
-document.getElementById("list").addEventListener("click", e => {
-  if (e.target.closest("a")) return;
-  const c = e.target.closest(".card"); if (!c) return;
-  const wasOpen = c.classList.contains("open");
-  c.classList.toggle("open", !wasOpen);
-  if (!wasOpen) select(c.dataset.id, window.innerWidth > 860);
+/* 모바일 보기 전환 */
+const isMobile = () => matchMedia("(max-width: 860px)").matches;
+$("vt").onclick = () => {
+  const toMap = document.body.classList.contains("v-list");
+  document.body.classList.toggle("v-list", !toMap); document.body.classList.toggle("v-map", toMap);
+  $("vt").textContent = toMap ? "📋 목록 보기" : "🗺️ 지도 보기";
+  if (toMap) setTimeout(() => map.invalidateSize(), 30);
+};
+
+syncUI(); render();
+requestAnimationFrame(() => {
+  map.invalidateSize();
+  map.fitBounds([[31.0, 129.6], [45.4, 145.6]], { padding:[16,16] });  // 본토 4섬 기준 (낙도까지 넣으면 너무 멀어짐)
+  const h = decodeURIComponent(location.hash.slice(1)); if (BY_ID.has(h)) openDetail(h);
 });
-
-let qt;
-document.getElementById("q").addEventListener("input", e => { clearTimeout(qt); qt = setTimeout(() => { state.q = e.target.value.trim().toLowerCase(); render(); }, 120); });
-
-const ft = document.getElementById("ftoggle"), fl = document.getElementById("filters");
-function setFilters(open){ fl.classList.toggle("open", open); ft.setAttribute("aria-pressed", open); measure(); store.set("jsa.filters", open ? "1" : "0"); }
-ft.onclick = () => setFilters(!fl.classList.contains("open"));
-
-document.getElementById("reset").onclick = () => {
-  Object.assign(state, { q:"", walk:false, unvisited:false, pass:"" });
-  ["region","cat","season","fit"].forEach(k => state[k].clear());
-  document.querySelectorAll(".filters .chip").forEach(b => b.setAttribute("aria-pressed","false"));
-  document.getElementById("q").value = ""; passSel.value = "";
-  render();
-};
-
-function setView(v){
-  if (window.innerWidth > 860) return;
-  document.body.className = "view-" + v;
-  document.querySelectorAll("#mtabs button").forEach(b => b.setAttribute("aria-pressed", b.dataset.view === v));
-  if (v === "map") setTimeout(() => { map.invalidateSize(); document.getElementById("mtabs").scrollIntoView(); }, 50);
-}
-document.querySelectorAll("#mtabs button").forEach(b => b.onclick = () => setView(b.dataset.view));
-
-const root = document.documentElement;
-const savedTheme = store.get("jsa.theme"); if (savedTheme) root.dataset.theme = savedTheme;
-document.getElementById("theme").onclick = () => {
-  const dark = root.dataset.theme ? root.dataset.theme === "dark" : matchMedia("(prefers-color-scheme: dark)").matches;
-  root.dataset.theme = dark ? "light" : "dark"; store.set("jsa.theme", root.dataset.theme);
-};
-
-function measure(){ root.style.setProperty("--hh", document.getElementById("hdr").offsetHeight + "px"); map.invalidateSize(); }
-window.addEventListener("resize", measure);
-if (store.get("jsa.filters") === "1") setFilters(true);
-render(); measure();
+window.addEventListener("resize", () => map.invalidateSize());
 })();
 </script>
 </body>
