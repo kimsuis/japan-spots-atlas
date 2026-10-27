@@ -124,6 +124,49 @@ window.SPOTS = [
   "region": "홋카이도"
  },
  {
+  "id": "hokkaido-furano-ningle-terrace",
+  "name_ko": "닝구르 테라스 (후라노)",
+  "name_ja": "ニングルテラス",
+  "pref": "홋카이도",
+  "area": "후라노",
+  "categories": [
+   "night",
+   "town",
+   "city"
+  ],
+  "summary": "숲속에 통나무집 15채가 이어진 공예품 거리. 밤이 되면 나무 데크와 오두막에 불이 켜져 동화 같은 분위기가 된다.",
+  "do": "해 진 뒤 불 켜진 통나무집을 돌며 수공예품 구경",
+  "station": "후라노역 (富良野)",
+  "access": "후라노역에서 후라노버스 '라벤더호'로 신후라노 프린스호텔까지 약 17분(하루 약 7편), 호텔에서 도보 약 2분",
+  "jr_pass": [
+   "JR 홋카이도 레일패스",
+   "삿포로-후라노 에리어 패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "해 질 녘~밤, 눈 쌓인 겨울",
+  "event": "",
+  "duration": "1~2시간",
+  "cost": "무료",
+  "walking": "적음",
+  "fit": "매우 잘 맞음",
+  "condition": "악천후 시 휴업할 수 있음",
+  "caution": "",
+  "lat": 43.3234,
+  "lng": 142.3563,
+  "url": "https://www.princehotels.co.jp/shinfurano/facility/ningle_terrace/",
+  "sources": [
+   "https://www.princehotels.co.jp/shinfurano/facility/ningle_terrace/",
+   "https://www.princehotels.co.jp/shinfurano/access/",
+   "https://nominatim.openstreetmap.org/search?q=ニングルテラス&format=json"
+  ],
+  "region": "홋카이도"
+ },
+ {
   "id": "hokkaido-asahidake-ropeway",
   "name_ko": "다이세쓰잔 아사히다케 로프웨이",
   "name_ja": "大雪山旭岳ロープウェイ",
@@ -248,6 +291,46 @@ window.SPOTS = [
   "region": "홋카이도"
  },
  {
+  "id": "hokkaido-rausu-nature-cruise",
+  "name_ko": "라우스 유빙·흰꼬리수리 & 고래 크루즈",
+  "name_ja": "知床ネイチャークルーズ（羅臼）",
+  "pref": "홋카이도",
+  "area": "라우스",
+  "categories": [
+   "boat",
+   "snow",
+   "nature"
+  ],
+  "summary": "시레토코 반도 동쪽 라우스항에서 나가는 작은 배. 겨울엔 유빙 위에 앉은 참수리·흰꼬리수리를, 여름엔 고래·돌고래를 가까이서 본다. 바다 건너 구나시리섬이 보인다.",
+  "do": "겨울 유빙 크루즈로 유빙과 수리 관찰, 또는 여름 고래 관찰 크루즈",
+  "station": "구시로역 (釧路)",
+  "access": "구시로역에서 아칸버스 라우스행 약 3시간 30분 '라우스혼초' 하차 바로. 하루 몇 편 수준이라 1박 필수",
+  "jr_pass": [
+   "JR 홋카이도 레일패스"
+  ],
+  "seasons": [
+   "여름",
+   "겨울"
+  ],
+  "best_time": "유빙 1월 하순~3월 중순(2027년은 1/23~3/14 예정), 고래 4월 하순~10월",
+  "event": "",
+  "duration": "1박 추천",
+  "cost": "겨울 1시간 약 5,000엔·2시간 반 약 9,000엔, 여름 고래 약 8,800엔",
+  "walking": "적음",
+  "fit": "매우 잘 맞음",
+  "condition": "파도·강풍 시 결항, 유빙 상태에 따라 코스 변동 → 대체: 라우스 구나시리 전망탑",
+  "caution": "예약제, 성수기엔 일찍 예약. 겨울 이른 아침 편은 숙박 필수",
+  "lat": 44.0207,
+  "lng": 145.2026,
+  "url": "https://www.e-shiretoko.com/",
+  "sources": [
+   "https://www.e-shiretoko.com/",
+   "https://ja.wikipedia.org/wiki/羅臼町",
+   "https://www.nap-camp.com/mag/103784"
+  ],
+  "region": "홋카이도"
+ },
+ {
   "id": "hokkaido-rebun-island",
   "name_ko": "레분섬 (스코톤곶)",
   "name_ja": "礼文島・スコトン岬",
@@ -328,6 +411,45 @@ window.SPOTS = [
    "https://ja.wikipedia.org/wiki/藻岩山_(札幌市)",
    "https://mt-moiwa.jp/",
    "https://mt-moiwa.jp/2026/10/03/%e3%80%90%e9%87%8d%e8%a6%81%e3%80%91%e4%bb%a4%e5%92%8c%ef%bc%99%e5%b9%b4%e6%ac%a1%e6%95%b4%e5%82%99%e7%82%b9%e6%a4%9c%e3%81%ab%e3%82%88%e3%82%8b%e4%bc%91%e6%a5%ad%e3%81%ae%e3%81%8a%e7%9f%a5%e3%82%89%e3%81%9b/"
+  ],
+  "region": "홋카이도"
+ },
+ {
+  "id": "hokkaido-monbetsu-garinko",
+  "name_ko": "몬베쓰 유빙 쇄빙선 가린코호",
+  "name_ja": "流氷砕氷船ガリンコ号III IMERU（紋別）",
+  "pref": "홋카이도",
+  "area": "몬베쓰",
+  "categories": [
+   "boat",
+   "snow"
+  ],
+  "summary": "뱃머리의 거대한 드릴로 유빙을 깨며 나아가는 쇄빙선. 2021년 취항한 3대째 'IMERU'가 겨울 유빙 크루즈를 약 1시간 운항한다.",
+  "do": "1~3월 유빙 크루즈로 드릴이 얼음을 부수는 모습 보기",
+  "station": "엔가루역 (遠軽)",
+  "access": "엔가루역에서 호쿠몬버스 몬베쓰행 약 1시간 15분 '오호츠크타워이리구치' 하차, 도보 약 20분(해양교류관)",
+  "jr_pass": [
+   "JR 홋카이도 레일패스"
+  ],
+  "seasons": [
+   "겨울",
+   "여름"
+  ],
+  "best_time": "유빙 1월 중순~3월(접안은 2월 전후가 많음). 5~10월엔 주말 위주 기획 크루즈",
+  "event": "",
+  "duration": "1박 추천",
+  "cost": "유빙 크루즈 약 3,000엔 이상(시기별, 공식 확인)",
+  "walking": "보통",
+  "fit": "매우 잘 맞음",
+  "condition": "유빙이 없거나 파도·강풍이면 일반 크루즈 또는 결항 → 대체: 오호츠크 유빙과학센터",
+  "caution": "예약 권장. 몬베쓰는 철도가 없어 버스 연결이 길고 편수가 적음",
+  "lat": 44.3341,
+  "lng": 143.3751,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/ガリンコ号",
+   "https://www.visit-hokkaido.jp/access/detail_10015.html",
+   "https://allabout.co.jp/gm/gc/65807/"
   ],
   "region": "홋카이도"
  },
@@ -702,6 +824,50 @@ window.SPOTS = [
   "region": "홋카이도"
  },
  {
+  "id": "hokkaido-otaru-tenguyama-ropeway",
+  "name_ko": "오타루 덴구야마 로프웨이",
+  "name_ja": "小樽天狗山ロープウエイ",
+  "pref": "홋카이도",
+  "area": "오타루",
+  "categories": [
+   "view",
+   "night"
+  ],
+  "summary": "해발 532.5m 덴구야마 정상 부근까지 약 5분. 하코다테산·모이와산과 함께 '홋카이도 3대 야경'으로 꼽히며 오타루 항구와 시가지가 한눈에 보인다.",
+  "do": "해 질 녘에 올라 오타루 항구 야경 감상",
+  "station": "오타루역 (小樽)",
+  "access": "오타루역 앞에서 주오버스 '덴구야마 로프웨이'행 약 15~17분, 종점 하차",
+  "jr_pass": [
+   "JR 홋카이도 레일패스",
+   "삿포로-노보리베쓰 에리어 패스",
+   "삿포로-후라노 에리어 패스",
+   "JR 동일본·미나미홋카이도 레일패스",
+   "JR 도호쿠·미나미홋카이도 레일패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "맑은 날 해 질 녘~밤. 여름 시즌은 4월 하순~11월 초",
+  "event": "",
+  "duration": "1~2시간",
+  "cost": "왕복 약 1,600엔 전후(최근 인상, 공식 확인)",
+  "walking": "적음",
+  "fit": "매우 잘 맞음",
+  "condition": "맑은 밤 야경 / 강풍 시 운휴, 11월 초~스키 시즌 전 정비 운휴",
+  "caution": "시즌 사이 운휴 기간이 있으니 운행일 공식 확인",
+  "lat": 43.1684,
+  "lng": 140.9698,
+  "url": "https://tenguyama.ckk.chuo-bus.co.jp/",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/天狗山_(小樽市)",
+   "https://tenguyama.ckk.chuo-bus.co.jp/"
+  ],
+  "region": "홋카이도"
+ },
+ {
   "id": "hokkaido-otaru-canal",
   "name_ko": "오타루 운하",
   "name_ja": "小樽運河",
@@ -875,6 +1041,48 @@ window.SPOTS = [
   "region": "홋카이도"
  },
  {
+  "id": "hokkaido-hakodate-motomachi",
+  "name_ko": "하코다테 모토마치 (하치만자카·교회 거리)",
+  "name_ja": "元町（八幡坂・函館ハリストス正教会）",
+  "pref": "홋카이도",
+  "area": "하코다테",
+  "categories": [
+   "town",
+   "culture",
+   "night"
+  ],
+  "summary": "하코다테산 기슭 언덕에 하리스토스 정교회·가톨릭 교회·옛 공회당 같은 서양식 건물이 모인 동네. 하치만자카 언덕길 끝에 항구가 일직선으로 보인다.",
+  "do": "하치만자카에서 항구를 내려다보고 교회와 옛 영사관을 걸어서 돌기",
+  "station": "하코다테역 (函館)",
+  "access": "하코다테역 앞에서 시덴 '스에히로초' 또는 '주지가이' 하차 후 언덕길 도보",
+  "jr_pass": [
+   "JR 홋카이도 레일패스",
+   "JR 동일본·미나미홋카이도 레일패스",
+   "JR 도호쿠·미나미홋카이도 레일패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "연중. 해 질 녘 라이트업 무렵, 겨울 눈 덮인 언덕길",
+  "event": "",
+  "duration": "반나절",
+  "cost": "산책 무료, 일부 건물 유료",
+  "walking": "많음",
+  "fit": "매우 잘 맞음",
+  "condition": "겨울엔 언덕길이 얼어 미끄러움",
+  "caution": "언덕길 오르내림이 이어져 걷기 많음. 하코다테산 로프웨이 산록역과 가까워 야경과 묶기 좋음",
+  "lat": 41.7638,
+  "lng": 140.7117,
+  "url": "https://www.hakobura.jp/",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/元町_(函館市)"
+  ],
+  "region": "홋카이도"
+ },
+ {
   "id": "hokkaido-hakodate-christmas-fantasy",
   "name_ko": "하코다테 베이 에어리어 & 크리스마스 판타지",
   "name_ja": "金森赤レンガ倉庫・はこだてクリスマスファンタジー",
@@ -958,6 +1166,43 @@ window.SPOTS = [
    "https://ja.wikipedia.org/wiki/函館山ロープウェイ",
    "https://ja.wikipedia.org/wiki/函館山",
    "https://334.co.jp/ropeway/price/"
+  ],
+  "region": "홋카이도"
+ },
+ {
+  "id": "hokkaido-koshimizu-gensei-kaen",
+  "name_ko": "고시미즈 원생화원",
+  "name_ja": "小清水原生花園",
+  "pref": "홋카이도",
+  "area": "고시미즈",
+  "categories": [
+   "nature",
+   "cape"
+  ],
+  "summary": "오호츠크해와 도후쓰호 사이 좁은 모래언덕에 약 40종 야생화가 피는 초원. 6~7월엔 노랑·주황·분홍 꽃이 들판을 덮는다.",
+  "do": "역에서 내려 꽃밭 산책로를 걷고 바다와 호수 양쪽 풍경 보기",
+  "station": "겐세이카엔역 (原生花園)",
+  "access": "센모본선 임시역 겐세이카엔역(예년 4월 하순~10월 말만 정차) 바로 앞. 아바시리역에서 약 20분",
+  "jr_pass": [
+   "JR 홋카이도 레일패스"
+  ],
+  "seasons": [
+   "여름"
+  ],
+  "best_time": "6~7월 꽃 절정",
+  "event": "",
+  "duration": "1~2시간",
+  "cost": "무료",
+  "walking": "적음",
+  "fit": "조건부",
+  "condition": "꽃 시기 맑은 날 / 바람 강함",
+  "caution": "임시역 정차 기간·열차는 해마다 JR 홋카이도 확인. 열차 간격이 김",
+  "lat": 43.9419,
+  "lng": 144.4134,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/小清水原生花園",
+   "https://ja.wikipedia.org/wiki/原生花園駅"
   ],
   "region": "홋카이도"
  },
@@ -1079,6 +1324,45 @@ window.SPOTS = [
   "region": "홋카이도"
  },
  {
+  "id": "hokkaido-kushiro-nusamai-bridge",
+  "name_ko": "누사마이 다리 노을",
+  "name_ja": "幣舞橋",
+  "pref": "홋카이도",
+  "area": "구시로",
+  "categories": [
+   "night",
+   "city"
+  ],
+  "summary": "구시로역 앞 큰길이 구시로강을 건너는 다리. 난간에 사계절을 표현한 조각 '도토 사계의 상' 4점이 서 있고, 항구 쪽으로 지는 노을 명소로 알려져 있다.",
+  "do": "해 질 녘 다리와 강변에서 노을을 보고 근처 로바타야키로 저녁",
+  "station": "구시로역 (釧路)",
+  "access": "구시로역에서 기타오도리를 따라 남쪽으로 도보 약 15~20분",
+  "jr_pass": [
+   "JR 홋카이도 레일패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "가을(9~11월) 맑은 날 일몰",
+  "event": "",
+  "duration": "1~2시간",
+  "cost": "무료",
+  "walking": "보통",
+  "fit": "조건부",
+  "condition": "맑은 날 일몰 / 여름엔 해무가 잦음",
+  "caution": "",
+  "lat": 42.981,
+  "lng": 144.3856,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/幣舞橋"
+  ],
+  "region": "홋카이도"
+ },
+ {
   "id": "hokkaido-niseko-annupuri",
   "name_ko": "니세코 안누푸리 곤돌라",
   "name_ja": "ニセコアンヌプリ国際スキー場 ゴンドラ",
@@ -1117,6 +1401,83 @@ window.SPOTS = [
    "https://ja.wikipedia.org/wiki/ニセコアンヌプリ国際スキー場",
    "https://annupuri.info/gondola/",
    "https://annupuri.info/lift-tickets/"
+  ],
+  "region": "홋카이도"
+ },
+ {
+  "id": "hokkaido-shinhidaka-nijikken-sakura",
+  "name_ko": "니짓켄 도로 벚꽃길 (시즈나이)",
+  "name_ja": "静内二十間道路桜並木",
+  "pref": "홋카이도",
+  "area": "신히다카(시즈나이)",
+  "categories": [
+   "nature",
+   "festival"
+  ],
+  "summary": "경주마 목장 사이로 폭 약 36m 직선 도로가 약 7km 이어지고 양옆에 2,000그루 넘는 벚나무가 늘어선 벚꽃 터널.",
+  "do": "벚꽃축제 기간에 벚꽃길을 걷고 목장 풍경 감상",
+  "station": "도마코마이역 (苫小牧)",
+  "access": "도마코마이·무카와 방면에서 노선버스로 시즈나이 버스터미널(옛 시즈나이역) → 축제 기간 임시버스 약 25분",
+  "jr_pass": [
+   "JR 홋카이도 레일패스"
+  ],
+  "seasons": [
+   "봄"
+  ],
+  "best_time": "4월 하순~5월 상순(최근엔 4월 말 만개 경향)",
+  "event": "시즈나이 벚꽃축제: 매년 개화기(2026년은 4/25~4/30). 날짜는 매년 공식 확인",
+  "duration": "1박 추천",
+  "cost": "무료",
+  "walking": "보통",
+  "fit": "조건부",
+  "condition": "개화기에만 진가",
+  "caution": "히다카본선 폐선 구간이라 버스 이동이 길고 임시버스는 축제 기간에만 운행",
+  "lat": 42.382,
+  "lng": 142.4156,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/二十間道路桜並木",
+   "https://www.visit-hokkaido.jp/spot/detail_10051.html"
+  ],
+  "region": "홋카이도"
+ },
+ {
+  "id": "hokkaido-hakodate-tachimachi-misaki",
+  "name_ko": "다치마치곶",
+  "name_ja": "立待岬",
+  "pref": "홋카이도",
+  "area": "하코다테",
+  "categories": [
+   "cape",
+   "view"
+  ],
+  "summary": "하코다테산 남동쪽 끝, 높이 약 30m 절벽의 곶. 쓰가루 해협 너머 맑은 날엔 시모키타 반도가 보이고, 밤엔 오징어잡이 배 불빛이 떠 있다.",
+  "do": "해협과 해안선을 바라보고 가는 길에 이시카와 다쿠보쿠 일가 묘 들르기",
+  "station": "하코다테역 (函館)",
+  "access": "시덴 '야치가시라' 하차, 오르막 도보 약 20분",
+  "jr_pass": [
+   "JR 홋카이도 레일패스",
+   "JR 동일본·미나미홋카이도 레일패스",
+   "JR 도호쿠·미나미홋카이도 레일패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을"
+  ],
+  "best_time": "맑은 날, 여름밤 오징어잡이 불빛",
+  "event": "",
+  "duration": "1~2시간",
+  "cost": "무료",
+  "walking": "보통",
+  "fit": "조건부",
+  "condition": "맑은 날 시모키타 반도 조망 / 겨울엔 차량 통행금지, 길 결빙",
+  "caution": "",
+  "lat": 41.7446,
+  "lng": 140.721,
+  "url": "https://www.hakobura.jp/",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/立待岬"
   ],
   "region": "홋카이도"
  },
@@ -1201,6 +1562,92 @@ window.SPOTS = [
   "region": "홋카이도"
  },
  {
+  "id": "hokkaido-matsumae-castle",
+  "name_ko": "마쓰마에 성 & 마쓰마에 공원 벚꽃",
+  "name_ja": "松前城・松前公園",
+  "pref": "홋카이도",
+  "area": "마쓰마에",
+  "categories": [
+   "culture",
+   "festival",
+   "nature"
+  ],
+  "summary": "홋카이도 유일의 일본식 성곽. 성 주변 공원에 약 250품종·1만 그루 안팎의 벚나무가 있어 품종을 바꿔 가며 약 두 달 동안 꽃을 볼 수 있다.",
+  "do": "벚꽃축제 기간에 성곽 주변 벚꽃길을 걷고 천수각 자료관 관람",
+  "station": "하코다테역 (函館)",
+  "access": "하코다테역 앞 터미널에서 하코다테버스로 약 3시간 '마쓰시로' 하차 후 도보 약 10분. 기코나이역(신칸센)에서도 하코다테버스 연결",
+  "jr_pass": [
+   "JR 홋카이도 레일패스",
+   "JR 동일본·미나미홋카이도 레일패스",
+   "JR 도호쿠·미나미홋카이도 레일패스"
+  ],
+  "seasons": [
+   "봄"
+  ],
+  "best_time": "4월 하순~5월 상순",
+  "event": "마쓰마에 벚꽃축제: 매년 4월 하순~5월 상순(2026년은 4/18~5/10)",
+  "duration": "1박 추천",
+  "cost": "공원 무료, 천수각 자료관 약 360엔",
+  "walking": "보통",
+  "fit": "조건부",
+  "condition": "벚꽃 시기에만 진가",
+  "caution": "천수각 자료관은 겨울(12월 중순~4월 초) 휴관. 버스 편수가 적어 당일치기는 빠듯함",
+  "lat": 41.4303,
+  "lng": 140.1086,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/松前城",
+   "https://www.visit-hokkaido.jp/access/in_hokkaido_1_8_6.html",
+   "https://rurubu.jp/andmore/spot/20001852"
+  ],
+  "region": "홋카이도"
+ },
+ {
+  "id": "hokkaido-sapporo-moerenuma-park",
+  "name_ko": "모에레누마 공원",
+  "name_ja": "モエレ沼公園",
+  "pref": "홋카이도",
+  "area": "삿포로(히가시구)",
+  "categories": [
+   "city",
+   "view",
+   "culture"
+  ],
+  "summary": "조각가 이사무 노구치가 기본 설계한 공원 전체가 하나의 조형 작품. 높이 52m 인공산 모에레산, 유리 피라미드, 최고 25m까지 솟는 바다 분수가 있다.",
+  "do": "모에레산에 올라 삿포로 평야를 보고 유리 피라미드·분수 쇼 구경",
+  "station": "삿포로역 (札幌)",
+  "access": "지하철 도호선 '간조도리히가시'역에서 주오버스 東69·東79로 '모에레누마코엔히가시구치' 하차, 유리 피라미드까지 도보 약 15분",
+  "jr_pass": [
+   "JR 홋카이도 레일패스",
+   "삿포로-노보리베쓰 에리어 패스",
+   "삿포로-후라노 에리어 패스",
+   "JR 동일본·미나미홋카이도 레일패스",
+   "JR 도호쿠·미나미홋카이도 레일패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "5~10월(분수 가동기), 겨울엔 눈썰매",
+  "event": "",
+  "duration": "반나절",
+  "cost": "무료",
+  "walking": "보통",
+  "fit": "조건부",
+  "condition": "맑은 날 모에레산 전망 / 겨울엔 일부 시설만",
+  "caution": "",
+  "lat": 43.1225,
+  "lng": 141.4311,
+  "url": "https://moerenumapark.jp/",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/モエレ沼公園",
+   "https://moerenumapark.jp/access/"
+  ],
+  "region": "홋카이도"
+ },
+ {
   "id": "hokkaido-shakotan-cape-kamui",
   "name_ko": "샤코탄 가무이곶",
   "name_ja": "積丹 神威岬",
@@ -1239,6 +1686,46 @@ window.SPOTS = [
   "sources": [
    "https://ja.wikipedia.org/wiki/神威岬",
    "https://www.kanko-shakotan.jp/"
+  ],
+  "region": "홋카이도"
+ },
+ {
+  "id": "hokkaido-biei-shikisai-no-oka",
+  "name_ko": "시키사이노오카 (비에이)",
+  "name_ja": "展望花畑 四季彩の丘",
+  "pref": "홋카이도",
+  "area": "비에이",
+  "categories": [
+   "nature",
+   "view"
+  ],
+  "summary": "비에이 구릉에 약 7ha 꽃밭이 줄무늬처럼 펼쳐진 전망 화원. 라벤더·루피너스·코스모스 등 약 30종이 계절 따라 피고 뒤로 도카치다케 연봉이 보인다.",
+  "do": "트랙터 버스나 걸어서 꽃밭 언덕을 돌아보고 알파카 목장 구경",
+  "station": "비바우시역 (美馬牛)",
+  "access": "비바우시역에서 도보 약 25분(렌털 자전거 약 20분)",
+  "jr_pass": [
+   "JR 홋카이도 레일패스",
+   "삿포로-후라노 에리어 패스"
+  ],
+  "seasons": [
+   "여름",
+   "가을"
+  ],
+  "best_time": "7~9월 꽃 절정",
+  "event": "",
+  "duration": "1~2시간",
+  "cost": "협력금 약 500엔(시기에 따라 무료)",
+  "walking": "보통",
+  "fit": "조건부",
+  "condition": "꽃 시기·맑은 날에 진가",
+  "caution": "비바우시역 정차 열차가 적음",
+  "lat": 43.5281,
+  "lng": 142.466,
+  "url": "https://www.shikisainooka.jp/",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/四季彩の丘",
+   "https://www.shikisainooka.jp/",
+   "https://nominatim.openstreetmap.org/search?q=四季彩の丘&format=json"
   ],
   "region": "홋카이도"
  },
@@ -1314,6 +1801,254 @@ window.SPOTS = [
   "sources": [
    "https://ja.wikipedia.org/wiki/襟裳岬",
    "https://www.town.erimo.lg.jp/kaze/"
+  ],
+  "region": "홋카이도"
+ },
+ {
+  "id": "hokkaido-esashi-kamomejima",
+  "name_ko": "에사시 가모메섬 & 옛 거리",
+  "name_ja": "江差 鴎島・いにしえ街道",
+  "pref": "홋카이도",
+  "area": "에사시",
+  "categories": [
+   "cape",
+   "town",
+   "festival"
+  ],
+  "summary": "청어 어업으로 번성했던 항구 마을. 둘레 약 2.6km 가모메섬엔 병 모양 바위 '헤이시이와'와 등대·포대 터가 있고, 마을엔 옛 거리 '이니시에 가도'가 남아 있다.",
+  "do": "가모메섬 산책로를 한 바퀴 돌고 옛 거리와 개양환 기념관 구경",
+  "station": "신하코다테호쿠토역 (新函館北斗)",
+  "access": "신하코다테호쿠토역에서 버스 약 1시간 50분. 편수가 적으니 시각 확인 필수",
+  "jr_pass": [
+   "JR 홋카이도 레일패스",
+   "JR 동일본·미나미홋카이도 레일패스",
+   "JR 도호쿠·미나미홋카이도 레일패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을"
+  ],
+  "best_time": "여름 맑은 날 해 질 녘, 9월 에사시오이와케 대회",
+  "event": "에사시 오이와케 전국대회: 매년 9월. 날짜는 매년 공식 확인",
+  "duration": "1박 추천",
+  "cost": "가모메섬 산책 무료",
+  "walking": "보통",
+  "fit": "조건부",
+  "condition": "맑은 날 일몰 / 강풍 시 섬 산책 주의",
+  "caution": "도난 지역 버스 노선이 줄고 있어(2025년 일부 노선 폐지) 최신 시각표 확인",
+  "lat": 41.8694,
+  "lng": 140.1139,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/鴎島_(江差町)",
+   "https://ja.wikipedia.org/wiki/江差町",
+   "https://www.hkd.mlit.go.jp/hk/160305_oashisu.pdf"
+  ],
+  "region": "홋카이도"
+ },
+ {
+  "id": "hokkaido-sapporo-odori-park",
+  "name_ko": "오도리 공원 & 삿포로 화이트 일루미네이션",
+  "name_ja": "大通公園・さっぽろホワイトイルミネーション",
+  "pref": "홋카이도",
+  "area": "삿포로",
+  "categories": [
+   "city",
+   "night",
+   "festival"
+  ],
+  "summary": "삿포로 한가운데를 동서 약 1.5km로 가로지르는 띠 모양 공원. 눈축제 외에도 5월 라일락, 여름 축제·비어가든, 겨울 화이트 일루미네이션까지 계절마다 행사장이 된다.",
+  "do": "TV탑 아래부터 서쪽으로 걸으며 계절 행사와 밤 일루미네이션 구경",
+  "station": "삿포로역 (札幌)",
+  "access": "삿포로역에서 지하철로 한 정거장 '오도리'역 바로 위. 걸어서도 약 10분",
+  "jr_pass": [
+   "JR 홋카이도 레일패스",
+   "삿포로-노보리베쓰 에리어 패스",
+   "삿포로-후라노 에리어 패스",
+   "JR 동일본·미나미홋카이도 레일패스",
+   "JR 도호쿠·미나미홋카이도 레일패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "일루미네이션은 11월 하순~1월 초, 라일락은 5월 하순, 여름 축제는 7월 하순~8월",
+  "event": "삿포로 화이트 일루미네이션(오도리 회장): 매년 11월 하순~1월 초 무렵. 날짜는 매년 공식 확인",
+  "duration": "1~2시간",
+  "cost": "무료",
+  "walking": "보통",
+  "fit": "조건부",
+  "condition": "행사 기간·밤에 진가 / 겨울엔 길이 얼어 미끄러움",
+  "caution": "",
+  "lat": 43.0597,
+  "lng": 141.3464,
+  "url": "https://white-illumination.jp/",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/大通公園"
+  ],
+  "region": "홋카이도"
+ },
+ {
+  "id": "hokkaido-obihiro-banei-keiba",
+  "name_ko": "오비히로 반에이 경마",
+  "name_ja": "ばんえい十勝（帯広競馬場）",
+  "pref": "홋카이도",
+  "area": "오비히로",
+  "categories": [
+   "city",
+   "night",
+   "culture"
+  ],
+  "summary": "체중 1톤 가까운 짐말이 무거운 썰매를 끌고 언덕 두 개를 넘는 세계 유일의 경주. 경기는 저녁~밤까지 이어지고 바로 옆 '도카치무라'에서 지역 먹거리를 판다.",
+  "do": "코스 옆에서 썰매를 끄는 말과 나란히 걸으며 응원, 도카치무라에서 식사",
+  "station": "오비히로역 (帯広)",
+  "access": "오비히로역 버스터미널 12번 승강장에서 도카치버스 '게이바조' 약 10분",
+  "jr_pass": [
+   "JR 홋카이도 레일패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "연중. 해 진 뒤 나이터 경주",
+  "event": "개최일은 공식 일정 확인(경주 약 13:45~21:00)",
+  "duration": "반나절",
+  "cost": "입장 약 100엔",
+  "walking": "적음",
+  "fit": "조건부",
+  "condition": "개최일에만",
+  "caution": "",
+  "lat": 42.921,
+  "lng": 143.1822,
+  "url": "https://banei-keiba.or.jp/",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/帯広競馬場",
+   "https://ja.wikipedia.org/wiki/北海道遺産"
+  ],
+  "region": "홋카이도"
+ },
+ {
+  "id": "hokkaido-sapporo-okurayama",
+  "name_ko": "오쿠라야마 점프 경기장 전망대",
+  "name_ja": "大倉山ジャンプ競技場 展望ラウンジ",
+  "pref": "홋카이도",
+  "area": "삿포로(주오구)",
+  "categories": [
+   "view",
+   "night"
+  ],
+  "summary": "삿포로 올림픽 스키점프대 꼭대기(해발 약 307m)까지 리프트로 올라가 선수 시점에서 삿포로 시가지와 이시카리만을 내려다본다.",
+  "do": "2인승 리프트로 점프대 정상 전망 라운지에 올라 시가지 조망",
+  "station": "삿포로역 (札幌)",
+  "access": "지하철 '마루야마코엔'역에서 JR홋카이도버스 '구라마루'로 '오쿠라야마 점프 경기장' 하차",
+  "jr_pass": [
+   "JR 홋카이도 레일패스",
+   "삿포로-노보리베쓰 에리어 패스",
+   "삿포로-후라노 에리어 패스",
+   "JR 동일본·미나미홋카이도 레일패스",
+   "JR 도호쿠·미나미홋카이도 레일패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "맑은 날 오후~해 질 녘",
+  "event": "",
+  "duration": "1~2시간",
+  "cost": "리프트 유료",
+  "walking": "적음",
+  "fit": "조건부",
+  "condition": "맑은 날 전망 / 경기·공식 연습일엔 이용 제한",
+  "caution": "",
+  "lat": 43.0513,
+  "lng": 141.29,
+  "url": "https://okurayama-jump.jp/",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/大倉山ジャンプ競技場"
+  ],
+  "region": "홋카이도"
+ },
+ {
+  "id": "hokkaido-abashiri-ryuhyokan",
+  "name_ko": "오호츠크 유빙관 (덴토잔)",
+  "name_ja": "オホーツク流氷館",
+  "pref": "홋카이도",
+  "area": "아바시리",
+  "categories": [
+   "snow",
+   "view"
+  ],
+  "summary": "덴토잔 위 유빙 전시관. 진짜 유빙을 만져 보는 체감 테라스와 클리오네(유빙천사) 수조가 있고, 옥상 전망대에서 오호츠크해와 시레토코 연봉이 보인다.",
+  "do": "유빙 체감실에서 유빙을 만져 보고 옥상 전망대에서 바다 조망",
+  "station": "아바시리역 (網走)",
+  "access": "아바시리역에서 아바시리버스 덴토잔 방면 약 16분 '오호츠크 류효칸' 하차 도보 약 2분",
+  "jr_pass": [
+   "JR 홋카이도 레일패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "연중. 유빙철 외에도 유빙 체험 가능",
+  "event": "",
+  "duration": "1~2시간",
+  "cost": "입장 약 990엔",
+  "walking": "적음",
+  "fit": "조건부",
+  "condition": "맑은 날 옥상 전망 / 유빙선 결항 시 대체로 좋음",
+  "caution": "",
+  "lat": 44.0011,
+  "lng": 144.2398,
+  "url": "https://www.ryuhyokan.com/",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/オホーツク流氷館"
+  ],
+  "region": "홋카이도"
+ },
+ {
+  "id": "hokkaido-muroran-chikyu-misaki",
+  "name_ko": "지큐미사키 (지구곶)",
+  "name_ja": "地球岬（チキウ岬）",
+  "pref": "홋카이도",
+  "area": "무로란",
+  "categories": [
+   "cape",
+   "view"
+  ],
+  "summary": "높이 약 100m 절벽 위 흰 등대와 태평양 수평선이 둥글게 보이는 곶. '홋카이도 자연 100선' 1위에 뽑힌 적이 있다.",
+  "do": "전망대에서 절벽과 등대, 둥근 수평선 바라보기",
+  "station": "보코이역 (母恋)",
+  "access": "보코이역에서 도난버스 '지큐미사키단치' 종점 → 전망대까지 도보 약 14분(약 1.1km)",
+  "jr_pass": [
+   "JR 홋카이도 레일패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을"
+  ],
+  "best_time": "맑은 날. 아침 해 무렵도 좋음",
+  "event": "",
+  "duration": "1~2시간",
+  "cost": "무료",
+  "walking": "보통",
+  "fit": "조건부",
+  "condition": "맑은 날 수평선 / 해무 잦은 초여름엔 안 보일 수 있음",
+  "caution": "",
+  "lat": 42.3017,
+  "lng": 141.0019,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/地球岬"
   ],
   "region": "홋카이도"
  },
@@ -1395,6 +2130,743 @@ window.SPOTS = [
   "region": "홋카이도"
  },
  {
+  "id": "hokkaido-hakodate-goryokaku",
+  "name_ko": "고료카쿠 공원 & 고료카쿠 타워",
+  "name_ja": "五稜郭・五稜郭タワー",
+  "pref": "홋카이도",
+  "area": "하코다테",
+  "categories": [
+   "culture",
+   "view",
+   "night"
+  ],
+  "summary": "막부 말기에 지어진 별 모양 서양식 성곽. 높이 107m 타워 전망대에서 별 모양 전체가 보이고, 봄 벚꽃 약 1,600그루와 겨울 해자 라이트업이 볼거리.",
+  "do": "타워에서 별 모양 성곽을 내려다보고 복원된 하코다테 부교소 관람",
+  "station": "하코다테역 (函館)",
+  "access": "하코다테역 앞에서 시덴(노면전차) '고료카쿠코엔마에' 하차, 도보 약 15분",
+  "jr_pass": [
+   "JR 홋카이도 레일패스",
+   "JR 동일본·미나미홋카이도 레일패스",
+   "JR 도호쿠·미나미홋카이도 레일패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "벚꽃 4월 하순~5월 초, 겨울 라이트업",
+  "event": "고료카쿠 '고료호시노유메' 라이트업: 매년 겨울. 기간은 매년 공식 확인",
+  "duration": "반나절",
+  "cost": "공원 무료, 타워 전망대·부교소 유료",
+  "walking": "보통",
+  "fit": "백업",
+  "condition": "",
+  "caution": "",
+  "lat": 41.7969,
+  "lng": 140.757,
+  "url": "https://www.goryokaku-tower.co.jp/",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/五稜郭"
+  ],
+  "region": "홋카이도"
+ },
+ {
+  "id": "hokkaido-obihiro-kofuku-station",
+  "name_ko": "고후쿠역 (행복역)",
+  "name_ja": "幸福駅（旧国鉄広尾線）",
+  "pref": "홋카이도",
+  "area": "오비히로",
+  "categories": [
+   "culture",
+   "train"
+  ],
+  "summary": "1987년 폐선된 히로오선의 옛 역. '아이코쿠(애국)에서 고후쿠(행복)행' 표로 유명해졌고, 복원 역사와 승강장, 디젤차 2량이 남아 있다.",
+  "do": "행복의 종을 울리고 기념 승차권 사기",
+  "station": "오비히로역 (帯広)",
+  "access": "오비히로역 버스터미널에서 도카치버스 히로오행 약 50분 '고후쿠' 하차, 도보 약 5분",
+  "jr_pass": [
+   "JR 홋카이도 레일패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "연중",
+  "event": "",
+  "duration": "1~2시간",
+  "cost": "무료(기념 승차권 별도)",
+  "walking": "적음",
+  "fit": "백업",
+  "condition": "",
+  "caution": "버스 편수 확인. 열차는 다니지 않는 보존 역",
+  "lat": 42.7453,
+  "lng": 143.1618,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/幸福駅",
+   "https://rurubu.jp/andmore/spot/80000902"
+  ],
+  "region": "홋카이도"
+ },
+ {
+  "id": "hokkaido-kushiro-washo-market",
+  "name_ko": "구시로 와쇼 시장",
+  "name_ja": "釧路和商市場",
+  "pref": "홋카이도",
+  "area": "구시로",
+  "categories": [
+   "city"
+  ],
+  "summary": "구시로역 근처 수산 시장. 밥을 산 뒤 가게를 돌며 원하는 회를 골라 얹는 '갓테동(내 맘대로 덮밥)'이 명물.",
+  "do": "시장을 돌며 갓테동을 직접 만들어 먹기",
+  "station": "구시로역 (釧路)",
+  "access": "구시로역에서 도보 약 3~5분",
+  "jr_pass": [
+   "JR 홋카이도 레일패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "오전~점심",
+  "event": "",
+  "duration": "1~2시간",
+  "cost": "갓테동 약 2,000~4,000엔",
+  "walking": "적음",
+  "fit": "백업",
+  "condition": "",
+  "caution": "영업 약 8~18시(일요일은 16시까지). 휴무일은 공식 확인",
+  "lat": 42.9892,
+  "lng": 144.38,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/和商市場"
+  ],
+  "region": "홋카이도"
+ },
+ {
+  "id": "hokkaido-biratori-nibutani",
+  "name_ko": "니부타니 아이누 마을 (박물관·자료관)",
+  "name_ja": "二風谷（平取町立二風谷アイヌ文化博物館・萱野茂二風谷アイヌ資料館）",
+  "pref": "홋카이도",
+  "area": "비라토리(히다카)",
+  "categories": [
+   "culture",
+   "town"
+  ],
+  "summary": "사루가와 강변의 아이누 문화 중심지. 국가 중요유형민속문화재 생활용구 컬렉션을 갖춘 정립 박물관과 가야노 시게루 자료관, 전통 가옥 치세가 모여 있다.",
+  "do": "두 박물관을 돌아보고 전통 가옥과 공방 거리 산책",
+  "station": "무카와역 (鵡川)",
+  "access": "무카와역에서 버스로 도미카와 → 도난버스 히다카행 약 25분 '시료칸마에' 하차 도보 약 3분. 편수 적음",
+  "jr_pass": [
+   "JR 홋카이도 레일패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을"
+  ],
+  "best_time": "4월 중순~11월 중순(무휴 기간)",
+  "event": "",
+  "duration": "반나절",
+  "cost": "박물관 유료(공식 확인)",
+  "walking": "적음",
+  "fit": "백업",
+  "condition": "",
+  "caution": "히다카본선 무카와~사마니 구간은 폐선. 겨울엔 휴관일이 많고 가야노 자료관은 12~3월 휴관",
+  "lat": 42.6353,
+  "lng": 142.1616,
+  "url": "https://nibutani-ainu-museum.com/",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/萱野茂二風谷アイヌ資料館",
+   "https://www.visit-hokkaido.jp/spot/detail_10437.html",
+   "https://rurubu.jp/andmore/spot/80001743"
+  ],
+  "region": "홋카이도"
+ },
+ {
+  "id": "hokkaido-sapporo-nijo-market",
+  "name_ko": "니조 시장",
+  "name_ja": "二条市場",
+  "pref": "홋카이도",
+  "area": "삿포로",
+  "categories": [
+   "city"
+  ],
+  "summary": "오도리 공원 동쪽 끝 근처의 오래된 수산 시장. 게·연어 같은 홋카이도 해산물과 채소, 해산물 덮밥집이 모여 있다.",
+  "do": "아침 일찍 가서 해산물 덮밥으로 식사하고 시장 구경",
+  "station": "삿포로역 (札幌)",
+  "access": "지하철 오도리역 또는 버스센터마에역에서 도보 약 5~10분",
+  "jr_pass": [
+   "JR 홋카이도 레일패스",
+   "삿포로-노보리베쓰 에리어 패스",
+   "삿포로-후라노 에리어 패스",
+   "JR 동일본·미나미홋카이도 레일패스",
+   "JR 도호쿠·미나미홋카이도 레일패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "오전(가게가 이른 아침 열고 저녁 전에 닫기 시작)",
+  "event": "",
+  "duration": "1~2시간",
+  "cost": "해산물 덮밥 약 2,000~4,000엔",
+  "walking": "적음",
+  "fit": "백업",
+  "condition": "",
+  "caution": "",
+  "lat": 43.0583,
+  "lng": 141.3585,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/二条市場"
+  ],
+  "region": "홋카이도"
+ },
+ {
+  "id": "hokkaido-yoichi-nikka-distillery",
+  "name_ko": "닛카 위스키 요이치 증류소",
+  "name_ja": "ニッカウヰスキー余市蒸溜所",
+  "pref": "홋카이도",
+  "area": "요이치",
+  "categories": [
+   "culture",
+   "town"
+  ],
+  "summary": "일본 위스키의 아버지 다케쓰루 마사타카가 세운 증류소. 석조 증류 건물 10동이 2022년 국가 중요문화재로 지정됐다.",
+  "do": "예약제 가이드 투어로 석탄 직화 증류기를 보고 시음",
+  "station": "요이치역 (余市)",
+  "access": "요이치역에서 도보 약 2~3분. 오타루역에서 하코다테본선 약 25분",
+  "jr_pass": [
+   "JR 홋카이도 레일패스",
+   "JR 동일본·미나미홋카이도 레일패스",
+   "JR 도호쿠·미나미홋카이도 레일패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "연중",
+  "event": "",
+  "duration": "1~2시간",
+  "cost": "투어·시음 조건은 공식 확인",
+  "walking": "적음",
+  "fit": "백업",
+  "condition": "",
+  "caution": "가이드 투어는 예약제. 오타루~요이치 열차 편수가 많지 않음",
+  "lat": 43.1875,
+  "lng": 140.7917,
+  "url": "https://www.nikka.com/distilleries/yoichi/",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/余市蒸溜所"
+  ],
+  "region": "홋카이도"
+ },
+ {
+  "id": "hokkaido-abashiri-prison-museum",
+  "name_ko": "박물관 아바시리 감옥",
+  "name_ja": "博物館網走監獄",
+  "pref": "홋카이도",
+  "area": "아바시리",
+  "categories": [
+   "culture"
+  ],
+  "summary": "메이지 시대 아바시리 형무소 건물을 옮겨 놓은 야외 박물관. 다섯 갈래로 뻗은 방사형 감방동 등 8동이 국가 중요문화재다.",
+  "do": "방사형 감방동과 교회당을 돌아보고 식당에서 '감옥식' 체험",
+  "station": "아바시리역 (網走)",
+  "access": "아바시리역에서 버스 약 10분",
+  "jr_pass": [
+   "JR 홋카이도 레일패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "연중. 겨울엔 유빙선과 묶기",
+  "event": "",
+  "duration": "반나절",
+  "cost": "입장 유료(공식 확인)",
+  "walking": "보통",
+  "fit": "백업",
+  "condition": "",
+  "caution": "",
+  "lat": 43.9958,
+  "lng": 144.2294,
+  "url": "https://www.kangoku.jp/",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/博物館網走監獄"
+  ],
+  "region": "홋카이도"
+ },
+ {
+  "id": "hokkaido-sapporo-tv-tower",
+  "name_ko": "삿포로 TV탑",
+  "name_ja": "さっぽろテレビ塔",
+  "pref": "홋카이도",
+  "area": "삿포로",
+  "categories": [
+   "view",
+   "night",
+   "city"
+  ],
+  "summary": "오도리 공원 동쪽 끝에 선 삿포로의 상징 탑. 지상 90m 전망대에서 공원이 일직선으로 뻗은 시가지와 겨울 일루미네이션을 내려다본다.",
+  "do": "해 질 무렵 전망대에 올라 오도리 공원 방향 야경 감상",
+  "station": "삿포로역 (札幌)",
+  "access": "지하철 오도리역 지하 콘코스와 연결. 삿포로역에서 도보 약 15분",
+  "jr_pass": [
+   "JR 홋카이도 레일패스",
+   "삿포로-노보리베쓰 에리어 패스",
+   "삿포로-후라노 에리어 패스",
+   "JR 동일본·미나미홋카이도 레일패스",
+   "JR 도호쿠·미나미홋카이도 레일패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "연중. 해 질 녘~밤, 눈축제·일루미네이션 기간",
+  "event": "",
+  "duration": "1~2시간",
+  "cost": "전망대 유료",
+  "walking": "적음",
+  "fit": "백업",
+  "condition": "",
+  "caution": "",
+  "lat": 43.0611,
+  "lng": 141.3564,
+  "url": "https://www.tv-tower.co.jp/",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/さっぽろテレビ塔"
+  ],
+  "region": "홋카이도"
+ },
+ {
+  "id": "hokkaido-sapporo-beer-museum",
+  "name_ko": "삿포로 맥주 박물관",
+  "name_ja": "サッポロビール博物館",
+  "pref": "홋카이도",
+  "area": "삿포로(히가시구)",
+  "categories": [
+   "culture",
+   "city"
+  ],
+  "summary": "1890년 제당 공장으로 지어진 붉은 벽돌 건물에 있는 맥주 역사 박물관. 옆 비어가든에선 징기스칸을 먹을 수 있다.",
+  "do": "무료 전시를 보고 유료 시음으로 복각 맥주 비교, 비어가든에서 식사",
+  "station": "나에보역 (苗穂)",
+  "access": "JR 나에보역에서 도보 약 8분, 또는 지하철 '히가시쿠야쿠쇼마에'역에서 도보 약 10분",
+  "jr_pass": [
+   "JR 홋카이도 레일패스",
+   "삿포로-노보리베쓰 에리어 패스",
+   "삿포로-후라노 에리어 패스",
+   "JR 동일본·미나미홋카이도 레일패스",
+   "JR 도호쿠·미나미홋카이도 레일패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "연중",
+  "event": "",
+  "duration": "1~2시간",
+  "cost": "입장 무료, 시음 유료, 프리미엄 투어 약 500엔(예약제)",
+  "walking": "적음",
+  "fit": "백업",
+  "condition": "",
+  "caution": "",
+  "lat": 43.0717,
+  "lng": 141.3689,
+  "url": "https://www.sapporobeer.jp/brewery/s_museum/",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/サッポロビール博物館"
+  ],
+  "region": "홋카이도"
+ },
+ {
+  "id": "hokkaido-sapporo-clock-tower",
+  "name_ko": "삿포로 시계탑",
+  "name_ja": "札幌市時計台（旧札幌農学校演武場）",
+  "pref": "홋카이도",
+  "area": "삿포로",
+  "categories": [
+   "culture",
+   "city"
+  ],
+  "summary": "1878년 삿포로 농학교 연무장으로 지어진 목조 건물로 국가 중요문화재. 1881년부터 움직인 4면 시계가 지금도 종을 친다.",
+  "do": "도심 산책 중 들러 외관과 내부 전시, 정시 종소리 듣기",
+  "station": "삿포로역 (札幌)",
+  "access": "지하철 오도리역에서 도보 약 5분",
+  "jr_pass": [
+   "JR 홋카이도 레일패스",
+   "삿포로-노보리베쓰 에리어 패스",
+   "삿포로-후라노 에리어 패스",
+   "JR 동일본·미나미홋카이도 레일패스",
+   "JR 도호쿠·미나미홋카이도 레일패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "연중",
+  "event": "",
+  "duration": "1~2시간",
+  "cost": "내부 관람 유료(소액)",
+  "walking": "적음",
+  "fit": "백업",
+  "condition": "",
+  "caution": "빌딩 사이에 있어 '실망 명소'로도 불림. 2028년도 무렵 보수 공사로 휴관 예정",
+  "lat": 43.0625,
+  "lng": 141.3536,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/札幌市時計台"
+  ],
+  "region": "홋카이도"
+ },
+ {
+  "id": "hokkaido-asahikawa-asahiyama-zoo",
+  "name_ko": "아사히야마 동물원",
+  "name_ja": "旭川市旭山動物園",
+  "pref": "홋카이도",
+  "area": "아사히카와",
+  "categories": [
+   "city"
+  ],
+  "summary": "동물의 자연스러운 행동을 보여 주는 '행동 전시'로 유명한 동물원. 수중 터널 펭귄관과 겨울 눈길 위 '펭귄 산책'이 인기.",
+  "do": "북극곰·바다표범·펭귄관을 돌고 겨울엔 펭귄 산책 보기",
+  "station": "아사히카와역 (旭川)",
+  "access": "아사히카와역 앞에서 아사히카와전기궤도 버스 41·42·47번 '아사히야마도부쓰엔' 행 약 40분",
+  "jr_pass": [
+   "JR 홋카이도 레일패스",
+   "삿포로-후라노 에리어 패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "겨울 펭귄 산책(적설기), 여름 개원기",
+  "event": "",
+  "duration": "반나절",
+  "cost": "입장 약 1,000엔",
+  "walking": "보통",
+  "fit": "백업",
+  "condition": "",
+  "caution": "4월·11월에 휴원 기간이 있고 겨울엔 개원 시간이 짧음(약 10:30~15:30). 공식 확인",
+  "lat": 43.768,
+  "lng": 142.4798,
+  "url": "https://www.city.asahikawa.hokkaido.jp/asahiyamazoo/",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/旭川市旭山動物園"
+  ],
+  "region": "홋카이도"
+ },
+ {
+  "id": "hokkaido-shari-oshinkoshin-falls",
+  "name_ko": "오신코신 폭포",
+  "name_ja": "オシンコシンの滝",
+  "pref": "홋카이도",
+  "area": "샤리(우토로 가는 길)",
+  "categories": [
+   "nature"
+  ],
+  "summary": "낙차 약 50m, 폭 약 30m로 물줄기가 둘로 갈라져 떨어지는 폭포. '일본 폭포 100선'으로 시레토코 가는 길목 국도 옆에 있다.",
+  "do": "계단으로 폭포 중간 전망대까지 올라 물보라 가까이 보기",
+  "station": "시레토코샤리역 (知床斜里)",
+  "access": "시레토코샤리역에서 샤리버스 우토로행으로 '오신코신노타키' 정류장 하차",
+  "jr_pass": [
+   "JR 홋카이도 레일패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을"
+  ],
+  "best_time": "눈 녹는 봄~초여름 수량 많을 때",
+  "event": "",
+  "duration": "1~2시간",
+  "cost": "무료",
+  "walking": "적음",
+  "fit": "백업",
+  "condition": "",
+  "caution": "우토로행 버스 편수가 적으니 우토로 왕복 때 중간 하차로 묶기",
+  "lat": 44.0378,
+  "lng": 144.9353,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/オシンコシンの滝"
+  ],
+  "region": "홋카이도"
+ },
+ {
+  "id": "hokkaido-otaru-sakaimachi",
+  "name_ko": "오타루 사카이마치 거리 & 오르골당",
+  "name_ja": "堺町通り・小樽オルゴール堂",
+  "pref": "홋카이도",
+  "area": "오타루",
+  "categories": [
+   "town",
+   "city"
+  ],
+  "summary": "옛 상가 건물에 유리공예·과자점이 늘어선 거리. 끝자락 메르헨 교차로의 오르골당 앞 증기시계가 15분마다 김을 뿜으며 멜로디를 울린다.",
+  "do": "운하에서 사카이마치 거리를 따라 걸으며 유리공방·오르골·디저트 구경",
+  "station": "미나미오타루역 (南小樽)",
+  "access": "미나미오타루역에서 메르헨 교차로까지 도보 약 7분. 오타루역에서 운하 경유로 걸어도 됨",
+  "jr_pass": [
+   "JR 홋카이도 레일패스",
+   "삿포로-노보리베쓰 에리어 패스",
+   "삿포로-후라노 에리어 패스",
+   "JR 동일본·미나미홋카이도 레일패스",
+   "JR 도호쿠·미나미홋카이도 레일패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "연중. 가게는 대개 저녁에 닫음",
+  "event": "",
+  "duration": "반나절",
+  "cost": "산책 무료",
+  "walking": "보통",
+  "fit": "백업",
+  "condition": "겨울엔 길이 얼어 미끄러움",
+  "caution": "",
+  "lat": 43.1906,
+  "lng": 141.0078,
+  "url": "https://www.otaru-orgel.co.jp/",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/小樽オルゴール堂"
+  ],
+  "region": "홋카이도"
+ },
+ {
+  "id": "hokkaido-wakkanai-breakwater-dome",
+  "name_ko": "왓카나이항 북방파제 돔",
+  "name_ja": "稚内港北防波堤ドーム",
+  "pref": "홋카이도",
+  "area": "왓카나이",
+  "categories": [
+   "culture",
+   "cape"
+  ],
+  "summary": "1936년 완성된 길이 약 427m의 아치형 방파제. 고대 신전 같은 기둥 회랑이 이어지며 홋카이도 유산·토목 유산으로 선정됐다.",
+  "do": "기둥 회랑을 따라 걷고 소야곶·섬 여행 전후에 들르기",
+  "station": "왓카나이역 (稚内)",
+  "access": "왓카나이역에서 걸어갈 수 있는 거리(역 북쪽 항구)",
+  "jr_pass": [
+   "JR 홋카이도 레일패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "연중. 해 질 녘",
+  "event": "",
+  "duration": "1~2시간",
+  "cost": "무료",
+  "walking": "적음",
+  "fit": "백업",
+  "condition": "강풍이 잦음",
+  "caution": "",
+  "lat": 45.4202,
+  "lng": 141.6804,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/稚内港北防波堤ドーム",
+   "https://ja.wikipedia.org/wiki/北海道遺産"
+  ],
+  "region": "홋카이도"
+ },
+ {
+  "id": "hokkaido-shiraoi-upopoy",
+  "name_ko": "우포포이 (민족공생 상징공간)",
+  "name_ja": "ウポポイ（民族共生象徴空間）",
+  "pref": "홋카이도",
+  "area": "시라오이",
+  "categories": [
+   "culture",
+   "nature"
+  ],
+  "summary": "2020년 포로토호 호숫가에 문을 연 아이누 문화 거점. 국립 아이누 민족박물관과 전통 가옥 마을, 공연장에서 춤·노래를 볼 수 있다.",
+  "do": "박물관 관람 후 전통 춤 공연과 체험 프로그램 참가",
+  "station": "시라오이역 (白老)",
+  "access": "시라오이역 북쪽 출구에서 도보 약 10분",
+  "jr_pass": [
+   "JR 홋카이도 레일패스",
+   "삿포로-노보리베쓰 에리어 패스",
+   "JR 동일본·미나미홋카이도 레일패스",
+   "JR 도호쿠·미나미홋카이도 레일패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "연중. 노보리베쓰 오가는 길에 들르기 좋음",
+  "event": "",
+  "duration": "반나절",
+  "cost": "입장 약 1,200엔",
+  "walking": "보통",
+  "fit": "백업",
+  "condition": "",
+  "caution": "휴관일·공연 시간은 공식 확인",
+  "lat": 42.5603,
+  "lng": 141.3655,
+  "url": "https://ainu-upopoy.jp/",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/民族共生象徴空間"
+  ],
+  "region": "홋카이도"
+ },
+ {
+  "id": "hokkaido-hakodate-morning-market",
+  "name_ko": "하코다테 아침시장",
+  "name_ja": "函館朝市",
+  "pref": "홋카이도",
+  "area": "하코다테",
+  "categories": [
+   "city"
+  ],
+  "summary": "하코다테역 바로 옆, 약 250여 점포가 모인 수산 시장. 오징어를 직접 낚아 바로 회로 먹는 '이카 쓰리보리'가 명물.",
+  "do": "아침에 해산물 덮밥을 먹고 오징어 낚시 체험",
+  "station": "하코다테역 (函館)",
+  "access": "하코다테역에서 도보 약 1~3분",
+  "jr_pass": [
+   "JR 홋카이도 레일패스",
+   "JR 동일본·미나미홋카이도 레일패스",
+   "JR 도호쿠·미나미홋카이도 레일패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "아침 6시~정오 무렵",
+  "event": "",
+  "duration": "1~2시간",
+  "cost": "해산물 덮밥 약 2,000~4,000엔",
+  "walking": "적음",
+  "fit": "백업",
+  "condition": "",
+  "caution": "대체로 오후 2시 무렵 닫고 수요일 휴무 점포가 많음",
+  "lat": 41.7726,
+  "lng": 140.7254,
+  "url": "https://www.hakodate-asaichi.com/",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/函館朝市"
+  ],
+  "region": "홋카이도"
+ },
+ {
+  "id": "hokkaido-sapporo-hokkaido-jingu",
+  "name_ko": "홋카이도 신궁",
+  "name_ja": "北海道神宮",
+  "pref": "홋카이도",
+  "area": "삿포로(마루야마)",
+  "categories": [
+   "culture",
+   "nature"
+  ],
+  "summary": "마루야마 공원 숲속에 자리한 홋카이도 총진수. 봄엔 경내와 공원 벚꽃이 유명하고, 6월 예대제는 '삿포로 마쓰리'로 불린다.",
+  "do": "마루야마 공원 숲길을 걸어 참배하고 봄엔 벚꽃 구경",
+  "station": "삿포로역 (札幌)",
+  "access": "지하철 도자이선 '마루야마코엔'역에서 도보 약 15분",
+  "jr_pass": [
+   "JR 홋카이도 레일패스",
+   "삿포로-노보리베쓰 에리어 패스",
+   "삿포로-후라노 에리어 패스",
+   "JR 동일본·미나미홋카이도 레일패스",
+   "JR 도호쿠·미나미홋카이도 레일패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "벚꽃 5월 초, 예대제 6월 중순",
+  "event": "예대제(삿포로 마쓰리): 매년 6월 14~16일",
+  "duration": "1~2시간",
+  "cost": "참배 무료",
+  "walking": "보통",
+  "fit": "백업",
+  "condition": "",
+  "caution": "",
+  "lat": 43.0543,
+  "lng": 141.3075,
+  "url": "https://www.hokkaidojingu.or.jp/",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/北海道神宮"
+  ],
+  "region": "홋카이도"
+ },
+ {
+  "id": "hokkaido-sapporo-hitsujigaoka",
+  "name_ko": "히쓰지가오카 전망대",
+  "name_ja": "さっぽろ羊ヶ丘展望台",
+  "pref": "홋카이도",
+  "area": "삿포로(도요히라구)",
+  "categories": [
+   "view",
+   "nature"
+  ],
+  "summary": "'소년이여 야망을 가져라'의 클라크 박사 동상이 서 있는 언덕. 목초지 너머로 삿포로 시가지와 돔이 보인다.",
+  "do": "클라크 동상 앞에서 사진 찍고 목장 풍경 산책",
+  "station": "삿포로역 (札幌)",
+  "access": "지하철 도호선 '후쿠즈미'역 버스터미널에서 주오버스 '히쓰지가오카텐보다이' 행",
+  "jr_pass": [
+   "JR 홋카이도 레일패스",
+   "삿포로-노보리베쓰 에리어 패스",
+   "삿포로-후라노 에리어 패스",
+   "JR 동일본·미나미홋카이도 레일패스",
+   "JR 도호쿠·미나미홋카이도 레일패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을"
+  ],
+  "best_time": "초여름~가을 맑은 날",
+  "event": "",
+  "duration": "1~2시간",
+  "cost": "입장 약 1,000엔",
+  "walking": "적음",
+  "fit": "백업",
+  "condition": "맑은 날 전망",
+  "caution": "",
+  "lat": 42.9992,
+  "lng": 141.3948,
+  "url": "https://www.hitsujigaoka.jp/",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/さっぽろ羊ヶ丘展望台"
+  ],
+  "region": "홋카이도"
+ },
+ {
   "id": "aomori-furofushi-onsen-resort-shirakami",
   "name_ko": "고가네자키 후로후시 온천 & 리조트 시라카미",
   "name_ja": "黄金崎不老ふ死温泉・リゾートしらかみ",
@@ -1434,6 +2906,89 @@ window.SPOTS = [
    "https://www.furofushi.com/daytrip/",
    "https://www.furofushi.com/",
    "https://ja.wikipedia.org/wiki/リゾートしらかみ"
+  ],
+  "region": "도호쿠"
+ },
+ {
+  "id": "aomori-goshogawara-tachineputa",
+  "name_ko": "고쇼가와라 다치네푸타 & 다치네푸타노야카타",
+  "name_ja": "五所川原立佞武多・立佞武多の館",
+  "pref": "아오모리",
+  "area": "고쇼가와라",
+  "categories": [
+   "festival",
+   "night",
+   "culture"
+  ],
+  "summary": "높이 약 23m, 무게 약 19톤의 세로로 솟은 거대 네푸타가 거리를 누비는 축제. 축제 밖 기간에도 역 근처 전시관에서 실물 3대를 4층 높이 아트리움으로 볼 수 있다.",
+  "do": "8월엔 밤 행진 관람, 그 외엔 다치네푸타노야카타에서 실물과 제작 공방 견학",
+  "station": "고쇼가와라역 (五所川原)",
+  "access": "아오모리역에서 JR 오우 본선·고노선(가와베 환승)으로 고쇼가와라역 → 전시관까지 도보 약 5분",
+  "jr_pass": [
+   "JR 동일본 패스",
+   "JR 도호쿠·미나미홋카이도 레일패스",
+   "JR 동일본·미나미홋카이도 레일패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "축제는 8월 4~8일 밤. 전시관은 연중",
+  "event": "매년 8월 4~8일(전날 8/3 불꽃놀이)",
+  "duration": "1~2시간",
+  "cost": "축제 무료, 전시관 유료(요금은 공식 확인)",
+  "walking": "적음",
+  "fit": "매우 잘 맞음",
+  "condition": "",
+  "caution": "전시관은 2025/4~2026/6 리뉴얼 공사 예정이었음. 재개관 후 관람 시간 공식 확인. 근처 쓰가루 철도 스토브 열차와 묶기 좋음",
+  "lat": 40.8109,
+  "lng": 140.4433,
+  "url": "https://www.tachineputa.jp/",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/五所川原立佞武多",
+   "https://ja.wikipedia.org/wiki/立佞武多の館"
+  ],
+  "region": "도호쿠"
+ },
+ {
+  "id": "aomori-tanesashi-coast",
+  "name_ko": "다네사시 해안",
+  "name_ja": "種差海岸",
+  "pref": "아오모리",
+  "area": "하치노헤",
+  "categories": [
+   "cape",
+   "nature"
+  ],
+  "summary": "바다 바로 앞까지 천연 잔디밭이 펼쳐진 독특한 해안으로 산리쿠 부흥 국립공원의 일부. 바위 해안, 우는 모래 해변, 등대 옆 전망대가 이어진다.",
+  "do": "다네사시카이간역 앞 잔디밭에서 바다를 보고, 아시게자키 전망대·가부시마 쪽으로 해안 산책",
+  "station": "다네사시카이간역 (種差海岸)",
+  "access": "하치노헤역에서 JR 하치노헤선 약 30~40분 → 다네사시카이간역 바로 앞",
+  "jr_pass": [
+   "JR 동일본 패스",
+   "JR 도호쿠·미나미홋카이도 레일패스",
+   "JR 동일본·미나미홋카이도 레일패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을"
+  ],
+  "best_time": "5~10월 맑은 날",
+  "event": "",
+  "duration": "반나절",
+  "cost": "무료",
+  "walking": "보통",
+  "fit": "매우 잘 맞음",
+  "condition": "맑은 날 바다색이 좋음 / 여름 아침엔 해무(야마세)로 흐릴 수 있음",
+  "caution": "하치노헤선은 편수가 적어 시간표 확인",
+  "lat": 40.5114,
+  "lng": 141.6106,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/種差海岸"
   ],
   "region": "도호쿠"
  },
@@ -1559,6 +3114,87 @@ window.SPOTS = [
   "region": "도호쿠"
  },
  {
+  "id": "aomori-tsuta-onsen",
+  "name_ko": "쓰타 온천",
+  "name_ja": "蔦温泉",
+  "pref": "아오모리",
+  "area": "도와다",
+  "categories": [
+   "onsen",
+   "nature"
+  ],
+  "summary": "너도밤나무 숲 속 한 채짜리 온천 여관. 다이쇼 시대 건물의 히바나무 욕조 '규안노유'는 바닥 바로 밑에서 온천이 솟는 발밑 용출탕이다.",
+  "do": "발밑 용출 온천에 몸을 담그고 쓰타 7늪을 도는 숲길 산책",
+  "station": "아오모리역 (青森) / 하치노헤역 (八戸)",
+  "access": "아오모리역에서 JR버스 도와다 북선 약 1시간 30분 → '쓰타온센'. 하치노헤역에서는 JR버스로 야케야마 환승. JR버스는 JR 동일본 패스만 적용",
+  "jr_pass": [
+   "JR 동일본 패스",
+   "JR 도호쿠·미나미홋카이도 레일패스",
+   "JR 동일본·미나미홋카이도 레일패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을"
+  ],
+  "best_time": "신록 6월, 단풍 10월 중순~하순",
+  "event": "",
+  "duration": "1박 추천",
+  "cost": "당일 입욕 약 천 엔 전후, 숙박 별도",
+  "walking": "보통",
+  "fit": "매우 잘 맞음",
+  "condition": "버스는 대략 4~11월 운행. 오이라세 계류와 같은 날 묶기 좋음",
+  "caution": "겨울 버스 운행과 여관 영업 여부는 공식 확인",
+  "lat": 40.5969,
+  "lng": 140.9531,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/蔦温泉"
+  ],
+  "region": "도호쿠"
+ },
+ {
+  "id": "aomori-asamushi-onsen",
+  "name_ko": "아사무시 온천",
+  "name_ja": "浅虫温泉",
+  "pref": "아오모리",
+  "area": "아오모리시",
+  "categories": [
+   "onsen",
+   "cape"
+  ],
+  "summary": "무쓰만 바닷가에 붙은 온천 마을로 바다 위로 지는 노을과 앞바다의 무인도 유노시마가 보인다. 아오모리역에서 열차로 가깝고 현립 수족관도 있다.",
+  "do": "바다가 보이는 온천에서 목욕하고 해변에서 유노시마와 노을 보기",
+  "station": "아사무시온센역 (浅虫温泉, 아오이모리 철도)",
+  "access": "아오모리역에서 아오이모리 철도로 아사무시온센역 → 온천가 도보 약 5~15분",
+  "jr_pass": [
+   "JR 동일본 패스",
+   "JR 도호쿠·미나미홋카이도 레일패스",
+   "JR 동일본·미나미홋카이도 레일패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "연중. 4월엔 유노시마 얼레지꽃 축제로 배가 다님",
+  "event": "",
+  "duration": "반나절",
+  "cost": "당일 온천 수백 엔~",
+  "walking": "적음",
+  "fit": "매우 잘 맞음",
+  "condition": "",
+  "caution": "",
+  "lat": 40.8892,
+  "lng": 140.8614,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/浅虫温泉"
+  ],
+  "region": "도호쿠"
+ },
+ {
   "id": "aomori-nebuta-festival",
   "name_ko": "아오모리 네부타 마쓰리",
   "name_ja": "青森ねぶた祭",
@@ -1593,6 +3229,85 @@ window.SPOTS = [
   "url": "https://www.nebuta.jp/",
   "sources": [
    "https://www.nebuta.jp/"
+  ],
+  "region": "도호쿠"
+ },
+ {
+  "id": "aomori-cape-oma",
+  "name_ko": "오마자키 (혼슈 최북단)",
+  "name_ja": "大間崎",
+  "pref": "아오모리",
+  "area": "오마",
+  "categories": [
+   "cape"
+  ],
+  "summary": "혼슈 최북단 표지석과 참치 외줄낚시 기념비가 있는 곶. 앞바다 벤텐섬 등대 너머로 맑은 날엔 홋카이도 해안이 보인다. 오마 참치 덮밥도 이 동네 명물.",
+  "do": "최북단 표지석에서 사진, 쓰가루 해협 너머 홋카이도 바라보기, 참치 덮밥 먹기",
+  "station": "시모키타역 (下北)",
+  "access": "시모키타역에서 시모키타 교통 사이선 버스 약 1시간 40분 → '오마자키' 하차",
+  "jr_pass": [
+   "JR 동일본 패스",
+   "JR 도호쿠·미나미홋카이도 레일패스",
+   "JR 동일본·미나미홋카이도 레일패스"
+  ],
+  "seasons": [
+   "여름",
+   "가을"
+  ],
+  "best_time": "5~10월 맑은 날",
+  "event": "",
+  "duration": "반나절",
+  "cost": "무료",
+  "walking": "적음",
+  "fit": "매우 잘 맞음",
+  "condition": "맑은 날만 홋카이도가 보임 / 바람이 매우 강한 곳",
+  "caution": "버스 편수가 적어 당일 왕복은 시간표 필수. 오소레잔과 묶으려면 무쓰 1박 추천",
+  "lat": 41.5464,
+  "lng": 140.9125,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/大間崎"
+  ],
+  "region": "도호쿠"
+ },
+ {
+  "id": "aomori-osorezan",
+  "name_ko": "오소레잔 (보다이지·우소리호)",
+  "name_ja": "恐山（恐山菩提寺・宇曽利湖）",
+  "pref": "아오모리",
+  "area": "무쓰",
+  "categories": [
+   "volcano",
+   "culture",
+   "onsen"
+  ],
+  "summary": "유황 냄새 나는 회색 화산 지대와 푸른 칼데라 호수가 '지옥과 극락'처럼 대비되는 일본 3대 영장. 경내에 무료로 쓸 수 있는 온천 목욕탕이 4곳 있다.",
+  "do": "화산 바위 지대 '지옥'을 지나 우소리호 '극락 해변'까지 걷고 경내 온천에 들르기",
+  "station": "시모키타역 (下北)",
+  "access": "하치노헤역에서 아오이모리 철도로 노헤지 → JR 오미나토선으로 시모키타역(합계 약 2~3시간) → 시모키타 교통 오소레잔행 버스. 개산 기간에만 하루 몇 왕복",
+  "jr_pass": [
+   "JR 동일본 패스",
+   "JR 도호쿠·미나미홋카이도 레일패스",
+   "JR 동일본·미나미홋카이도 레일패스"
+  ],
+  "seasons": [
+   "여름",
+   "가을"
+  ],
+  "best_time": "5월 1일~10월 31일 개산 기간. 대제 7/20~24, 가을 대제 10월",
+  "event": "오소레잔 대제: 매년 7월 20~24일(이타코 구치요세), 가을 대제는 10월 연휴 무렵. 날짜는 매년 공식 확인",
+  "duration": "반나절",
+  "cost": "입산료 약 500엔(2016년 기준, 최신 확인)",
+  "walking": "보통",
+  "fit": "매우 잘 맞음",
+  "condition": "11~4월은 폐산이라 들어갈 수 없음",
+  "caution": "버스 편수가 매우 적어 왕복 시간 먼저 확인. 좌표는 우소리호 기준",
+  "lat": 41.3167,
+  "lng": 141.0917,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/恐山",
+   "https://ja.wikipedia.org/wiki/恐山菩提寺"
   ],
   "region": "도호쿠"
  },
@@ -1638,6 +3353,121 @@ window.SPOTS = [
   "region": "도호쿠"
  },
  {
+  "id": "aomori-hachinohe-sansha-taisai",
+  "name_ko": "하치노헤 산샤 다이사이",
+  "name_ja": "八戸三社大祭",
+  "pref": "아오모리",
+  "area": "하치노헤",
+  "categories": [
+   "festival",
+   "night"
+  ],
+  "summary": "세 신사의 행렬에 20여 대의 화려한 수레가 따르는 300년 전통 축제. 수레 인형이 위로 솟고 옆으로 펼쳐지는 장치가 볼거리이며 유네스코 무형문화유산 '산·호코·야타이 행사'에 포함된다.",
+  "do": "8월 2일 밤 수레 합동 야간 운행이나 전야제(7/31)에서 불 밝힌 수레 관람",
+  "station": "혼하치노헤역 (本八戸)",
+  "access": "하치노헤역에서 JR 하치노헤선 약 10분 → 혼하치노헤역, 시청 앞 중심가까지 도보",
+  "jr_pass": [
+   "JR 동일본 패스",
+   "JR 도호쿠·미나미홋카이도 레일패스",
+   "JR 동일본·미나미홋카이도 레일패스"
+  ],
+  "seasons": [
+   "여름"
+  ],
+  "best_time": "7월 31일 전야제, 8월 2일 야간 운행",
+  "event": "매년 7월 31일~8월 4일(전야제·오토리·나카비·오카에리·후야제)",
+  "duration": "반나절",
+  "cost": "관람 무료",
+  "walking": "보통",
+  "fit": "매우 잘 맞음",
+  "condition": "",
+  "caution": "",
+  "lat": 40.5123,
+  "lng": 141.4884,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/八戸三社大祭"
+  ],
+  "region": "도호쿠"
+ },
+ {
+  "id": "aomori-hirosaki-neputa",
+  "name_ko": "히로사키 네푸타 마쓰리",
+  "name_ja": "弘前ねぷたまつり",
+  "pref": "아오모리",
+  "area": "히로사키",
+  "categories": [
+   "festival",
+   "night"
+  ],
+  "summary": "부채꼴 등롱 수레 '오기네푸타'가 주인공인 여름 밤 축제. 대형 수레 약 80대가 북·피리 소리와 함께 시내를 행진하며 국가 중요무형민속문화재다.",
+  "do": "밤에 도테마치 거리에서 불 밝힌 부채꼴 네푸타 행렬 관람",
+  "station": "히로사키역 (弘前)",
+  "access": "히로사키역에서 도보 또는 100엔 순환버스. 8/1~4·7일은 도테마치 코스, 8/5~6은 역 앞 코스",
+  "jr_pass": [
+   "JR 동일본 패스",
+   "JR 도호쿠·미나미홋카이도 레일패스",
+   "JR 동일본·미나미홋카이도 레일패스"
+  ],
+  "seasons": [
+   "여름"
+  ],
+  "best_time": "8월 1~7일 저녁. 마지막 날(7일)은 아침 운행",
+  "event": "매년 8월 1~7일",
+  "duration": "1~2시간",
+  "cost": "관람 무료(유료 관람석 별도)",
+  "walking": "적음",
+  "fit": "매우 잘 맞음",
+  "condition": "비가 와도 대체로 진행되나 폭우 시 변경 가능",
+  "caution": "아오모리 네부타(8/2~7)와 기간이 겹쳐 숙소가 빨리 찬다",
+  "lat": 40.6031,
+  "lng": 140.4638,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/弘前ねぷた"
+  ],
+  "region": "도호쿠"
+ },
+ {
+  "id": "aomori-kabushima",
+  "name_ko": "가부시마 (괭이갈매기 섬)",
+  "name_ja": "蕪島",
+  "pref": "아오모리",
+  "area": "하치노헤",
+  "categories": [
+   "cape",
+   "nature"
+  ],
+  "summary": "섬 전체가 괭이갈매기 번식지(천연기념물)인 작은 섬. 꼭대기의 가부시마 신사는 2015년 화재 후 재건됐고, 봄엔 유채꽃과 수만 마리 갈매기가 함께 보인다.",
+  "do": "번식기에 갈매기 무리 속을 걸어 신사까지 올라가 보고 다네사시 해안 산책로로 이어 걷기",
+  "station": "사메역 (鮫)",
+  "access": "하치노헤역에서 JR 하치노헤선 약 20분 → 사메역에서 도보 약 15분",
+  "jr_pass": [
+   "JR 동일본 패스",
+   "JR 도호쿠·미나미홋카이도 레일패스",
+   "JR 동일본·미나미홋카이도 레일패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름"
+  ],
+  "best_time": "5~7월(5월 유채꽃과 둥지, 6월 부화). 8월이면 대부분 떠남",
+  "event": "",
+  "duration": "1~2시간",
+  "cost": "무료",
+  "walking": "보통",
+  "fit": "조건부",
+  "condition": "갈매기는 2월 말~8월만. 겨울엔 볼거리 적음",
+  "caution": "번식기엔 새똥이 많음. 입구에 우산이 비치돼 있지만 모자·우산 준비 권장",
+  "lat": 40.5391,
+  "lng": 141.5575,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/蕪島"
+  ],
+  "region": "도호쿠"
+ },
+ {
   "id": "aomori-cape-tappi",
   "name_ko": "다쓰피자키 (쓰가루 반도 끝)",
   "name_ja": "龍飛崎",
@@ -1675,6 +3505,85 @@ window.SPOTS = [
    "https://www.pref.aomori.lg.jp/soshiki/kotsu/tetsudo/hokkaidoshinkansen_nijikotsu.html",
    "https://ja.wikipedia.org/wiki/龍飛崎",
    "https://www.town.sotogahama.lg.jp/kanko/spot/minmaya.html"
+  ],
+  "region": "도호쿠"
+ },
+ {
+  "id": "aomori-tatehana-morning-market",
+  "name_ko": "다테하나 안벽 아침시장",
+  "name_ja": "館鼻岸壁朝市",
+  "pref": "아오모리",
+  "area": "하치노헤",
+  "categories": [
+   "city"
+  ],
+  "summary": "매주 일요일 새벽 하치노헤 어항 안벽에 약 350개 노점이 늘어서는 대형 아침시장. 해산물·빵·커피·국물 요리까지 먹으며 돌아다니는 재미가 있다.",
+  "do": "일요일 새벽에 가서 해산물과 길거리 음식을 사 먹으며 시장 구경",
+  "station": "무쓰미나토역 (陸奥湊)",
+  "access": "하치노헤역에서 JR 하치노헤선 → 무쓰미나토역에서 도보 약 10분. 4~12월 일요일엔 시내에서 어항행 순환버스도 있음",
+  "jr_pass": [
+   "JR 동일본 패스",
+   "JR 도호쿠·미나미홋카이도 레일패스",
+   "JR 동일본·미나미홋카이도 레일패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을"
+  ],
+  "best_time": "3월 중순~12월 하순 일요일, 새벽~오전 9시 무렵",
+  "event": "매주 일요일(3월 중순~12월 하순)",
+  "duration": "1~2시간",
+  "cost": "먹거리 수백~천 엔대",
+  "walking": "보통",
+  "fit": "조건부",
+  "condition": "일요일 아침에만 열림. 인기 가게는 일찍 매진",
+  "caution": "새벽 3시 무렵부터 9시 무렵까지라 첫차로는 늦을 수 있음. 하치노헤 시내 숙박 추천. 좌표는 바로 위 다테하나 공원 기준",
+  "lat": 40.5276,
+  "lng": 141.522,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/館鼻岸壁朝市",
+   "https://ja.wikipedia.org/wiki/館鼻公園"
+  ],
+  "region": "도호쿠"
+ },
+ {
+  "id": "aomori-juniko-aoike",
+  "name_ko": "주니코 (아오이케)",
+  "name_ja": "十二湖（青池）",
+  "pref": "아오모리",
+  "area": "후카우라",
+  "categories": [
+   "nature"
+  ],
+  "summary": "시라카미 산지 자락 너도밤나무 숲에 30여 개 호수가 흩어진 곳. 그중 아오이케는 잉크를 푼 듯한 파란 물빛으로 유명하다.",
+  "do": "너도밤나무 숲길을 따라 아오이케·와키쓰보노이케 등 호수 순례 산책",
+  "station": "주니코역 (十二湖)",
+  "access": "JR 고노선(리조트 시라카미 정차) 주니코역 → 고난버스 주니코선으로 종점 '오쿠주니코'",
+  "jr_pass": [
+   "JR 동일본 패스",
+   "JR 도호쿠·미나미홋카이도 레일패스",
+   "JR 동일본·미나미홋카이도 레일패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을"
+  ],
+  "best_time": "5~11월, 맑은 날 낮(햇빛이 들 때 물빛이 가장 파람)",
+  "event": "",
+  "duration": "반나절",
+  "cost": "무료",
+  "walking": "보통",
+  "fit": "조건부",
+  "condition": "맑은 날 물빛이 살아남. 겨울엔 버스·길이 제한됨",
+  "caution": "버스는 열차 시간에 맞춰 편수가 적고 겨울 운행이 다를 수 있어 시간표 확인",
+  "lat": 40.5536,
+  "lng": 139.9811,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/十二湖"
   ],
   "region": "도호쿠"
  },
@@ -1721,6 +3630,208 @@ window.SPOTS = [
   "region": "도호쿠"
  },
  {
+  "id": "aomori-hotokegaura",
+  "name_ko": "호토케가우라",
+  "name_ja": "仏ヶ浦",
+  "pref": "아오모리",
+  "area": "사이",
+  "categories": [
+   "cape",
+   "boat",
+   "nature"
+  ],
+  "summary": "녹색 응회암이 깎여 만든 높이 90m가 넘는 기암이 2km 넘게 늘어선 해안으로 국가 명승·천연기념물. 전체 모습은 바다에서 봐야 제대로 보인다.",
+  "do": "사이항 또는 와키노사와항에서 관광선을 타고 기암 해안에 상륙해 산책",
+  "station": "시모키타역 (下北)",
+  "access": "시모키타역에서 시모키타 교통 사이선 버스로 사이항 → 관광선(대략 4~10월). 또는 아오모리항에서 와키노사와행 배로 와키노사와항 경유",
+  "jr_pass": [
+   "JR 동일본 패스",
+   "JR 도호쿠·미나미홋카이도 레일패스",
+   "JR 동일본·미나미홋카이도 레일패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을"
+  ],
+  "best_time": "5~9월 바다가 잔잔한 날",
+  "event": "",
+  "duration": "반나절",
+  "cost": "관광선 수천 엔 수준(운항사별 공식 확인)",
+  "walking": "적음",
+  "fit": "조건부",
+  "condition": "파도·강풍 시 결항 → 대체: 오마자키",
+  "caution": "도로 쪽 주차장에서 걸어 내려가면 표고차 100m가 넘는 계단(약 15분)이라 힘듦. 곰 출몰 주의",
+  "lat": 41.3122,
+  "lng": 140.8051,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/仏ヶ浦"
+  ],
+  "region": "도호쿠"
+ },
+ {
+  "id": "aomori-hirosaki-castle",
+  "name_ko": "히로사키성 & 히로사키 공원 (벚꽃 축제)",
+  "name_ja": "弘前城・弘前公園（弘前さくらまつり）",
+  "pref": "아오모리",
+  "area": "히로사키",
+  "categories": [
+   "culture",
+   "festival",
+   "night"
+  ],
+  "summary": "에도 시대부터 남은 현존 천수 중 하나가 있는 성터 공원. 벚나무 약 2,600그루로 일본 대표 벚꽃 명소이고, 해자에 꽃잎이 덮이는 '꽃뗏목'과 밤 벚꽃 라이트업이 유명하다.",
+  "do": "해자와 성문을 따라 공원을 한 바퀴 돌며 벚꽃·야간 라이트업 감상",
+  "station": "히로사키역 (弘前)",
+  "access": "아오모리역에서 JR 오우 본선 약 35~50분 → 히로사키역에서 도테마치 순환 100엔 버스로 '시야쿠쇼마에' 하차 후 도보 약 3분",
+  "jr_pass": [
+   "JR 동일본 패스",
+   "JR 도호쿠·미나미홋카이도 레일패스",
+   "JR 동일본·미나미홋카이도 레일패스"
+  ],
+  "seasons": [
+   "봄",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "벚꽃 4월 하순~5월 초(골든위크 무렵). 가을 단풍, 2월 눈등롱 축제도 있음",
+  "event": "히로사키 벚꽃 축제: 매년 4월 하순~5월 초, 날짜는 매년 공식 확인",
+  "duration": "반나절",
+  "cost": "공원 산책 무료, 혼마루 등 유료 구역 수백 엔 수준",
+  "walking": "보통",
+  "fit": "조건부",
+  "condition": "벚꽃 개화 시기에만 진가. 개화는 해마다 앞뒤로 움직임",
+  "caution": "천수는 석벽 보수로 옮겨져 있다가 원래 천수대로 되돌리는 공사 중(완료 2027년 가을 무렵으로 연기). 공사 중 관람 범위는 공식 확인",
+  "lat": 40.608,
+  "lng": 140.4638,
+  "url": "https://www.hirosakipark.jp/",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/弘前城"
+  ],
+  "region": "도호쿠"
+ },
+ {
+  "id": "aomori-kuroishi-komise",
+  "name_ko": "구로이시 나카마치 고미세 거리",
+  "name_ja": "黒石 中町こみせ通り",
+  "pref": "아오모리",
+  "area": "구로이시",
+  "categories": [
+   "town"
+  ],
+  "summary": "눈과 햇빛을 막는 나무 처마 통로 '고미세'가 에도 시대 모습으로 이어지는 약 600m 옛 거리. 중요전통건조물군 보존지구이고 양조장이 늘어서 있다.",
+  "do": "나무 회랑 아래를 걸으며 양조장과 옛 상가 구경, 구로이시 야키소바 먹기",
+  "station": "구로이시역 (黒石, 고난 철도)",
+  "access": "히로사키역에서 고난 철도 고난선으로 구로이시역(사철, JR 패스 미적용) → 도보 약 10~15분",
+  "jr_pass": [
+   "JR 동일본 패스",
+   "JR 도호쿠·미나미홋카이도 레일패스",
+   "JR 동일본·미나미홋카이도 레일패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "연중. 눈 쌓인 겨울에 고미세의 쓸모가 실감남. 8월엔 구로이시 네푸타",
+  "event": "",
+  "duration": "1~2시간",
+  "cost": "무료",
+  "walking": "적음",
+  "fit": "백업",
+  "condition": "",
+  "caution": "JR 패스는 히로사키역까지. 고난 철도 운임 별도",
+  "lat": 40.6449,
+  "lng": 140.5966,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/中町こみせ通り"
+  ],
+  "region": "도호쿠"
+ },
+ {
+  "id": "aomori-sannai-maruyama",
+  "name_ko": "산나이마루야마 유적",
+  "name_ja": "三内丸山遺跡",
+  "pref": "아오모리",
+  "area": "아오모리시",
+  "categories": [
+   "culture"
+  ],
+  "summary": "약 5,900~4,200년 전 조몬 시대 대규모 취락 유적으로 2021년 '홋카이도·북도호쿠 조몬 유적군' 세계유산. 복원된 대형 기둥 건물과 수혈 주거에 들어가 볼 수 있다.",
+  "do": "복원 건물 사이를 걷고 전시관 '조몬 지유칸'에서 출토품 보기. 옆 현립미술관과 묶기",
+  "station": "신아오모리역 (新青森)",
+  "access": "신아오모리역에서 셔틀 루트버스 '네부탄호' 종점, 또는 아오모리역에서 시영버스 산나이마루야마 유적선",
+  "jr_pass": [
+   "JR 동일본 패스",
+   "JR 도호쿠·미나미홋카이도 레일패스",
+   "JR 동일본·미나미홋카이도 레일패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "연중(야외 유적은 봄~가을이 걷기 좋음)",
+  "event": "",
+  "duration": "1~2시간",
+  "cost": "입장 유료(수백 엔 수준)",
+  "walking": "보통",
+  "fit": "백업",
+  "condition": "",
+  "caution": "",
+  "lat": 40.8114,
+  "lng": 140.6967,
+  "url": "https://sannaimaruyama.pref.aomori.jp/",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/三内丸山遺跡"
+  ],
+  "region": "도호쿠"
+ },
+ {
+  "id": "aomori-museum-of-art",
+  "name_ko": "아오모리 현립미술관 (아오모리 개)",
+  "name_ja": "青森県立美術館",
+  "pref": "아오모리",
+  "area": "아오모리시",
+  "categories": [
+   "culture"
+  ],
+  "summary": "발굴 현장을 닮은 아오키 준 설계의 하얀 미술관. 높이 9m짜리 샤갈의 발레 '알레코' 배경화 3점과 나라 요시토모의 대형 조형 '아오모리 개'가 대표작이다.",
+  "do": "알레코 홀의 샤갈 대작과 야외의 아오모리 개 보기",
+  "station": "신아오모리역 (新青森)",
+  "access": "신아오모리역에서 '네부탄호' 또는 아오모리역에서 시영버스 → '겐리쓰비주쓰칸마에' 하차. 산나이마루야마 유적 바로 옆",
+  "jr_pass": [
+   "JR 동일본 패스",
+   "JR 도호쿠·미나미홋카이도 레일패스",
+   "JR 동일본·미나미홋카이도 레일패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "연중. 눈 오는 날 하얀 건물이 특히 예쁨",
+  "event": "",
+  "duration": "1~2시간",
+  "cost": "상설전 수백 엔 수준(기획전 별도)",
+  "walking": "적음",
+  "fit": "백업",
+  "condition": "",
+  "caution": "휴관일은 공식 사이트 확인",
+  "lat": 40.8074,
+  "lng": 140.7007,
+  "url": "https://www.aomori-museum.jp/",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/青森県立美術館"
+  ],
+  "region": "도호쿠"
+ },
+ {
   "id": "iwate-geibikei-boat",
   "name_ko": "게이비케이 뱃놀이",
   "name_ja": "猊鼻渓舟下り",
@@ -1763,6 +3874,87 @@ window.SPOTS = [
   "region": "도호쿠"
  },
  {
+  "id": "iwate-genbikei",
+  "name_ko": "겐비케이 (하늘을 나는 당고)",
+  "name_ja": "厳美渓",
+  "pref": "이와테",
+  "area": "이치노세키",
+  "categories": [
+   "nature",
+   "city"
+  ],
+  "summary": "이와이강이 약 2km에 걸쳐 바위를 깎아 만든 협곡으로 국가 명승·천연기념물. 건너편 가게에서 밧줄 바구니로 당고를 날려 보내는 '하늘을 나는 당고'가 명물이다.",
+  "do": "협곡 다리를 건너며 포트홀 지형을 보고 밧줄 바구니로 당고 주문",
+  "station": "이치노세키역 (一ノ関)",
+  "access": "이치노세키역 앞에서 이와테현 교통 겐비케이선 버스(약 20~30분)",
+  "jr_pass": [
+   "JR 동일본 패스",
+   "JR 도호쿠·미나미홋카이도 레일패스",
+   "JR 동일본·미나미홋카이도 레일패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을"
+  ],
+  "best_time": "4~11월, 단풍 10월 하순~11월 초",
+  "event": "",
+  "duration": "1~2시간",
+  "cost": "산책 무료, 당고 수백 엔",
+  "walking": "적음",
+  "fit": "매우 잘 맞음",
+  "condition": "비 온 뒤엔 물살이 거셈 / 당고 가게는 겨울 영업 축소 가능",
+  "caution": "게이비케이 뱃놀이와 같은 날 묶기 좋음",
+  "lat": 38.9431,
+  "lng": 141.0507,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/厳美渓"
+  ],
+  "region": "도호쿠"
+ },
+ {
+  "id": "iwate-goishi-coast",
+  "name_ko": "고이시 해안 & 아나토오시 배",
+  "name_ja": "碁石海岸・穴通船",
+  "pref": "이와테",
+  "area": "오후나토",
+  "categories": [
+   "cape",
+   "boat",
+   "nature"
+  ],
+  "summary": "산리쿠 부흥 국립공원의 리아스식 해안으로 약 3km에 기암·해식동굴이 이어진다. 구멍 세 개 뚫린 바위 '아나토오시이소'를 작은 어선이 통과하는 뱃놀이가 있다.",
+  "do": "적송 산책로로 곶과 등대를 걷고, 시즌엔 작은 배로 바위 구멍 통과",
+  "station": "고이시카이간구치 (碁石海岸口, BRT) / 호소우라역 (細浦, BRT)",
+  "access": "이치노세키역에서 JR 오후나토선 열차로 게센누마 → BRT 오후나토선 환승 → 고이시카이간구치 또는 호소우라에서 이와테현 교통 버스(약 16분) + 도보",
+  "jr_pass": [
+   "JR 동일본 패스",
+   "JR 도호쿠·미나미홋카이도 레일패스",
+   "JR 동일본·미나미홋카이도 레일패스"
+  ],
+  "seasons": [
+   "여름",
+   "가을"
+  ],
+  "best_time": "아나토오시 배는 대략 6~11월",
+  "event": "",
+  "duration": "반나절",
+  "cost": "산책 무료, 배는 유료(요금 현지 안내소 확인)",
+  "walking": "보통",
+  "fit": "매우 잘 맞음",
+  "condition": "파도·바람이 세면 배 결항 → 대체: 해안 산책로",
+  "caution": "아나토오시이소는 버스 정류장에서 도보 약 25분. 좌표는 아나토오시이소 기준",
+  "lat": 39.0074,
+  "lng": 141.7353,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/碁石海岸",
+   "https://rurubu.jp/andmore/spot/80002665"
+  ],
+  "region": "도호쿠"
+ },
+ {
   "id": "iwate-kitayamazaki",
   "name_ko": "기타야마자키 해안 절벽 & 사파선",
   "name_ja": "北山崎・サッパ船",
@@ -1799,6 +3991,167 @@ window.SPOTS = [
    "https://ja.wikipedia.org/wiki/北山崎",
    "https://www.jreast.co.jp/ko/multi/pass/eastpass.html",
    "https://tanohata-taiken.jp/?page_id=14"
+  ],
+  "region": "도호쿠"
+ },
+ {
+  "id": "iwate-namari-onsen",
+  "name_ko": "나마리 온천 (후지산 료칸·시로자루노유)",
+  "name_ja": "鉛温泉（藤三旅館・白猿の湯）",
+  "pref": "이와테",
+  "area": "하나마키",
+  "categories": [
+   "onsen"
+  ],
+  "summary": "1841년 개업한 강가 한 채짜리 온천 여관. 지하의 '시로자루노유'는 깊이 약 1.25m로 서서 들어가는 발밑 용출 바위탕이며 '일본에서 가장 깊은 자연 용출 바위탕'으로 불린다.",
+  "do": "서서 들어가는 깊은 바위탕과 강이 보이는 노천탕 즐기기, 탕치부에 묵어 보기",
+  "station": "하나마키역 (花巻)",
+  "access": "하나마키역에서 이와테현 교통 버스(신나마리온센행) 약 30분 → '나마리온센'",
+  "jr_pass": [
+   "JR 동일본 패스",
+   "JR 도호쿠·미나미홋카이도 레일패스",
+   "JR 동일본·미나미홋카이도 레일패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "연중. 단풍 10월 하순, 눈 오는 겨울도 좋음",
+  "event": "",
+  "duration": "1박 추천",
+  "cost": "당일 입욕 약 천 엔 전후, 탕치부 숙박은 비교적 저렴",
+  "walking": "적음",
+  "fit": "매우 잘 맞음",
+  "condition": "",
+  "caution": "시로자루노유는 혼욕이며 여성 전용 시간대가 따로 있음. 같은 하나마키의 오사와 온천과 가까움",
+  "lat": 39.4656,
+  "lng": 140.9918,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/鉛温泉"
+  ],
+  "region": "도호쿠"
+ },
+ {
+  "id": "iwate-toshichi-onsen",
+  "name_ko": "도시치 온천 (사이운소)",
+  "name_ja": "藤七温泉 彩雲荘",
+  "pref": "이와테",
+  "area": "하치만타이",
+  "categories": [
+   "onsen",
+   "volcano",
+   "view"
+  ],
+  "summary": "해발 약 1,400m, 도호쿠에서 가장 높은 곳의 온천. 유백색 유황천 노천탕이 산 능선 위 들판에 흩어져 있고 바닥의 진흙을 피부에 바를 수 있다.",
+  "do": "하치만타이 정상 드래곤 아이와 묶어 산 위 노천탕에서 구름과 능선 보기",
+  "station": "모리오카역 (盛岡)",
+  "access": "모리오카역에서 이와테현북버스 하치만타이행(아스피테 라인) 약 2시간 → '도시치온센' 하차 바로. 시즌 운행",
+  "jr_pass": [
+   "JR 동일본 패스",
+   "JR 도호쿠·미나미홋카이도 레일패스",
+   "JR 동일본·미나미홋카이도 레일패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을"
+  ],
+  "best_time": "4월 하순~10월 하순. 단풍은 9월 하순~10월 초",
+  "event": "",
+  "duration": "반나절",
+  "cost": "당일 입욕 약 700엔",
+  "walking": "적음",
+  "fit": "매우 잘 맞음",
+  "condition": "4월 하순~10월 하순만 영업(쥬카이 라인 동계 폐쇄)",
+  "caution": "노천탕 대부분이 혼욕(여성 전용 1곳). 자가발전·전화선 없음, 휴대폰 전파 약함",
+  "lat": 39.9412,
+  "lng": 140.8599,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/藤七温泉",
+   "https://rurubu.jp/andmore/spot/80002909"
+  ],
+  "region": "도호쿠"
+ },
+ {
+  "id": "iwate-morioka-sansa-odori",
+  "name_ko": "모리오카 산사 오도리",
+  "name_ja": "盛岡さんさ踊り",
+  "pref": "이와테",
+  "area": "모리오카",
+  "categories": [
+   "festival",
+   "night"
+  ],
+  "summary": "수만 명이 북을 메고 춤추며 시내 중앙로를 행진하는 여름 축제. '세계 최대 일본 북 합주'로 기네스 기록이 있고 행진 뒤 원무엔 관광객도 끼어들 수 있다.",
+  "do": "저녁 퍼레이드를 보고 마지막 자유 참가 원무에 들어가 같이 춤추기",
+  "station": "모리오카역 (盛岡)",
+  "access": "모리오카역에서 버스 또는 도보 약 20분 → 시청 앞 주오도리",
+  "jr_pass": [
+   "JR 동일본 패스",
+   "JR 도호쿠·미나미홋카이도 레일패스",
+   "JR 동일본·미나미홋카이도 레일패스"
+  ],
+  "seasons": [
+   "여름"
+  ],
+  "best_time": "8월 1~4일 저녁",
+  "event": "매년 8월 1~4일(7/31 전야 행사)",
+  "duration": "반나절",
+  "cost": "관람 무료(유료 관람석 별도)",
+  "walking": "적음",
+  "fit": "매우 잘 맞음",
+  "condition": "우천 시 일정 변경 가능",
+  "caution": "아오모리 네부타·아키타 간토와 기간이 겹쳐 도호쿠 축제 순례 일정으로 묶을 수 있으나 숙소가 빨리 참",
+  "lat": 39.7021,
+  "lng": 141.1545,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/盛岡さんさ踊り"
+  ],
+  "region": "도호쿠"
+ },
+ {
+  "id": "iwate-tsunagi-onsen",
+  "name_ko": "모리오카 쓰나기 온천",
+  "name_ja": "盛岡つなぎ温泉",
+  "pref": "이와테",
+  "area": "모리오카",
+  "categories": [
+   "onsen",
+   "nature"
+  ],
+  "summary": "모리오카 시내에서 버스로 갈 수 있는 '모리오카의 안방' 온천. 고쇼호 호숫가에 있어 노천탕에서 호수와 이와테산이 보이는 숙소가 많다.",
+  "do": "호수와 이와테산이 보이는 노천탕에서 목욕하고 호숫가 산책",
+  "station": "모리오카역 (盛岡)",
+  "access": "모리오카역 10번 승강장에서 이와테현 교통 '모리오카쓰나기온센'행 버스 종점",
+  "jr_pass": [
+   "JR 동일본 패스",
+   "JR 도호쿠·미나미홋카이도 레일패스",
+   "JR 동일본·미나미홋카이도 레일패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "연중. 눈 덮인 이와테산이 보이는 겨울~봄",
+  "event": "",
+  "duration": "1박 추천",
+  "cost": "당일 입욕 천 엔 안팎(숙소별)",
+  "walking": "적음",
+  "fit": "매우 잘 맞음",
+  "condition": "맑은 날 이와테산 조망",
+  "caution": "",
+  "lat": 39.6762,
+  "lng": 141.0226,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/盛岡つなぎ温泉"
   ],
   "region": "도호쿠"
  },
@@ -1884,6 +4237,162 @@ window.SPOTS = [
   "region": "도호쿠"
  },
  {
+  "id": "iwate-kosode-coast",
+  "name_ko": "고소데 해안 (북방 한계의 해녀)",
+  "name_ja": "小袖海岸（北限の海女）",
+  "pref": "이와테",
+  "area": "구지",
+  "categories": [
+   "cape",
+   "culture"
+  ],
+  "summary": "드라마 '아마짱'의 무대가 된 바위 해안. 조합으로 활동하는 해녀의 북방 한계 마을로, 여름엔 옛 복장의 해녀 잠수 시연을 볼 수 있다.",
+  "do": "여름에 해녀 잠수 시연을 보고 쓰리가네 동굴 등 바위 해안 감상",
+  "station": "구지역 (久慈)",
+  "access": "하치노헤역에서 JR 하치노헤선 약 2시간 → 구지역에서 노선버스(평일 하루 3편, 주말 2편 수준) → 고소데 해녀센터",
+  "jr_pass": [
+   "JR 동일본 패스",
+   "JR 도호쿠·미나미홋카이도 레일패스",
+   "JR 동일본·미나미홋카이도 레일패스"
+  ],
+  "seasons": [
+   "여름"
+  ],
+  "best_time": "해녀 시연 7월 1일~9월 30일",
+  "event": "해녀 잠수 시연: 매년 7~9월(시연 시각은 해녀센터 확인)",
+  "duration": "반나절",
+  "cost": "시연 관람 유료 여부는 현지 확인",
+  "walking": "적음",
+  "fit": "조건부",
+  "condition": "바다 상태가 나쁘면 시연 중지",
+  "caution": "버스가 하루 몇 편뿐이라 왕복 시간 먼저 확인. 좌표는 고소데 해녀센터",
+  "lat": 40.1685,
+  "lng": 141.8524,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/小袖海岸"
+  ],
+  "region": "도호쿠"
+ },
+ {
+  "id": "iwate-koiwai-farm",
+  "name_ko": "고이와이 농장 (마키바엔)",
+  "name_ja": "小岩井農場まきば園",
+  "pref": "이와테",
+  "area": "시즈쿠이시",
+  "categories": [
+   "nature",
+   "city"
+  ],
+  "summary": "이와테산을 배경으로 목초지가 펼쳐진 민간 대농장. 공개 구역 '마키바엔'에서 양과 소를 보고 유제품을 먹을 수 있으며, 들판의 '고이와이 외그루 벚나무'가 유명하다.",
+  "do": "목장 산책, 소프트아이스크림·유제품 맛보기, 외그루 벚나무와 이와테산 풍경 보기",
+  "station": "모리오카역 (盛岡) / 고이와이역 (小岩井)",
+  "access": "모리오카역 동쪽 출구 10번 승강장에서 이와테현 교통 고이와이농장선 버스 → '고이와이노조 마키바엔'",
+  "jr_pass": [
+   "JR 동일본 패스",
+   "JR 도호쿠·미나미홋카이도 레일패스",
+   "JR 동일본·미나미홋카이도 레일패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을"
+  ],
+  "best_time": "외그루 벚꽃 4월 하순~5월 초, 초록 목초지 5~9월",
+  "event": "",
+  "duration": "반나절",
+  "cost": "입장 유료(천 엔 안팎, 시즌별 공식 확인)",
+  "walking": "보통",
+  "fit": "조건부",
+  "condition": "맑은 날 이와테산이 보여야 제맛",
+  "caution": "외그루 벚나무는 목장 안 다른 위치라 마키바엔에서 걷거나 차로 이동. 겨울 영업은 공식 확인",
+  "lat": 39.7505,
+  "lng": 141.0171,
+  "url": "https://www.koiwai.co.jp/makiba/",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/小岩井農場"
+  ],
+  "region": "도호쿠"
+ },
+ {
+  "id": "iwate-kitakami-tenshochi",
+  "name_ko": "기타카미 덴쇼치 벚꽃길",
+  "name_ja": "北上展勝地",
+  "pref": "이와테",
+  "area": "기타카미",
+  "categories": [
+   "nature",
+   "festival"
+  ],
+  "summary": "기타카미강을 따라 수령 80년 넘는 왕벚나무가 약 2km 터널을 이루는 '일본 벚꽃 명소 100선'. 벚나무 약 1만 그루가 모여 있다.",
+  "do": "강변 벚꽃 터널을 걷고 축제 기간 강 위 잉어깃발과 꽃을 함께 보기",
+  "station": "기타카미역 (北上)",
+  "access": "기타카미역에서 버스로 '덴쇼치' 하차(역에서 걸으면 약 20분대)",
+  "jr_pass": [
+   "JR 동일본 패스",
+   "JR 도호쿠·미나미홋카이도 레일패스",
+   "JR 동일본·미나미홋카이도 레일패스"
+  ],
+  "seasons": [
+   "봄"
+  ],
+  "best_time": "4월 중순~하순",
+  "event": "기타카미 덴쇼치 벚꽃 축제: 매년 4월 중순~5월 초, 날짜는 매년 공식 확인",
+  "duration": "반나절",
+  "cost": "무료",
+  "walking": "보통",
+  "fit": "조건부",
+  "condition": "벚꽃 시기에만 진가",
+  "caution": "",
+  "lat": 39.281,
+  "lng": 141.1293,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/北上市立公園展勝地"
+  ],
+  "region": "도호쿠"
+ },
+ {
+  "id": "iwate-ryusendo",
+  "name_ko": "류센도",
+  "name_ja": "龍泉洞",
+  "pref": "이와테",
+  "area": "이와이즈미",
+  "categories": [
+   "nature"
+  ],
+  "summary": "일본 3대 종유동 중 하나. 동굴 안 지하호수 물이 세계적 수준으로 투명해 짙은 코발트색으로 보이며 명수 100선에도 뽑혔다.",
+  "do": "조명된 지하호수를 내려다보며 동굴 탐방",
+  "station": "모리오카역 (盛岡) / 이와이즈미오모토역 (岩泉小本, 산리쿠 철도)",
+  "access": "모리오카역에서 JR버스 도호쿠 하야사카고원선 약 2시간 20분 → '류센도'. 또는 산리쿠 철도 이와이즈미오모토역에서 정 버스 약 45분. JR버스·산리쿠 철도는 JR 동일본 패스만 적용",
+  "jr_pass": [
+   "JR 동일본 패스",
+   "JR 도호쿠·미나미홋카이도 레일패스",
+   "JR 동일본·미나미홋카이도 레일패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "연중(동굴 안은 기온이 일정)",
+  "event": "",
+  "duration": "반나절",
+  "cost": "입장 유료(천 엔 안팎, 공식 확인)",
+  "walking": "보통",
+  "fit": "조건부",
+  "condition": "큰비 뒤엔 수위 상승으로 관람 제한 가능",
+  "caution": "동굴 안 계단이 많고 서늘함. 버스 편수가 적어 왕복 시간 확인",
+  "lat": 39.8605,
+  "lng": 141.7973,
+  "url": "https://www.iwate-ryusendo.jp/",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/龍泉洞"
+  ],
+  "region": "도호쿠"
+ },
+ {
   "id": "iwate-jodogahama",
   "name_ko": "조도가하마",
   "name_ja": "浄土ヶ浜",
@@ -1920,6 +4429,43 @@ window.SPOTS = [
   "sources": [
    "https://ja.wikipedia.org/wiki/浄土ヶ浜",
    "https://www.city.miyako.iwate.jp/gyosei/soshiki/kanko/4/8/2/1/1154.html"
+  ],
+  "region": "도호쿠"
+ },
+ {
+  "id": "iwate-chagu-chagu-umakko",
+  "name_ko": "차구차구 우마코",
+  "name_ja": "チャグチャグ馬コ",
+  "pref": "이와테",
+  "area": "모리오카·다키자와",
+  "categories": [
+   "festival"
+  ],
+  "summary": "화려한 장식과 방울을 단 말 약 100마리가 아이를 태우고 약 14km를 걷는 초여름 행사. 방울 소리가 '일본의 소리 풍경 100선'에 뽑혔다.",
+  "do": "모리오카 시내 길가에서 방울 소리 울리며 지나가는 장식 말 행렬 구경",
+  "station": "모리오카역 (盛岡)",
+  "access": "다키자와의 오니고시 소젠 신사에서 출발해 모리오카역 앞을 지나 모리오카 하치만궁까지. 시내 구간은 모리오카역에서 도보권",
+  "jr_pass": [
+   "JR 동일본 패스",
+   "JR 도호쿠·미나미홋카이도 레일패스",
+   "JR 동일본·미나미홋카이도 레일패스"
+  ],
+  "seasons": [
+   "여름"
+  ],
+  "best_time": "6월 둘째 토요일",
+  "event": "매년 6월 둘째 토요일, 날짜는 매년 공식 확인",
+  "duration": "반나절",
+  "cost": "무료",
+  "walking": "보통",
+  "fit": "조건부",
+  "condition": "하루만 열림. 통과 시각은 공식 시간표로 확인",
+  "caution": "좌표는 도착점 모리오카 하치만궁 기준",
+  "lat": 39.6954,
+  "lng": 141.1639,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/チャグチャグ馬コ"
   ],
   "region": "도호쿠"
  },
@@ -1961,6 +4507,208 @@ window.SPOTS = [
    "https://www.hachimantai.or.jp/",
    "https://www.data-space.site/kankou/dragoneye/show.cgi",
    "https://www.hachimantai.or.jp/access/index.html"
+  ],
+  "region": "도호쿠"
+ },
+ {
+  "id": "iwate-takata-matsubara-miracle-pine",
+  "name_ko": "다카타마쓰바라 쓰나미 부흥기념공원 & 기적의 한 그루 소나무",
+  "name_ja": "高田松原津波復興祈念公園・奇跡の一本松",
+  "pref": "이와테",
+  "area": "리쿠젠타카타",
+  "categories": [
+   "culture",
+   "cape"
+  ],
+  "summary": "2011년 쓰나미에 7만 그루 솔숲이 쓸려 간 자리에 남은 '기적의 한 그루 소나무'와 유구, 동일본대지진 쓰나미 전승관이 모인 추모·부흥 공원.",
+  "do": "전승관에서 재해 기록을 보고 바다 쪽 '기도의 축'을 따라 한 그루 소나무까지 걷기",
+  "station": "기세키노잇폰마쓰 (奇跡の一本松, BRT)",
+  "access": "JR 오후나토선 BRT로 '기세키노잇폰마쓰' 하차, 공원(미치노에키 다카타마쓰바라) 바로 앞",
+  "jr_pass": [
+   "JR 동일본 패스",
+   "JR 도호쿠·미나미홋카이도 레일패스",
+   "JR 동일본·미나미홋카이도 레일패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "연중",
+  "event": "",
+  "duration": "반나절",
+  "cost": "공원 무료",
+  "walking": "보통",
+  "fit": "백업",
+  "condition": "",
+  "caution": "한 그루 소나무까지는 공원 안에서 걸어야 함. 추모 공간이라 조용히",
+  "lat": 39.0069,
+  "lng": 141.6269,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/高田松原津波復興祈念公園"
+  ],
+  "region": "도호쿠"
+ },
+ {
+  "id": "iwate-tono-kappabuchi",
+  "name_ko": "도노 갓파부치 & 덴쇼엔",
+  "name_ja": "遠野 カッパ淵・伝承園",
+  "pref": "이와테",
+  "area": "도노",
+  "categories": [
+   "town",
+   "culture"
+  ],
+  "summary": "야나기타 구니오 '도노 이야기'의 고장. 절 뒤 작은 개울 '갓파부치'엔 갓파(물요괴) 전설이 있고, 바로 옆 덴쇼엔엔 ㄱ자 민가와 민담 관련 전시가 있다.",
+  "do": "갓파 포획 허가증 이야기를 듣고 개울가 산책, 덴쇼엔에서 옛 민가와 오시라사마 보기",
+  "station": "도노역 (遠野)",
+  "access": "신하나마키역에서 JR 가마이시선 약 1시간 → 도노역에서 이와테현 교통 쓰치부치선 버스 약 22분 '덴쇼엔' 하차, 도보 약 5분",
+  "jr_pass": [
+   "JR 동일본 패스",
+   "JR 도호쿠·미나미홋카이도 레일패스",
+   "JR 동일본·미나미홋카이도 레일패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을"
+  ],
+  "best_time": "5~10월",
+  "event": "",
+  "duration": "반나절",
+  "cost": "갓파부치 무료, 덴쇼엔 유료(수백 엔)",
+  "walking": "적음",
+  "fit": "백업",
+  "condition": "",
+  "caution": "가마이시선·버스 모두 편수가 적어 시간표 확인",
+  "lat": 39.3542,
+  "lng": 141.5705,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/カッパ淵"
+  ],
+  "region": "도호쿠"
+ },
+ {
+  "id": "iwate-morioka-castle-park",
+  "name_ko": "모리오카성 터 공원",
+  "name_ja": "盛岡城跡公園（岩手公園）",
+  "pref": "이와테",
+  "area": "모리오카",
+  "categories": [
+   "culture",
+   "city"
+  ],
+  "summary": "흙 성벽이 많은 도호쿠에서 드물게 높이 약 14m의 하얀 화강암 석벽이 남은 성터 공원. 모리오카 시내 산책의 중심이다.",
+  "do": "석벽 위를 걸으며 공원 산책, 근처 이와테 은행 빨간 벽돌관·냉면·완코소바와 묶기",
+  "station": "모리오카역 (盛岡)",
+  "access": "모리오카역 동쪽 출구에서 순환버스 '덴덴무시'로 '모리오카조아토코엔' 하차, 또는 도보 약 20분",
+  "jr_pass": [
+   "JR 동일본 패스",
+   "JR 도호쿠·미나미홋카이도 레일패스",
+   "JR 동일본·미나미홋카이도 레일패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "4월 하순 벚꽃, 11월 단풍",
+  "event": "",
+  "duration": "1~2시간",
+  "cost": "무료",
+  "walking": "보통",
+  "fit": "백업",
+  "condition": "",
+  "caution": "",
+  "lat": 39.6999,
+  "lng": 141.1501,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/盛岡城"
+  ],
+  "region": "도호쿠"
+ },
+ {
+  "id": "iwate-motsuji",
+  "name_ko": "모쓰지 (정토 정원)",
+  "name_ja": "毛越寺",
+  "pref": "이와테",
+  "area": "히라이즈미",
+  "categories": [
+   "culture",
+   "nature"
+  ],
+  "summary": "오슈 후지와라 가문이 세운 대가람 터에 헤이안 시대 정토 정원과 큰 연못 '오이즈미가이케'가 남은 절. 특별사적·특별명승이자 히라이즈미 세계유산 구성 요소.",
+  "do": "연못 둘레를 천천히 돌며 헤이안 정원과 옛 가람 초석 보기",
+  "station": "히라이즈미역 (平泉)",
+  "access": "이치노세키역에서 JR 도호쿠 본선 → 히라이즈미역에서 도보 약 9분",
+  "jr_pass": [
+   "JR 동일본 패스",
+   "JR 도호쿠·미나미홋카이도 레일패스",
+   "JR 동일본·미나미홋카이도 레일패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을"
+  ],
+  "best_time": "5월 후지와라 축제·곡수연, 6~7월 꽃창포, 10~11월 단풍",
+  "event": "",
+  "duration": "1~2시간",
+  "cost": "약 700엔",
+  "walking": "보통",
+  "fit": "백업",
+  "condition": "",
+  "caution": "주손지와 같은 날 묶기 좋음",
+  "lat": 38.9872,
+  "lng": 141.1075,
+  "url": "https://www.motsuji.or.jp/",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/毛越寺"
+  ],
+  "region": "도호쿠"
+ },
+ {
+  "id": "iwate-miyazawa-kenji-museum",
+  "name_ko": "미야자와 겐지 기념관 (고시오산)",
+  "name_ja": "宮沢賢治記念館（胡四王山）",
+  "pref": "이와테",
+  "area": "하나마키",
+  "categories": [
+   "culture"
+  ],
+  "summary": "'은하철도의 밤' 작가 미야자와 겐지의 고향에 있는 기념관. 고시오산 언덕에 기념관, 이하토브관, 동화마을, '주문이 많은 요리점'을 딴 식당이 모여 있다.",
+  "do": "기념관 전시를 보고 언덕 아래 겐지 동화마을까지 걸어 내려가기",
+  "station": "신하나마키역 (新花巻)",
+  "access": "신하나마키역 남서쪽 언덕. 역에서 버스·택시 또는 도보(오르막)",
+  "jr_pass": [
+   "JR 동일본 패스",
+   "JR 도호쿠·미나미홋카이도 레일패스",
+   "JR 동일본·미나미홋카이도 레일패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "연중. 동화마을은 저녁 라이트업 시즌이 있음",
+  "event": "",
+  "duration": "반나절",
+  "cost": "기념관 수백 엔 수준",
+  "walking": "보통",
+  "fit": "백업",
+  "condition": "",
+  "caution": "기념관은 언덕 9합목 무렵이라 계단·오르막 있음. 요금·시간은 공식 확인",
+  "lat": 39.4015,
+  "lng": 141.1614,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/胡四王山"
   ],
   "region": "도호쿠"
  },
@@ -2045,6 +4793,87 @@ window.SPOTS = [
   "region": "도호쿠"
  },
  {
+  "id": "miyagi-kesennuma-oshima",
+  "name_ko": "게센누마 오시마",
+  "name_ja": "気仙沼大島",
+  "pref": "미야기",
+  "area": "게센누마",
+  "categories": [
+   "cape",
+   "view"
+  ],
+  "summary": "2019년 게센누마 오시마 대교로 본토와 이어진 섬.가메야마(235m) 정상의 360도 전망, 밟으면 소리 나는 모래 해변 구구나리하마, 남단 등대 곶 류마이자키가 있다.",
+  "do": "가메야마 정상 전망대에 오르고 구구나리하마의 우는 모래 밟아 보기",
+  "station": "게센누마역 (気仙沼)",
+  "access": "이치노세키역에서 JR 오후나토선 약 1시간 20분 → 게센누마역에서 미야코 버스 오시마선(평일 약 8왕복)",
+  "jr_pass": [
+   "JR 동일본 패스",
+   "JR 도호쿠·미나미홋카이도 레일패스",
+   "JR 동일본·미나미홋카이도 레일패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을"
+  ],
+  "best_time": "5~10월 맑은 날",
+  "event": "",
+  "duration": "하루",
+  "cost": "무료(모노레일 등 시설은 유료)",
+  "walking": "보통",
+  "fit": "매우 잘 맞음",
+  "condition": "맑은 날 전망",
+  "caution": "구구나리하마는 차가 못 들어가 산길 도보 약 20분. 가메야마 모노레일은 2026년 7월 개통으로 알려짐(운행 정보 현지 확인)",
+  "lat": 38.8617,
+  "lng": 141.6289,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/大島_(宮城県気仙沼市)"
+  ],
+  "region": "도호쿠"
+ },
+ {
+  "id": "miyagi-togatta-onsen",
+  "name_ko": "도갓타 온천",
+  "name_ja": "遠刈田温泉",
+  "pref": "미야기",
+  "area": "자오",
+  "categories": [
+   "onsen",
+   "town"
+  ],
+  "summary": "자오 연봉 동쪽 기슭의 온천 마을이자 고케시 인형 3대 발상지 중 한 곳. 마을 한가운데 공동탕 '가미노유'와 아주 뜨거운 '고토부키노유'가 있다.",
+  "do": "공동탕 두 곳에 들르고 고케시 공방 거리 구경, 겨울엔 자오 수빙 투어 거점으로",
+  "station": "시로이시자오역 (白石蔵王)",
+  "access": "시로이시자오역에서 미야코 버스 약 50분 → '도갓타온센 유노마치'. 센다이역 서쪽에서 고속버스 약 72분",
+  "jr_pass": [
+   "JR 동일본 패스",
+   "JR 도호쿠·미나미홋카이도 레일패스",
+   "JR 동일본·미나미홋카이도 레일패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "연중. 겨울 수빙 시즌(1~2월) 거점",
+  "event": "",
+  "duration": "1박 추천",
+  "cost": "공동탕 수백 엔",
+  "walking": "적음",
+  "fit": "매우 잘 맞음",
+  "condition": "",
+  "caution": "",
+  "lat": 38.1239,
+  "lng": 140.5771,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/遠刈田温泉"
+  ],
+  "region": "도호쿠"
+ },
+ {
   "id": "miyagi-matsushima-cruise",
   "name_ko": "마쓰시마 유람선 (니오마루 코스)",
   "name_ja": "松島島巡り観光船（仁王丸コース）",
@@ -2087,6 +4916,86 @@ window.SPOTS = [
   "region": "도호쿠"
  },
  {
+  "id": "miyagi-zao-sumikawa-snow-monster",
+  "name_ko": "미야기 자오 수빙 설상차 투어 (스미카와 스노파크)",
+  "name_ja": "みやぎ蔵王 すみかわスノーパーク 樹氷めぐり（雪上車ワイルドモンスター号）",
+  "pref": "미야기",
+  "area": "자오",
+  "categories": [
+   "snow",
+   "view"
+  ],
+  "summary": "난방 되는 설상차 '와일드 몬스터호'를 타고 해발 약 1,600m 수빙(스노 몬스터) 벌판까지 올라가는 겨울 투어. 스키를 못 해도 수빙을 가까이 볼 수 있다.",
+  "do": "설상차로 편도 약 40분 올라가 수빙 사이에 내려 약 10분 감상",
+  "station": "센다이역 (仙台) / 시로이시자오역 (白石蔵王)",
+  "access": "스키 시즌에 센다이역 동쪽 출구·나가마치역에서 예약제 셔틀 '주효호', 또는 도갓타 온천에서 예약제 무료 셔틀",
+  "jr_pass": [
+   "JR 동일본 패스",
+   "JR 도호쿠·미나미홋카이도 레일패스",
+   "JR 동일본·미나미홋카이도 레일패스"
+  ],
+  "seasons": [
+   "겨울"
+  ],
+  "best_time": "1~2월(2025-26 시즌은 12/20~3/8 운행)",
+  "event": "",
+  "duration": "반나절",
+  "cost": "설상차 투어 수천 엔(좌석 등급별, 공식 확인)",
+  "walking": "적음",
+  "fit": "매우 잘 맞음",
+  "condition": "악천후 시 운휴 / 수빙 상태는 해마다 다름",
+  "caution": "예약 권장(전 시즌엔 11/1부터 접수). 2026-27 시즌 일정은 공식 확인. 영하 10도 이하 대비 방한",
+  "lat": 38.1333,
+  "lng": 140.4917,
+  "url": "http://www.zao-sumikawa.jp/",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/すみかわスノーパーク",
+   "https://www.walkerplus.com/spot/ar0204s34602/"
+  ],
+  "region": "도호쿠"
+ },
+ {
+  "id": "miyagi-sakunami-onsen",
+  "name_ko": "사쿠나미 온천",
+  "name_ja": "作並温泉",
+  "pref": "미야기",
+  "area": "센다이(사쿠나미)",
+  "categories": [
+   "onsen",
+   "nature"
+  ],
+  "summary": "히로세강 상류 계곡 단구에 여관이 늘어선 산속 온천. 강을 바로 내려다보는 노천탕이 많고 근처에 닛카 위스키 미야기쿄 증류소가 있다.",
+  "do": "계곡 옆 노천탕에서 목욕, 미야기쿄 증류소 견학과 묶기",
+  "station": "사쿠나미역 (作並)",
+  "access": "센다이역에서 JR 센잔선 약 40분 → 사쿠나미역에서 시영버스 또는 숙소 송영. 센다이역 앞에서 직행 버스도 있음",
+  "jr_pass": [
+   "JR 동일본 패스",
+   "JR 도호쿠·미나미홋카이도 레일패스",
+   "JR 동일본·미나미홋카이도 레일패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "단풍 10월 하순~11월 초, 설경 겨울",
+  "event": "",
+  "duration": "1박 추천",
+  "cost": "당일 온천 천 엔 안팎(숙소별)",
+  "walking": "적음",
+  "fit": "매우 잘 맞음",
+  "condition": "",
+  "caution": "증류소 견학은 예약제 여부 공식 확인",
+  "lat": 38.3316,
+  "lng": 140.6135,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/作並温泉"
+  ],
+  "region": "도호쿠"
+ },
+ {
   "id": "miyagi-sendai-tanabata",
   "name_ko": "센다이 다나바타 마쓰리",
   "name_ja": "仙台七夕まつり",
@@ -2121,6 +5030,89 @@ window.SPOTS = [
   "url": "https://www.sendaitanabata.com/",
   "sources": [
    "https://www.sendaitanabata.com/"
+  ],
+  "region": "도호쿠"
+ },
+ {
+  "id": "miyagi-akiu-onsen",
+  "name_ko": "아키우 온천 & 라이라이쿄",
+  "name_ja": "秋保温泉・磊々峡",
+  "pref": "미야기",
+  "area": "센다이(아키우)",
+  "categories": [
+   "onsen",
+   "nature"
+  ],
+  "summary": "옛 이름 '나토리노 미유'로 왕실 온천이었던 센다이의 안방 온천. 온천가 바로 옆 나토리강이 깎은 협곡 라이라이쿄 산책로가 있다.",
+  "do": "라이라이쿄 협곡 산책 후 온천 숙소나 당일 온천에서 목욕",
+  "station": "센다이역 (仙台)",
+  "access": "센다이역에서 다케야 교통 '센다이 세이부 라이너' 약 30분, 또는 미야기 교통 버스 약 45분~1시간. 숙소 송영버스 많음",
+  "jr_pass": [
+   "JR 동일본 패스",
+   "JR 도호쿠·미나미홋카이도 레일패스",
+   "JR 동일본·미나미홋카이도 레일패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "연중. 단풍 10월 하순~11월 중순",
+  "event": "",
+  "duration": "1박 추천",
+  "cost": "당일 온천 천 엔 안팎",
+  "walking": "적음",
+  "fit": "매우 잘 맞음",
+  "condition": "",
+  "caution": "",
+  "lat": 38.2251,
+  "lng": 140.72,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/秋保温泉"
+  ],
+  "region": "도호쿠"
+ },
+ {
+  "id": "miyagi-kinkasan",
+  "name_ko": "긴카산 (고가네야마 신사)",
+  "name_ja": "金華山・黄金山神社",
+  "pref": "미야기",
+  "area": "이시노마키",
+  "categories": [
+   "cape",
+   "culture",
+   "boat"
+  ],
+  "summary": "오시카 반도 앞바다의 섬 전체가 고가네야마 신사 경내인 영산. '3년 연속 참배하면 돈 걱정 없다'는 속설이 있고 신의 사자로 보호받는 사슴이 많다.",
+  "do": "배로 건너가 신사 참배, 사슴과 함께 섬 산책(체력 되면 정상 등산)",
+  "station": "오나가와역 (女川) / 이시노마키역 (石巻)",
+  "access": "JR 이시노마키선 오나가와역에서 도보 약 5분 오나가와항 → 배 약 35분. 또는 이시노마키역에서 버스 약 1시간 15분 아유카와항 → 배 약 25분",
+  "jr_pass": [
+   "JR 동일본 패스",
+   "JR 도호쿠·미나미홋카이도 레일패스",
+   "JR 동일본·미나미홋카이도 레일패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을"
+  ],
+  "best_time": "5~10월. 10월 첫째·둘째 일요일 사슴 뿔 자르기",
+  "event": "",
+  "duration": "하루",
+  "cost": "배 왕복 수천 엔(운항사별 공식 확인)",
+  "walking": "보통",
+  "fit": "조건부",
+  "condition": "파도·강풍 시 결항 → 대체: 이시노마키·오나가와 시내",
+  "caution": "배는 운항일·편수가 적어(주말·성수기 위주일 수 있음) 반드시 사전 확인. 섬 숙박은 신사 참집전뿐",
+  "lat": 38.298,
+  "lng": 141.556,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/金華山_(宮城県)",
+   "https://ja.wikipedia.org/wiki/黄金山神社_(石巻市)"
   ],
   "region": "도호쿠"
  },
@@ -2244,6 +5236,167 @@ window.SPOTS = [
   "region": "도호쿠"
  },
  {
+  "id": "miyagi-akiu-otaki",
+  "name_ko": "아키우 오타키 (폭포)",
+  "name_ja": "秋保大滝",
+  "pref": "미야기",
+  "area": "센다이(아키우)",
+  "categories": [
+   "nature",
+   "snow"
+  ],
+  "summary": "높이 약 55m, 폭 약 6m의 국가 명승 폭포로 '일본 폭포 100선'. 위 전망대와 폭포 바로 밑 둘 다 갈 수 있고 2월 초엔 얼어붙기도 한다.",
+  "do": "부동존 옆 전망대에서 본 뒤 산책로로 폭포 아래까지 내려가기",
+  "station": "센다이역 (仙台) / 아야시역 (愛子)",
+  "access": "센다이역 서쪽 8번 승강장에서 미야기 교통 '아키우 오타키'행 약 1시간 25분(토·일·공휴일만). 평일은 JR 센잔선 아야시역에서 시영버스 약 38분 + 도보 5분",
+  "jr_pass": [
+   "JR 동일본 패스",
+   "JR 도호쿠·미나미홋카이도 레일패스",
+   "JR 동일본·미나미홋카이도 레일패스"
+  ],
+  "seasons": [
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "단풍 10월 하순~11월 초, 빙폭은 2월 초 한파 때",
+  "event": "",
+  "duration": "반나절",
+  "cost": "무료",
+  "walking": "보통",
+  "fit": "조건부",
+  "condition": "빙폭은 강한 한파가 이어질 때만 / 겨울 산책로 미끄럼 주의",
+  "caution": "폭포 아래로 가는 길은 계단·비탈. 아키우 온천과 묶기 좋음",
+  "lat": 38.2749,
+  "lng": 140.6029,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/秋保大滝"
+  ],
+  "region": "도호쿠"
+ },
+ {
+  "id": "miyagi-osaki-hachimangu-dontosai",
+  "name_ko": "오사키 하치만궁 & 돈토사이 (불 축제)",
+  "name_ja": "大崎八幡宮・松焚祭（どんと祭）",
+  "pref": "미야기",
+  "area": "센다이",
+  "categories": [
+   "culture",
+   "festival",
+   "night"
+  ],
+  "summary": "다테 마사무네가 지은 국보 사전(곤겐즈쿠리 현존 최고). 매년 1월 14일 밤 정월 장식을 태우는 거대한 불 '돈토사이'와 흰옷 차림 '하다카마이리' 행렬이 장관이다.",
+  "do": "1월 14일 밤 큰 불 옆에서 하다카마이리 행렬 구경. 평소엔 검은 옻칠·금장식 사전 감상",
+  "station": "구니미역 (国見) / 도호쿠후쿠시다이마에역 (東北福祉大前)",
+  "access": "센다이역 서쪽 출구에서 시영버스 '오사키하치만구마에' 하차, 또는 JR 센잔선 도호쿠후쿠시다이마에역 도보 약 12분·구니미역 도보 약 15분",
+  "jr_pass": [
+   "JR 동일본 패스",
+   "JR 도호쿠·미나미홋카이도 레일패스",
+   "JR 동일본·미나미홋카이도 레일패스"
+  ],
+  "seasons": [
+   "겨울",
+   "봄",
+   "여름",
+   "가을"
+  ],
+  "best_time": "1월 14일 저녁~밤",
+  "event": "마쓰타키사이(돈토사이): 매년 1월 14일. 예대제 9월 14~17일(야부사메)",
+  "duration": "1~2시간",
+  "cost": "무료",
+  "walking": "적음",
+  "fit": "조건부",
+  "condition": "돈토사이는 1월 14일 하루뿐 / 몹시 추우니 방한 필수",
+  "caution": "돈토사이 밤엔 매우 붐빔",
+  "lat": 38.2722,
+  "lng": 140.845,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/大崎八幡宮"
+  ],
+  "region": "도호쿠"
+ },
+ {
+  "id": "miyagi-otakamori",
+  "name_ko": "오타카모리 (오쿠마쓰시마 전망)",
+  "name_ja": "大高森（奥松島）",
+  "pref": "미야기",
+  "area": "히가시마쓰시마",
+  "categories": [
+   "view",
+   "nature"
+  ],
+  "summary": "높이 106m의 작은 산이지만 정상에서 360도로 마쓰시마만 섬들과 이시노마키만이 보이는 '마쓰시마 4대 조망' 중 하나(소칸). 노을 명소로도 알려져 있다.",
+  "do": "등산로 약 15분을 올라 정상에서 마쓰시마만 섬 풍경과 노을 보기",
+  "station": "노비루역 (野蒜)",
+  "access": "센다이역에서 JR 센세키선 → 노비루역에서 약 4.5km(택시 약 10분 또는 자전거). 노선버스는 편수 적음",
+  "jr_pass": [
+   "JR 동일본 패스",
+   "JR 도호쿠·미나미홋카이도 레일패스",
+   "JR 동일본·미나미홋카이도 레일패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "맑은 날 해 질 녘",
+  "event": "",
+  "duration": "반나절",
+  "cost": "무료",
+  "walking": "보통",
+  "fit": "조건부",
+  "condition": "맑은 날만 전망 / 노을은 일몰 시각에 맞춰",
+  "caution": "역에서 등산로 입구까지 대중교통이 약함. 해 진 뒤 하산은 손전등 필요",
+  "lat": 38.3406,
+  "lng": 141.1525,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/大高森"
+  ],
+  "region": "도호쿠"
+ },
+ {
+  "id": "miyagi-izunuma",
+  "name_ko": "이즈누마 (기러기 비상·연꽃)",
+  "name_ja": "伊豆沼・内沼",
+  "pref": "미야기",
+  "area": "구리하라·도메",
+  "categories": [
+   "nature"
+  ],
+  "summary": "람사르 협약 등록 습지로 겨울엔 쇠기러기 등 대규모 철새가 온다. 새벽에 수만 마리가 한꺼번에 날아오르는 '네구라다치'와 그 소리가 '일본 소리 풍경 100선'에 뽑혔고, 여름엔 연꽃이 수면을 덮는다.",
+  "do": "겨울 해뜰 무렵 기러기 떼 비상 보기, 또는 7~8월 연꽃 풍경",
+  "station": "닛타역 (新田)",
+  "access": "센다이역에서 JR 도호쿠 본선(고고타·이치노세키 방면, 고고타 환승이 많음) → 닛타역에서 도보 약 10분. 신칸센 구리코마코겐역에선 차로 약 20분",
+  "jr_pass": [
+   "JR 동일본 패스",
+   "JR 도호쿠·미나미홋카이도 레일패스",
+   "JR 동일본·미나미홋카이도 레일패스"
+  ],
+  "seasons": [
+   "겨울",
+   "여름"
+  ],
+  "best_time": "철새 11~2월 새벽·해 질 녘, 연꽃 7~8월",
+  "event": "",
+  "duration": "1~2시간",
+  "cost": "무료",
+  "walking": "보통",
+  "fit": "조건부",
+  "condition": "기러기 비상은 해 뜨기 전후 짧은 시간뿐 → 근처 숙박 또는 첫차·택시 필요",
+  "caution": "새벽 물가는 몹시 추움. 첫차로는 해 뜨기 전 도착이 어려울 수 있음",
+  "lat": 38.7189,
+  "lng": 141.1014,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/伊豆沼"
+  ],
+  "region": "도호쿠"
+ },
+ {
   "id": "miyagi-zao-okama",
   "name_ko": "자오 오카마 (화구호)",
   "name_ja": "蔵王御釜",
@@ -2280,6 +5433,328 @@ window.SPOTS = [
   "url": "https://www.miyakou.co.jp/pickup/zao/",
   "sources": [
    "https://www.miyakou.co.jp/pickup/zao/"
+  ],
+  "region": "도호쿠"
+ },
+ {
+  "id": "miyagi-fukuurajima",
+  "name_ko": "후쿠우라지마",
+  "name_ja": "福浦島",
+  "pref": "미야기",
+  "area": "마쓰시마",
+  "categories": [
+   "cape",
+   "nature"
+  ],
+  "summary": "길이 252m의 빨간 다리로 건너는 마쓰시마만의 작은 섬. 섬 전체가 자연공원이라 나무 약 130종이 자라고 섬 산책로에서 만의 섬들이 보인다.",
+  "do": "빨간 후쿠우라 다리를 건너 섬 둘레 산책로를 걷기",
+  "station": "마쓰시마카이간역 (松島海岸)",
+  "access": "마쓰시마카이간역에서 도보 약 15분 → 다리 입구(유료)",
+  "jr_pass": [
+   "JR 동일본 패스",
+   "JR 도호쿠·미나미홋카이도 레일패스",
+   "JR 동일본·미나미홋카이도 레일패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을"
+  ],
+  "best_time": "4~11월 맑은 날",
+  "event": "",
+  "duration": "1~2시간",
+  "cost": "다리 통행료 수백 엔",
+  "walking": "보통",
+  "fit": "조건부",
+  "condition": "맑은 날 바다색이 좋음",
+  "caution": "센세키 도호쿠 라인 직통 쾌속은 마쓰시마카이간역에 서지 않음",
+  "lat": 38.3667,
+  "lng": 141.0708,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/福浦島"
+  ],
+  "region": "도호쿠"
+ },
+ {
+  "id": "miyagi-minamisanriku-sansan",
+  "name_ko": "미나미산리쿠 산산 상점가",
+  "name_ja": "南三陸さんさん商店街",
+  "pref": "미야기",
+  "area": "미나미산리쿠",
+  "categories": [
+   "city"
+  ],
+  "summary": "쓰나미 피해 뒤 들어선 부흥 상점가로 구마 겐고가 설계한 나무 건물에 해산물 식당과 가게 약 30곳이 모였다. 옆엔 옛 방재대책청사가 남은 부흥기념공원이 있다.",
+  "do": "제철 해산물 덮밥을 먹고 부흥기념공원 언덕에서 마을과 바다 보기",
+  "station": "시즈가와역 (志津川, BRT)",
+  "access": "JR 게센누마선 BRT(야나이즈~게센누마) 시즈가와역에서 바로",
+  "jr_pass": [
+   "JR 동일본 패스",
+   "JR 도호쿠·미나미홋카이도 레일패스",
+   "JR 동일본·미나미홋카이도 레일패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "연중. 주말엔 행사가 많음",
+  "event": "",
+  "duration": "1~2시간",
+  "cost": "식사 1,500~3,000엔 정도",
+  "walking": "적음",
+  "fit": "백업",
+  "condition": "",
+  "caution": "BRT 편수 확인",
+  "lat": 38.6781,
+  "lng": 141.4481,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/南三陸さんさん商店街"
+  ],
+  "region": "도호쿠"
+ },
+ {
+  "id": "miyagi-sendai-castle",
+  "name_ko": "센다이성 터 (아오바성)",
+  "name_ja": "仙台城跡（青葉城）",
+  "pref": "미야기",
+  "area": "센다이",
+  "categories": [
+   "culture",
+   "view"
+  ],
+  "summary": "다테 마사무네가 세운 아오바산 위 성터. 천수는 없지만 석벽과 혼마루 터의 마사무네 기마상, 센다이 시가지를 내려다보는 전망이 대표 볼거리다.",
+  "do": "혼마루 터에서 기마상과 센다이 시내 전망 보기, 해 질 녘 야경",
+  "station": "센다이역 (仙台)",
+  "access": "센다이역에서 관광 순환버스 '루플 센다이' 약 23분 → '센다이조아토'. 지하철 도자이선 고쿠사이센터역에서 도보 약 25분",
+  "jr_pass": [
+   "JR 동일본 패스",
+   "JR 도호쿠·미나미홋카이도 레일패스",
+   "JR 동일본·미나미홋카이도 레일패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "연중. 맑은 날 저녁 시내 야경",
+  "event": "",
+  "duration": "1~2시간",
+  "cost": "혼마루 터 무료",
+  "walking": "보통",
+  "fit": "백업",
+  "condition": "맑은 날 전망",
+  "caution": "기마상은 2022년 지진 피해로 보수 이력 있음. 현재 상태는 현지 확인",
+  "lat": 38.2525,
+  "lng": 140.8562,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/仙台城"
+  ],
+  "region": "도호쿠"
+ },
+ {
+  "id": "miyagi-shiogama-shrine-market",
+  "name_ko": "시오가마 신사 & 시오가마 수산물 중매시장",
+  "name_ja": "鹽竈神社・塩釜水産物仲卸市場",
+  "pref": "미야기",
+  "area": "시오가마",
+  "categories": [
+   "culture",
+   "city"
+  ],
+  "summary": "무쓰국 이치노미야인 시오가마 신사(사전 14동 중요문화재)와, '도호쿠 최대 규모'를 내세우는 수산 중매시장(약 90여 점포)을 묶는 항구 도시 코스. 시장에서 재료를 골라 '마이 해산물 덮밥'을 만들 수 있다.",
+  "do": "아침에 시장에서 해산물 덮밥을 만들어 먹고 신사 돌계단을 올라 참배",
+  "station": "혼시오가마역 (本塩釜) / 히가시시오가마역 (東塩釜)",
+  "access": "센다이역에서 JR 센세키선 약 20분 → 혼시오가마역에서 신사까지 도보 약 10분. 시장은 히가시시오가마역 쪽",
+  "jr_pass": [
+   "JR 동일본 패스",
+   "JR 도호쿠·미나미홋카이도 레일패스",
+   "JR 동일본·미나미홋카이도 레일패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "연중 오전. 4월 하순 시오가마 벚꽃, 7월 셋째 월요일 미나토 마쓰리",
+  "event": "시오가마 미나토 마쓰리: 매년 7월 셋째 월요일(바다의 날), 날짜는 매년 공식 확인",
+  "duration": "반나절",
+  "cost": "신사 무료, 덮밥 2,000엔 전후",
+  "walking": "보통",
+  "fit": "백업",
+  "condition": "",
+  "caution": "시장은 수요일 휴무, 오후엔 문 닫는 가게가 많음(영업시간 출처마다 다름, 공식 확인). 신사 정면 돌계단이 가파름. 좌표는 신사 기준",
+  "lat": 38.3188,
+  "lng": 141.0126,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/鹽竈神社",
+   "https://ja.wikipedia.org/wiki/塩釜水産物仲卸市場"
+  ],
+  "region": "도호쿠"
+ },
+ {
+  "id": "miyagi-zuiganji",
+  "name_ko": "즈이간지 (마쓰시마)",
+  "name_ja": "瑞巌寺",
+  "pref": "미야기",
+  "area": "마쓰시마",
+  "categories": [
+   "culture"
+  ],
+  "summary": "다테 마사무네가 재건한 마쓰시마의 대표 사찰로 본당과 고리가 국보. 참배길 옆 바위에 파 놓은 동굴 유적과 바닷가 고다이도가 함께 볼거리다.",
+  "do": "국보 본당 장벽화와 동굴군을 보고 바닷가 고다이도까지 산책",
+  "station": "마쓰시마카이간역 (松島海岸)",
+  "access": "센다이역에서 JR 센세키선 약 30~40분 → 마쓰시마카이간역에서 도보 약 5분",
+  "jr_pass": [
+   "JR 동일본 패스",
+   "JR 도호쿠·미나미홋카이도 레일패스",
+   "JR 동일본·미나미홋카이도 레일패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "연중. 봄엔 마사무네가 심었다는 와룡매",
+  "event": "",
+  "duration": "1~2시간",
+  "cost": "약 1,000엔",
+  "walking": "적음",
+  "fit": "백업",
+  "condition": "",
+  "caution": "마쓰시마 유람선과 같은 날 묶기 좋음",
+  "lat": 38.3722,
+  "lng": 141.0596,
+  "url": "https://www.zuiganji.or.jp/",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/瑞巌寺"
+  ],
+  "region": "도호쿠"
+ },
+ {
+  "id": "miyagi-zuihoden",
+  "name_ko": "즈이호덴",
+  "name_ja": "瑞鳳殿",
+  "pref": "미야기",
+  "area": "센다이",
+  "categories": [
+   "culture",
+   "night"
+  ],
+  "summary": "다테 마사무네의 영묘. 모모야마 문화풍의 화려한 채색 건축으로 전쟁 때 불탄 뒤 1979년 재건됐다. 센다이 다나바타 기간엔 경내에 대나무 등롱을 밝힌다.",
+  "do": "돌계단 참배길을 올라 화려한 영묘 보기, 8월엔 대나무 등롱 밤 행사",
+  "station": "센다이역 (仙台)",
+  "access": "센다이역에서 '루플 센다이'로 '즈이호덴마에' 하차, 도보 수 분",
+  "jr_pass": [
+   "JR 동일본 패스",
+   "JR 도호쿠·미나미홋카이도 레일패스",
+   "JR 동일본·미나미홋카이도 레일패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "연중. 8월 다나바타 기간 밤",
+  "event": "즈이호덴 다나바타 나이트: 매년 센다이 다나바타(8/6~8) 무렵, 날짜는 매년 공식 확인",
+  "duration": "1~2시간",
+  "cost": "관람료 수백 엔 수준(공식 확인)",
+  "walking": "보통",
+  "fit": "백업",
+  "condition": "",
+  "caution": "참배길 돌계단이 가파름. 센다이성 터와 루플 센다이로 묶기 좋음",
+  "lat": 38.2504,
+  "lng": 140.8667,
+  "url": "https://www.zuihoden.com/",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/瑞鳳殿"
+  ],
+  "region": "도호쿠"
+ },
+ {
+  "id": "akita-kakunodate-hiburi-kamakura",
+  "name_ko": "가쿠노다테 히부리 가마쿠라",
+  "name_ja": "角館の火振りかまくら",
+  "pref": "아키타",
+  "area": "가쿠노다테",
+  "categories": [
+   "festival",
+   "snow",
+   "night"
+  ],
+  "summary": "불붙인 짚 꾸러미를 줄 끝에 매달아 몸 주위로 빙빙 돌려 액을 쫓는 400년 넘은 소정월 행사. 밤 설원에 불의 원이 그려진다.",
+  "do": "불 돌리기 구경, 무명 핫피를 빌려 직접 돌려 보기",
+  "station": "가쿠노다테역 (角館)",
+  "access": "가쿠노다테역에서 도보권. 행사는 가쿠노다테 각 마을 36곳에서 동시에 열림",
+  "jr_pass": [
+   "JR 동일본 패스",
+   "JR 도호쿠·미나미홋카이도 레일패스",
+   "JR 동일본·미나미홋카이도 레일패스"
+  ],
+  "seasons": [
+   "겨울"
+  ],
+  "best_time": "2월 14일 저녁",
+  "event": "매년 2월 14일(날짜 고정)",
+  "duration": "반나절",
+  "cost": "무료",
+  "walking": "보통",
+  "fit": "매우 잘 맞음",
+  "condition": "눈 쌓인 밤이 분위기 최고",
+  "caution": "불티 주의, 화학섬유 옷 피하기(무명 핫피 대여). 눈길 방한화",
+  "lat": 39.5917,
+  "lng": 140.571,
+  "url": "https://tazawako-kakunodate.com/",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/火振りかまくら"
+  ],
+  "region": "도호쿠"
+ },
+ {
+  "id": "akita-goshogake-onsen",
+  "name_ko": "고쇼가케 온천 (진흙 화산 산책로)",
+  "name_ja": "後生掛温泉",
+  "pref": "아키타",
+  "area": "가즈노(하치만타이)",
+  "categories": [
+   "onsen",
+   "volcano"
+  ],
+  "summary": "하치만타이 기슭의 탕치 온천. 숙소 뒤 30분짜리 자연연구로에 94℃ 진흙탕 '곤야지옥', 일본 최대급 진흙 화산이 이어진다.",
+  "do": "자연연구로 한 바퀴 돌고, 나무 상자에서 머리만 내놓는 증기탕 '하코무시' 체험",
+  "station": "가즈노하나와역 (鹿角花輪)",
+  "access": "가즈노하나와역에서 노선버스 하루 2왕복 수준 → '아스피테라인 이리구치' 하차(숙박객 송영 있음). 다자와코역발 버스는 주말·특정 기간만",
+  "jr_pass": [
+   "JR 동일본 패스",
+   "JR 도호쿠·미나미홋카이도 레일패스",
+   "JR 동일본·미나미홋카이도 레일패스"
+  ],
+  "seasons": [
+   "여름",
+   "가을"
+  ],
+  "best_time": "단풍 9월 하순~10월 중순",
+  "event": "",
+  "duration": "1박 추천",
+  "cost": "당일 입욕 요금은 공식 확인",
+  "walking": "보통",
+  "fit": "매우 잘 맞음",
+  "condition": "겨울엔 아스피테라인·다자와코 방면 도로 폐쇄, 하나와 쪽에서만 접근",
+  "caution": "열탕·황화수소 위험으로 산책로 밖 출입 금지",
+  "lat": 39.9752,
+  "lng": 140.8003,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/後生掛温泉"
   ],
   "region": "도호쿠"
  },
@@ -2365,6 +5840,84 @@ window.SPOTS = [
   "region": "도호쿠"
  },
  {
+  "id": "akita-nishimonai-bon-odori",
+  "name_ko": "니시모나이 본오도리",
+  "name_ja": "西馬音内の盆踊",
+  "pref": "아키타",
+  "area": "우고",
+  "categories": [
+   "festival",
+   "night"
+  ],
+  "summary": "길가 모닥불 사이로 눈만 내놓은 검은 두건이나 반달 삿갓, 조각천 의상 차림의 춤꾼들이 망자처럼 조용히 춤춘다. 국가 중요무형민속문화재, 유네스코 '풍류춤'.",
+  "do": "혼마치 거리 망루 주변에서 밤 춤 행렬 관람",
+  "station": "유자와역 (湯沢)",
+  "access": "유자와역에서 우고교통 노선버스로 니시모나이",
+  "jr_pass": [
+   "JR 동일본 패스",
+   "JR 도호쿠·미나미홋카이도 레일패스",
+   "JR 동일본·미나미홋카이도 레일패스"
+  ],
+  "seasons": [
+   "여름"
+  ],
+  "best_time": "8월 16~18일 밤",
+  "event": "매년 8월 16~18일",
+  "duration": "1박 추천",
+  "cost": "무료",
+  "walking": "적음",
+  "fit": "매우 잘 맞음",
+  "condition": "비 오면 축소될 수 있음",
+  "caution": "밤늦게 끝나 귀가 버스·숙소 미리 확보",
+  "lat": 39.1996,
+  "lng": 140.4032,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/西馬音内の盆踊"
+  ],
+  "region": "도호쿠"
+ },
+ {
+  "id": "akita-tamagawa-onsen",
+  "name_ko": "다마가와 온천",
+  "name_ja": "玉川温泉",
+  "pref": "아키타",
+  "area": "센보쿠(다마가와)",
+  "categories": [
+   "onsen",
+   "volcano"
+  ],
+  "summary": "pH 1점대의 일본 최강급 산성천이 98℃로 대량 분출하는 탕치장. 김이 오르는 지열지대에 돗자리를 깔고 눕는 노천 암반욕이 독특하다.",
+  "do": "자연연구로를 걸으며 분출구 '오부케'와 지열지대를 보고, 강산성 온천 입욕",
+  "station": "다자와코역 (田沢湖)",
+  "access": "다자와코역에서 우고교통 버스 약 1시간 15분. 겨울엔 버스가 인근 신타마가와 온천까지만 가는 등 운행이 달라지므로 공식 확인",
+  "jr_pass": [
+   "JR 동일본 패스",
+   "JR 도호쿠·미나미홋카이도 레일패스",
+   "JR 동일본·미나미홋카이도 레일패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을"
+  ],
+  "best_time": "5~10월",
+  "event": "",
+  "duration": "1박 추천",
+  "cost": "당일 입욕 요금은 공식 확인",
+  "walking": "보통",
+  "fit": "매우 잘 맞음",
+  "condition": "겨울엔 접근·영업이 제한됨(신타마가와 온천은 겨울에도 이용 가능 여부 공식 확인)",
+  "caution": "강산성이라 피부가 약하면 짧게. 지열지대 유독가스 주의, 산책로 밖 출입 금지",
+  "lat": 39.9632,
+  "lng": 140.7245,
+  "url": "https://www.tamagawa-onsen.jp/",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/玉川温泉_(秋田県)"
+  ],
+  "region": "도호쿠"
+ },
+ {
   "id": "akita-kanto-festival",
   "name_ko": "아키타 간토 마쓰리",
   "name_ja": "秋田竿燈まつり",
@@ -2400,6 +5953,46 @@ window.SPOTS = [
   "sources": [
    "https://ja.wikipedia.org/wiki/竿燈",
    "https://www.kantou.gr.jp/guidemap/"
+  ],
+  "region": "도호쿠"
+ },
+ {
+  "id": "akita-nairiku-line",
+  "name_ko": "아키타 나이리쿠선 (내륙종관철도)",
+  "name_ja": "秋田内陸縦貫鉄道",
+  "pref": "아키타",
+  "area": "기타아키타~센보쿠",
+  "categories": [
+   "train",
+   "nature"
+  ],
+  "summary": "가쿠노다테와 다카노스를 잇는 약 94km 산간 로컬선. 계곡 철교와 산골 마을, 논 사이를 1~2량 열차가 달린다.",
+  "do": "가쿠노다테에서 아니아이까지 타고 가 산골 역 풍경과 계곡 철교 보기",
+  "station": "가쿠노다테역 (角館) / 다카노스역 (鷹ノ巣)",
+  "access": "JR 가쿠노다테역 또는 다카노스역에서 환승. 나이리쿠선은 사철(JR 패스 미적용)",
+  "jr_pass": [
+   "JR 동일본 패스",
+   "JR 도호쿠·미나미홋카이도 레일패스",
+   "JR 동일본·미나미홋카이도 레일패스"
+  ],
+  "seasons": [
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "단풍 10월 중순~하순, 설경 1~2월",
+  "event": "",
+  "duration": "하루",
+  "cost": "나이리쿠선 운임 별도(공식 확인)",
+  "walking": "적음",
+  "fit": "매우 잘 맞음",
+  "condition": "폭설·폭우 시 운휴 가능",
+  "caution": "편수가 적어 왕복 시간표 확인 필수",
+  "lat": 40.0005,
+  "lng": 140.4013,
+  "url": "https://www.akita-nairiku.com/",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/秋田内陸縦貫鉄道"
   ],
   "region": "도호쿠"
  },
@@ -2444,6 +6037,47 @@ window.SPOTS = [
   "region": "도호쿠"
  },
  {
+  "id": "akita-oyasukyo-daifunto",
+  "name_ko": "오야스쿄 대분탕",
+  "name_ja": "小安峡 大噴湯",
+  "pref": "아키타",
+  "area": "유자와(오야스)",
+  "categories": [
+   "volcano",
+   "nature",
+   "onsen"
+  ],
+  "summary": "깊은 V자 협곡 절벽 틈에서 최고 98℃의 증기와 열탕이 뿜어져 나오는 곳. 계단길로 계곡 바닥까지 내려가 바로 옆에서 본다.",
+  "do": "계곡 산책로로 내려가 분탕 앞까지 걷고, 오야스쿄 온천에서 입욕",
+  "station": "유자와역 (湯沢)",
+  "access": "유자와역에서 우고교통 버스 '오야스온센'행 → '가와라유' 또는 '오야스온센 스키장마에' 하차. 편수가 적어 시간표 확인 필수",
+  "jr_pass": [
+   "JR 동일본 패스",
+   "JR 도호쿠·미나미홋카이도 레일패스",
+   "JR 동일본·미나미홋카이도 레일패스"
+  ],
+  "seasons": [
+   "여름",
+   "가을"
+  ],
+  "best_time": "단풍 10월 중순~하순",
+  "event": "",
+  "duration": "반나절",
+  "cost": "무료(온천 입욕 별도)",
+  "walking": "많음",
+  "fit": "매우 잘 맞음",
+  "condition": "계곡 산책로는 대략 4월 하순~11월 상순만 개방(겨울 폐쇄)",
+  "caution": "계곡 바닥까지 가파른 계단 왕복. 증기가 뜨거우니 난간 밖 금지",
+  "lat": 39.0114,
+  "lng": 140.6608,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/小安峡",
+   "https://rurubu.jp/andmore/spot/80094712/koyo"
+  ],
+  "region": "도호쿠"
+ },
+ {
   "id": "akita-yokote-kamakura",
   "name_ko": "요코테 가마쿠라",
   "name_ja": "横手のかまくら",
@@ -2484,6 +6118,44 @@ window.SPOTS = [
   "region": "도호쿠"
  },
  {
+  "id": "akita-hanawa-bayashi",
+  "name_ko": "하나와 바야시",
+  "name_ja": "花輪ばやし",
+  "pref": "아키타",
+  "area": "가즈노(하나와)",
+  "categories": [
+   "festival",
+   "night"
+  ],
+  "summary": "금박·조명으로 꾸민 10개 마을 야타이(수레)가 이틀 밤새 반주를 울리며 도는 축제. 유네스코 무형유산 '야마·호코·야타이 행사' 중 하나.",
+  "do": "19일 밤 하나와역 앞 광장에 모든 야타이가 모이는 '에키마에 행사' 보기",
+  "station": "가즈노하나와역 (鹿角花輪)",
+  "access": "JR 하나와선 가즈노하나와역 앞 광장이 주요 무대, 시내 도보권",
+  "jr_pass": [
+   "JR 동일본 패스",
+   "JR 도호쿠·미나미홋카이도 레일패스",
+   "JR 동일본·미나미홋카이도 레일패스"
+  ],
+  "seasons": [
+   "여름"
+  ],
+  "best_time": "8월 19일 밤",
+  "event": "매년 8월 19~20일(날짜 고정, 20일 밤은 다음 날 새벽까지)",
+  "duration": "1박 추천",
+  "cost": "무료",
+  "walking": "보통",
+  "fit": "매우 잘 맞음",
+  "condition": "",
+  "caution": "축제 기간 숙소 부족, 하나와선 편수 적음",
+  "lat": 40.1895,
+  "lng": 140.7858,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/花輪ばやし"
+  ],
+  "region": "도호쿠"
+ },
+ {
   "id": "akita-kakunodate-samurai-district",
   "name_ko": "가쿠노다테 무가저택 거리",
   "name_ja": "角館武家屋敷通り",
@@ -2519,6 +6191,86 @@ window.SPOTS = [
   "url": "https://tazawako-kakunodate.com/",
   "sources": [
    "https://tazawako-kakunodate.com/"
+  ],
+  "region": "도호쿠"
+ },
+ {
+  "id": "akita-kanpuzan",
+  "name_ko": "간푸잔 회전전망대",
+  "name_ja": "寒風山回転展望台",
+  "pref": "아키타",
+  "area": "오가",
+  "categories": [
+   "view",
+   "volcano"
+  ],
+  "summary": "잔디로 덮인 둥근 화산 정상의 회전 전망대. 오가 반도, 동해, 하치로가타 간척지를 360도로 내려다본다.",
+  "do": "회전 전망대에서 반도 전체 조망, 화구 주변 잔디 언덕 산책",
+  "station": "와키모토역 (脇本)",
+  "access": "JR 오가선 와키모토역 또는 하다치역에서 택시 약 10~15분",
+  "jr_pass": [
+   "JR 동일본 패스",
+   "JR 도호쿠·미나미홋카이도 레일패스",
+   "JR 동일본·미나미홋카이도 레일패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을"
+  ],
+  "best_time": "3월 중순~12월 상순 영업. 맑은 날 오후~해 질 녘",
+  "event": "",
+  "duration": "1~2시간",
+  "cost": "전망대 약 550엔 + 택시비",
+  "walking": "적음",
+  "fit": "조건부",
+  "condition": "맑은 날 조망, 정상은 바람이 강함",
+  "caution": "겨울(12월 중순~3월 중순경) 휴관",
+  "lat": 39.9336,
+  "lng": 139.8753,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/寒風山_(秋田県)",
+   "https://rurubu.jp/andmore/spot/80004016"
+  ],
+  "region": "도호쿠"
+ },
+ {
+  "id": "akita-kisakata-kujukushima",
+  "name_ko": "기사카타 구주쿠시마",
+  "name_ja": "象潟・九十九島",
+  "pref": "아키타",
+  "area": "니카호(기사카타)",
+  "categories": [
+   "nature",
+   "night"
+  ],
+  "summary": "1804년 지진으로 융기한 옛 석호 터. 논 한가운데 작은 섬 같은 언덕들이 흩어져 있고, 모내기 전 물 댄 논에 섬과 조카이산이 비친다. 바쇼가 들른 명승.",
+  "do": "간만지 주변에서 논 사이 섬들을 걷고, 물 댄 논의 반영과 노을 보기",
+  "station": "기사카타역 (象潟)",
+  "access": "우에쓰 본선 기사카타역에서 간만지 일대까지 도보 또는 택시",
+  "jr_pass": [
+   "JR 동일본 패스",
+   "JR 도호쿠·미나미홋카이도 레일패스",
+   "JR 동일본·미나미홋카이도 레일패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름"
+  ],
+  "best_time": "물 댄 논 반영은 5월 전후 맑은 날, 해 질 녘",
+  "event": "",
+  "duration": "1~2시간",
+  "cost": "무료",
+  "walking": "보통",
+  "fit": "조건부",
+  "condition": "바람 없는 맑은 날에만 반영이 선명",
+  "caution": "섬들은 논 사이 사유지가 많으니 농로 밖 출입 금지",
+  "lat": 39.2162,
+  "lng": 139.9029,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/象潟"
   ],
   "region": "도호쿠"
  },
@@ -2565,6 +6317,165 @@ window.SPOTS = [
   "region": "도호쿠"
  },
  {
+  "id": "akita-moriyoshi-juhyo-gondola",
+  "name_ko": "모리요시산 수빙 (아니 곤돌라)",
+  "name_ja": "森吉山 樹氷・阿仁ゴンドラ",
+  "pref": "아키타",
+  "area": "기타아키타(아니)",
+  "categories": [
+   "snow",
+   "view"
+  ],
+  "summary": "길이 약 3.5km 곤돌라로 약 20분, 해발 1,167m 산정역까지 올라가 겨울엔 '스노 몬스터' 수빙 숲을 본다. 자오보다 한적한 수빙 명소.",
+  "do": "곤돌라로 올라가 수빙 사이 설원 산책(겨울), 여름·가을엔 고산 트레킹",
+  "station": "아니아이역 (阿仁合, 아키타 나이리쿠선)",
+  "access": "아키타 나이리쿠선 아니아이역에서 차로 약 25분. 아니 택시 또는 예약제 합승택시 '모리요시산 셔틀' 이용",
+  "jr_pass": [],
+  "seasons": [
+   "겨울",
+   "여름",
+   "가을"
+  ],
+  "best_time": "수빙 1~3월",
+  "event": "",
+  "duration": "하루",
+  "cost": "곤돌라 왕복 요금 공식 확인 + 나이리쿠선 운임",
+  "walking": "보통",
+  "fit": "조건부",
+  "condition": "맑은 날 수빙 장관, 강풍 시 곤돌라 운휴 → 대체: 나이리쿠선 차창",
+  "caution": "산정은 혹한, 방한 장비 필수. JR 가쿠노다테역·다카노스역에서 나이리쿠선 환승(사철)",
+  "lat": 39.955,
+  "lng": 140.4919,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/阿仁スキー場",
+   "https://ja.wikipedia.org/wiki/森吉山"
+  ],
+  "region": "도호쿠"
+ },
+ {
+  "id": "akita-port-tower-selion",
+  "name_ko": "아키타 포트타워 세리온",
+  "name_ja": "秋田市ポートタワー・セリオン",
+  "pref": "아키타",
+  "area": "아키타시(쓰치자키)",
+  "categories": [
+   "view",
+   "night"
+  ],
+  "summary": "아키타항의 포트타워. 높이 100m 무료 전망실에서 동해로 지는 노을과 항구·시가지 야경을 본다.",
+  "do": "해 질 무렵 올라가 동해 노을부터 야경까지 보기",
+  "station": "쓰치자키역 (土崎)",
+  "access": "오우 본선 쓰치자키역에서 도보 약 20분, 또는 아키타역에서 노선버스",
+  "jr_pass": [
+   "JR 동일본 패스",
+   "JR 도호쿠·미나미홋카이도 레일패스",
+   "JR 동일본·미나미홋카이도 레일패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "맑은 날 일몰 전후",
+  "event": "",
+  "duration": "1~2시간",
+  "cost": "전망실 무료",
+  "walking": "보통",
+  "fit": "조건부",
+  "condition": "맑은 저녁에 노을",
+  "caution": "전망실 운영 시간 공식 확인",
+  "lat": 39.7527,
+  "lng": 140.061,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/セリオン_(秋田市)"
+  ],
+  "region": "도호쿠"
+ },
+ {
+  "id": "akita-komagatake",
+  "name_ko": "아키타코마가타케 (8합목·고산식물)",
+  "name_ja": "秋田駒ヶ岳",
+  "pref": "아키타",
+  "area": "센보쿠(다자와코)",
+  "categories": [
+   "nature",
+   "volcano",
+   "view"
+  ],
+  "summary": "해발 1,637m 활화산. 산정 일대가 국가 천연기념물 고산식물 군락으로, 8합목 등산로 입구까지 버스가 올라간다.",
+  "do": "8합목에서 아미다이케 습원 쪽으로 걸으며 고산식물 꽃밭과 다자와호 조망",
+  "station": "다자와코역 (田沢湖)",
+  "access": "다자와코역에서 버스로 '고마가타케 8합목'(운행 기간 한정). 마이카 규제 기간엔 '아루파 코마쿠사'에서 등산 버스 발착",
+  "jr_pass": [
+   "JR 동일본 패스",
+   "JR 도호쿠·미나미홋카이도 레일패스",
+   "JR 동일본·미나미홋카이도 레일패스"
+  ],
+  "seasons": [
+   "여름",
+   "가을"
+  ],
+  "best_time": "고산 꽃 6월 하순~8월, 단풍 9월 하순~10월 초",
+  "event": "",
+  "duration": "하루",
+  "cost": "버스 운임만",
+  "walking": "많음",
+  "fit": "조건부",
+  "condition": "맑은 날만 조망, 안개·강풍이면 고생 → 대체: 뉴토 온천",
+  "caution": "본격 등산로(왕복 수 시간). 버스 운행 기간·시간표 공식 확인, 날씨 급변 대비 장비",
+  "lat": 39.7608,
+  "lng": 140.8036,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/秋田駒ヶ岳"
+  ],
+  "region": "도호쿠"
+ },
+ {
+  "id": "akita-kosaka-korakukan",
+  "name_ko": "고사카 고라쿠칸 & 옛 고사카 광산 사무소",
+  "name_ja": "康楽館・小坂鉱山事務所",
+  "pref": "아키타",
+  "area": "고사카",
+  "categories": [
+   "culture",
+   "town"
+  ],
+  "summary": "1910년 광산 마을 후생시설로 지은 목조 서양풍 극장(국가 중요문화재). 4~11월엔 거의 매일 대중 연극을 올리고, 옆엔 같은 시기 광산 사무소 건물이 있다.",
+  "do": "상설 공연 관람 또는 무대 뒤·지하 무대장치 견학, 광산 사무소 구경",
+  "station": "오다테역 (大館)",
+  "access": "오다테역(또는 가즈노하나와역)에서 아키호쿠 버스 '고사카 조차장'행 → '고사카마치' 하차",
+  "jr_pass": [
+   "JR 동일본 패스",
+   "JR 도호쿠·미나미홋카이도 레일패스",
+   "JR 동일본·미나미홋카이도 레일패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을"
+  ],
+  "best_time": "공연 있는 4~11월",
+  "event": "",
+  "duration": "반나절",
+  "cost": "견학·공연 요금 공식 확인",
+  "walking": "적음",
+  "fit": "백업",
+  "condition": "",
+  "caution": "연말 등 휴관일 있음",
+  "lat": 40.3266,
+  "lng": 140.7452,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/康楽館",
+   "https://ja.wikipedia.org/wiki/小坂鉱山事務所"
+  ],
+  "region": "도호쿠"
+ },
+ {
   "id": "akita-lake-tazawa",
   "name_ko": "다자와호",
   "name_ja": "田沢湖",
@@ -2599,6 +6510,167 @@ window.SPOTS = [
   "url": "https://tazawako-kakunodate.com/",
   "sources": [
    "https://tazawako-kakunodate.com/"
+  ],
+  "region": "도호쿠"
+ },
+ {
+  "id": "akita-masuda-uchigura",
+  "name_ko": "마스다 우치구라 거리",
+  "name_ja": "増田の内蔵（横手市増田伝統的建造物群保存地区）",
+  "pref": "아키타",
+  "area": "요코테(마스다)",
+  "categories": [
+   "town"
+  ],
+  "summary": "길쭉한 상가 건물 안쪽에 감춰진 '우치구라(안채 창고)'가 늘어선 옛 상인 마을. 국가 중요전통적건조물군 보존지구.",
+  "do": "공개 중인 우치구라 몇 곳에 들어가 옻칠 장식 창고 내부 보기",
+  "station": "주몬지역 (十文字)",
+  "access": "오우 본선 주몬지역에서 노선버스 또는 택시(약 10분)",
+  "jr_pass": [
+   "JR 동일본 패스",
+   "JR 도호쿠·미나미홋카이도 레일패스",
+   "JR 동일본·미나미홋카이도 레일패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "연중",
+  "event": "",
+  "duration": "반나절",
+  "cost": "거리 무료, 공개 우치구라 일부 유료",
+  "walking": "보통",
+  "fit": "백업",
+  "condition": "",
+  "caution": "우치구라는 집마다 공개 시간이 다름",
+  "lat": 39.2036,
+  "lng": 140.546,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/横手市増田伝統的建造物群保存地区"
+  ],
+  "region": "도호쿠"
+ },
+ {
+  "id": "akita-senshu-park",
+  "name_ko": "센슈 공원 (구보타성 터)",
+  "name_ja": "千秋公園（久保田城跡）",
+  "pref": "아키타",
+  "area": "아키타시",
+  "categories": [
+   "culture",
+   "city"
+  ],
+  "summary": "아키타번 사타케 가문의 구보타성 터. 복원 망루와 해자의 연꽃, 봄 벚꽃이 볼거리. 공원 앞 현립미술관엔 후지타 쓰구하루의 초대형 벽화 '아키타의 행사'가 있다.",
+  "do": "망루 전망대에서 시내 조망, 해자 산책 후 현립미술관 관람",
+  "station": "아키타역 (秋田)",
+  "access": "아키타역 서쪽 출구에서 도보 약 10분",
+  "jr_pass": [
+   "JR 동일본 패스",
+   "JR 도호쿠·미나미홋카이도 레일패스",
+   "JR 동일본·미나미홋카이도 레일패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을"
+  ],
+  "best_time": "벚꽃 4월 하순, 해자 연꽃 여름",
+  "event": "",
+  "duration": "1~2시간",
+  "cost": "공원 무료, 망루·미술관 유료",
+  "walking": "보통",
+  "fit": "백업",
+  "condition": "",
+  "caution": "",
+  "lat": 39.7222,
+  "lng": 140.1239,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/千秋公園",
+   "https://ja.wikipedia.org/wiki/久保田城"
+  ],
+  "region": "도호쿠"
+ },
+ {
+  "id": "akita-oga-shinzan-namahage-museum",
+  "name_ko": "오가 신잔 전승관 & 나마하게관",
+  "name_ja": "男鹿真山伝承館・なまはげ館",
+  "pref": "아키타",
+  "area": "오가",
+  "categories": [
+   "culture"
+  ],
+  "summary": "초가 민가에서 섣달그믐 밤 나마하게가 집에 들이닥치는 풍습을 재현해 보여주는 전승관. 옆 나마하게관엔 마을마다 다른 나마하게 탈이 모여 있다.",
+  "do": "전승관에서 나마하게 재현(약 30분) 관람 후 나마하게관 전시 보기",
+  "station": "오가역 (男鹿)",
+  "access": "오가역에서 예약제 합승택시 '나마하게 셔틀'(전날까지 예약)로 신잔 지구",
+  "jr_pass": [
+   "JR 동일본 패스",
+   "JR 도호쿠·미나미홋카이도 레일패스",
+   "JR 동일본·미나미홋카이도 레일패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "연중",
+  "event": "",
+  "duration": "반나절",
+  "cost": "두 시설 공통권 있음(요금 공식 확인) + 셔틀 요금",
+  "walking": "적음",
+  "fit": "백업",
+  "condition": "",
+  "caution": "셔틀은 전날까지 예약. 겨울엔 셔틀 일부 정류장(뉴도자키) 정차 안 함",
+  "lat": 39.9287,
+  "lng": 139.7667,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/なまはげ館",
+   "https://media.jreast.co.jp/articles/5301"
+  ],
+  "region": "도호쿠"
+ },
+ {
+  "id": "akita-oyu-stone-circle",
+  "name_ko": "오유 환상열석 (스톤서클)",
+  "name_ja": "大湯環状列石",
+  "pref": "아키타",
+  "area": "가즈노",
+  "categories": [
+   "culture"
+  ],
+  "summary": "약 4,000년 전 조몬 시대의 거대한 돌 배열 유적 두 곳(만자·노나카도). '홋카이도·북도호쿠 조몬 유적군'으로 세계유산.",
+  "do": "해시계 모양 돌무더기와 복원 건물 둘러보고 전시관 관람",
+  "station": "가즈노하나와역 (鹿角花輪)",
+  "access": "가즈노하나와역에서 아키호쿠 버스 오유 온천 방면 → '오유 간조렛세키마에' 하차",
+  "jr_pass": [
+   "JR 동일본 패스",
+   "JR 도호쿠·미나미홋카이도 레일패스",
+   "JR 동일본·미나미홋카이도 레일패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을"
+  ],
+  "best_time": "4~11월",
+  "event": "",
+  "duration": "1~2시간",
+  "cost": "유적 산책 무료, 전시관은 요금 공식 확인",
+  "walking": "보통",
+  "fit": "백업",
+  "condition": "",
+  "caution": "",
+  "lat": 40.2717,
+  "lng": 140.8039,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/大湯環状列石"
   ],
   "region": "도호쿠"
  },
@@ -2687,6 +6759,124 @@ window.SPOTS = [
   "region": "도호쿠"
  },
  {
+  "id": "yamagata-shinjo-matsuri",
+  "name_ko": "신조 마쓰리",
+  "name_ja": "新庄まつり",
+  "pref": "야마가타",
+  "area": "신조",
+  "categories": [
+   "festival",
+   "night"
+  ],
+  "summary": "260년 넘게 이어진 축제로 마을마다 만든 가부키 장면 장식 수레 약 20대가 시내를 돈다. 유네스코 무형유산 '야마·호코·야타이 행사'.",
+  "do": "24일 밤 조명 켠 수레 행렬 관람, 25일 낮 신위 행렬",
+  "station": "신조역 (新庄)",
+  "access": "야마가타 신칸센 종점 신조역에서 도보권(역 앞 광장·중심 상점가)",
+  "jr_pass": [
+   "JR 동일본 패스",
+   "JR 도호쿠·미나미홋카이도 레일패스",
+   "JR 동일본·미나미홋카이도 레일패스"
+  ],
+  "seasons": [
+   "여름"
+  ],
+  "best_time": "8월 24일 밤(요이마쓰리)",
+  "event": "매년 8월 24~26일(날짜 고정)",
+  "duration": "반나절",
+  "cost": "무료",
+  "walking": "보통",
+  "fit": "매우 잘 맞음",
+  "condition": "",
+  "caution": "축제 기간 숙소 부족",
+  "lat": 38.767,
+  "lng": 140.2935,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/新庄まつり"
+  ],
+  "region": "도호쿠"
+ },
+ {
+  "id": "yamagata-atsumi-onsen",
+  "name_ko": "아쓰미 온천",
+  "name_ja": "あつみ温泉（温海温泉）",
+  "pref": "야마가타",
+  "area": "쓰루오카(아쓰미)",
+  "categories": [
+   "onsen",
+   "town"
+  ],
+  "summary": "아쓰미강 양쪽으로 여관이 늘어선 오래된 온천 마을. 강변 곳곳의 족욕탕, 아침 시장, 봄 벚꽃 강변이 정겹다.",
+  "do": "아침 시장 구경 후 족욕탕 순례, 공중탕 입욕",
+  "station": "아쓰미온센역 (あつみ温泉)",
+  "access": "우에쓰 본선 아쓰미온센역에서 버스 약 5분",
+  "jr_pass": [
+   "JR 동일본 패스",
+   "JR 도호쿠·미나미홋카이도 레일패스",
+   "JR 동일본·미나미홋카이도 레일패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "벚꽃 4월 중순, 연중 무난",
+  "event": "",
+  "duration": "1박 추천",
+  "cost": "족욕 무료, 공중탕 소액",
+  "walking": "적음",
+  "fit": "매우 잘 맞음",
+  "condition": "",
+  "caution": "우에쓰 본선 편수가 적음",
+  "lat": 38.6153,
+  "lng": 139.611,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/温海温泉"
+  ],
+  "region": "도호쿠"
+ },
+ {
+  "id": "yamagata-hanagasa-matsuri",
+  "name_ko": "야마가타 하나가사 마쓰리",
+  "name_ja": "山形花笠まつり",
+  "pref": "야마가타",
+  "area": "야마가타시",
+  "categories": [
+   "festival",
+   "night"
+  ],
+  "summary": "붉은 꽃 장식 삿갓을 든 1만 명 넘는 춤꾼이 '얏쇼 마캇쇼' 구호와 함께 시내 중심가를 행진하는 여름 밤 축제. 도호쿠 4대 축제 중 하나.",
+  "do": "도카마치~나노카마치~분쇼칸 앞 퍼레이드 관람, 끝부분 일반 참가 춤에 끼어 보기",
+  "station": "야마가타역 (山形)",
+  "access": "야마가타역에서 퍼레이드 코스(도카마치·나노카마치 일대)까지 도보 약 10~15분",
+  "jr_pass": [
+   "JR 동일본 패스",
+   "JR 도호쿠·미나미홋카이도 레일패스",
+   "JR 동일본·미나미홋카이도 레일패스"
+  ],
+  "seasons": [
+   "여름"
+  ],
+  "best_time": "8월 5~7일 저녁",
+  "event": "매년 8월 5~7일(날짜 고정)",
+  "duration": "반나절",
+  "cost": "무료(유료 관람석 있음)",
+  "walking": "보통",
+  "fit": "매우 잘 맞음",
+  "condition": "",
+  "caution": "축제 기간 야마가타 시내 숙소 부족",
+  "lat": 38.2528,
+  "lng": 140.3389,
+  "url": "https://www.hanagasa.jp/",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/花笠まつり",
+   "https://ja.wikipedia.org/wiki/七日町_(山形市)"
+  ],
+  "region": "도호쿠"
+ },
+ {
   "id": "yamagata-uesugi-snow-lantern-festival",
   "name_ko": "우에스기 유키도로 마쓰리 (요네자와)",
   "name_ja": "上杉雪灯篭まつり",
@@ -2769,6 +6959,126 @@ window.SPOTS = [
   "region": "도호쿠"
  },
  {
+  "id": "yamagata-hijiori-onsen",
+  "name_ko": "히지오리 온천",
+  "name_ja": "肘折温泉",
+  "pref": "야마가타",
+  "area": "오쿠라",
+  "categories": [
+   "onsen",
+   "town",
+   "snow"
+  ],
+  "summary": "갓산 기슭 깊은 골짜기의 오래된 탕치장. 목조 여관이 좁은 길에 늘어서고 아침마다 시장이 서며, 겨울엔 일본 유수의 폭설 속 온천이 된다.",
+  "do": "아침 시장(봄~가을)에서 산나물·떡 사고 공중탕 입욕, 겨울엔 설경 온천",
+  "station": "신조역 (新庄)",
+  "access": "신조역에서 오쿠라무라 노선버스 약 1시간",
+  "jr_pass": [
+   "JR 동일본 패스",
+   "JR 도호쿠·미나미홋카이도 레일패스",
+   "JR 동일본·미나미홋카이도 레일패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "아침 시장 4~11월, 설경 1~2월",
+  "event": "",
+  "duration": "1박 추천",
+  "cost": "공중탕 소액(요금 공식 확인)",
+  "walking": "적음",
+  "fit": "매우 잘 맞음",
+  "condition": "폭설 시 버스 지연",
+  "caution": "버스 편수가 적음. 겨울은 적설 수 m",
+  "lat": 38.6091,
+  "lng": 140.167,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/肘折温泉"
+  ],
+  "region": "도호쿠"
+ },
+ {
+  "id": "yamagata-kajo-park",
+  "name_ko": "가조 공원 (야마가타성 터)",
+  "name_ja": "霞城公園（山形城跡）",
+  "pref": "야마가타",
+  "area": "야마가타시",
+  "categories": [
+   "culture",
+   "nature"
+  ],
+  "summary": "모가미 요시아키의 야마가타성 터. 복원된 혼마루 정문과 해자를 따라 벚꽃이 피고, 벚꽃 너머로 신칸센이 지나가는 풍경이 유명하다.",
+  "do": "벚꽃철 해자 산책, 복원 문 구경",
+  "station": "야마가타역 (山形)",
+  "access": "야마가타역에서 도보 약 10분",
+  "jr_pass": [
+   "JR 동일본 패스",
+   "JR 도호쿠·미나미홋카이도 레일패스",
+   "JR 동일본·미나미홋카이도 레일패스"
+  ],
+  "seasons": [
+   "봄"
+  ],
+  "best_time": "벚꽃 4월 중순",
+  "event": "",
+  "duration": "1~2시간",
+  "cost": "무료",
+  "walking": "보통",
+  "fit": "조건부",
+  "condition": "벚꽃철에 진가",
+  "caution": "",
+  "lat": 38.2554,
+  "lng": 140.3281,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/霞城公園",
+   "https://ja.wikipedia.org/wiki/山形城"
+  ],
+  "region": "도호쿠"
+ },
+ {
+  "id": "yamagata-tendo-ningen-shogi",
+  "name_ko": "덴도 인간 쇼기 & 덴도 온천",
+  "name_ja": "天童 人間将棋・天童温泉",
+  "pref": "야마가타",
+  "area": "덴도",
+  "categories": [
+   "festival",
+   "onsen"
+  ],
+  "summary": "쇼기 말의 고장 덴도에서 봄 벚꽃 축제 때 갑옷 차림 사람들이 말이 되어 마이즈루산 정상 대형 판 위에서 프로 기사가 대국한다. 산 아래는 덴도 온천.",
+  "do": "마이즈루산 정상 인간 쇼기 관람, 쇼기 말 공방 구경 후 온천",
+  "station": "덴도역 (天童)",
+  "access": "야마가타 신칸센 덴도역에서 마이즈루산·온천가까지 도보권",
+  "jr_pass": [
+   "JR 동일본 패스",
+   "JR 도호쿠·미나미홋카이도 레일패스",
+   "JR 동일본·미나미홋카이도 레일패스"
+  ],
+  "seasons": [
+   "봄"
+  ],
+  "best_time": "4월 하순(덴도 벚꽃 축제)",
+  "event": "매년 4월 하순 덴도 벚꽃 축제 중(날짜는 매년 공식 확인)",
+  "duration": "반나절",
+  "cost": "관람석은 응모제인 해가 있음, 온천 별도",
+  "walking": "보통",
+  "fit": "조건부",
+  "condition": "악천후 시 실내(시민문화회관)로 변경",
+  "caution": "마이즈루산 정상까지 오르막",
+  "lat": 38.3509,
+  "lng": 140.3783,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/人間将棋",
+   "https://ja.wikipedia.org/wiki/天童城"
+  ],
+  "region": "도호쿠"
+ },
+ {
   "id": "yamagata-tobishima",
   "name_ko": "도비시마 (사카타 앞바다 섬)",
   "name_ja": "飛島",
@@ -2805,6 +7115,125 @@ window.SPOTS = [
   "url": "",
   "sources": [
    "https://ja.wikipedia.org/wiki/飛島_(山形県)"
+  ],
+  "region": "도호쿠"
+ },
+ {
+  "id": "yamagata-onogawa-onsen",
+  "name_ko": "오노가와 온천",
+  "name_ja": "小野川温泉",
+  "pref": "야마가타",
+  "area": "요네자와",
+  "categories": [
+   "onsen",
+   "night"
+  ],
+  "summary": "오노노 고마치가 발견했다는 전설의 작은 온천 마을. 초여름 밤 강가에 반딧불이가 날아다니는 명소.",
+  "do": "반딧불이 철 저녁 강변 산책, 공중탕·족욕",
+  "station": "요네자와역 (米沢)",
+  "access": "요네자와역에서 노선버스 약 25분",
+  "jr_pass": [
+   "JR 동일본 패스",
+   "JR 도호쿠·미나미홋카이도 레일패스",
+   "JR 동일본·미나미홋카이도 레일패스"
+  ],
+  "seasons": [
+   "여름",
+   "겨울"
+  ],
+  "best_time": "반딧불이 6월 중순~7월 초",
+  "event": "",
+  "duration": "1박 추천",
+  "cost": "공중탕 소액(요금 공식 확인)",
+  "walking": "적음",
+  "fit": "조건부",
+  "condition": "반딧불이는 바람 없고 습한 밤에 많음",
+  "caution": "",
+  "lat": 37.8797,
+  "lng": 140.0544,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/小野川温泉"
+  ],
+  "region": "도호쿠"
+ },
+ {
+  "id": "yamagata-yunohama-onsen",
+  "name_ko": "유노하마 온천 (동해 노을)",
+  "name_ja": "湯野浜温泉",
+  "pref": "야마가타",
+  "area": "쓰루오카(유노하마)",
+  "categories": [
+   "onsen",
+   "night",
+   "cape"
+  ],
+  "summary": "동해 모래사장 바로 앞에 숙소가 늘어선 해변 온천. 객실이나 노천탕에서 바다로 떨어지는 노을을 본다.",
+  "do": "해변 산책 후 공중탕 입욕, 맑은 저녁엔 일몰 감상",
+  "station": "쓰루오카역 (鶴岡)",
+  "access": "쓰루오카역에서 쇼나이교통 버스 약 40분",
+  "jr_pass": [
+   "JR 동일본 패스",
+   "JR 도호쿠·미나미홋카이도 레일패스",
+   "JR 동일본·미나미홋카이도 레일패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을"
+  ],
+  "best_time": "맑은 날 일몰, 여름 해수욕철",
+  "event": "",
+  "duration": "1박 추천",
+  "cost": "공중탕 소액(요금 공식 확인)",
+  "walking": "적음",
+  "fit": "조건부",
+  "condition": "맑은 저녁에 노을, 겨울은 북서풍이 거셈",
+  "caution": "",
+  "lat": 38.7844,
+  "lng": 139.7547,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/湯野浜温泉"
+  ],
+  "region": "도호쿠"
+ },
+ {
+  "id": "yamagata-imoni-festival",
+  "name_ko": "일본 제일 이모니회 페스티벌",
+  "name_ja": "日本一の芋煮会フェスティバル",
+  "pref": "야마가타",
+  "area": "야마가타시",
+  "categories": [
+   "festival",
+   "city"
+  ],
+  "summary": "지름 약 6m 대형 냄비에 토란·소고기·곤약을 넣고 중장비로 휘저어 수만 명분 이모니(토란국)를 끓이는 가을 강변 행사.",
+  "do": "강변에서 중장비 조리 구경하고 이모니 한 그릇 먹기",
+  "station": "야마가타역 (山形)",
+  "access": "야마가타역에서 버스 약 15분 '쇼보쇼마에' 하차, 마미가사키강 하천부지(소게쓰교 부근)",
+  "jr_pass": [
+   "JR 동일본 패스",
+   "JR 도호쿠·미나미홋카이도 레일패스",
+   "JR 동일본·미나미홋카이도 레일패스"
+  ],
+  "seasons": [
+   "가을"
+  ],
+  "best_time": "9월 중순 일요일 오전",
+  "event": "매년 9월 중순 일요일. 2026년은 9/20(종료), 2027년은 9/19 예정",
+  "duration": "반나절",
+  "cost": "협찬금 당일 700엔 이상(사전 예약 600엔 이상)",
+  "walking": "보통",
+  "fit": "조건부",
+  "condition": "비가 와도 개최되는 편이나 공식 확인",
+  "caution": "정리권 배부·배식 대기줄이 김, 이른 시간 도착 추천",
+  "lat": 38.2553,
+  "lng": 140.3604,
+  "url": "https://imoni-fes.jp/",
+  "sources": [
+   "https://www.nta.co.jp/kokunai/special/eventinfo/10622026.htm",
+   "https://rurubu.jp/andmore/spot/20003135"
   ],
   "region": "도호쿠"
  },
@@ -2846,6 +7275,252 @@ window.SPOTS = [
    "https://zaoropeway.co.jp/",
    "https://zaoropeway.co.jp/winter/index.php",
    "https://zaoropeway.co.jp/summer/guide.php"
+  ],
+  "region": "도호쿠"
+ },
+ {
+  "id": "yamagata-tengendai-ropeway",
+  "name_ko": "텐겐다이 고원 로프웨이",
+  "name_ja": "天元台高原（天元台ロープウェイ）",
+  "pref": "야마가타",
+  "area": "요네자와(시라부)",
+  "categories": [
+   "view",
+   "snow",
+   "nature"
+  ],
+  "summary": "시라부 온천 위 유모토역에서 로프웨이(약 10분)와 리프트 3개를 갈아타 해발 1,820m 기타다이까지. 아즈마 연봉 트레킹 기점이자 겨울엔 설질 좋은 스키장.",
+  "do": "로프웨이·리프트로 올라 고원 습원 산책, 겨울엔 스키",
+  "station": "요네자와역 (米沢)",
+  "access": "요네자와역에서 노선버스로 시라부 온천·유모토역 → 로프웨이",
+  "jr_pass": [
+   "JR 동일본 패스",
+   "JR 도호쿠·미나미홋카이도 레일패스",
+   "JR 동일본·미나미홋카이도 레일패스"
+  ],
+  "seasons": [
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "단풍 10월 상순, 스키 12~4월",
+  "event": "",
+  "duration": "반나절",
+  "cost": "로프웨이·리프트 요금 공식 확인",
+  "walking": "보통",
+  "fit": "조건부",
+  "condition": "맑은 날 조망, 강풍 시 운휴",
+  "caution": "여름철 로프웨이·리프트 운행 기간 공식 확인",
+  "lat": 37.7749,
+  "lng": 140.135,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/天元台高原"
+  ],
+  "region": "도호쿠"
+ },
+ {
+  "id": "yamagata-hagurosan",
+  "name_ko": "하구로산 (오층탑·돌계단)",
+  "name_ja": "羽黒山（五重塔・石段）",
+  "pref": "야마가타",
+  "area": "쓰루오카(하구로)",
+  "categories": [
+   "culture",
+   "nature"
+  ],
+  "summary": "데와산잔 수험도의 영산. 삼나무 거목 사이 2,446단 돌계단 길 초입에 국보 오층탑이 서 있고, 정상엔 세 산을 함께 모신 삼신합제전이 있다.",
+  "do": "즈이신몬에서 오층탑을 지나 돌계단을 올라 산정 신사까지(약 1시간), 귀로는 버스",
+  "station": "쓰루오카역 (鶴岡)",
+  "access": "쓰루오카역에서 쇼나이교통 버스로 '즈이신몬'(약 35분) 또는 '하구로산 산정'(약 50분)",
+  "jr_pass": [
+   "JR 동일본 패스",
+   "JR 도호쿠·미나미홋카이도 레일패스",
+   "JR 동일본·미나미홋카이도 레일패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "신록 6월, 단풍 10월 하순",
+  "event": "",
+  "duration": "반나절",
+  "cost": "무료(버스 운임만)",
+  "walking": "많음",
+  "fit": "조건부",
+  "condition": "비·눈 오면 돌계단이 미끄러움 → 산정까지 버스로",
+  "caution": "돌계단 2,446단. 오르기 또는 내려오기 한쪽만 걷고 다른 쪽은 버스 추천",
+  "lat": 38.7048,
+  "lng": 139.9676,
+  "url": "https://www.dewasanzan.jp/",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/羽黒山五重塔",
+   "https://ja.wikipedia.org/wiki/羽黒山_(山形県)"
+  ],
+  "region": "도호쿠"
+ },
+ {
+  "id": "yamagata-kamo-aquarium",
+  "name_ko": "가모 수족관 (해파리 수족관)",
+  "name_ja": "鶴岡市立加茂水族館",
+  "pref": "야마가타",
+  "area": "쓰루오카(가모)",
+  "categories": [
+   "culture"
+  ],
+  "summary": "전시하는 해파리 종류가 세계 최다급인 바닷가 수족관. 지름 5m 대형 수조에 수천 마리 해파리가 떠다니는 '해파리 드림 시어터'가 명물.",
+  "do": "해파리 전시관을 천천히 돌고, 해파리 메뉴가 있는 레스토랑 들르기",
+  "station": "쓰루오카역 (鶴岡)",
+  "access": "쓰루오카역에서 쇼나이교통 버스 유노하마 온센 방면 → '가모스이조쿠칸' 하차(약 40분)",
+  "jr_pass": [
+   "JR 동일본 패스",
+   "JR 도호쿠·미나미홋카이도 레일패스",
+   "JR 동일본·미나미홋카이도 레일패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "연중(비 오는 날 대체지로 좋음)",
+  "event": "",
+  "duration": "1~2시간",
+  "cost": "입관료 공식 확인",
+  "walking": "적음",
+  "fit": "백업",
+  "condition": "",
+  "caution": "주말·연휴 혼잡",
+  "lat": 38.7617,
+  "lng": 139.7246,
+  "url": "https://kamo-kurage.jp/",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/鶴岡市立加茂水族館"
+  ],
+  "region": "도호쿠"
+ },
+ {
+  "id": "yamagata-kaminoyama-onsen",
+  "name_ko": "가미노야마 온천",
+  "name_ja": "かみのやま温泉",
+  "pref": "야마가타",
+  "area": "가미노야마",
+  "categories": [
+   "onsen",
+   "town"
+  ],
+  "summary": "성하마을이자 숙장이었던 온천 마을. 시내 곳곳 무료 족욕탕을 돌고 복원 천수각 가미노야마성에서 마을을 내려다본다.",
+  "do": "족욕탕 순례, 가미노야마성 전망, 무가 저택 거리 산책",
+  "station": "가미노야마온센역 (かみのやま温泉)",
+  "access": "야마가타 신칸센 가미노야마온센역에서 도보권",
+  "jr_pass": [
+   "JR 동일본 패스",
+   "JR 도호쿠·미나미홋카이도 레일패스",
+   "JR 동일본·미나미홋카이도 레일패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "연중",
+  "event": "",
+  "duration": "1박 추천",
+  "cost": "족욕 무료, 성 유료",
+  "walking": "보통",
+  "fit": "백업",
+  "condition": "",
+  "caution": "",
+  "lat": 38.167,
+  "lng": 140.2732,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/上山温泉"
+  ],
+  "region": "도호쿠"
+ },
+ {
+  "id": "yamagata-bunshokan",
+  "name_ko": "분쇼칸 (옛 야마가타 현청사)",
+  "name_ja": "文翔館（山形県郷土館）",
+  "pref": "야마가타",
+  "area": "야마가타시",
+  "categories": [
+   "culture",
+   "city"
+  ],
+  "summary": "1916년 지은 옛 현청사와 현의회 의사당을 복원한 영국 르네상스풍 벽돌 건물(국가 중요문화재). 무료로 내부를 볼 수 있다.",
+  "do": "시계탑 건물과 의사당 홀 관람, 앞 광장 산책",
+  "station": "야마가타역 (山形)",
+  "access": "야마가타역에서 버스 약 10분 또는 도보 약 20분",
+  "jr_pass": [
+   "JR 동일본 패스",
+   "JR 도호쿠·미나미홋카이도 레일패스",
+   "JR 동일본·미나미홋카이도 레일패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "연중",
+  "event": "",
+  "duration": "1~2시간",
+  "cost": "무료",
+  "walking": "적음",
+  "fit": "백업",
+  "condition": "",
+  "caution": "",
+  "lat": 38.2569,
+  "lng": 140.3412,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/文翔館"
+  ],
+  "region": "도호쿠"
+ },
+ {
+  "id": "yamagata-sankyo-soko",
+  "name_ko": "산쿄 창고 (사카타)",
+  "name_ja": "山居倉庫",
+  "pref": "야마가타",
+  "area": "사카타",
+  "categories": [
+   "town",
+   "culture"
+  ],
+  "summary": "1893년 지은 쇼나이 쌀 창고 12동이 강가에 늘어서고, 뒤편으로 느티나무 가로수가 그늘을 만든다. 쌀 항구 사카타의 상징.",
+  "do": "강 쪽에서 흰 벽 창고 외관을 보고 느티나무 길 산책, 부속 자료관·특산품관 들르기",
+  "station": "사카타역 (酒田)",
+  "access": "사카타역에서 도보 약 25분 또는 시내 순환버스",
+  "jr_pass": [
+   "JR 동일본 패스",
+   "JR 도호쿠·미나미홋카이도 레일패스",
+   "JR 동일본·미나미홋카이도 레일패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "신록·단풍철 느티나무 길",
+  "event": "",
+  "duration": "1~2시간",
+  "cost": "외관 무료, 자료관 유료",
+  "walking": "보통",
+  "fit": "백업",
+  "condition": "",
+  "caution": "",
+  "lat": 38.9114,
+  "lng": 139.8368,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/山居倉庫"
   ],
   "region": "도호쿠"
  },
@@ -2892,6 +7567,87 @@ window.SPOTS = [
   "region": "도호쿠"
  },
  {
+  "id": "yamagata-uesugi-shrine",
+  "name_ko": "우에스기 신사 (요네자와성 터)",
+  "name_ja": "上杉神社（米沢城跡）",
+  "pref": "야마가타",
+  "area": "요네자와",
+  "categories": [
+   "culture"
+  ],
+  "summary": "요네자와성 혼마루 터에 우에스기 겐신을 모신 신사. 해자 둘레 벚꽃이 아름답고, 근처에 우에스기 박물관과 역대 번주 묘소가 있다.",
+  "do": "해자 따라 신사 참배, 우에스기 박물관 관람, 요네자와 소고기 식사",
+  "station": "요네자와역 (米沢)",
+  "access": "요네자와역에서 버스 약 10분",
+  "jr_pass": [
+   "JR 동일본 패스",
+   "JR 도호쿠·미나미홋카이도 레일패스",
+   "JR 동일본·미나미홋카이도 레일패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "벚꽃 4월 하순, 2월 유키도로 마쓰리 때",
+  "event": "",
+  "duration": "반나절",
+  "cost": "참배 무료, 박물관 유료",
+  "walking": "보통",
+  "fit": "백업",
+  "condition": "",
+  "caution": "",
+  "lat": 37.9093,
+  "lng": 140.1041,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/上杉神社",
+   "https://ja.wikipedia.org/wiki/米沢城"
+  ],
+  "region": "도호쿠"
+ },
+ {
+  "id": "yamagata-chido-museum",
+  "name_ko": "지도 박물관 (쓰루오카)",
+  "name_ja": "致道博物館",
+  "pref": "야마가타",
+  "area": "쓰루오카",
+  "categories": [
+   "culture"
+  ],
+  "summary": "쇼나이번 사카이 가문 저택 터의 박물관. 메이지 시대 서양식 옛 군청·경찰서 건물과 산간 다층 민가를 옮겨 놓았다.",
+  "do": "서양식 건물과 다층 민가, 정원 둘러보기",
+  "station": "쓰루오카역 (鶴岡)",
+  "access": "쓰루오카역에서 버스 약 10분",
+  "jr_pass": [
+   "JR 동일본 패스",
+   "JR 도호쿠·미나미홋카이도 레일패스",
+   "JR 동일본·미나미홋카이도 레일패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "연중",
+  "event": "",
+  "duration": "1~2시간",
+  "cost": "입관료 공식 확인",
+  "walking": "적음",
+  "fit": "백업",
+  "condition": "",
+  "caution": "",
+  "lat": 38.7283,
+  "lng": 139.8213,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/致道博物館"
+  ],
+  "region": "도호쿠"
+ },
+ {
   "id": "fukushima-goshikinuma",
   "name_ko": "고시키누마 (우라반다이)",
   "name_ja": "五色沼",
@@ -2927,6 +7683,44 @@ window.SPOTS = [
   "url": "https://www.urabandai-inf.com/",
   "sources": [
    "https://ja.wikipedia.org/wiki/五色沼_(北塩原村)"
+  ],
+  "region": "도호쿠"
+ },
+ {
+  "id": "fukushima-nihonmatsu-lantern-festival",
+  "name_ko": "니혼마쓰 제등 마쓰리",
+  "name_ja": "二本松の提灯祭り",
+  "pref": "후쿠시마",
+  "area": "니혼마쓰",
+  "categories": [
+   "festival",
+   "night"
+  ],
+  "summary": "7개 마을 수레(다이코다이)에 300여 개씩, 모두 약 2,100개의 제등을 밝혀 끌고 다니는 밤 축제. 일본 3대 제등 축제 중 하나.",
+  "do": "첫날 밤 니혼마쓰 신사에서 신불을 옮겨 붙인 제등 수레 행렬 관람",
+  "station": "니혼마쓰역 (二本松)",
+  "access": "도호쿠 본선 니혼마쓰역에서 도보권(니혼마쓰 신사·혼마치 일대)",
+  "jr_pass": [
+   "JR 동일본 패스",
+   "JR 도호쿠·미나미홋카이도 레일패스",
+   "JR 동일본·미나미홋카이도 레일패스"
+  ],
+  "seasons": [
+   "가을"
+  ],
+  "best_time": "첫날 밤(요이마쓰리)",
+  "event": "매년 10월 첫째 토·일·월(2019년부터). 2026년은 10/3~5로 계산되나 공식 확인",
+  "duration": "반나절",
+  "cost": "무료",
+  "walking": "보통",
+  "fit": "매우 잘 맞음",
+  "condition": "",
+  "caution": "심야까지 이어짐, 귀가 열차 확인",
+  "lat": 37.5925,
+  "lng": 140.4346,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/二本松提灯祭り"
   ],
   "region": "도호쿠"
  },
@@ -3013,6 +7807,124 @@ window.SPOTS = [
   "region": "도호쿠"
  },
  {
+  "id": "fukushima-soma-nomaoi",
+  "name_ko": "소마 노마오이",
+  "name_ja": "相馬野馬追",
+  "pref": "후쿠시마",
+  "area": "미나미소마",
+  "categories": [
+   "festival",
+   "culture"
+  ],
+  "summary": "갑옷 차림 기마 무사 수백 기가 행진하고 갑주 경마와 깃발 쟁탈전을 벌이는 천년 전통의 무사 축제. 2024년부터 7월에서 5월 하순으로 옮겨 열린다.",
+  "do": "본축제일 히바리가하라 제장에서 갑주 경마·신기 쟁탈전 관람",
+  "station": "하라노마치역 (原ノ町)",
+  "access": "조반선 하라노마치역. 본축제일엔 히바리가하라 제장행 임시 셔틀버스",
+  "jr_pass": [
+   "JR 동일본 패스",
+   "JR 도호쿠·미나미홋카이도 레일패스",
+   "JR 동일본·미나미홋카이도 레일패스"
+  ],
+  "seasons": [
+   "봄"
+  ],
+  "best_time": "본축제일(둘째 날)",
+  "event": "매년 5월 하순 사흘간. 2026년은 5/23~25(본축제 5/24)",
+  "duration": "하루",
+  "cost": "본축제일 제장 입장권 약 800~1,000엔, 다른 날 무료",
+  "walking": "보통",
+  "fit": "매우 잘 맞음",
+  "condition": "",
+  "caution": "본축제일 혼잡, 조반선 편수 확인",
+  "lat": 37.6242,
+  "lng": 140.9587,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/相馬野馬追",
+   "https://media.jreast.co.jp/articles/6029"
+  ],
+  "region": "도호쿠"
+ },
+ {
+  "id": "fukushima-sukagawa-taimatsu-akashi",
+  "name_ko": "스카가와 다이마쓰 아카시",
+  "name_ja": "須賀川の松明あかし",
+  "pref": "후쿠시마",
+  "area": "스카가와",
+  "categories": [
+   "festival",
+   "night"
+  ],
+  "summary": "길이 약 10m의 거대한 횃불 수십 개를 고로산 언덕에 세우고 한꺼번에 불을 붙이는 불 축제. 일본 3대 불 축제로 꼽힌다.",
+  "do": "저녁 점화 후 불기둥이 늘어선 언덕 관람",
+  "station": "스카가와역 (須賀川)",
+  "access": "도호쿠 본선 스카가와역에서 도보 약 15분(고로산, 미도리가오카 공원)",
+  "jr_pass": [
+   "JR 동일본 패스",
+   "JR 도호쿠·미나미홋카이도 레일패스",
+   "JR 동일본·미나미홋카이도 레일패스"
+  ],
+  "seasons": [
+   "가을"
+  ],
+  "best_time": "11월 둘째 토요일 저녁",
+  "event": "매년 11월 둘째 토요일. 2026년은 11/14(토), 18:30경 점화 예정",
+  "duration": "반나절",
+  "cost": "무료",
+  "walking": "보통",
+  "fit": "매우 잘 맞음",
+  "condition": "",
+  "caution": "11월 밤이라 춥고 인파 많음, 불티 주의",
+  "lat": 37.2916,
+  "lng": 140.3812,
+  "url": "",
+  "sources": [
+   "https://www.nta.co.jp/kokunai/special/eventinfo/10642896.htm",
+   "https://ja.wikipedia.org/wiki/翠ヶ丘公園"
+  ],
+  "region": "도호쿠"
+ },
+ {
+  "id": "fukushima-aizu-erosoku-festival",
+  "name_ko": "아이즈 에로소쿠 마쓰리 (그림 양초 축제)",
+  "name_ja": "会津絵ろうそくまつり",
+  "pref": "후쿠시마",
+  "area": "아이즈와카마쓰",
+  "categories": [
+   "festival",
+   "night",
+   "snow"
+  ],
+  "summary": "눈 덮인 쓰루가성과 다이묘 정원 오야쿠엔에 아이즈 전통 그림 양초 수천~1만여 개를 밝히는 겨울 밤 축제. 별칭 '유키호타루(눈 반딧불)'.",
+  "do": "저녁에 오야쿠엔 정원 촛불 길과 성 주변 설원 촛불 그림 보기",
+  "station": "아이즈와카마쓰역 (会津若松)",
+  "access": "아이즈와카마쓰역에서 시내 순환버스로 쓰루가성·오야쿠엔",
+  "jr_pass": [
+   "JR 동일본 패스",
+   "JR 도호쿠·미나미홋카이도 레일패스",
+   "JR 동일본·미나미홋카이도 레일패스"
+  ],
+  "seasons": [
+   "겨울"
+  ],
+  "best_time": "2월 초 저녁",
+  "event": "매년 2월 초 이틀간(날짜는 매년 공식 확인)",
+  "duration": "반나절",
+  "cost": "무료(오야쿠엔 입장은 공식 확인)",
+  "walking": "보통",
+  "fit": "매우 잘 맞음",
+  "condition": "눈이 쌓여 있어야 분위기 최고",
+  "caution": "2026년 8월 반에쓰사이선 이나와시로~아이즈와카마쓰 구간이 성토 붕괴로 운휴(8월 말 재개 예정 보도, 재개 여부 미확인) → JR 운행 정보 확인",
+  "lat": 37.4914,
+  "lng": 139.9434,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/会津絵ろうそくまつり",
+   "https://ja.wikipedia.org/wiki/御薬園"
+  ],
+  "region": "도호쿠"
+ },
+ {
   "id": "fukushima-ouchi-juku",
   "name_ko": "오우치주쿠",
   "name_ja": "大内宿",
@@ -3049,6 +7961,197 @@ window.SPOTS = [
    "https://ja.wikipedia.org/wiki/大内宿",
    "https://ouchi-juku.com/detail/622/freepage-4.html",
    "https://ouchi-juku.com/"
+  ],
+  "region": "도호쿠"
+ },
+ {
+  "id": "fukushima-yunokami-onsen",
+  "name_ko": "유노카미 온천 & 초가 역사",
+  "name_ja": "湯野上温泉・湯野上温泉駅",
+  "pref": "후쿠시마",
+  "area": "시모고",
+  "categories": [
+   "onsen",
+   "train"
+  ],
+  "summary": "초가지붕 역사에 족욕탕이 붙은 아이즈 철도 유노카미온센역과 오카와 강변의 온천 마을. 오우치주쿠로 가는 거점.",
+  "do": "초가 역사 화로 옆에서 쉬고 역 족욕, 강변 온천 숙박",
+  "station": "유노카미온센역 (湯野上温泉, 아이즈 철도)",
+  "access": "JR 아이즈와카마쓰역에서 아이즈 철도(사철, JR 패스 미적용)로 유노카미온센역",
+  "jr_pass": [],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "벚꽃 4월 하순, 설경 1~2월",
+  "event": "",
+  "duration": "1박 추천",
+  "cost": "역 족욕 무료, 아이즈 철도 운임 별도",
+  "walking": "적음",
+  "fit": "매우 잘 맞음",
+  "condition": "",
+  "caution": "",
+  "lat": 37.304,
+  "lng": 139.8952,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/湯野上温泉駅",
+   "https://ja.wikipedia.org/wiki/湯野上温泉"
+  ],
+  "region": "도호쿠"
+ },
+ {
+  "id": "fukushima-iizaka-onsen",
+  "name_ko": "이이자카 온천 (사바코유)",
+  "name_ja": "飯坂温泉（鯖湖湯）",
+  "pref": "후쿠시마",
+  "area": "후쿠시마시(이이자카)",
+  "categories": [
+   "onsen",
+   "town"
+  ],
+  "summary": "도호쿠 3대 온천으로 꼽히는 큰 온천 마을. 일본 최고(最古)급 목조 공중탕으로 알려진 사바코유를 비롯해 공동탕 여러 곳을 돌 수 있다.",
+  "do": "사바코유 등 공동탕 순례(뜨거운 물 주의), 옛 여관 거리 산책",
+  "station": "이이자카온센역 (飯坂温泉, 후쿠시마교통)",
+  "access": "JR 후쿠시마역에서 후쿠시마교통 이이자카선(사철, JR 패스 미적용) 약 25분 → 종점 이이자카온센역에서 도보권",
+  "jr_pass": [],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "연중",
+  "event": "",
+  "duration": "반나절",
+  "cost": "공동탕 소액(요금 공식 확인), 이이자카선 운임 별도",
+  "walking": "보통",
+  "fit": "매우 잘 맞음",
+  "condition": "",
+  "caution": "공동탕은 물이 매우 뜨거운 편",
+  "lat": 37.8326,
+  "lng": 140.4522,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/飯坂温泉"
+  ],
+  "region": "도호쿠"
+ },
+ {
+  "id": "fukushima-jododaira-azuma-kofuji",
+  "name_ko": "조도다이라 & 아즈마코후지",
+  "name_ja": "浄土平・吾妻小富士",
+  "pref": "후쿠시마",
+  "area": "후쿠시마시(반다이아즈마)",
+  "categories": [
+   "volcano",
+   "view",
+   "nature"
+  ],
+  "summary": "반다이아즈마 스카이라인 정상부의 화산 고원. 깔때기 모양 화구가 뚜렷한 아즈마코후지의 화구 가장자리를 한 바퀴 돌고, 맞은편 잇사이쿄산에서 수증기가 오른다.",
+  "do": "계단(약 10분)으로 아즈마코후지 화구벽에 올라 화구 일주, 습원 산책",
+  "station": "후쿠시마역 (福島)",
+  "access": "도로 개통기만. 2025년부터 후쿠시마역 서쪽 출구발 예약제 셔틀 '조도다이라 스카이 액세스'가 기간 한정 운행(2026년 가을은 10/1~11/3). 그 외엔 택시",
+  "jr_pass": [
+   "JR 동일본 패스",
+   "JR 도호쿠·미나미홋카이도 레일패스",
+   "JR 동일본·미나미홋카이도 레일패스"
+  ],
+  "seasons": [
+   "여름",
+   "가을"
+  ],
+  "best_time": "단풍 10월 상중순",
+  "event": "",
+  "duration": "반나절",
+  "cost": "셔틀 요금 공식 확인",
+  "walking": "보통",
+  "fit": "매우 잘 맞음",
+  "condition": "맑은 날 화구·조망. 안개·강풍 시 화구 일주 위험",
+  "caution": "반다이아즈마 스카이라인은 11월 중순~4월 하순 폐쇄. 화산 활동에 따른 통행 규제 확인",
+  "lat": 37.7222,
+  "lng": 140.2542,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/浄土平",
+   "https://www.env.go.jp/park/bandai/guide/joudodaira/access/index.html"
+  ],
+  "region": "도호쿠"
+ },
+ {
+  "id": "fukushima-tonohetsuri",
+  "name_ko": "도노헤쓰리",
+  "name_ja": "塔のへつり",
+  "pref": "후쿠시마",
+  "area": "시모고",
+  "categories": [
+   "nature"
+  ],
+  "summary": "오카와 강이 오랜 세월 깎아 낸 탑 모양 절벽이 줄지어 선 하안 침식 지형(국가 천연기념물). 현수교를 건너 절벽 아래 동굴 길을 걷는다.",
+  "do": "현수교 건너 절벽 산책, 단풍철 계곡 풍경",
+  "station": "도노헤쓰리역 (塔のへつり, 아이즈 철도)",
+  "access": "JR 아이즈와카마쓰역에서 아이즈 철도(사철, JR 패스 미적용)로 도노헤쓰리역 → 도보 약 5분",
+  "jr_pass": [],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을"
+  ],
+  "best_time": "신록 5~6월, 단풍 10월 하순",
+  "event": "",
+  "duration": "1~2시간",
+  "cost": "무료(아이즈 철도 운임 별도)",
+  "walking": "적음",
+  "fit": "조건부",
+  "condition": "증수 시 동굴 길 통행 제한될 수 있음",
+  "caution": "겨울엔 절벽 길 통행 제한 여부 확인",
+  "lat": 37.2737,
+  "lng": 139.9059,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/塔のへつり"
+  ],
+  "region": "도호쿠"
+ },
+ {
+  "id": "fukushima-mugenkyo-ferry",
+  "name_ko": "무겐쿄 나룻배 (안개 협곡)",
+  "name_ja": "霧幻峡の渡し",
+  "pref": "후쿠시마",
+  "area": "가네야마·미시마",
+  "categories": [
+   "boat",
+   "nature"
+  ],
+  "summary": "다다미강을 손으로 노 저어 건너던 옛 나룻배를 관광용으로 되살렸다. 6~8월 아침·저녁 강안개가 끼면 배가 안개 속을 떠가는 몽환적인 풍경.",
+  "do": "약 45분 유람 코스(산책 포함 약 90분 코스도) 타기",
+  "station": "하야토역 (早戸)",
+  "access": "아이즈와카마쓰역에서 JR 다다미선(하루 몇 편) → 하야토역 근처 선착장. 예약제",
+  "jr_pass": [
+   "JR 동일본 패스",
+   "JR 도호쿠·미나미홋카이도 레일패스",
+   "JR 동일본·미나미홋카이도 레일패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을"
+  ],
+  "best_time": "강안개 6~8월 이른 아침·저녁, 단풍 10월 하순",
+  "event": "",
+  "duration": "반나절",
+  "cost": "요금 공식 확인(예약 시)",
+  "walking": "적음",
+  "fit": "조건부",
+  "condition": "안개는 기온 차 큰 날 아침·저녁에만. 증수·강풍 시 운휴. 운항 4월 하순~11월 중순",
+  "caution": "다다미선 편수가 매우 적어 왕복 시간 맞추기 필수. 반에쓰사이선 이나와시로~아이즈와카마쓰 구간 2026년 8월 운휴 보도 → 운행 정보 확인",
+  "lat": 37.4642,
+  "lng": 139.5933,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/霧幻峡の渡し"
   ],
   "region": "도호쿠"
  },
@@ -3092,6 +8195,88 @@ window.SPOTS = [
   "region": "도호쿠"
  },
  {
+  "id": "fukushima-shioyasaki-lighthouse",
+  "name_ko": "시오야사키 등대",
+  "name_ja": "塩屋埼灯台",
+  "pref": "후쿠시마",
+  "area": "이와키",
+  "categories": [
+   "cape",
+   "view"
+  ],
+  "summary": "태평양 쪽 절벽 위에 선 흰 등대. 내부 계단으로 전망 회랑까지 올라갈 수 있는 '오를 수 있는 등대'로, 아래로 긴 해안선이 펼쳐진다.",
+  "do": "등대 회랑에 올라 태평양 조망, 해안 산책",
+  "station": "이와키역 (いわき)",
+  "access": "이와키역에서 노선버스 약 30~40분 '도다이이리구치' 방면 하차 후 도보",
+  "jr_pass": [
+   "JR 동일본 패스",
+   "JR 도호쿠·미나미홋카이도 레일패스",
+   "JR 동일본·미나미홋카이도 레일패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "맑은 날, 이른 아침 일출",
+  "event": "",
+  "duration": "반나절",
+  "cost": "등대 참관 소액 유료",
+  "walking": "보통",
+  "fit": "조건부",
+  "condition": "맑은 날 조망, 강풍 시 회랑 폐쇄 가능",
+  "caution": "버스 편수·참관 시간 공식 확인",
+  "lat": 36.9919,
+  "lng": 140.9853,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/塩屋埼灯台"
+  ],
+  "region": "도호쿠"
+ },
+ {
+  "id": "fukushima-adatara-ropeway-dake-onsen",
+  "name_ko": "아다타라산 로프웨이 & 다케 온천",
+  "name_ja": "あだたら山ロープウェイ・岳温泉",
+  "pref": "후쿠시마",
+  "area": "니혼마쓰",
+  "categories": [
+   "view",
+   "onsen",
+   "nature"
+  ],
+  "summary": "곤돌라로 아다타라산 중턱 야쿠시다케까지 올라 '진짜 하늘' 비석 앞에서 단풍 능선을 본다. 아래 다케 온천은 약 8km 떨어진 산중 원천에서 끌어온 산성 온천.",
+  "do": "곤돌라로 올라 전망 산책(체력 되면 정상 등산), 내려와 다케 온천 입욕",
+  "station": "니혼마쓰역 (二本松)",
+  "access": "니혼마쓰역에서 후쿠시마교통 버스로 다케 온천, 로프웨이 산록역(오쿠다케)까지는 시즌 버스 또는 택시",
+  "jr_pass": [
+   "JR 동일본 패스",
+   "JR 도호쿠·미나미홋카이도 레일패스",
+   "JR 동일본·미나미홋카이도 레일패스"
+  ],
+  "seasons": [
+   "여름",
+   "가을"
+  ],
+  "best_time": "단풍 10월 상중순",
+  "event": "",
+  "duration": "하루",
+  "cost": "로프웨이 요금 공식 확인",
+  "walking": "보통",
+  "fit": "조건부",
+  "condition": "강풍 시 운휴, 맑은 날 조망",
+  "caution": "로프웨이 운행 기간·오쿠다케행 버스 운행일 공식 확인",
+  "lat": 37.6235,
+  "lng": 140.3252,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/岳温泉",
+   "https://ja.wikipedia.org/wiki/安達太良山"
+  ],
+  "region": "도호쿠"
+ },
+ {
   "id": "fukushima-hanamiyama",
   "name_ko": "하나미야마 공원",
   "name_ja": "花見山公園",
@@ -3126,6 +8311,48 @@ window.SPOTS = [
   "sources": [
    "https://ja.wikipedia.org/wiki/花見山公園",
    "https://www.hanamiyama.jp/"
+  ],
+  "region": "도호쿠"
+ },
+ {
+  "id": "fukushima-kitakata-kura-ramen",
+  "name_ko": "기타카타 구라 거리 & 아침 라멘",
+  "name_ja": "喜多方 蔵のまち・喜多方ラーメン",
+  "pref": "후쿠시마",
+  "area": "기타카타",
+  "categories": [
+   "town",
+   "city"
+  ],
+  "summary": "흙벽 창고(구라) 수천 동이 남은 상인 마을이자, 아침부터 라멘을 먹는 '아사라' 문화로 유명한 기타카타 라멘의 본고장.",
+  "do": "이른 아침 여는 라멘집에서 아침 라멘, 후레아이 거리와 구라 거리 산책",
+  "station": "기타카타역 (喜多方)",
+  "access": "반에쓰사이선 기타카타역에서 중심가까지 도보 약 15분",
+  "jr_pass": [
+   "JR 동일본 패스",
+   "JR 도호쿠·미나미홋카이도 레일패스",
+   "JR 동일본·미나미홋카이도 레일패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "연중(라멘은 오전)",
+  "event": "",
+  "duration": "반나절",
+  "cost": "라멘 한 그릇 약 1,000엔 안팎",
+  "walking": "보통",
+  "fit": "백업",
+  "condition": "",
+  "caution": "라멘집마다 휴무일·조기 마감. 반에쓰사이선 2026년 8월 일부 구간 운휴 보도 → 운행 정보 확인",
+  "lat": 37.6517,
+  "lng": 139.8712,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/喜多方ラーメン",
+   "https://ja.wikipedia.org/wiki/喜多方市"
   ],
   "region": "도호쿠"
  },
@@ -3171,6 +8398,283 @@ window.SPOTS = [
   "region": "도호쿠"
  },
  {
+  "id": "fukushima-ashinomaki-onsen",
+  "name_ko": "아시노마키 온천",
+  "name_ja": "芦ノ牧温泉",
+  "pref": "후쿠시마",
+  "area": "아이즈와카마쓰(오토)",
+  "categories": [
+   "onsen",
+   "nature"
+  ],
+  "summary": "오카와 계곡 절벽을 따라 숙소가 늘어선 아이즈의 계곡 온천. 아이즈 철도 아시노마키온센역은 고양이 역장으로 알려져 있다.",
+  "do": "계곡이 보이는 노천탕 입욕, 역에서 고양이 역장 만나기",
+  "station": "아시노마키온센역 (芦ノ牧温泉, 아이즈 철도)",
+  "access": "JR 아이즈와카마쓰역에서 아이즈 철도(사철, JR 패스 미적용) → 아시노마키온센역에서 버스·택시 약 10분, 또는 아이즈와카마쓰역에서 직행 노선버스",
+  "jr_pass": [],
+  "seasons": [
+   "가을",
+   "겨울"
+  ],
+  "best_time": "단풍 10월 하순~11월 초, 설경",
+  "event": "",
+  "duration": "1박 추천",
+  "cost": "당일 입욕은 숙소별 확인",
+  "walking": "적음",
+  "fit": "백업",
+  "condition": "",
+  "caution": "",
+  "lat": 37.3653,
+  "lng": 139.9144,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/芦ノ牧温泉"
+  ],
+  "region": "도호쿠"
+ },
+ {
+  "id": "fukushima-aquamarine",
+  "name_ko": "아쿠아마린 후쿠시마 & 오나하마",
+  "name_ja": "アクアマリンふくしま",
+  "pref": "후쿠시마",
+  "area": "이와키(오나하마)",
+  "categories": [
+   "culture",
+   "city"
+  ],
+  "summary": "구로시오와 오야시오가 만나는 후쿠시마 앞바다를 테마로 한 유리 지붕 수족관. 바로 옆 오나하마 항구 시장 '라라뮤'에서 해산물 식사.",
+  "do": "두 해류가 만나는 대형 수조 관람 후 라라뮤에서 해산물 덮밥",
+  "station": "이즈미역 (泉)",
+  "access": "조반선 이즈미역에서 버스 약 15분",
+  "jr_pass": [
+   "JR 동일본 패스",
+   "JR 도호쿠·미나미홋카이도 레일패스",
+   "JR 동일본·미나미홋카이도 레일패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "연중(비 오는 날 대체지)",
+  "event": "",
+  "duration": "반나절",
+  "cost": "입관료 공식 확인",
+  "walking": "적음",
+  "fit": "백업",
+  "condition": "",
+  "caution": "",
+  "lat": 36.9428,
+  "lng": 140.9015,
+  "url": "https://www.aquamarine.or.jp/",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/アクアマリンふくしま",
+   "https://ja.wikipedia.org/wiki/いわき・ら・ら・ミュウ"
+  ],
+  "region": "도호쿠"
+ },
+ {
+  "id": "fukushima-inawashiro-noguchi",
+  "name_ko": "이나와시로호 & 노구치 히데요 기념관",
+  "name_ja": "猪苗代湖・野口英世記念館",
+  "pref": "후쿠시마",
+  "area": "이나와시로",
+  "categories": [
+   "nature",
+   "culture"
+  ],
+  "summary": "반다이산을 등진 일본 4번째로 큰 호수. 호숫가에 천 엔 지폐 인물 노구치 히데요의 생가를 보존한 기념관이 있다.",
+  "do": "기념관과 생가 관람 후 호숫가에서 반다이산 바라보기",
+  "station": "이나와시로역 (猪苗代)",
+  "access": "반에쓰사이선 이나와시로역에서 버스 약 5~10분",
+  "jr_pass": [
+   "JR 동일본 패스",
+   "JR 도호쿠·미나미홋카이도 레일패스",
+   "JR 동일본·미나미홋카이도 레일패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을"
+  ],
+  "best_time": "5~10월 맑은 날",
+  "event": "",
+  "duration": "반나절",
+  "cost": "기념관 유료",
+  "walking": "적음",
+  "fit": "백업",
+  "condition": "맑은 날 반다이산 조망",
+  "caution": "",
+  "lat": 37.5361,
+  "lng": 140.0736,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/野口英世記念館",
+   "https://ja.wikipedia.org/wiki/猪苗代湖"
+  ],
+  "region": "도호쿠"
+ },
+ {
+  "id": "fukushima-iimoriyama-sazaedo",
+  "name_ko": "이모리야마 & 사자에도",
+  "name_ja": "飯盛山・会津さざえ堂",
+  "pref": "후쿠시마",
+  "area": "아이즈와카마쓰",
+  "categories": [
+   "culture"
+  ],
+  "summary": "1796년 지은 이중 나선 구조 목조 불당으로, 오르는 길과 내려오는 길이 한 번도 겹치지 않는다(국가 중요문화재). 같은 산에 뱟코타이 묘소가 있다.",
+  "do": "사자에도 나선 통로를 한 바퀴 오르내리고, 뱟코타이 묘소에서 시내 조망",
+  "station": "아이즈와카마쓰역 (会津若松)",
+  "access": "아이즈와카마쓰역에서 시내 순환버스로 '이모리야마시타', 계단 또는 유료 에스컬레이터",
+  "jr_pass": [
+   "JR 동일본 패스",
+   "JR 도호쿠·미나미홋카이도 레일패스",
+   "JR 동일본·미나미홋카이도 레일패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "연중",
+  "event": "",
+  "duration": "1~2시간",
+  "cost": "사자에도 소액 유료",
+  "walking": "보통",
+  "fit": "백업",
+  "condition": "",
+  "caution": "반에쓰사이선 이나와시로~아이즈와카마쓰 구간 2026년 8월 운휴 보도 → 운행 정보 확인",
+  "lat": 37.5045,
+  "lng": 139.954,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/栄螺堂",
+   "https://ja.wikipedia.org/wiki/飯盛山_(福島県)"
+  ],
+  "region": "도호쿠"
+ },
+ {
+  "id": "fukushima-higashiyama-onsen",
+  "name_ko": "히가시야마 온천",
+  "name_ja": "東山温泉",
+  "pref": "후쿠시마",
+  "area": "아이즈와카마쓰",
+  "categories": [
+   "onsen",
+   "town"
+  ],
+  "summary": "아이즈와카마쓰 시내 동쪽 골짜기, 유가와 강을 따라 숙소가 이어진 아이즈번 시절부터의 온천. 게이샤 문화가 남은 온천가.",
+  "do": "계곡 따라 온천가 산책, 숙소 당일 입욕 또는 숙박",
+  "station": "아이즈와카마쓰역 (会津若松)",
+  "access": "아이즈와카마쓰역에서 노선버스 약 20분",
+  "jr_pass": [
+   "JR 동일본 패스",
+   "JR 도호쿠·미나미홋카이도 레일패스",
+   "JR 동일본·미나미홋카이도 레일패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "단풍 10월 하순~11월 초",
+  "event": "",
+  "duration": "1박 추천",
+  "cost": "당일 입욕은 숙소별 확인",
+  "walking": "적음",
+  "fit": "백업",
+  "condition": "",
+  "caution": "반에쓰사이선 이나와시로~아이즈와카마쓰 구간 2026년 8월 운휴 보도 → 운행 정보 확인",
+  "lat": 37.4797,
+  "lng": 139.9608,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/東山温泉"
+  ],
+  "region": "도호쿠"
+ },
+ {
+  "id": "ibaraki-koga-hanabi",
+  "name_ko": "고가 불꽃대회",
+  "name_ja": "古河花火大会",
+  "pref": "이바라키",
+  "area": "고가",
+  "categories": [
+   "festival",
+   "night"
+  ],
+  "summary": "와타라세강 둔치에서 열리는 간토 굴지의 대형 불꽃대회. '일본 최대급 발사 수'를 내세우고, 3척옥(三尺玉)이 하이라이트.",
+  "do": "강둑 관람석에 자리 잡고 3척옥과 그랜드 피날레 감상",
+  "station": "고가역 (古河)",
+  "access": "JR 우쓰노미야선 고가역 서쪽 출구에서 도보 약 25분(회장: 고가 골프링크스, 와타라세강 둔치)",
+  "jr_pass": [
+   "JR 도쿄 와이드 패스",
+   "JR 동일본 패스"
+  ],
+  "seasons": [
+   "여름"
+  ],
+  "best_time": "8월 초",
+  "event": "매년 8월 초 토요일. 2026년은 8월 1일(토) 개최, 악천후 시 중지",
+  "duration": "반나절",
+  "cost": "무료(유료 관람석 있음)",
+  "walking": "보통",
+  "fit": "매우 잘 맞음",
+  "condition": "악천후 시 중지",
+  "caution": "귀가 시 고가역 매우 혼잡",
+  "lat": 36.2002,
+  "lng": 139.6926,
+  "url": "https://www.kogakanko.jp/hanabi",
+  "sources": [
+   "https://www.kogakanko.jp/hanabi",
+   "https://nominatim.openstreetmap.org/search?q=古河ゴルフリンクス&countrycodes=jp&format=json"
+  ],
+  "region": "간토"
+ },
+ {
+  "id": "ibaraki-ryujin-otsuribashi",
+  "name_ko": "류진 대현수교",
+  "name_ja": "竜神大吊橋",
+  "pref": "이바라키",
+  "area": "히타치오타",
+  "categories": [
+   "view",
+   "nature"
+  ],
+  "summary": "류진 댐 호수 수면 위 약 100m를 가로지르는 길이 375m 보행자 전용 현수교. 일본 최대급 높이의 번지점프도 이곳에서 한다.",
+  "do": "다리 왕복하며 협곡 단풍·호수 감상, 4~5월엔 약 1,000개의 고이노보리가 계곡 위를 난다",
+  "station": "히타치오타역 (常陸太田)",
+  "access": "JR 스이군선(지선) 히타치오타역에서 이바라키교통 버스 약 40분 '류진오쓰리바시' 하차. 사전 예약이 필요한 편이 있음",
+  "jr_pass": [
+   "JR 도쿄 와이드 패스",
+   "JR 동일본 패스"
+  ],
+  "seasons": [
+   "봄",
+   "가을"
+  ],
+  "best_time": "4~5월 고이노보리, 11월 상순 단풍",
+  "event": "고이노보리 축제: 매년 4~5월(날짜는 매년 공식 확인)",
+  "duration": "반나절",
+  "cost": "다리 통행료 수백 엔, 번지점프 별도",
+  "walking": "적음",
+  "fit": "매우 잘 맞음",
+  "condition": "강풍 시 통행 제한 가능",
+  "caution": "버스 편수가 매우 적고 예약제 편이 섞여 있음 → 시간표·예약 확인, 택시 병용 고려",
+  "lat": 36.6839,
+  "lng": 140.4658,
+  "url": "https://www.ryujinkyo.jp/",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/竜神峡",
+   "https://nominatim.openstreetmap.org/search?q=竜神大吊橋&countrycodes=jp&format=json"
+  ],
+  "region": "간토"
+ },
+ {
   "id": "ibaraki-tsukubasan",
   "name_ko": "쓰쿠바산",
   "name_ja": "筑波山",
@@ -3205,6 +8709,47 @@ window.SPOTS = [
   "sources": [
    "https://ja.wikipedia.org/wiki/筑波山",
    "https://banzokubiology.com/tsukuba-mountain-access/"
+  ],
+  "region": "간토"
+ },
+ {
+  "id": "ibaraki-izura-rokkakudo",
+  "name_ko": "이즈라 해안 롯카쿠도",
+  "name_ja": "五浦海岸・六角堂",
+  "pref": "이바라키",
+  "area": "기타이바라키",
+  "categories": [
+   "cape",
+   "culture"
+  ],
+  "summary": "오카쿠라 덴신이 1905년 바위 곶 끝에 세운 육각 정자. 2011년 쓰나미에 쓸려갔다가 2012년 창건 당시 설계대로 재건됐고, 절벽 해안 풍경이 일품.",
+  "do": "태평양 절벽 위 롯카쿠도와 이즈라 해안 산책",
+  "station": "오쓰코역 (大津港)",
+  "access": "JR 조반선 오쓰코역에서 버스 약 20분(편수 적음), 택시 이용도 현실적",
+  "jr_pass": [
+   "JR 도쿄 와이드 패스",
+   "JR 동일본 패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "맑은 날 오전",
+  "event": "",
+  "duration": "반나절",
+  "cost": "롯카쿠도 관람 유료",
+  "walking": "보통",
+  "fit": "매우 잘 맞음",
+  "condition": "맑은 날 바다색이 가장 좋음",
+  "caution": "",
+  "lat": 36.8334,
+  "lng": 140.8034,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/五浦海岸",
+   "https://nominatim.openstreetmap.org/search?q=六角堂 北茨城&countrycodes=jp&format=json"
   ],
   "region": "간토"
  },
@@ -3323,6 +8868,44 @@ window.SPOTS = [
   "region": "간토"
  },
  {
+  "id": "ibaraki-itako-ayame-matsuri",
+  "name_ko": "이타코 아야메 축제 (수향 이타코 아야메엔)",
+  "name_ja": "水郷潮来あやめまつり（水郷潮来あやめ園）",
+  "pref": "이바라키",
+  "area": "이타코",
+  "categories": [
+   "festival",
+   "boat",
+   "nature"
+  ],
+  "summary": "수로 마을 이타코에서 약 500종 100만 포기 붓꽃이 피는 초여름 축제. 신부를 태운 나룻배 '요메이리부네'와 노 젓는 배 유람이 명물.",
+  "do": "아야메엔 산책 후 노 젓는 배(로부네)로 수로 유람, 일정이 맞으면 요메이리부네 관람",
+  "station": "이타코역 (潮来)",
+  "access": "JR 가시마선 이타코역에서 도보 약 15분",
+  "jr_pass": [
+   "JR 도쿄 와이드 패스",
+   "JR 동일본 패스"
+  ],
+  "seasons": [
+   "여름"
+  ],
+  "best_time": "5월 하순~6월 하순, 절정은 6월 10일 전후",
+  "event": "매년 5월 하순~6월 하순. 요메이리부네는 기간 중 정해진 날만(날짜는 매년 공식 확인)",
+  "duration": "반나절",
+  "cost": "아야메엔 무료, 배 유람 유료",
+  "walking": "보통",
+  "fit": "조건부",
+  "condition": "붓꽃 철에만 진가. 비 오는 날도 운치 있음",
+  "caution": "",
+  "lat": 35.9376,
+  "lng": 140.547,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/水郷潮来あやめまつり"
+  ],
+  "region": "간토"
+ },
+ {
   "id": "ibaraki-fukuroda-falls",
   "name_ko": "후쿠로다 폭포",
   "name_ja": "袋田の滝",
@@ -3402,6 +8985,469 @@ window.SPOTS = [
   "region": "간토"
  },
  {
+  "id": "ibaraki-hitachi-station",
+  "name_ko": "히타치역 (바다가 보이는 유리 역사)",
+  "name_ja": "日立駅",
+  "pref": "이바라키",
+  "area": "히타치",
+  "categories": [
+   "view",
+   "city"
+  ],
+  "summary": "히타치 출신 건축가 세지마 가즈요가 디자인을 감수한 유리 역사. 바다 쪽 출구의 전망 로비와 카페에서 태평양이 탁 트여 '바다가 보이는 역'으로 유명.",
+  "do": "해안 출구 쪽 전망 로비·카페에서 바다 보며 쉬기, 맑은 날 아침엔 바다 위 해돋이",
+  "station": "히타치역 (日立)",
+  "access": "JR 조반선 히타치역 구내(개찰 밖 자유통로·해안 출구)",
+  "jr_pass": [
+   "JR 도쿄 와이드 패스",
+   "JR 동일본 패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "맑은 날 아침",
+  "event": "",
+  "duration": "1~2시간",
+  "cost": "무료(카페 별도)",
+  "walking": "적음",
+  "fit": "조건부",
+  "condition": "맑은 날 아침이 최고",
+  "caution": "",
+  "lat": 36.5919,
+  "lng": 140.6617,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/日立駅"
+  ],
+  "region": "간토"
+ },
+ {
+  "id": "ibaraki-jaxa-tsukuba-space-center",
+  "name_ko": "JAXA 쓰쿠바 우주센터",
+  "name_ja": "JAXA筑波宇宙センター",
+  "pref": "이바라키",
+  "area": "쓰쿠바",
+  "categories": [
+   "culture",
+   "city"
+  ],
+  "summary": "일본 우주개발의 거점. 무료 전시관 '스페이스 돔'에 실물 크기 '기보' 실험동과 위성·로켓 모형이 늘어서 있다.",
+  "do": "스페이스 돔 무료 관람, 예약제 투어로 우주비행사 훈련시설·기보 관제실 견학",
+  "station": "쓰쿠바역 (つくば, 쓰쿠바 익스프레스)",
+  "access": "아키하바라에서 쓰쿠바 익스프레스로 쓰쿠바역, 노선버스 또는 택시 약 10분(정류장은 공식 확인)",
+  "jr_pass": [],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "연중",
+  "event": "",
+  "duration": "1~2시간",
+  "cost": "전시관 무료, 투어 유료",
+  "walking": "적음",
+  "fit": "백업",
+  "condition": "비 오는 날 대안",
+  "caution": "휴관일·투어 예약은 공식 확인",
+  "lat": 36.0658,
+  "lng": 140.1298,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/筑波宇宙センター",
+   "https://nominatim.openstreetmap.org/search?q=JAXA筑波宇宙センター&countrycodes=jp&format=json"
+  ],
+  "region": "간토"
+ },
+ {
+  "id": "ibaraki-hitachi-kamine-park",
+  "name_ko": "가미네 공원",
+  "name_ja": "日立市かみね公園",
+  "pref": "이바라키",
+  "area": "히타치",
+  "categories": [
+   "view",
+   "night",
+   "nature"
+  ],
+  "summary": "'일본 벚꽃 명소 100선'에 드는 언덕 공원. 전망대에서 히타치 시가지가 내려다보이고, 야경은 2019년 '자연 야경 유산'으로 인정받았다.",
+  "do": "봄 벚꽃 산책 후 전망대에서 시가지·바다 방향 조망",
+  "station": "히타치역 (日立)",
+  "access": "JR 히타치역에서 버스 약 10분 '가미네코엔구치' 하차",
+  "jr_pass": [
+   "JR 도쿄 와이드 패스",
+   "JR 동일본 패스"
+  ],
+  "seasons": [
+   "봄"
+  ],
+  "best_time": "4월 초 벚꽃",
+  "event": "히타치 벚꽃 축제: 매년 4월 초(날짜는 매년 공식 확인)",
+  "duration": "1~2시간",
+  "cost": "공원 무료(동물원·유원지 별도)",
+  "walking": "보통",
+  "fit": "백업",
+  "condition": "",
+  "caution": "",
+  "lat": 36.6089,
+  "lng": 140.6573,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/日立市かみね公園"
+  ],
+  "region": "간토"
+ },
+ {
+  "id": "ibaraki-kasama-inari",
+  "name_ko": "가사마 이나리 신사",
+  "name_ja": "笠間稲荷神社",
+  "pref": "이바라키",
+  "area": "가사마",
+  "categories": [
+   "culture",
+   "festival"
+  ],
+  "summary": "일본 3대 이나리로 꼽히는 상업 번창의 신사로 연간 300만 명 넘게 찾는다. 가을엔 경내가 국화 작품으로 채워지는 '가사마 국화 축제'.",
+  "do": "참배 후 주변 가사마야키(도자기) 가게 구경",
+  "station": "가사마역 (笠間)",
+  "access": "JR 미토선 가사마역에서 도보 약 20분(약 2km) 또는 택시 약 5분. 도모베역에서 주유버스(월요일 운휴)도 있음",
+  "jr_pass": [
+   "JR 도쿄 와이드 패스",
+   "JR 동일본 패스"
+  ],
+  "seasons": [
+   "봄",
+   "가을"
+  ],
+  "best_time": "10월 중순~11월 말 국화 축제",
+  "event": "가사마 국화 축제: 매년 10월 중순~11월 말",
+  "duration": "1~2시간",
+  "cost": "참배 무료",
+  "walking": "보통",
+  "fit": "백업",
+  "condition": "",
+  "caution": "",
+  "lat": 36.3861,
+  "lng": 140.2541,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/笠間稲荷神社"
+  ],
+  "region": "간토"
+ },
+ {
+  "id": "ibaraki-kashima-jingu",
+  "name_ko": "가시마 신궁",
+  "name_ja": "鹿島神宮",
+  "pref": "이바라키",
+  "area": "가시마",
+  "categories": [
+   "culture",
+   "nature"
+  ],
+  "summary": "무도의 신을 모신 간토의 대표 고사(古社). 거목 숲속 참배길 끝의 오쿠노미야와 맑은 샘 연못 미타라시이케가 분위기의 핵심.",
+  "do": "숲길 참배로를 따라 본전·오쿠노미야·가나메이시·미타라시이케까지 산책",
+  "station": "가시마진구역 (鹿島神宮)",
+  "access": "JR 가시마선 가시마진구역에서 도보 약 10분",
+  "jr_pass": [
+   "JR 도쿄 와이드 패스",
+   "JR 동일본 패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "연중. 여름엔 숲 그늘이 시원함",
+  "event": "",
+  "duration": "1~2시간",
+  "cost": "참배 무료",
+  "walking": "보통",
+  "fit": "백업",
+  "condition": "",
+  "caution": "",
+  "lat": 35.9689,
+  "lng": 140.6315,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/鹿島神宮",
+   "https://nominatim.openstreetmap.org/search?q=鹿島神宮&countrycodes=jp&format=json"
+  ],
+  "region": "간토"
+ },
+ {
+  "id": "ibaraki-mito-kodokan",
+  "name_ko": "고도칸 (미토번 번교)",
+  "name_ja": "弘道館",
+  "pref": "이바라키",
+  "area": "미토",
+  "categories": [
+   "culture"
+  ],
+  "summary": "미토번이 세운 대규모 번교(藩校) 건물이 남아 있는 국가 특별사적. 이른 봄엔 경내 매화가 볼만하다.",
+  "do": "옛 정청·교실 건물 관람, 2~3월엔 매화와 함께",
+  "station": "미토역 (水戸)",
+  "access": "JR 미토역 북쪽 출구에서 도보 약 10분",
+  "jr_pass": [
+   "JR 도쿄 와이드 패스",
+   "JR 동일본 패스"
+  ],
+  "seasons": [
+   "봄",
+   "가을"
+  ],
+  "best_time": "2월 하순~3월 매화",
+  "event": "",
+  "duration": "1~2시간",
+  "cost": "입장 유료(수백 엔)",
+  "walking": "적음",
+  "fit": "백업",
+  "condition": "",
+  "caution": "",
+  "lat": 36.3751,
+  "lng": 140.4776,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/弘道館"
+  ],
+  "region": "간토"
+ },
+ {
+  "id": "ibaraki-nakaminato-osakana-ichiba",
+  "name_ko": "나카미나토 오사카나 시장",
+  "name_ja": "那珂湊おさかな市場",
+  "pref": "이바라키",
+  "area": "히타치나카",
+  "categories": [
+   "city"
+  ],
+  "summary": "나카미나토 어항 바로 앞에 해산물 가게와 덮밥·초밥집 10여 곳이 모인 시장. 주말이면 수도권에서 일부러 찾아올 만큼 붐빈다.",
+  "do": "가게를 둘러보며 해산물 덮밥·초밥으로 점심, 겨울엔 아귀 전골",
+  "station": "나카미나토역 (那珂湊, 히타치나카 해변철도)",
+  "access": "JR 조반선 가쓰타역에서 히타치나카 해변철도 미나토선으로 나카미나토역, 도보 약 10~15분",
+  "jr_pass": [],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "연중. 아귀(안코) 전골은 11~3월경",
+  "event": "",
+  "duration": "1~2시간",
+  "cost": "덮밥 약 2,000~3,500엔",
+  "walking": "보통",
+  "fit": "백업",
+  "condition": "",
+  "caution": "주말·연휴 점심은 매우 혼잡, 오전 이른 시간 추천",
+  "lat": 36.3399,
+  "lng": 140.5945,
+  "url": "https://www.nakaminato-osakanaichiba.jp/",
+  "sources": [
+   "https://www.nakaminato-osakanaichiba.jp/",
+   "https://nominatim.openstreetmap.org/search?q=那珂湊おさかな市場&countrycodes=jp&format=json"
+  ],
+  "region": "간토"
+ },
+ {
+  "id": "ibaraki-seizanso",
+  "name_ko": "세이잔소 (미토 고몬 은거지)",
+  "name_ja": "西山荘（西山御殿）",
+  "pref": "이바라키",
+  "area": "히타치오타",
+  "categories": [
+   "culture",
+   "nature"
+  ],
+  "summary": "미토번 2대 번주 도쿠가와 미쓰쿠니가 말년 10년을 보낸 초가 은거처. 화려함을 싫어한 성품을 보여주는 소박한 초가 건물과 숲 정원이 남아 있다.",
+  "do": "초가 건물과 숲 정원 산책",
+  "station": "히타치오타역 (常陸太田)",
+  "access": "JR 스이군선(지선) 히타치오타역에서 이바라키교통 버스 '세이잔소이리구치' 하차, 도보 약 5분",
+  "jr_pass": [
+   "JR 도쿄 와이드 패스",
+   "JR 동일본 패스"
+  ],
+  "seasons": [
+   "봄",
+   "가을"
+  ],
+  "best_time": "봄·가을",
+  "event": "",
+  "duration": "1~2시간",
+  "cost": "입원료 약 1,500엔",
+  "walking": "보통",
+  "fit": "백업",
+  "condition": "",
+  "caution": "",
+  "lat": 36.5413,
+  "lng": 140.5063,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/西山荘"
+  ],
+  "region": "간토"
+ },
+ {
+  "id": "ibaraki-aquaworld-oarai",
+  "name_ko": "아쿠아월드 이바라키현 오아라이 수족관",
+  "name_ja": "アクアワールド茨城県大洗水族館",
+  "pref": "이바라키",
+  "area": "오아라이",
+  "categories": [
+   "culture"
+  ],
+  "summary": "상어 사육 종수가 일본 최대급(50종 이상)이고 개복치 전용 수조로 알려진 대형 수족관.",
+  "do": "상어·개복치 수조 중심으로 관람",
+  "station": "오아라이역 (大洗, 가시마임해철도)",
+  "access": "JR 미토역에서 가시마임해철도 오아라이역, 주유버스 '가이유고' 또는 이바라키교통 버스 약 15분",
+  "jr_pass": [],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "연중",
+  "event": "",
+  "duration": "반나절",
+  "cost": "입장 약 2,000엔대",
+  "walking": "적음",
+  "fit": "백업",
+  "condition": "비 오는 날 대안",
+  "caution": "",
+  "lat": 36.3333,
+  "lng": 140.5939,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/アクアワールド・大洗"
+  ],
+  "region": "간토"
+ },
+ {
+  "id": "ibaraki-ushiku-daibutsu",
+  "name_ko": "우시쿠 대불",
+  "name_ja": "牛久大仏",
+  "pref": "이바라키",
+  "area": "우시쿠",
+  "categories": [
+   "culture",
+   "view"
+  ],
+  "summary": "전체 높이 120m(불상 100m)의 청동 대불. 내부 엘리베이터로 지상 약 85m 가슴 높이까지 올라 작은 창으로 간토 평야를 내려다본다.",
+  "do": "약 3,300체 불상이 둘러싼 내부 공간을 지나 85m 높이 창가까지",
+  "station": "우시쿠역 (牛久)",
+  "access": "JR 조반선 우시쿠역 동쪽 출구에서 간토철도 버스 '우시쿠다이부쓰' 하차. 평일은 하루 3편 정도, 토·휴일엔 아웃렛 경유 직행편도 운행",
+  "jr_pass": [
+   "JR 도쿄 와이드 패스",
+   "JR 동일본 패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "연중",
+  "event": "",
+  "duration": "반나절",
+  "cost": "입장 유료(공식 확인)",
+  "walking": "적음",
+  "fit": "백업",
+  "condition": "",
+  "caution": "평일 버스가 매우 적어 시간표 확인 필수(택시 병용 고려)",
+  "lat": 35.9825,
+  "lng": 140.2203,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/牛久大仏"
+  ],
+  "region": "간토"
+ },
+ {
+  "id": "ibaraki-hitachinaka-kaihin-railway",
+  "name_ko": "히타치나카 해변철도 미나토선",
+  "name_ja": "ひたちなか海浜鉄道湊線",
+  "pref": "이바라키",
+  "area": "히타치나카",
+  "categories": [
+   "train",
+   "cape"
+  ],
+  "summary": "가쓰타~아지가우라 14.3km를 잇는 작은 로컬선. 차량기지가 있는 나카미나토역의 옛 차량과 종점 아지가우라 해변이 볼거리이고, 국영 히타치 해변공원 쪽 연장도 추진 중.",
+  "do": "나카미나토역 차량기지 구경, 오사카나 시장·아지가우라 해변을 엮어 천천히 왕복",
+  "station": "가쓰타역 (勝田) 환승 → 나카미나토역 (那珂湊)",
+  "access": "JR 조반선 가쓰타역에서 환승. 나카미나토·아지가우라 방면",
+  "jr_pass": [
+   "JR 도쿄 와이드 패스",
+   "JR 동일본 패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "연중. 여름 해수욕철엔 아지가우라 해변",
+  "event": "",
+  "duration": "반나절",
+  "cost": "운임 수백 엔(1일 승차권 있음)",
+  "walking": "적음",
+  "fit": "백업",
+  "condition": "",
+  "caution": "JR 패스는 가쓰타역까지만. 히타치나카 해변철도 운임은 별도",
+  "lat": 36.3451,
+  "lng": 140.588,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/ひたちなか海浜鉄道湊線",
+   "https://ja.wikipedia.org/wiki/那珂湊駅"
+  ],
+  "region": "간토"
+ },
+ {
+  "id": "tochigi-sl-taiju",
+  "name_ko": "SL 다이주 (도부 증기기관차)",
+  "name_ja": "SL大樹",
+  "pref": "도치기",
+  "area": "닛코(시모이마이치·기누가와)",
+  "categories": [
+   "train"
+  ],
+  "summary": "도부 기누가와선 시모이마이치~기누가와온센 12.4km를 달리는 증기기관차 열차. 시모이마이치역엔 전차대와 부채꼴 기관고 전시장이 있다.",
+  "do": "약 35~40분 SL 승차, 시모이마이치역 전차대에서 기관차 방향 전환 구경",
+  "station": "시모이마이치역 (下今市, 도부)",
+  "access": "신주쿠에서 JR·도부 직통 특급, 또는 아사쿠사에서 도부 특급으로 시모이마이치역",
+  "jr_pass": [
+   "JR 도쿄 와이드 패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "연중(월 며칠 운휴)",
+  "event": "",
+  "duration": "1~2시간",
+  "cost": "운임 + SL 좌석지정권 약 1,000엔",
+  "walking": "적음",
+  "fit": "매우 잘 맞음",
+  "condition": "SL 검사 등으로 디젤기관차(DL 다이주)가 대신 달리는 날 있음",
+  "caution": "도쿄 와이드 패스는 시모이마이치~기누가와온센 운임을 포함하지만 SL 좌석지정권은 별도. 운행일은 공식 확인",
+  "lat": 36.7256,
+  "lng": 139.6932,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/SL大樹",
+   "https://en.japantravel.com/article/jr-tokyo-wide-pass/31282"
+  ],
+  "region": "간토"
+ },
+ {
   "id": "tochigi-kegon-chuzenjiko",
   "name_ko": "게곤 폭포 & 주젠지호",
   "name_ja": "華厳滝・中禅寺湖",
@@ -3433,7 +9479,7 @@ window.SPOTS = [
   "walking": "적음",
   "fit": "매우 잘 맞음",
   "condition": "단풍철 이로하자카 정체로 버스 지연 심함",
-  "caution": "단풍 주말에는 이른 아침 출발 권장",
+  "caution": "근처 아케치다이라 로프웨이(전망대)는 2026년 1월부터 개수 공사로 운휴, 2027년 8~9월 재개 예정 / 단풍 주말에는 이른 아침 출발 권장",
   "lat": 36.73792,
   "lng": 139.50197,
   "url": "https://www.nikko-kankou.org/",
@@ -3528,6 +9574,164 @@ window.SPOTS = [
   "region": "간토"
  },
  {
+  "id": "tochigi-kuranomachi-boat",
+  "name_ko": "도치기 구라노마치 & 우즈마강 유람선",
+  "name_ja": "蔵の街遊覧船（巴波川）",
+  "pref": "도치기",
+  "area": "도치기",
+  "categories": [
+   "town",
+   "boat"
+  ],
+  "summary": "에도시대 수운으로 번성한 '작은 에도' 도치기의 흰 벽 창고 거리. 비단잉어가 노니는 우즈마강을 사공의 뱃노래와 함께 약 30분 내려간다.",
+  "do": "약 30분 노 젓는 배 유람 후 창고 거리 산책",
+  "station": "도치기역 (栃木)",
+  "access": "JR 료모선·도부 도치기역에서 도보 약 15분(승선장은 고라이바시 옆 옛 기타가와 저택)",
+  "jr_pass": [
+   "JR 도쿄 와이드 패스",
+   "JR 동일본 패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "연중(3~11월 10~16시, 12~2월 10~15시)",
+  "event": "",
+  "duration": "반나절",
+  "cost": "유람선 1,000엔",
+  "walking": "보통",
+  "fit": "매우 잘 맞음",
+  "condition": "악천후·수량에 따라 운항 중지",
+  "caution": "",
+  "lat": 36.379,
+  "lng": 139.7313,
+  "url": "https://www.k-yuransen.com/",
+  "sources": [
+   "https://www.k-yuransen.com/",
+   "https://nominatim.openstreetmap.org/search?q=栃木市 幸来橋&countrycodes=jp&format=json"
+  ],
+  "region": "간토"
+ },
+ {
+  "id": "tochigi-senjogahara",
+  "name_ko": "센조가하라 습원",
+  "name_ja": "戦場ヶ原",
+  "pref": "도치기",
+  "area": "오쿠닛코",
+  "categories": [
+   "nature"
+  ],
+  "summary": "오쿠닛코 고지대에 펼쳐진 약 400ha 습원으로 람사르 협약 등록지. 거의 평탄한 목도 자연연구로를 따라 난타이산을 보며 걷는다.",
+  "do": "아카누마에서 유다키 방향 자연연구로 산책, 가을엔 초원 단풍",
+  "station": "닛코역 (日光) / 도부닛코역",
+  "access": "JR 닛코역·도부닛코역에서 유모토온센행 도부버스 약 1시간 '아카누마' 또는 '산본마쓰' 하차",
+  "jr_pass": [
+   "JR 도쿄 와이드 패스",
+   "JR 동일본 패스"
+  ],
+  "seasons": [
+   "여름",
+   "가을"
+  ],
+  "best_time": "6~7월 야생화, 9월 하순~10월 초 초원 단풍",
+  "event": "",
+  "duration": "반나절",
+  "cost": "무료",
+  "walking": "많음",
+  "fit": "매우 잘 맞음",
+  "condition": "겨울엔 눈",
+  "caution": "전 구간을 걸으면 몇 시간 걸림. 일부만 걷고 버스로 돌아와도 됨",
+  "lat": 36.7785,
+  "lng": 139.4428,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/戦場ヶ原"
+  ],
+  "region": "간토"
+ },
+ {
+  "id": "tochigi-sesshoseki-nasu-yumoto",
+  "name_ko": "셋쇼세키 & 나스 유모토 온천",
+  "name_ja": "殺生石・那須湯本温泉",
+  "pref": "도치기",
+  "area": "나스",
+  "categories": [
+   "volcano",
+   "onsen"
+  ],
+  "summary": "구미호가 변했다는 전설의 '살생석'이 있는 화산가스 분출지. 2022년 돌이 두 쪽으로 갈라져 화제가 됐고, 바로 아래가 유황 온천 마을 나스 유모토.",
+  "do": "유황 냄새 나는 계곡 산책로로 셋쇼세키를 보고 온천 입욕",
+  "station": "나스시오바라역 (那須塩原) / 구로이소역 (黒磯)",
+  "access": "JR 나스시오바라역·구로이소역에서 간토자동차 버스 나스유모토 방면 약 1시간, 유모토 하차 후 도보 수 분",
+  "jr_pass": [
+   "JR 도쿄 와이드 패스",
+   "JR 동일본 패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "10월 단풍, 겨울 온천",
+  "event": "",
+  "duration": "반나절",
+  "cost": "셋쇼세키 무료, 온천 수백 엔~",
+  "walking": "적음",
+  "fit": "매우 잘 맞음",
+  "condition": "화산가스 농도가 높으면 출입 제한",
+  "caution": "황화수소 등 화산가스가 계속 나옴. 유아·반려동물 주의",
+  "lat": 37.1015,
+  "lng": 139.9989,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/殺生石",
+   "https://ja.wikipedia.org/wiki/那須温泉郷"
+  ],
+  "region": "간토"
+ },
+ {
+  "id": "tochigi-shiobara-onsen",
+  "name_ko": "시오바라 온천향",
+  "name_ja": "塩原温泉郷",
+  "pref": "도치기",
+  "area": "나스시오바라",
+  "categories": [
+   "onsen",
+   "nature"
+  ],
+  "summary": "하키강 계곡을 따라 11개 온천이 이어지는 온천향. 길이 320m 모미지다니 대현수교와 계곡 단풍, 강가 무인 노천탕이 매력.",
+  "do": "모미지다니 대현수교 건너기, 계곡 산책 후 온천",
+  "station": "나스시오바라역 (那須塩原)",
+  "access": "JR 나스시오바라역 또는 니시나스노역에서 JR버스 시오바라선 약 40분",
+  "jr_pass": [
+   "JR 도쿄 와이드 패스",
+   "JR 동일본 패스"
+  ],
+  "seasons": [
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "10월 하순~11월 초 단풍",
+  "event": "",
+  "duration": "1박 추천",
+  "cost": "당일 입욕 수백~천 엔대",
+  "walking": "보통",
+  "fit": "매우 잘 맞음",
+  "condition": "",
+  "caution": "강가 무인 노천탕(이와노유 등)은 혼욕이고 탈의 공간도 남녀 구분 없음",
+  "lat": 36.9685,
+  "lng": 139.8231,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/塩原温泉郷"
+  ],
+  "region": "간토"
+ },
+ {
   "id": "tochigi-ashikaga-flower-park",
   "name_ko": "아시카가 플라워파크",
   "name_ja": "あしかがフラワーパーク",
@@ -3569,6 +9773,121 @@ window.SPOTS = [
   "region": "간토"
  },
  {
+  "id": "tochigi-nikko-yumoto-onsen",
+  "name_ko": "오쿠닛코 유모토 온천 & 유노코",
+  "name_ja": "日光湯元温泉・湯ノ湖",
+  "pref": "도치기",
+  "area": "오쿠닛코",
+  "categories": [
+   "onsen",
+   "nature"
+  ],
+  "summary": "유노코 호숫가의 유황천 온천 마을. 8세기 발견 전설이 있는 원천지와 린노지 별원 온센지가 있고, 숙소 20여 곳이 모여 있다.",
+  "do": "유황 온천 입욕 후 유노코 호반 일주, 원천지 산책",
+  "station": "닛코역 (日光) / 도부닛코역",
+  "access": "JR 닛코역·도부닛코역에서 도부버스 유모토온센행 약 80~85분 종점",
+  "jr_pass": [
+   "JR 도쿄 와이드 패스",
+   "JR 동일본 패스"
+  ],
+  "seasons": [
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "10월 초중순 단풍, 겨울 설경",
+  "event": "",
+  "duration": "1박 추천",
+  "cost": "당일 입욕 약 500~1,500엔",
+  "walking": "적음",
+  "fit": "매우 잘 맞음",
+  "condition": "겨울엔 눈이 많고 매우 추움",
+  "caution": "",
+  "lat": 36.8065,
+  "lng": 139.4244,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/日光湯元温泉"
+  ],
+  "region": "간토"
+ },
+ {
+  "id": "tochigi-kirifuri-kisugedaira",
+  "name_ko": "기리후리 고원 키스게다이라",
+  "name_ja": "霧降高原 キスゲ平園地",
+  "pref": "도치기",
+  "area": "닛코",
+  "categories": [
+   "view",
+   "nature"
+  ],
+  "summary": "옛 스키장 자리를 정비한 고원 꽃밭. 긴 계단길 '천공회랑'을 오르면 간토 평야가 펼쳐지고, 7월엔 닛코키스게(원추리)가 사면을 덮는다.",
+  "do": "천공회랑 계단을 올라 전망, 돌아오는 길에 기리후리 폭포",
+  "station": "닛코역 (日光) / 도부닛코역",
+  "access": "JR 닛코역·도부닛코역에서 도부버스 기리후리고원행 종점. 겨울엔 기리후리 폭포까지만 운행",
+  "jr_pass": [
+   "JR 도쿄 와이드 패스",
+   "JR 동일본 패스"
+  ],
+  "seasons": [
+   "여름",
+   "가을"
+  ],
+  "best_time": "7월 원추리, 10월 단풍",
+  "event": "",
+  "duration": "반나절",
+  "cost": "무료",
+  "walking": "많음",
+  "fit": "조건부",
+  "condition": "이름처럼 안개가 잦음, 맑은 날 전망",
+  "caution": "천공회랑은 1,000단 넘는 계단(중간 우회로 있음)",
+  "lat": 36.8075,
+  "lng": 139.5945,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/霧降高原",
+   "https://nominatim.openstreetmap.org/search?q=霧降高原キスゲ平&countrycodes=jp&format=json"
+  ],
+  "region": "간토"
+ },
+ {
+  "id": "tochigi-ryuzu-falls",
+  "name_ko": "류즈 폭포",
+  "name_ja": "竜頭の滝",
+  "pref": "도치기",
+  "area": "오쿠닛코",
+  "categories": [
+   "nature"
+  ],
+  "summary": "유카와 강이 바위 경사를 미끄러지듯 흘러 주젠지호로 들어가는 폭포. 폭포 아래에서 보는 단풍이 오쿠닛코 대표 풍경.",
+  "do": "폭포 옆 산책로를 오르내리며 단풍 감상",
+  "station": "닛코역 (日光) / 도부닛코역",
+  "access": "JR 닛코역·도부닛코역에서 유모토온센행 도부버스 약 1시간 '류즈노타키' 하차",
+  "jr_pass": [
+   "JR 도쿄 와이드 패스",
+   "JR 동일본 패스"
+  ],
+  "seasons": [
+   "여름",
+   "가을"
+  ],
+  "best_time": "10월 상중순 단풍",
+  "event": "",
+  "duration": "1~2시간",
+  "cost": "무료",
+  "walking": "적음",
+  "fit": "조건부",
+  "condition": "단풍철에 진가",
+  "caution": "단풍철 주말엔 이로하자카 정체로 버스 지연",
+  "lat": 36.7588,
+  "lng": 139.4513,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/竜頭の滝"
+  ],
+  "region": "간토"
+ },
+ {
   "id": "tochigi-yunishigawa-kamakura",
   "name_ko": "유니시가와 온천 가마쿠라 축제",
   "name_ja": "湯西川温泉 かまくら祭",
@@ -3602,6 +9921,43 @@ window.SPOTS = [
    "https://ja.wikipedia.org/wiki/湯西川温泉",
    "https://rurubu.jp/andmore/spot/20000934",
    "https://www.nikko-kankou.org/event/1210"
+  ],
+  "region": "간토"
+ },
+ {
+  "id": "tochigi-nikko-kanmangafuchi",
+  "name_ko": "간만가후치",
+  "name_ja": "憾満ヶ淵",
+  "pref": "도치기",
+  "area": "닛코",
+  "categories": [
+   "nature"
+  ],
+  "summary": "용암이 굳어 생긴 협곡을 다이야강이 세차게 흐르는 곳. 강가 산책로에 '바케지조'라 불리는 지장보살 석상이 줄지어 있다.",
+  "do": "강변 산책로를 걸으며 석상 행렬과 급류 감상",
+  "station": "닛코역 (日光) / 도부닛코역",
+  "access": "신쿄에서 서쪽으로 도보 약 20분. 닛코역·도부닛코역에서는 버스로 신쿄·니시산도 부근까지 간 뒤 도보",
+  "jr_pass": [
+   "JR 도쿄 와이드 패스",
+   "JR 동일본 패스"
+  ],
+  "seasons": [
+   "여름",
+   "가을"
+  ],
+  "best_time": "신록과 단풍철",
+  "event": "",
+  "duration": "1~2시간",
+  "cost": "무료",
+  "walking": "보통",
+  "fit": "백업",
+  "condition": "비 온 뒤엔 길이 미끄러움",
+  "caution": "",
+  "lat": 36.749,
+  "lng": 139.5883,
+  "url": "",
+  "sources": [
+   "https://nominatim.openstreetmap.org/search?q=憾満ヶ淵&countrycodes=jp&format=json"
   ],
   "region": "간토"
  },
@@ -3641,6 +9997,318 @@ window.SPOTS = [
   "url": "https://www.toshogu.jp/",
   "sources": [
    "https://ja.wikipedia.org/wiki/日光東照宮"
+  ],
+  "region": "간토"
+ },
+ {
+  "id": "tochigi-nikko-rinnoji",
+  "name_ko": "린노지 (닛코산)",
+  "name_ja": "日光山輪王寺",
+  "pref": "도치기",
+  "area": "닛코",
+  "categories": [
+   "culture"
+  ],
+  "summary": "닛코산 신앙의 중심 사찰로, 거대한 불상 세 분을 모신 산부쓰도가 핵심. 도쇼구와 이웃한 세계유산.",
+  "do": "산부쓰도의 세 대불과 다이유인(이에미쓰 영묘) 관람",
+  "station": "닛코역 (日光) / 도부닛코역",
+  "access": "JR 닛코역·도부닛코역에서 세계유산 순회버스 약 10분 또는 도보 약 30분",
+  "jr_pass": [
+   "JR 도쿄 와이드 패스",
+   "JR 동일본 패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "가을 단풍",
+  "event": "",
+  "duration": "반나절",
+  "cost": "산부쓰도·다이유인 각각 유료",
+  "walking": "보통",
+  "fit": "백업",
+  "condition": "",
+  "caution": "",
+  "lat": 36.7544,
+  "lng": 139.6011,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/輪王寺"
+  ],
+  "region": "간토"
+ },
+ {
+  "id": "tochigi-mashiko-pottery-town",
+  "name_ko": "마시코 도자기 마을",
+  "name_ja": "益子焼・城内坂",
+  "pref": "도치기",
+  "area": "마시코",
+  "categories": [
+   "town",
+   "festival"
+  ],
+  "summary": "인간국보 하마다 쇼지가 민예 도자기를 꽃피운 가마 마을. 조나이자카 거리에 도자기 가게가 늘어서고, 봄·가을 도자기 시장엔 500개 넘는 텐트가 선다.",
+  "do": "조나이자카 도자기 가게 순례, 도예 체험",
+  "station": "마시코역 (益子, 모오카 철도)",
+  "access": "JR 미토선 시모다테역에서 모오카 철도 마시코역, 조나이자카까지 도보 약 20분",
+  "jr_pass": [],
+  "seasons": [
+   "봄",
+   "가을"
+  ],
+  "best_time": "골든위크 전후·11월 3일 연휴 전후 도자기 시장",
+  "event": "마시코 도자기 시장: 매년 봄(골든위크 전후)·가을(11월 3일 연휴 전후), 날짜는 매년 공식 확인",
+  "duration": "반나절",
+  "cost": "구경 무료",
+  "walking": "보통",
+  "fit": "백업",
+  "condition": "",
+  "caution": "도자기 시장 기간엔 매우 혼잡",
+  "lat": 36.4658,
+  "lng": 140.1058,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/益子焼",
+   "https://nominatim.openstreetmap.org/search?q=益子焼 城内坂&countrycodes=jp&format=json"
+  ],
+  "region": "간토"
+ },
+ {
+  "id": "tochigi-nikko-shinkyo",
+  "name_ko": "신쿄 (닛코의 붉은 다리)",
+  "name_ja": "神橋",
+  "pref": "도치기",
+  "area": "닛코",
+  "categories": [
+   "culture"
+  ],
+  "summary": "다이야강 위에 걸린 붉은 칠 아치 다리로 닛코 산사(山社) 들머리의 상징. 세계유산 '닛코의 사찰·신사'의 일부.",
+  "do": "유료로 다리 위를 건너 보고 강가에서 사진",
+  "station": "닛코역 (日光) / 도부닛코역",
+  "access": "JR 닛코역·도부닛코역에서 버스 약 5분 또는 도보 약 20분",
+  "jr_pass": [
+   "JR 도쿄 와이드 패스",
+   "JR 동일본 패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "10월 하순~11월 초 단풍",
+  "event": "",
+  "duration": "1~2시간",
+  "cost": "다리 건너기 유료(수백 엔)",
+  "walking": "적음",
+  "fit": "백업",
+  "condition": "",
+  "caution": "",
+  "lat": 36.7534,
+  "lng": 139.604,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/神橋"
+  ],
+  "region": "간토"
+ },
+ {
+  "id": "tochigi-ashio-copper-mine",
+  "name_ko": "아시오 동산 관광",
+  "name_ja": "足尾銅山観光",
+  "pref": "도치기",
+  "area": "닛코(아시오)",
+  "categories": [
+   "culture",
+   "train"
+  ],
+  "summary": "일본 근대 산업을 떠받친 옛 구리 광산. 실제 갱구에서 작은 토롯코를 타고 갱도 안으로 들어가 채굴 현장 재현을 본다.",
+  "do": "토롯코로 갱도 진입 후 걸어서 갱내 전시 관람, 주변 산업유산 둘러보기",
+  "station": "쓰도역 (通洞, 와타라세 계곡 철도)",
+  "access": "JR 료모선 기류역에서 와타라세 계곡 철도 약 1시간 반 쓰도역, 도보 약 5분. 또는 JR 닛코역에서 닛코시영버스 '도잔칸코마에(쓰도)'",
+  "jr_pass": [],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "가을 단풍철엔 와타라세 계곡 철도와 연계",
+  "event": "",
+  "duration": "반나절",
+  "cost": "입장 유료(천 엔 안팎)",
+  "walking": "보통",
+  "fit": "백업",
+  "condition": "",
+  "caution": "",
+  "lat": 36.6332,
+  "lng": 139.4397,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/足尾銅山",
+   "https://nominatim.openstreetmap.org/search?q=足尾銅山観光&countrycodes=jp&format=json"
+  ],
+  "region": "간토"
+ },
+ {
+  "id": "tochigi-ashikaga-gakko",
+  "name_ko": "아시카가 학교",
+  "name_ja": "足利学校",
+  "pref": "도치기",
+  "area": "아시카가",
+  "categories": [
+   "culture"
+  ],
+  "summary": "'일본에서 가장 오래된 학교'로 불리는 중세 교육기관 유적. 복원된 강당·서원과 정원이 단정하다.",
+  "do": "학교 유적과 이웃한 반나지(鑁阿寺)를 함께 둘러보기",
+  "station": "아시카가역 (足利)",
+  "access": "JR 료모선 아시카가역에서 도보 약 10분",
+  "jr_pass": [
+   "JR 도쿄 와이드 패스",
+   "JR 동일본 패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "연중",
+  "event": "",
+  "duration": "1~2시간",
+  "cost": "입장 유료(수백 엔)",
+  "walking": "적음",
+  "fit": "백업",
+  "condition": "",
+  "caution": "",
+  "lat": 36.3359,
+  "lng": 139.4537,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/足利学校"
+  ],
+  "region": "간토"
+ },
+ {
+  "id": "tochigi-oya-history-museum",
+  "name_ko": "오야 자료관 (오야석 지하 채석장)",
+  "name_ja": "大谷資料館",
+  "pref": "도치기",
+  "area": "우쓰노미야",
+  "categories": [
+   "culture",
+   "volcano"
+  ],
+  "summary": "오야석을 캐낸 자리가 거대한 지하 공간으로 남은 채석장 터. 연평균 약 8도의 서늘한 지하 신전 같은 풍경으로 촬영지로도 인기.",
+  "do": "계단으로 지하 공간에 내려가 조명이 비추는 채굴 흔적 관람",
+  "station": "우쓰노미야역 (宇都宮)",
+  "access": "JR 우쓰노미야역 서쪽 출구에서 간토버스 오야·다테이와행 약 30분 '시료칸이리구치' 하차, 도보 약 5분",
+  "jr_pass": [
+   "JR 도쿄 와이드 패스",
+   "JR 동일본 패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "연중(한여름 피서로도 좋음)",
+  "event": "",
+  "duration": "반나절",
+  "cost": "입장 유료(천 엔 안팎)",
+  "walking": "보통",
+  "fit": "백업",
+  "condition": "비 오는 날 대안",
+  "caution": "지하는 한여름에도 추움, 겉옷 필수",
+  "lat": 36.6,
+  "lng": 139.8248,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/大谷資料館"
+  ],
+  "region": "간토"
+ },
+ {
+  "id": "tochigi-utsunomiya-gyoza",
+  "name_ko": "우쓰노미야 교자",
+  "name_ja": "宇都宮餃子",
+  "pref": "도치기",
+  "area": "우쓰노미야",
+  "categories": [
+   "city"
+  ],
+  "summary": "전후 만주에서 돌아온 사람들이 퍼뜨린 교자의 도시. 역 앞 오야석 '교자상'과, 여러 가게 교자를 한자리에서 먹는 협동조합 직영점 '기랏세'가 있다.",
+  "do": "기랏세에서 여러 가게 교자 비교해 먹기",
+  "station": "우쓰노미야역 (宇都宮)",
+  "access": "JR 우쓰노미야역 서쪽 버스터미널 앞에 교자상. 기랏세 본점(마바도리)까지 도보 약 15분",
+  "jr_pass": [
+   "JR 도쿄 와이드 패스",
+   "JR 동일본 패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "연중. 11월 초 교자 축제",
+  "event": "우쓰노미야 교자 축제: 매년 11월 초 토·일(날짜는 매년 공식 확인)",
+  "duration": "1~2시간",
+  "cost": "교자 1인분 수백 엔",
+  "walking": "보통",
+  "fit": "백업",
+  "condition": "",
+  "caution": "",
+  "lat": 36.5592,
+  "lng": 139.8977,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/宇都宮餃子",
+   "https://nominatim.openstreetmap.org/search?q=宇都宮駅 餃子像&countrycodes=jp&format=json"
+  ],
+  "region": "간토"
+ },
+ {
+  "id": "gunma-kusatsu-sainokawara",
+  "name_ko": "구사쓰 사이노카와라 노천탕",
+  "name_ja": "西の河原露天風呂（西の河原公園）",
+  "pref": "군마",
+  "area": "구사쓰",
+  "categories": [
+   "onsen",
+   "volcano"
+  ],
+  "summary": "곳곳에서 온천이 솟아 흐르는 사이노카와라 공원 안쪽의 대형 정영 노천탕. 유바타케와는 다른 숲속 계곡 분위기.",
+  "do": "원천이 흐르는 공원 산책 후 대형 노천탕 입욕",
+  "station": "나가노하라쿠사쓰구치역 (長野原草津口)",
+  "access": "JR 아가쓰마선 나가노하라쿠사쓰구치역에서 JR버스 약 25~30분 구사쓰온천 버스터미널, 유바타케를 지나 도보 약 15분",
+  "jr_pass": [
+   "JR 도쿄 와이드 패스",
+   "JR 동일본 패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "겨울 설경, 가을 단풍",
+  "event": "",
+  "duration": "1~2시간",
+  "cost": "입욕 유료(천 엔 이하)",
+  "walking": "보통",
+  "fit": "매우 잘 맞음",
+  "condition": "",
+  "caution": "",
+  "lat": 36.6243,
+  "lng": 138.5883,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/草津温泉",
+   "https://nominatim.openstreetmap.org/search?q=西の河原露天風呂&countrycodes=jp&format=json"
   ],
   "region": "간토"
  },
@@ -3730,6 +10398,85 @@ window.SPOTS = [
   "region": "간토"
  },
  {
+  "id": "gunma-takaragawa-onsen",
+  "name_ko": "다카라가와 온천",
+  "name_ja": "宝川温泉 汪泉閣",
+  "pref": "군마",
+  "area": "미나카미",
+  "categories": [
+   "onsen",
+   "snow",
+   "nature"
+  ],
+  "summary": "계곡 양쪽에 대형 노천탕 4곳이 흩어진 산속 온천. 혼욕탕 3곳과 여성 전용탕이 있고 겨울 설경 노천탕이 유명.",
+  "do": "당일 입욕으로 계곡 노천탕 순례, 겨울엔 설경",
+  "station": "미나카미역 (水上)",
+  "access": "JR 조에쓰선 미나카미역에서 노선버스·택시(버스 편수 적어 시간표 확인 필수)",
+  "jr_pass": [
+   "JR 도쿄 와이드 패스",
+   "JR 동일본 패스"
+  ],
+  "seasons": [
+   "가을",
+   "겨울"
+  ],
+  "best_time": "12~3월 설경, 10월 하순 단풍",
+  "event": "",
+  "duration": "반나절",
+  "cost": "당일 입욕 약 1,500엔(게재 정보 기준)",
+  "walking": "보통",
+  "fit": "매우 잘 맞음",
+  "condition": "",
+  "caution": "당일 입욕 시간(약 10~16시)·요금은 변동 가능, 공식 확인",
+  "lat": 36.8478,
+  "lng": 139.0478,
+  "url": "",
+  "sources": [
+   "https://nominatim.openstreetmap.org/search?q=汪泉閣&countrycodes=jp&format=json",
+   "https://rurubu.jp/andmore/spot/80008324"
+  ],
+  "region": "간토"
+ },
+ {
+  "id": "gunma-manza-onsen",
+  "name_ko": "만자 온천",
+  "name_ja": "万座温泉",
+  "pref": "군마",
+  "area": "쓰마고이",
+  "categories": [
+   "onsen",
+   "snow",
+   "volcano"
+  ],
+  "summary": "해발 약 1,800m 고지대 온천. 유황 함유량이 일본 최고로 꼽히는 유백색 산성 유황천이고, 겨울엔 스키장과 설경 노천탕.",
+  "do": "설경 속 유백색 노천탕, 증기를 뿜는 분기공 '가라부키' 구경",
+  "station": "만자·가자와구치역 (万座・鹿沢口)",
+  "access": "JR 아가쓰마선 만자·가자와구치역에서 세이부버스 약 40분. 가루이자와역에서 같은 버스로 약 1시간 30분",
+  "jr_pass": [
+   "JR 도쿄 와이드 패스",
+   "JR 동일본 패스"
+  ],
+  "seasons": [
+   "가을",
+   "겨울"
+  ],
+  "best_time": "12~3월 설경, 10월 단풍",
+  "event": "",
+  "duration": "1박 추천",
+  "cost": "당일 입욕 천 엔 안팎",
+  "walking": "적음",
+  "fit": "매우 잘 맞음",
+  "condition": "폭설·화산 경계 수준에 따라 도로 통제",
+  "caution": "구사쓰시라네산 분화 경계 수준에 따라 주변 도로 규제, 방문 전 확인",
+  "lat": 36.6372,
+  "lng": 138.5101,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/万座温泉"
+  ],
+  "region": "간토"
+ },
+ {
   "id": "gunma-shima-onsen",
   "name_ko": "시마 온천",
   "name_ja": "四万温泉",
@@ -3767,6 +10514,85 @@ window.SPOTS = [
   "sources": [
    "https://ja.wikipedia.org/wiki/四万温泉",
    "https://rurubu.jp/andmore/article/24906"
+  ],
+  "region": "간토"
+ },
+ {
+  "id": "gunma-agatsuma-gorge",
+  "name_ko": "아가쓰마 협곡 & 레일바이크 아갓탄",
+  "name_ja": "吾妻峡（吾妻渓谷）・アガッタン",
+  "pref": "군마",
+  "area": "히가시아가쓰마",
+  "categories": [
+   "nature",
+   "train"
+  ],
+  "summary": "국가 명승 협곡. 2020년 완공된 얏바 댐 하류의 옛 국도 산책로를 따라 가노토비바시까지 걷고, 옛 아가쓰마선 선로에선 레일바이크 '아갓탄'을 탈 수 있다.",
+  "do": "좌안 옛 국도 산책로로 협곡 단풍, 레일바이크로 옛 선로 달리기",
+  "station": "이와시마역 (岩島)",
+  "access": "JR 아가쓰마선 이와시마역에서 노선버스 약 10분 + 도보 약 10분으로 가노토비바시",
+  "jr_pass": [
+   "JR 도쿄 와이드 패스",
+   "JR 동일본 패스"
+  ],
+  "seasons": [
+   "여름",
+   "가을"
+  ],
+  "best_time": "10월 중순~11월 초 단풍",
+  "event": "",
+  "duration": "반나절",
+  "cost": "산책 무료, 레일바이크 유료(예약·운영일 공식 확인)",
+  "walking": "보통",
+  "fit": "매우 잘 맞음",
+  "condition": "",
+  "caution": "우안 하이킹 코스는 등산로처럼 험함 → 좌안 산책로 추천",
+  "lat": 36.562,
+  "lng": 138.7214,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/吾妻渓谷",
+   "https://nominatim.openstreetmap.org/search?q=鹿飛橋&countrycodes=jp&format=json",
+   "https://nominatim.openstreetmap.org/search?q=アガッタン&countrycodes=jp&format=json"
+  ],
+  "region": "간토"
+ },
+ {
+  "id": "gunma-watarase-keikoku-torokko",
+  "name_ko": "와타라세 계곡 철도 토롯코 열차",
+  "name_ja": "わたらせ渓谷鐵道 トロッコ列車",
+  "pref": "군마",
+  "area": "미도리·기류",
+  "categories": [
+   "train",
+   "nature"
+  ],
+  "summary": "기류~마토 44.1km 계곡을 따라 달리는 로컬선. 4~11월 주말엔 창 없는 토롯코 열차가 다니고, 고도역엔 옛 특급 차량을 쓴 식당 '세이류'가 있다.",
+  "do": "토롯코 열차로 계곡 바람 맞으며 신록·단풍 감상, 종점 쪽 아시오 동산과 연계",
+  "station": "기류역 (桐生) 환승 → 오마마역 (大間々)",
+  "access": "JR 료모선 기류역에서 와타라세 계곡 철도로 환승. 토롯코는 오마마역 발착",
+  "jr_pass": [
+   "JR 도쿄 와이드 패스",
+   "JR 동일본 패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을"
+  ],
+  "best_time": "5월 신록, 11월 단풍",
+  "event": "",
+  "duration": "하루",
+  "cost": "운임 + 토롯코 정리권 편도 520엔",
+  "walking": "적음",
+  "fit": "매우 잘 맞음",
+  "condition": "토롯코는 4~11월 토·일·공휴일 중심, 겨울은 일부 날짜만",
+  "caution": "JR 패스는 기류역까지만. 와타라세 계곡 철도 운임·정리권은 별도, 운행일 공식 확인",
+  "lat": 36.5375,
+  "lng": 139.3564,
+  "url": "https://www.watetsu.com/",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/わたらせ渓谷鐵道わたらせ渓谷線"
   ],
   "region": "간토"
  },
@@ -3813,6 +10639,86 @@ window.SPOTS = [
   "region": "간토"
  },
  {
+  "id": "gunma-harunako",
+  "name_ko": "하루나호 & 하루나산 로프웨이",
+  "name_ja": "榛名湖・榛名山ロープウェイ",
+  "pref": "군마",
+  "area": "다카사키(하루나)",
+  "categories": [
+   "nature",
+   "view",
+   "snow"
+  ],
+  "summary": "하루나산 칼데라 호수. 호반에서 하루나후지 정상(약 1,360m)까지 로프웨이가 오르고, 한겨울엔 호수가 얼어 빙어 얼음낚시가 열리기도 한다.",
+  "do": "로프웨이로 하루나후지 정상 전망, 약 20분 유람선",
+  "station": "다카사키역 (高崎)",
+  "access": "JR 다카사키역에서 군마버스 약 1시간 30분 '하루나코'",
+  "jr_pass": [
+   "JR 도쿄 와이드 패스",
+   "JR 동일본 패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "10월 단풍, 1~2월 결빙. 12월 일루미네이션(개최 여부 공식 확인)",
+  "event": "",
+  "duration": "하루",
+  "cost": "로프웨이·유람선 각 유료",
+  "walking": "적음",
+  "fit": "매우 잘 맞음",
+  "condition": "얼음낚시는 얼음 두께가 충분한 해에만 개방",
+  "caution": "로프웨이 운행 상황·버스 시간표는 공식 확인",
+  "lat": 36.475,
+  "lng": 138.8667,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/榛名湖"
+  ],
+  "region": "간토"
+ },
+ {
+  "id": "gunma-hoshi-onsen",
+  "name_ko": "호시 온천 조주칸",
+  "name_ja": "法師温泉 長寿館",
+  "pref": "군마",
+  "area": "미나카미",
+  "categories": [
+   "onsen",
+   "snow"
+  ],
+  "summary": "1895년에 지은 로쿠메이칸 양식 목조 욕당 '호시노유'로 유명한 외딴 한 채 여관. 바닥 자갈 틈에서 온천이 직접 솟는다.",
+  "do": "당일 입욕으로 호시노유, 또는 1박하며 설경 온천",
+  "station": "조모코겐역 (上毛高原)",
+  "access": "조에쓰 신칸센 조모코겐역에서 정영(町営)버스 약 35분(사루가쿄 경유). 오전·오후 각 2편 정도",
+  "jr_pass": [
+   "JR 도쿄 와이드 패스",
+   "JR 동일본 패스"
+  ],
+  "seasons": [
+   "가을",
+   "겨울"
+  ],
+  "best_time": "12~3월 설경, 10월 하순 단풍",
+  "event": "",
+  "duration": "1박 추천",
+  "cost": "당일 입욕 유료(공식 확인)",
+  "walking": "적음",
+  "fit": "매우 잘 맞음",
+  "condition": "",
+  "caution": "호시노유는 혼욕(탈의실만 남녀 구분). 당일 입욕은 10:30~13:30 접수, 수요일 휴무. 버스 편수 매우 적음",
+  "lat": 36.7441,
+  "lng": 138.8302,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/法師温泉",
+   "https://nominatim.openstreetmap.org/search?q=法師温泉 長寿館&countrycodes=jp&format=json"
+  ],
+  "region": "간토"
+ },
+ {
   "id": "gunma-fukiware-falls",
   "name_ko": "후키와레 폭포",
   "name_ja": "吹割の滝",
@@ -3849,6 +10755,123 @@ window.SPOTS = [
   "sources": [
    "https://ja.wikipedia.org/wiki/吹割の滝",
    "https://www.nap-camp.com/mag/10269"
+  ],
+  "region": "간토"
+ },
+ {
+  "id": "gunma-shorinzan-darumaji",
+  "name_ko": "쇼린잔 다루마지 & 다루마 시장",
+  "name_ja": "少林山達磨寺・七草大祭だるま市",
+  "pref": "군마",
+  "area": "다카사키",
+  "categories": [
+   "culture",
+   "festival"
+  ],
+  "summary": "소원 오뚝이 '다카사키 다루마'의 발상지로 꼽히는 절. 매년 1월 6~7일 '칠초 대제 다루마 시장'이 열리고, 브루노 타우트가 머문 세이신테이도 있다.",
+  "do": "다루마도에서 전국 다루마 구경, 시장 날엔 새 다루마 사기",
+  "station": "군마야와타역 (群馬八幡) / 다카사키역",
+  "access": "JR 신에쓰 본선 군마야와타역에서 택시 약 5분, 또는 다카사키역에서 순환버스 '구루린' 쇼린잔선 약 20분",
+  "jr_pass": [
+   "JR 도쿄 와이드 패스",
+   "JR 동일본 패스"
+  ],
+  "seasons": [
+   "겨울",
+   "봄",
+   "가을"
+  ],
+  "best_time": "1월 6~7일 다루마 시장",
+  "event": "칠초 대제 다루마 시장: 매년 1월 6~7일",
+  "duration": "1~2시간",
+  "cost": "무료(다루마 구입 별도)",
+  "walking": "보통",
+  "fit": "조건부",
+  "condition": "다루마 시장 날에 진가",
+  "caution": "",
+  "lat": 36.3299,
+  "lng": 138.9574,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/少林山達磨寺",
+   "https://nominatim.openstreetmap.org/search?q=少林山達磨寺&countrycodes=jp&format=json"
+  ],
+  "region": "간토"
+ },
+ {
+  "id": "gunma-shiriyaki-onsen",
+  "name_ko": "시리야키 온천 '강 온천'",
+  "name_ja": "尻焼温泉 川の湯",
+  "pref": "군마",
+  "area": "나카노조(롯코쿠)",
+  "categories": [
+   "onsen",
+   "nature"
+  ],
+  "summary": "강바닥에서 온천이 솟아 강을 막아 만든 거대한 야외 탕. 탈의실도 없는 진짜 야탕(野湯).",
+  "do": "강 속 노천탕에 몸 담그기(수영복 입는 사람도 있음)",
+  "station": "나가노하라쿠사쓰구치역 (長野原草津口)",
+  "access": "JR 아가쓰마선 나가노하라쿠사쓰구치역에서 나카노조 정영버스 약 45분 '하나시키온센', 도보 약 10분(편수 적음)",
+  "jr_pass": [
+   "JR 도쿄 와이드 패스",
+   "JR 동일본 패스"
+  ],
+  "seasons": [
+   "여름",
+   "가을"
+  ],
+  "best_time": "늦봄~가을(장마·눈 녹는 시기 제외)",
+  "event": "",
+  "duration": "반나절",
+  "cost": "무료",
+  "walking": "보통",
+  "fit": "조건부",
+  "condition": "비 많은 시기·눈 녹는 시기·상류 소나기 때는 급류로 입욕 불가",
+  "caution": "탈의실 없음·사실상 혼욕. 버스 편수 매우 적음",
+  "lat": 36.6481,
+  "lng": 138.6414,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/尻焼温泉"
+  ],
+  "region": "간토"
+ },
+ {
+  "id": "gunma-akagi-onuma",
+  "name_ko": "아카기산 오누마 & 아카기 신사",
+  "name_ja": "赤城山 大沼・赤城神社",
+  "pref": "군마",
+  "area": "마에바시",
+  "categories": [
+   "nature",
+   "culture"
+  ],
+  "summary": "해발 약 1,360m 칼데라 호수 오누마 호반에 붉은 아카기 신사가 서 있다. 근처 습원 가쿠만부치 산책도 좋다.",
+  "do": "붉은 다리 건너 호반 신사 참배, 가쿠만부치 습원 일주",
+  "station": "마에바시역 (前橋)",
+  "access": "JR 마에바시역에서 간에쓰교통 버스 아카기 비지터센터행. 6~10월 외엔 후지미온센에서 환승",
+  "jr_pass": [
+   "JR 도쿄 와이드 패스",
+   "JR 동일본 패스"
+  ],
+  "seasons": [
+   "여름",
+   "가을"
+  ],
+  "best_time": "10월 단풍, 여름 피서",
+  "event": "",
+  "duration": "하루",
+  "cost": "무료",
+  "walking": "보통",
+  "fit": "조건부",
+  "condition": "맑은 날 호수 풍경. 겨울엔 결빙·도로 일부 폐쇄",
+  "caution": "버스 편수 적음, 귀가편 시간 먼저 확인",
+  "lat": 36.5528,
+  "lng": 139.1835,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/赤城山",
+   "https://nominatim.openstreetmap.org/search?q=大沼 前橋市&countrycodes=jp&format=json"
   ],
   "region": "간토"
  },
@@ -3893,6 +10916,281 @@ window.SPOTS = [
   "region": "간토"
  },
  {
+  "id": "gunma-usui-meganebashi",
+  "name_ko": "우스이 제3교량 (메가네바시) & 아프트의 길",
+  "name_ja": "碓氷第三橋梁（めがね橋）・アプトの道",
+  "pref": "군마",
+  "area": "안나카(요코카와)",
+  "categories": [
+   "culture",
+   "nature"
+  ],
+  "summary": "벽돌 약 200만 개로 쌓은 1893년 4연 아치 철도교(길이 91m, 높이 31m). 옛 신에쓰선 폐선 터 '아프트의 길'을 따라 터널을 지나 걸어간다.",
+  "do": "요코카와역에서 아프트의 길을 걸어 메가네바시 위까지, 돌아와 역 앞 명물 도시락 '가마메시'",
+  "station": "요코카와역 (横川)",
+  "access": "JR 신에쓰 본선 요코카와역에서 아프트의 길 도보 약 1시간, 또는 JR버스(계절 운행) 약 13분 '메가네바시'",
+  "jr_pass": [
+   "JR 도쿄 와이드 패스",
+   "JR 동일본 패스"
+  ],
+  "seasons": [
+   "봄",
+   "가을"
+  ],
+  "best_time": "10월 하순~11월 초 단풍",
+  "event": "",
+  "duration": "반나절",
+  "cost": "무료",
+  "walking": "많음",
+  "fit": "조건부",
+  "condition": "단풍철에 가장 좋음",
+  "caution": "역에서 다리까지 편도 약 1시간 완만한 오르막. 버스는 운행일 확인",
+  "lat": 36.3581,
+  "lng": 138.6983,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/碓氷第三橋梁"
+  ],
+  "region": "간토"
+ },
+ {
+  "id": "gunma-kiryu-shinmachi",
+  "name_ko": "기류 신마치 옛 거리",
+  "name_ja": "桐生新町（重要伝統的建造物群保存地区）",
+  "pref": "군마",
+  "area": "기류",
+  "categories": [
+   "town"
+  ],
+  "summary": "직물 산업으로 번성한 기류의 중요 전통적 건조물군 보존지구. 톱니 지붕 직물 공장과 상가·창고가 남아 있다.",
+  "do": "톱니 지붕 공장을 고친 카페·갤러리를 들르며 기류 텐만구까지 산책",
+  "station": "기류역 (桐生)",
+  "access": "JR 료모선 기류역에서 북쪽으로 도보 약 15~20분",
+  "jr_pass": [
+   "JR 도쿄 와이드 패스",
+   "JR 동일본 패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "연중",
+  "event": "",
+  "duration": "반나절",
+  "cost": "무료",
+  "walking": "보통",
+  "fit": "백업",
+  "condition": "",
+  "caution": "",
+  "lat": 36.4195,
+  "lng": 139.3447,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/桐生新町"
+  ],
+  "region": "간토"
+ },
+ {
+  "id": "gunma-takasaki-byakue-kannon",
+  "name_ko": "다카사키 백의대관음",
+  "name_ja": "高崎白衣大観音",
+  "pref": "군마",
+  "area": "다카사키",
+  "categories": [
+   "culture",
+   "view"
+  ],
+  "summary": "1936년에 세운 높이 41.8m 관음상. 내부 9층을 계단 146단으로 올라 어깨 부분 창으로 다카사키 시내와 군마의 산들을 본다.",
+  "do": "관음상 내부 계단을 올라 어깨 높이 전망",
+  "station": "다카사키역 (高崎)",
+  "access": "JR 다카사키역 서쪽 출구에서 시내 순환버스 '구루린' 간논야마선 약 25분 '뱌쿠에칸논마에'",
+  "jr_pass": [
+   "JR 도쿄 와이드 패스",
+   "JR 동일본 패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "맑은 날",
+  "event": "",
+  "duration": "1~2시간",
+  "cost": "태내 관람 유료(수백 엔)",
+  "walking": "보통",
+  "fit": "백업",
+  "condition": "",
+  "caution": "",
+  "lat": 36.3109,
+  "lng": 138.9805,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/高崎白衣大観音"
+  ],
+  "region": "간토"
+ },
+ {
+  "id": "gunma-tomioka-silk-mill",
+  "name_ko": "도미오카 제사장",
+  "name_ja": "富岡製糸場",
+  "pref": "군마",
+  "area": "도미오카",
+  "categories": [
+   "culture"
+  ],
+  "summary": "1872년 문을 연 관영 근대 실크 공장. 2014년 세계유산 등록, 조사소와 동·서 고치창고 3동이 국보.",
+  "do": "약 40분 해설 가이드 투어(예약 불필요)로 조사소·고치창고 견학",
+  "station": "조슈토미오카역 (上州富岡, 조신전철)",
+  "access": "JR 다카사키역에서 조신전철로 조슈토미오카역, 약 1km(도보 약 15분)",
+  "jr_pass": [
+   "JR 도쿄 와이드 패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "연중",
+  "event": "",
+  "duration": "반나절",
+  "cost": "입장 유료(천 엔 안팎)",
+  "walking": "보통",
+  "fit": "백업",
+  "condition": "",
+  "caution": "조신전철은 도쿄 와이드 패스로 탈 수 있지만 동일본 패스로는 불가",
+  "lat": 36.2551,
+  "lng": 138.8874,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/富岡製糸場",
+   "https://en.japantravel.com/article/jr-tokyo-wide-pass/31282"
+  ],
+  "region": "간토"
+ },
+ {
+  "id": "gunma-mizusawa-kannon-udon",
+  "name_ko": "미즈사와 관음 & 미즈사와 우동",
+  "name_ja": "水澤寺（水沢観音）・水沢うどん",
+  "pref": "군마",
+  "area": "시부카와",
+  "categories": [
+   "culture",
+   "city"
+  ],
+  "summary": "육각 이층탑(경장)이 있는 미즈사와 관음과, 그 참배길에 늘어선 굵고 쫄깃한 '미즈사와 우동' 가게들. 이카호 온천 가는 길목.",
+  "do": "육각당 참배 후 차가운 미즈사와 우동 점심",
+  "station": "다카사키역 (高崎)",
+  "access": "JR 다카사키역 서쪽 출구에서 군마버스 이카호온센행 '미즈사와칸논' 하차 도보 1분(편수 적음)",
+  "jr_pass": [
+   "JR 도쿄 와이드 패스",
+   "JR 동일본 패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "연중. 이카호 온천과 묶어서",
+  "event": "",
+  "duration": "1~2시간",
+  "cost": "우동 약 1,000~1,500엔",
+  "walking": "적음",
+  "fit": "백업",
+  "condition": "",
+  "caution": "",
+  "lat": 36.4793,
+  "lng": 138.9453,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/水澤寺"
+  ],
+  "region": "간토"
+ },
+ {
+  "id": "gunma-haruna-jinja",
+  "name_ko": "하루나 신사",
+  "name_ja": "榛名神社",
+  "pref": "군마",
+  "area": "다카사키(하루나)",
+  "categories": [
+   "culture",
+   "nature"
+  ],
+  "summary": "거대한 기암 '미스가타이와'에 본전이 붙어 지어진 산악 신사. 삼나무 숲과 바위 사이로 이어지는 참배길이 신비롭다.",
+  "do": "기암 사이 참배길을 걸어 바위에 붙은 본전까지",
+  "station": "다카사키역 (高崎)",
+  "access": "JR 다카사키역에서 하루나코행 군마버스로 '하루나진자' 하차(1시간 남짓)",
+  "jr_pass": [
+   "JR 도쿄 와이드 패스",
+   "JR 동일본 패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을"
+  ],
+  "best_time": "신록·단풍철",
+  "event": "",
+  "duration": "반나절",
+  "cost": "무료",
+  "walking": "보통",
+  "fit": "백업",
+  "condition": "",
+  "caution": "본전 등 대수리(2025년도까지 계획)의 영향은 공식 확인",
+  "lat": 36.4542,
+  "lng": 138.8502,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/榛名神社"
+  ],
+  "region": "간토"
+ },
+ {
+  "id": "saitama-sl-paleo-express",
+  "name_ko": "SL 팔레오 익스프레스 (지치부철도 증기기관차)",
+  "name_ja": "SLパレオエクスプレス",
+  "pref": "사이타마",
+  "area": "구마가야~지치부",
+  "categories": [
+   "train",
+   "nature"
+  ],
+  "summary": "지치부철도가 구마가야~미쓰미네구치 구간에 운행하는 증기기관차 관광열차. 아라카와 계곡과 나가토로를 지난다.",
+  "do": "구마가야역에서 SL을 타고 나가토로·지치부로 이동, 연기와 기적 소리를 즐기는 왕복 반나절 여행",
+  "station": "구마가야역 (熊谷) / 지치부역 (秩父)",
+  "access": "JR 구마가야역에서 지치부철도 SL 승차, 지치부역까지 약 2시간. 1일 1왕복",
+  "jr_pass": [
+   "JR 도쿄 와이드 패스",
+   "JR 동일본 패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을"
+  ],
+  "best_time": "3월 하순~12월 초 주말·공휴일",
+  "event": "2026년 시즌 3/20~12/6 토·일·공휴일 중심 운행. 2027년 일정은 공식 확인",
+  "duration": "반나절",
+  "cost": "지치부철도 운임 + SL 지정석권 약 1,000엔",
+  "walking": "적음",
+  "fit": "매우 잘 맞음",
+  "condition": "운행일에만 / 겨울 운휴",
+  "caution": "전석 지정, 운행일 1개월 전부터 예약. JR 패스로는 지치부철도 구간 이용 불가",
+  "lat": 35.9988,
+  "lng": 139.08581,
+  "url": "https://www.chichibu-railway.co.jp/",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/SLパレオエクスプレス",
+   "https://www.zaikei.co.jp/releases/3307945/"
+  ],
+  "region": "간토"
+ },
+ {
   "id": "saitama-nagatoro-line-kudari",
   "name_ko": "나가토로 라인쿠다리 (뱃놀이)",
   "name_ja": "長瀞ラインくだり",
@@ -3931,6 +11229,195 @@ window.SPOTS = [
   "region": "간토"
  },
  {
+  "id": "saitama-kawagoe-hikawa-shrine",
+  "name_ko": "가와고에 히카와 신사 (풍경 축제)",
+  "name_ja": "川越氷川神社",
+  "pref": "사이타마",
+  "area": "가와고에",
+  "categories": [
+   "culture",
+   "night",
+   "festival"
+  ],
+  "summary": "인연을 맺어 준다는 가와고에의 신사. 여름엔 경내를 수천 개 유리 풍경(후린)이 채우고 밤에는 조명이 켜진다.",
+  "do": "여름 저녁 풍경 회랑을 걷고 강변 신사길 산책, 구라즈쿠리 거리와 묶어 방문",
+  "station": "가와고에역 (川越) / 혼카와고에역 (本川越, 세이부)",
+  "access": "JR·도부 가와고에역에서 버스 약 10~15분 '氷川神社前' 하차 바로",
+  "jr_pass": [
+   "JR 도쿄 와이드 패스",
+   "JR 동일본 패스"
+  ],
+  "seasons": [
+   "여름"
+  ],
+  "best_time": "풍경 축제 기간 저녁",
+  "event": "엔무스비 풍경(縁むすび風鈴) 매년 7월 초~9월 초 무렵. 날짜는 매년 공식 확인",
+  "duration": "1~2시간",
+  "cost": "무료",
+  "walking": "적음",
+  "fit": "조건부",
+  "condition": "풍경 축제 기간에 진가",
+  "caution": "",
+  "lat": 35.9275,
+  "lng": 139.48853,
+  "url": "https://www.kawagoehikawa.jp/",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/氷川神社_(川越市)"
+  ],
+  "region": "간토"
+ },
+ {
+  "id": "saitama-konosu-fireworks",
+  "name_ko": "고노스 불꽃대회 (4척옥)",
+  "name_ja": "こうのす花火大会",
+  "pref": "사이타마",
+  "area": "고노스",
+  "categories": [
+   "festival",
+   "night"
+  ],
+  "summary": "아라카와 강변에서 열리는 가을 불꽃놀이. 2014년 기네스 세계기록에 오른 초대형 '4척옥'과 대형 연발이 볼거리.",
+  "do": "강변 관람석에서 4척옥과 마지막 대형 연발 '호오란부' 감상",
+  "station": "고노스역 (鴻巣)",
+  "access": "JR 다카사키선 고노스역 서쪽 출구에서 도보 약 30분(회장 누카타 운동장·아라카와 강변)",
+  "jr_pass": [
+   "JR 도쿄 와이드 패스",
+   "JR 동일본 패스"
+  ],
+  "seasons": [
+   "가을"
+  ],
+  "best_time": "10월 상순 토요일 17:30 무렵~",
+  "event": "매년 10월 상순 토요일(2026년 10/10 토 개최, 종료). 2027년 날짜는 공식 확인",
+  "duration": "반나절",
+  "cost": "무료(유료 관람석 별도)",
+  "walking": "보통",
+  "fit": "조건부",
+  "condition": "악천후 시 중지(순연 없음)",
+  "caution": "인파가 매우 많고 귀가 시 역까지 오래 걸림",
+  "lat": 36.06239,
+  "lng": 139.4854,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/こうのす花火大会",
+   "https://www.bushikaku.net/article/194952/"
+  ],
+  "region": "간토"
+ },
+ {
+  "id": "saitama-kodai-hasu-no-sato",
+  "name_ko": "고다이하스노사토 (고대 연꽃·논 아트)",
+  "name_ja": "古代蓮の里",
+  "pref": "사이타마",
+  "area": "교다",
+  "categories": [
+   "nature",
+   "view"
+  ],
+  "summary": "땅속에서 깨어난 1,400~3,000년 전 연꽃 씨앗이 핀 연못 공원. 높이 50m 전망실에서 거대한 논 그림(논 아트)을 내려다본다.",
+  "do": "이른 아침 연꽃 연못 산책 후 고다이하스 회관 전망실에서 논 아트 감상",
+  "station": "교다역 (行田)",
+  "access": "JR 다카사키선 교다역 동쪽 출구에서 교다 시내 순환버스 약 19분 '古代蓮の里' 하차 바로(1회 약 150엔). 개화기 주말엔 셔틀버스",
+  "jr_pass": [
+   "JR 도쿄 와이드 패스",
+   "JR 동일본 패스"
+  ],
+  "seasons": [
+   "여름",
+   "가을"
+  ],
+  "best_time": "연꽃 6월 하순~8월 초 오전, 논 아트 7월 중순~10월 중순",
+  "event": "",
+  "duration": "반나절",
+  "cost": "공원 무료, 전망실 약 400엔",
+  "walking": "적음",
+  "fit": "조건부",
+  "condition": "연꽃은 오전에 피고 오후엔 닫힘",
+  "caution": "순환버스 편수가 적으니 시간표 확인",
+  "lat": 36.13206,
+  "lng": 139.50008,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/古代蓮の里",
+   "https://tabi-mag.jp/gyouda-kodaihasu/"
+  ],
+  "region": "간토"
+ },
+ {
+  "id": "saitama-gongendo",
+  "name_ko": "곤겐도 벚꽃 제방",
+  "name_ja": "権現堂堤（権現堂桜堤）",
+  "pref": "사이타마",
+  "area": "삿테",
+  "categories": [
+   "nature",
+   "festival"
+  ],
+  "summary": "약 1km 제방을 따라 벚꽃 터널이 이어지고 아래로 노란 유채꽃밭이 펼쳐지는 간토 대표 벚꽃 명소.",
+  "do": "벚꽃·유채꽃 제방 산책, 계절 따라 수국(6월)·꽃무릇(9월)도 감상",
+  "station": "삿테역 (幸手, 도부)",
+  "access": "도부 닛코선 삿테역에서 버스 또는 도보 약 30분. 벚꽃 축제 기간엔 임시 교통 확인",
+  "jr_pass": [],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을"
+  ],
+  "best_time": "벚꽃·유채 3월 하순~4월 초",
+  "event": "삿테 벚꽃 축제 매년 3월 하순~4월 초. 날짜는 매년 공식 확인",
+  "duration": "반나절",
+  "cost": "무료",
+  "walking": "보통",
+  "fit": "조건부",
+  "condition": "개화 시기에 좌우",
+  "caution": "벚꽃 주말 매우 혼잡",
+  "lat": 36.09042,
+  "lng": 139.72556,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/権現堂堤"
+  ],
+  "region": "간토"
+ },
+ {
+  "id": "saitama-kumagaya-uchiwa-matsuri",
+  "name_ko": "구마가야 우치와 마쓰리",
+  "name_ja": "熊谷うちわ祭",
+  "pref": "사이타마",
+  "area": "구마가야",
+  "categories": [
+   "festival",
+   "night"
+  ],
+  "summary": "'간토 제일의 기온마쓰리'로 불리는 여름 축제. 화려한 수레 12대가 징·북 장단을 겨루며 시내를 돈다.",
+  "do": "저녁 시내에서 수레들이 모여 장단을 겨루는 '叩き合い' 구경과 노점",
+  "station": "구마가야역 (熊谷)",
+  "access": "JR 다카사키선·조에쓰 신칸센 구마가야역 앞 시가지 일대, 도보 약 5분",
+  "jr_pass": [
+   "JR 도쿄 와이드 패스",
+   "JR 동일본 패스"
+  ],
+  "seasons": [
+   "여름"
+  ],
+  "best_time": "축제 기간 저녁~밤",
+  "event": "매년 7월 20~22일",
+  "duration": "반나절",
+  "cost": "무료",
+  "walking": "보통",
+  "fit": "조건부",
+  "condition": "한여름 폭염 대비",
+  "caution": "구마가야는 일본 최고 기온 기록지. 낮 더위 매우 심함",
+  "lat": 36.13969,
+  "lng": 139.38992,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/熊谷うちわ祭",
+   "https://ja.wikipedia.org/wiki/熊谷駅"
+  ],
+  "region": "간토"
+ },
+ {
   "id": "saitama-kinchakuda-higanbana",
   "name_ko": "긴차쿠다 꽃무릇 군락",
   "name_ja": "巾着田 曼珠沙華",
@@ -3962,6 +11449,41 @@ window.SPOTS = [
   "sources": [
    "https://ja.wikipedia.org/wiki/巾着田",
    "https://tabi-mag.jp/kinchakudafes/"
+  ],
+  "region": "간토"
+ },
+ {
+  "id": "saitama-ranzan-valley",
+  "name_ko": "란잔 계곡",
+  "name_ja": "嵐山渓谷",
+  "pref": "사이타마",
+  "area": "란잔",
+  "categories": [
+   "nature"
+  ],
+  "summary": "교토 아라시야마를 닮았다 해서 이름 붙은 쓰키강 계곡. 강이 크게 휘도는 바위 기슭과 단풍 숲이 조용하다.",
+  "do": "계곡 산책로를 따라 강변 바위와 단풍을 보며 전망대까지 하이킹",
+  "station": "무사시란잔역 (武蔵嵐山, 도부)",
+  "access": "도부 도조선 무사시란잔역에서 도보 약 30분(계곡 입구). 이케부쿠로에서 도부 도조선 약 1시간",
+  "jr_pass": [],
+  "seasons": [
+   "봄",
+   "가을"
+  ],
+  "best_time": "단풍 11월 중하순, 신록 5월",
+  "event": "",
+  "duration": "반나절",
+  "cost": "무료",
+  "walking": "많음",
+  "fit": "조건부",
+  "condition": "단풍철 / 비 온 뒤 산책로 미끄러움",
+  "caution": "역에서 왕복 1시간 이상 걷고 계곡 길이 비포장",
+  "lat": 36.03953,
+  "lng": 139.31829,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/武蔵嵐山",
+   "https://nominatim.openstreetmap.org/search?q=嵐山渓谷"
   ],
   "region": "간토"
  },
@@ -4002,6 +11524,82 @@ window.SPOTS = [
   "region": "간토"
  },
  {
+  "id": "saitama-mitsumine-shrine",
+  "name_ko": "미쓰미네 신사",
+  "name_ja": "三峯神社",
+  "pref": "사이타마",
+  "area": "지치부",
+  "categories": [
+   "culture",
+   "nature",
+   "view"
+  ],
+  "summary": "오쿠치치부 산 위 해발 약 1,100m에 있는 신사. 늑대를 수호신으로 모시고, 이른 아침 운해가 자주 펼쳐진다.",
+  "do": "삼도리이와 화려한 본전 참배, 경내 숙방에 묵으면 아침 운해 관찰",
+  "station": "세이부치치부역 (西武秩父) / 미쓰미네구치역 (三峰口)",
+  "access": "세이부치치부역에서 세이부관광버스 급행 약 75분(미쓰미네구치역 경유) '三峯神社' 종점. 하루 약 5왕복",
+  "jr_pass": [],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을"
+  ],
+  "best_time": "운해는 비 온 다음 날 이른 아침, 단풍 10월 하순~11월 초",
+  "event": "",
+  "duration": "하루",
+  "cost": "참배 무료",
+  "walking": "보통",
+  "fit": "조건부",
+  "condition": "운해는 날씨 조건 맞을 때만 / 겨울은 노면 동결",
+  "caution": "버스가 하루 몇 편뿐이고 행락철엔 만차. 막차 확인 필수",
+  "lat": 35.92543,
+  "lng": 138.9304,
+  "url": "https://www.mitsuminejinja.or.jp/",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/三峯神社"
+  ],
+  "region": "간토"
+ },
+ {
+  "id": "saitama-g-cans",
+  "name_ko": "수도권 외곽 방수로 (지하 신전)",
+  "name_ja": "首都圏外郭放水路",
+  "pref": "사이타마",
+  "area": "가스카베",
+  "categories": [
+   "culture",
+   "volcano"
+  ],
+  "summary": "세계 최대급 지하 홍수 방수로. 거대한 기둥이 늘어선 조압수조는 '지하 신전'으로 불리며 견학 투어로 들어갈 수 있다.",
+  "do": "사전 예약 견학 코스로 지하 조압수조에 내려가 기둥 숲을 걷고, 전시관 '류큐칸' 관람",
+  "station": "미나미사쿠라이역 (南桜井, 도부 어번파크라인)",
+  "access": "도부 어번파크라인 미나미사쿠라이역에서 도보 약 25~40분(약 2.3~3km) 또는 택시 약 7분. 접수는 류큐칸 1층",
+  "jr_pass": [],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "맑은 날(호우 대비 가동 시 견학 중지)",
+  "event": "",
+  "duration": "반나절",
+  "cost": "견학 코스별 유료(약 1,000~3,000엔대), 전시관 무료",
+  "walking": "많음",
+  "fit": "조건부",
+  "condition": "홍수 대비 가동·호우 예보 시 견학 취소",
+  "caution": "예약제. 역에서 걸어서 30분 안팎이고 지하 계단 오르내림이 많음",
+  "lat": 35.99719,
+  "lng": 139.81205,
+  "url": "https://gaikaku.jp/",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Metropolitan_Area_Outer_Underground_Discharge_Channel",
+   "https://gaikaku.jp/",
+   "https://www.ktr.mlit.go.jp/ktr_content/content/000737728.pdf"
+  ],
+  "region": "간토"
+ },
+ {
   "id": "saitama-chichibu-yomatsuri",
   "name_ko": "지치부 요마쓰리 (야간 축제)",
   "name_ja": "秩父夜祭",
@@ -4033,6 +11631,44 @@ window.SPOTS = [
   "sources": [
    "https://ja.wikipedia.org/wiki/秩父夜祭",
    "https://watabi.org/articles/chichibu-yomatsuri-guide"
+  ],
+  "region": "간토"
+ },
+ {
+  "id": "saitama-hodosan-ropeway",
+  "name_ko": "호도산 로프웨이 (납매 정원)",
+  "name_ja": "宝登山ロープウェイ",
+  "pref": "사이타마",
+  "area": "나가토로",
+  "categories": [
+   "view",
+   "nature",
+   "culture"
+  ],
+  "summary": "나가토로의 호도산 정상부로 오르는 로프웨이. 정상 일대 납매(로바이)·매화 정원과 지치부 산들 전망이 좋다.",
+  "do": "로프웨이로 정상에 올라 겨울엔 노란 납매 꽃, 산기슭 호도산 신사 참배",
+  "station": "나가토로역 (長瀞, 지치부철도)",
+  "access": "지치부철도 나가토로역에서 신사 참배길을 따라 도보 약 20분 산로쿠역, 로프웨이 약 5분",
+  "jr_pass": [],
+  "seasons": [
+   "봄",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "납매 1월 하순~2월 하순, 단풍 11월",
+  "event": "",
+  "duration": "반나절",
+  "cost": "로프웨이 왕복 약 1,000엔대",
+  "walking": "보통",
+  "fit": "조건부",
+  "condition": "꽃·단풍 시기 / 강풍 시 운휴",
+  "caution": "",
+  "lat": 36.09112,
+  "lng": 139.09776,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/宝登山",
+   "https://ja.wikipedia.org/wiki/宝登山ロープウェイ"
   ],
   "region": "간토"
  },
@@ -4108,6 +11744,200 @@ window.SPOTS = [
   "url": "https://www.koedo.or.jp/",
   "sources": [
    "https://ja.wikipedia.org/wiki/時の鐘_(川越市)"
+  ],
+  "region": "간토"
+ },
+ {
+  "id": "saitama-hikawa-shrine-omiya",
+  "name_ko": "무사시 이치노미야 히카와 신사",
+  "name_ja": "武蔵一宮 氷川神社",
+  "pref": "사이타마",
+  "area": "사이타마(오미야)",
+  "categories": [
+   "culture",
+   "nature"
+  ],
+  "summary": "'오미야(큰 신사)'라는 지명의 유래가 된 옛 무사시국 최고 신사. 느티나무가 늘어선 약 2km 참배길이 이어진다.",
+  "do": "오미야역에서 느티나무 참배길을 걸어 본전 참배, 오미야 공원 산책",
+  "station": "오미야역 (大宮)",
+  "access": "JR 오미야역 동쪽 출구 도보 약 15~20분. 도부 기타오미야역 도보 약 10분",
+  "jr_pass": [
+   "JR 도쿄 와이드 패스",
+   "JR 동일본 패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "벚꽃 4월 초(옆 오미야 공원)",
+  "event": "다이토사이·도카마치(노점 시장) 매년 12월 10일",
+  "duration": "1~2시간",
+  "cost": "무료",
+  "walking": "보통",
+  "fit": "백업",
+  "condition": "",
+  "caution": "",
+  "lat": 35.91675,
+  "lng": 139.62973,
+  "url": "https://musashiichinomiya-hikawa.or.jp/",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/氷川神社"
+  ],
+  "region": "간토"
+ },
+ {
+  "id": "saitama-chichibu-matsurinoyu",
+  "name_ko": "세이부치치부역 앞 온천 마쓰리노유",
+  "name_ja": "西武秩父駅前温泉 祭の湯",
+  "pref": "사이타마",
+  "area": "지치부",
+  "categories": [
+   "onsen",
+   "city"
+  ],
+  "summary": "세이부치치부역에 붙은 당일치기 온천 시설. 노천탕과 지치부 먹거리 푸드코트가 있어 여행 마지막에 들르기 좋다.",
+  "do": "지치부 관광 뒤 노천탕에서 쉬고 푸드코트에서 지역 음식, 특급 출발 직전까지 이용",
+  "station": "세이부치치부역 (西武秩父)",
+  "access": "세이부 이케부쿠로선·세이부치치부선 세이부치치부역 바로(이케부쿠로에서 특급 약 80분)",
+  "jr_pass": [],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "관광 후 저녁",
+  "event": "",
+  "duration": "1~2시간",
+  "cost": "입욕료 약 1,000~1,500엔(평일·주말 상이)",
+  "walking": "적음",
+  "fit": "백업",
+  "condition": "",
+  "caution": "",
+  "lat": 35.98965,
+  "lng": 139.08396,
+  "url": "",
+  "sources": [
+   "https://nominatim.openstreetmap.org/search?q=西武秩父駅"
+  ],
+  "region": "간토"
+ },
+ {
+  "id": "saitama-omiya-bonsai-museum",
+  "name_ko": "오미야 분재 미술관 & 분재 마을",
+  "name_ja": "さいたま市大宮盆栽美術館・大宮盆栽村",
+  "pref": "사이타마",
+  "area": "사이타마(오미야)",
+  "categories": [
+   "culture",
+   "town"
+  ],
+  "summary": "분재 전문 공립 미술관과 그 주변 분재원이 모인 '분재 마을'. 수백 년 된 분재 명품을 가까이 볼 수 있다.",
+  "do": "미술관 정원과 전시실 관람 후 주변 분재원 골목 산책",
+  "station": "도로역 (土呂)",
+  "access": "JR 우쓰노미야선 도로역 도보 약 5분. 도부 오미야코엔역 도보 약 10분",
+  "jr_pass": [
+   "JR 도쿄 와이드 패스",
+   "JR 동일본 패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "단풍 분재 11월, 매화 분재 2월",
+  "event": "",
+  "duration": "1~2시간",
+  "cost": "입관료 약 300엔대",
+  "walking": "적음",
+  "fit": "백업",
+  "condition": "",
+  "caution": "대개 목요일 휴관",
+  "lat": 35.92878,
+  "lng": 139.63333,
+  "url": "https://www.bonsai-art-museum.jp/",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/さいたま市大宮盆栽美術館"
+  ],
+  "region": "간토"
+ },
+ {
+  "id": "saitama-yoshimi-hyakketsu",
+  "name_ko": "요시미 백혈 (고분 동굴 언덕)",
+  "name_ja": "吉見百穴",
+  "pref": "사이타마",
+  "area": "요시미",
+  "categories": [
+   "culture",
+   "volcano"
+  ],
+  "summary": "응회암 언덕에 고분 시대 횡혈 무덤 구멍 200여 개가 벌집처럼 뚫린 국가 사적. 구멍 안에 빛이끼가 자란다.",
+  "do": "언덕 계단을 올라 구멍 무덤을 들여다보고 빛이끼 관찰, 옆 전시관 관람",
+  "station": "히가시마쓰야마역 (東松山, 도부) / 고노스역 (鴻巣)",
+  "access": "JR 고노스역 서쪽 출구에서 가와고에관광버스 약 15분, 또는 도부 히가시마쓰야마역에서 약 5분 '百穴入口' 하차 도보 약 5분",
+  "jr_pass": [
+   "JR 도쿄 와이드 패스",
+   "JR 동일본 패스"
+  ],
+  "seasons": [
+   "봄",
+   "가을"
+  ],
+  "best_time": "봄·가을",
+  "event": "",
+  "duration": "1~2시간",
+  "cost": "관람료 약 300엔",
+  "walking": "보통",
+  "fit": "백업",
+  "condition": "",
+  "caution": "언덕 계단이 가파름",
+  "lat": 36.03917,
+  "lng": 139.42167,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/吉見百穴"
+  ],
+  "region": "간토"
+ },
+ {
+  "id": "saitama-railway-museum",
+  "name_ko": "철도박물관 (오미야)",
+  "name_ja": "鉄道博物館",
+  "pref": "사이타마",
+  "area": "사이타마(오미야)",
+  "categories": [
+   "culture",
+   "train"
+  ],
+  "summary": "JR 동일본이 운영하는 대형 철도 박물관. 증기기관차부터 신칸센까지 실물 차량이 늘어서 있고 운전 시뮬레이터가 있다.",
+  "do": "실물 차량 전시홀과 전차대 회전 시연, 운전 시뮬레이터 체험",
+  "station": "뎃도하쿠부쓰칸역 (鉄道博物館, 뉴셔틀)",
+  "access": "JR 오미야역에서 사이타마 신도시교통 뉴셔틀 약 2분, 역에서 도보 약 1분",
+  "jr_pass": [
+   "JR 도쿄 와이드 패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "평일",
+  "event": "",
+  "duration": "반나절",
+  "cost": "입관료 약 1,600엔 안팎(공식 확인)",
+  "walking": "보통",
+  "fit": "백업",
+  "condition": "",
+  "caution": "대개 화요일 휴관. 시뮬레이터는 추첨·유료",
+  "lat": 35.9206,
+  "lng": 139.6183,
+  "url": "https://www.railway-museum.jp/",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/鉄道博物館_(さいたま市)"
   ],
   "region": "간토"
  },
@@ -4192,6 +12022,88 @@ window.SPOTS = [
   "region": "간토"
  },
  {
+  "id": "chiba-niemonjima",
+  "name_ko": "니에몬지마 (노 젓는 나룻배 섬)",
+  "name_ja": "仁右衛門島",
+  "pref": "지바",
+  "area": "가모가와",
+  "categories": [
+   "cape",
+   "boat",
+   "nature"
+  ],
+  "summary": "가모가와 앞바다 작은 섬. 사공이 노를 젓는 나룻배로 건너가 해안 바위와 옛 저택을 둘러본다.",
+  "do": "다이토 어항에서 나룻배 약 5분, 섬 산책로로 바위 해안과 바다 전망",
+  "station": "후토미역 (太海)",
+  "access": "JR 우치보선 후토미역 도보 약 12분 → 나룻배 약 5분(8:30~17:00 수시 운항)",
+  "jr_pass": [
+   "JR 도쿄 와이드 패스",
+   "JR 동일본 패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "맑고 바다 잔잔한 날",
+  "event": "",
+  "duration": "1~2시간",
+  "cost": "왕복 배+섬 관람료 약 1,350엔",
+  "walking": "보통",
+  "fit": "매우 잘 맞음",
+  "condition": "파도 높은 날 운휴",
+  "caution": "우치보선 남부 구간 열차 편수가 적음",
+  "lat": 35.07667,
+  "lng": 140.10444,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/仁右衛門島"
+  ],
+  "region": "간토"
+ },
+ {
+  "id": "chiba-byobugaura",
+  "name_ko": "뵤부가우라 해안 절벽",
+  "name_ja": "屏風ケ浦",
+  "pref": "지바",
+  "area": "조시",
+  "categories": [
+   "cape",
+   "volcano",
+   "nature"
+  ],
+  "summary": "약 10km에 걸쳐 높이 수십 m의 지층 절벽이 병풍처럼 이어지는 해안. '동양의 도버'로 불린다.",
+  "do": "조시 마리나 앞 유보도에서 절벽을 가까이 보고, '지구가 둥글게 보이는 언덕 전망관'에서 해안선 전체 조망",
+  "station": "조시역 (銚子) / 도카와역 (外川, 조시 전철)",
+  "access": "JR 조시역에서 지바교통 버스 나아라이선 '銚子マリーナ' 하차 도보 약 3분. 조시 전철 도카와역에서 도보 약 28분",
+  "jr_pass": [
+   "JR 도쿄 와이드 패스",
+   "JR 동일본 패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "맑은 날 오후(절벽에 햇빛)",
+  "event": "",
+  "duration": "반나절",
+  "cost": "무료",
+  "walking": "보통",
+  "fit": "매우 잘 맞음",
+  "condition": "파도 높은 날 해안 접근 금지",
+  "caution": "해안 대부분은 낙석·사유지로 출입 금지, 마리나 앞 유보도에서 관람",
+  "lat": 35.7075,
+  "lng": 140.79,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/屏風ヶ浦"
+  ],
+  "region": "간토"
+ },
+ {
   "id": "chiba-sawara",
   "name_ko": "사와라 운하 마을",
   "name_ja": "佐原の町並み（小野川）",
@@ -4228,6 +12140,47 @@ window.SPOTS = [
   "url": "",
   "sources": [
    "https://maruchiba.jp/spot/detail_12514.html"
+  ],
+  "region": "간토"
+ },
+ {
+  "id": "chiba-ubara-risokyo",
+  "name_ko": "우바라 이상향 (해안 절벽 산책)",
+  "name_ja": "鵜原理想郷",
+  "pref": "지바",
+  "area": "가쓰우라",
+  "categories": [
+   "cape",
+   "nature",
+   "view"
+  ],
+  "summary": "외보소 리아스식 해안의 곶을 한 바퀴 도는 산책로. 하얀 절벽과 작은 만, 바위섬이 이어지는 숨은 절경.",
+  "do": "곶을 도는 약 2.3km 코스를 걸으며 절벽 전망 포인트와 바다색 감상",
+  "station": "우바라역 (鵜原)",
+  "access": "JR 소토보선 우바라역에서 도보 약 10분 코스 입구",
+  "jr_pass": [
+   "JR 도쿄 와이드 패스",
+   "JR 동일본 패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "맑은 날 오전~낮",
+  "event": "",
+  "duration": "반나절",
+  "cost": "무료",
+  "walking": "보통",
+  "fit": "매우 잘 맞음",
+  "condition": "맑은 날 바다색 / 비 온 뒤 산책로 미끄러움",
+  "caution": "소토보선 열차 편수가 적어 시간표 확인",
+  "lat": 35.13111,
+  "lng": 140.275,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/鵜原理想郷"
   ],
   "region": "간토"
  },
@@ -4273,6 +12226,204 @@ window.SPOTS = [
   "region": "간토"
  },
  {
+  "id": "chiba-choshi-electric-railway",
+  "name_ko": "조시 전철",
+  "name_ja": "銚子電気鉄道",
+  "pref": "지바",
+  "area": "조시",
+  "categories": [
+   "train",
+   "cape"
+  ],
+  "summary": "조시역~도카와역 약 6km를 달리는 작은 로컬선. '젖은 센베이' 판매로 살아남은 사연과 레트로 차량이 명물.",
+  "do": "1일권으로 이누보역에서 등대 쪽, 종점 도카와역에서 옛 어촌 골목 산책",
+  "station": "조시역 (銚子)",
+  "access": "JR 소부본선·나리타선 조시역에서 환승, 종점 도카와역까지 약 20분",
+  "jr_pass": [
+   "JR 도쿄 와이드 패스",
+   "JR 동일본 패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "맑은 날 낮",
+  "event": "",
+  "duration": "반나절",
+  "cost": "1일 승차권 1,000엔 이하 수준(공식 확인)",
+  "walking": "적음",
+  "fit": "매우 잘 맞음",
+  "condition": "",
+  "caution": "열차 편수 적음(대략 시간당 1~2편). JR 패스로는 조시 전철 구간 이용 불가",
+  "lat": 35.72889,
+  "lng": 140.8335,
+  "url": "https://www.choshi-dentetsu.jp/",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/銚子電気鉄道",
+   "https://ja.wikipedia.org/wiki/仲ノ町駅"
+  ],
+  "region": "간토"
+ },
+ {
+  "id": "chiba-futtsu-misaki",
+  "name_ko": "훗쓰곶 전망탑",
+  "name_ja": "富津岬・明治百年記念展望塔",
+  "pref": "지바",
+  "area": "훗쓰",
+  "categories": [
+   "cape",
+   "view",
+   "night"
+  ],
+  "summary": "도쿄만 안으로 길게 뻗은 모래 곶. 끝에 선 계단식 전망탑에서 바다 건너 미우라반도와 후지산, 노을이 보인다.",
+  "do": "곶 끝 전망탑에 올라 도쿄만과 후지산 실루엣 노을 감상",
+  "station": "아오호리역 (青堀)",
+  "access": "JR 우치보선 아오호리역에서 버스 약 15분 '富津公園' 하차 후 곶 끝까지 도보",
+  "jr_pass": [
+   "JR 도쿄 와이드 패스",
+   "JR 동일본 패스"
+  ],
+  "seasons": [
+   "가을",
+   "겨울"
+  ],
+  "best_time": "맑은 겨울 해 질 녘",
+  "event": "",
+  "duration": "반나절",
+  "cost": "무료",
+  "walking": "보통",
+  "fit": "매우 잘 맞음",
+  "condition": "맑은 날 후지산·노을 / 강풍 시 매우 추움",
+  "caution": "버스 편수 적음",
+  "lat": 35.31278,
+  "lng": 139.7855,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/富津岬"
+  ],
+  "region": "간토"
+ },
+ {
+  "id": "chiba-kameyama-lake",
+  "name_ko": "가메야마 호수 (늦단풍)",
+  "name_ja": "亀山湖（亀山ダム）",
+  "pref": "지바",
+  "area": "기미쓰",
+  "categories": [
+   "nature",
+   "boat"
+  ],
+  "summary": "보소 산간의 댐 호수. 간토에서 가장 늦은 단풍이 호수를 둘러싸고, 단풍철엔 호수 유람선이 뜬다.",
+  "do": "호숫가 산책과 유람선·보트로 단풍 호수 감상",
+  "station": "가즈사카메야마역 (上総亀山)",
+  "access": "JR 구루리선 종점 가즈사카메야마역에서 호숫가까지 도보 약 10분",
+  "jr_pass": [
+   "JR 도쿄 와이드 패스",
+   "JR 동일본 패스"
+  ],
+  "seasons": [
+   "가을"
+  ],
+  "best_time": "단풍 11월 하순~12월 초",
+  "event": "",
+  "duration": "반나절",
+  "cost": "무료(배는 유료)",
+  "walking": "보통",
+  "fit": "조건부",
+  "condition": "단풍 시기에 진가",
+  "caution": "구루리선 구루리~가즈사카메야마 구간은 2027년 4월 폐지·버스 전환 예정이고 열차가 하루 몇 편뿐. 방문 시점 교통 확인",
+  "lat": 35.23,
+  "lng": 140.08556,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/亀山ダム",
+   "https://www.chibanippo.co.jp//articles/1577288"
+  ],
+  "region": "간토"
+ },
+ {
+  "id": "chiba-tokyo-german-village",
+  "name_ko": "도쿄 독일촌 일루미네이션",
+  "name_ja": "東京ドイツ村 ウィンターイルミネーション",
+  "pref": "지바",
+  "area": "소데가우라",
+  "categories": [
+   "night",
+   "festival"
+  ],
+  "summary": "넓은 잔디 언덕 전체를 덮는 대형 겨울 일루미네이션. 언덕 위에서 빛의 들판을 내려다볼 수 있다.",
+  "do": "해 진 뒤 언덕 위 전망 포인트에서 빛의 들판 감상, 관람차",
+  "station": "소데가우라역 (袖ケ浦) / 지바역 (千葉)",
+  "access": "JR 소데가우라역에서 노선버스 약 35분, 또는 JR 지바역에서 고속버스 '카피나호' 약 40분",
+  "jr_pass": [
+   "JR 도쿄 와이드 패스",
+   "JR 동일본 패스"
+  ],
+  "seasons": [
+   "가을",
+   "겨울",
+   "봄"
+  ],
+  "best_time": "11~2월 일몰 후",
+  "event": "2026-27 시즌 2026/10/31~2027/4/4. 점등 시간은 공식 확인",
+  "duration": "반나절",
+  "cost": "일루미네이션 기간 입장 약 1,500엔",
+  "walking": "보통",
+  "fit": "조건부",
+  "condition": "맑은 밤 / 매우 추움",
+  "caution": "귀가 버스 막차 확인",
+  "lat": 35.40556,
+  "lng": 140.05944,
+  "url": "https://t-doitsumura.co.jp/",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/東京ドイツ村",
+   "https://t-doitsumura.co.jp/access/",
+   "https://t-doitsumura.co.jp/hour-fee/"
+  ],
+  "region": "간토"
+ },
+ {
+  "id": "chiba-okinoshima-tateyama",
+  "name_ko": "오키노시마 (다테야마)",
+  "name_ja": "沖ノ島（館山）",
+  "pref": "지바",
+  "area": "다테야마",
+  "categories": [
+   "cape",
+   "nature"
+  ],
+  "summary": "모래톱으로 이어져 걸어서 건너는 작은 무인도. 숲 산책로와 맑은 바다, 해 질 녘 후지산 실루엣이 좋다.",
+  "do": "모래톱을 걸어 섬에 건너가 숲길 한 바퀴, 해변에서 노을",
+  "station": "다테야마역 (館山)",
+  "access": "JR 우치보선 다테야마역에서 다테야마닛토버스 '館山航空隊' 행 종점 하차 도보 약 25분. 역 렌탈 자전거도 있음",
+  "jr_pass": [
+   "JR 도쿄 와이드 패스",
+   "JR 동일본 패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을"
+  ],
+  "best_time": "맑은 날 오후~노을",
+  "event": "",
+  "duration": "반나절",
+  "cost": "무료",
+  "walking": "많음",
+  "fit": "조건부",
+  "condition": "맑은 날 노을·후지산",
+  "caution": "버스 종점에서 왕복 약 50분 걷기",
+  "lat": 34.99106,
+  "lng": 139.82553,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/沖ノ島_(千葉県)"
+  ],
+  "region": "간토"
+ },
+ {
   "id": "chiba-yoro-keikoku",
   "name_ko": "요로계곡 & 고미나토 철도",
   "name_ja": "養老渓谷・小湊鐵道",
@@ -4306,6 +12457,247 @@ window.SPOTS = [
    "https://ja.wikipedia.org/wiki/養老渓谷",
    "https://maruchiba.jp/spot/detail_10884.html",
    "https://www.kominato.co.jp/"
+  ],
+  "region": "간토"
+ },
+ {
+  "id": "chiba-umihotaru",
+  "name_ko": "우미호타루 (도쿄만 해상 휴게소)",
+  "name_ja": "海ほたるパーキングエリア",
+  "pref": "지바",
+  "area": "기사라즈",
+  "categories": [
+   "view",
+   "night",
+   "cape"
+  ],
+  "summary": "도쿄만 아쿠아라인 한가운데 바다 위에 떠 있는 휴게소. 갑판에서 360도 바다와 요코하마·도쿄 쪽 야경, 노을이 보인다.",
+  "do": "전망 갑판에서 바다 한가운데 노을과 야경 감상, 휴게소 먹거리",
+  "station": "기사라즈역 (木更津) / 가와사키역 (川崎)",
+  "access": "JR 기사라즈역 또는 가와사키역에서 아쿠아라인 경유 노선버스 중 우미호타루 정차 편 이용(약 20~30분). 편 확인 필수",
+  "jr_pass": [
+   "JR 도쿄 와이드 패스",
+   "JR 동일본 패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "일몰 무렵~밤, 맑은 겨울 후지산",
+  "event": "",
+  "duration": "1~2시간",
+  "cost": "무료(버스 운임 별도)",
+  "walking": "적음",
+  "fit": "조건부",
+  "condition": "맑은 날 노을·야경 / 강풍 시 갑판 일부 폐쇄",
+  "caution": "정차 버스 편이 한정적이라 귀가 편을 먼저 확인",
+  "lat": 35.46444,
+  "lng": 139.87444,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/海ほたるパーキングエリア"
+  ],
+  "region": "간토"
+ },
+ {
+  "id": "chiba-port-tower",
+  "name_ko": "지바 포트 타워",
+  "name_ja": "千葉ポートタワー",
+  "pref": "지바",
+  "area": "지바",
+  "categories": [
+   "view",
+   "night"
+  ],
+  "summary": "지바항에 선 높이 약 125m 반사 유리 타워. 113m 전망실에서 도쿄만과 공장 지대 야경이 보이며 '일본 야경유산'으로 인정됐다.",
+  "do": "전망실에서 도쿄만 노을과 야경, 맑은 날 후지산",
+  "station": "지바미나토역 (千葉みなと)",
+  "access": "JR 게이요선·지바 도시 모노레일 지바미나토역 도보 약 15분. 지바역에서 버스 '千葉ポートタワー' 행 종점",
+  "jr_pass": [
+   "JR 도쿄 와이드 패스",
+   "JR 동일본 패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "일몰~밤",
+  "event": "",
+  "duration": "1~2시간",
+  "cost": "전망실 약 400엔대",
+  "walking": "보통",
+  "fit": "조건부",
+  "condition": "맑은 날 노을·야경",
+  "caution": "",
+  "lat": 35.60042,
+  "lng": 140.09793,
+  "url": "https://chiba-porttower.com/",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/千葉ポートタワー"
+  ],
+  "region": "간토"
+ },
+ {
+  "id": "chiba-kamogawa-seaworld",
+  "name_ko": "가모가와 시월드",
+  "name_ja": "鴨川シーワールド",
+  "pref": "지바",
+  "area": "가모가와",
+  "categories": [
+   "city",
+   "cape"
+  ],
+  "summary": "태평양 바닷가에 선 수족관. 바다를 배경으로 한 범고래 퍼포먼스가 대표 볼거리.",
+  "do": "범고래·돌고래 퍼포먼스 관람 후 바로 앞 해변 산책",
+  "station": "아와카모가와역 (安房鴨川)",
+  "access": "JR 소토보선·우치보선 아와카모가와역에서 셔틀버스 약 10분(운행 확인) 또는 도보 약 30분",
+  "jr_pass": [
+   "JR 도쿄 와이드 패스",
+   "JR 동일본 패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "평일",
+  "event": "",
+  "duration": "반나절",
+  "cost": "입장료 약 3,000엔대",
+  "walking": "적음",
+  "fit": "백업",
+  "condition": "",
+  "caution": "",
+  "lat": 35.11614,
+  "lng": 140.12058,
+  "url": "https://www.kamogawa-seaworld.jp/",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/鴨川シーワールド"
+  ],
+  "region": "간토"
+ },
+ {
+  "id": "chiba-katsuura-asaichi",
+  "name_ko": "가쓰우라 아침시장",
+  "name_ja": "勝浦朝市",
+  "pref": "지바",
+  "area": "가쓰우라",
+  "categories": [
+   "city",
+   "town"
+  ],
+  "summary": "400년 넘게 이어졌다는 항구 마을 아침시장. 길가 노점에 해산물 건어물·채소·과자가 늘어선다.",
+  "do": "아침 일찍 시장을 돌고 근처 가쓰우라 탄탄멘이나 해산물 아침 식사",
+  "station": "가쓰우라역 (勝浦)",
+  "access": "JR 소토보선 가쓰우라역 도보 약 10분",
+  "jr_pass": [
+   "JR 도쿄 와이드 패스",
+   "JR 동일본 패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "오전 7~10시 무렵",
+  "event": "",
+  "duration": "1~2시간",
+  "cost": "무료(구매 별도)",
+  "walking": "적음",
+  "fit": "백업",
+  "condition": "",
+  "caution": "대개 수요일 휴무, 오전 중 끝남. 날짜별 개최 장소(거리)가 바뀜",
+  "lat": 35.14847,
+  "lng": 140.31472,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/勝浦朝市"
+  ],
+  "region": "간토"
+ },
+ {
+  "id": "chiba-katori-jingu",
+  "name_ko": "가토리 신궁",
+  "name_ja": "香取神宮",
+  "pref": "지바",
+  "area": "가토리",
+  "categories": [
+   "culture",
+   "nature"
+  ],
+  "summary": "전국 가토리 신사의 총본사인 고대 신사. 깊은 삼나무 숲 안에 검은 옻칠을 한 본전과 누문이 있다.",
+  "do": "숲속 참배길을 걸어 검은 본전 참배, 경단 가게, 사와라 운하 마을과 묶어 방문",
+  "station": "사와라역 (佐原) / 가토리역 (香取)",
+  "access": "JR 나리타선 사와라역에서 택시 약 10분 또는 순환버스(운행일 확인). 가토리역에서는 도보 약 30분",
+  "jr_pass": [
+   "JR 도쿄 와이드 패스",
+   "JR 동일본 패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "신록 5월, 단풍 11월 하순",
+  "event": "",
+  "duration": "1~2시간",
+  "cost": "무료",
+  "walking": "보통",
+  "fit": "백업",
+  "condition": "",
+  "caution": "",
+  "lat": 35.88612,
+  "lng": 140.52869,
+  "url": "https://katori-jingu.or.jp/",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/香取神宮"
+  ],
+  "region": "간토"
+ },
+ {
+  "id": "chiba-rekihaku-sakura",
+  "name_ko": "국립역사민속박물관 & 사쿠라 무사 저택",
+  "name_ja": "国立歴史民俗博物館（佐倉）",
+  "pref": "지바",
+  "area": "사쿠라",
+  "categories": [
+   "culture",
+   "town"
+  ],
+  "summary": "사쿠라성 터에 있는 일본 역사·민속 전문 국립 박물관. 근처에 에도 시대 무사 저택 거리가 남아 있다.",
+  "do": "선사~근현대 일본 생활사 전시 관람, 성터 공원과 무사 저택 거리 산책",
+  "station": "게이세이사쿠라역 (京成佐倉) / 사쿠라역 (佐倉)",
+  "access": "게이세이사쿠라역 도보 약 15분, JR 사쿠라역에서 버스 약 15분",
+  "jr_pass": [
+   "JR 도쿄 와이드 패스",
+   "JR 동일본 패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "벚꽃 4월 초(성터 공원)",
+  "event": "",
+  "duration": "반나절",
+  "cost": "상설전 1,000엔 안팎(공식 확인)",
+  "walking": "보통",
+  "fit": "백업",
+  "condition": "",
+  "caution": "대개 월요일 휴관",
+  "lat": 35.7245,
+  "lng": 140.21908,
+  "url": "https://www.rekihaku.ac.jp/",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/国立歴史民俗博物館"
   ],
   "region": "간토"
  },
@@ -4350,6 +12742,120 @@ window.SPOTS = [
   "region": "간토"
  },
  {
+  "id": "chiba-tokyo-disney-resort",
+  "name_ko": "도쿄 디즈니 리조트",
+  "name_ja": "東京ディズニーリゾート",
+  "pref": "지바",
+  "area": "우라야스(마이하마)",
+  "categories": [
+   "city",
+   "night"
+  ],
+  "summary": "디즈니랜드와 디즈니씨 두 테마파크. 지바현의 대표 관광지로 밤 퍼레이드와 불꽃이 하이라이트.",
+  "do": "하루 한 파크를 골라 어트랙션과 야간 퍼레이드 감상",
+  "station": "마이하마역 (舞浜)",
+  "access": "JR 게이요선 마이하마역 바로(도쿄역에서 약 15분)",
+  "jr_pass": [
+   "JR 도쿄 와이드 패스",
+   "JR 동일본 패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "평일. 할로윈·크리스마스 시즌 장식",
+  "event": "",
+  "duration": "하루",
+  "cost": "1일권 변동 요금 약 8,000~11,000엔",
+  "walking": "많음",
+  "fit": "백업",
+  "condition": "",
+  "caution": "하루 종일 걷고 대기 시간이 김. 티켓은 날짜 지정 사전 구매",
+  "lat": 35.63278,
+  "lng": 139.88056,
+  "url": "https://www.tokyodisneyresort.jp/",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/東京ディズニーランド"
+  ],
+  "region": "간토"
+ },
+ {
+  "id": "tokyo-kozushima-starry-sky",
+  "name_ko": "고즈시마 별하늘",
+  "name_ja": "神津島 星空",
+  "pref": "도쿄",
+  "area": "고즈시마",
+  "categories": [
+   "night",
+   "cape",
+   "nature"
+  ],
+  "summary": "도쿄도 이즈 제도의 섬으로 국제 '밤하늘 보호지역' 인증을 받았다. 도쿄도인데도 은하수가 맨눈으로 보인다.",
+  "do": "맑은 밤 항구 주변이나 전망대에서 별·은하수 관찰, 낮엔 덴조산 등산과 맑은 바다",
+  "station": "고즈시마항 (神津島港) / 고즈시마 공항",
+  "access": "다케시바 터미널에서 도카이기선 고속 제트선 약 4시간 전후(야간 대형선도 있음), 또는 조후비행장에서 신중앙항공 약 45분",
+  "jr_pass": [],
+  "seasons": [
+   "여름",
+   "가을"
+  ],
+  "best_time": "신월 전후 맑은 밤. 은하수는 여름",
+  "event": "",
+  "duration": "1박 추천",
+  "cost": "배·항공 운임 별도, 별 관찰 무료",
+  "walking": "보통",
+  "fit": "매우 잘 맞음",
+  "condition": "맑고 달 없는 밤에 진가 / 해상 악천후 시 결항",
+  "caution": "섬 내 가로등이 적어 밤 이동 시 손전등 필요",
+  "lat": 34.21694,
+  "lng": 139.15417,
+  "url": "https://kozushima.com/",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/神津島"
+  ],
+  "region": "간토"
+ },
+ {
+  "id": "tokyo-niijima-yunohama-onsen",
+  "name_ko": "니지마 유노하마 노천온천",
+  "name_ja": "新島 湯の浜露天温泉",
+  "pref": "도쿄",
+  "area": "니지마",
+  "categories": [
+   "onsen",
+   "cape",
+   "night"
+  ],
+  "summary": "이즈 제도 니지마의 바닷가 무료 노천온천. 그리스 신전풍 기둥 사이 탕에서 태평양 노을을 본다.",
+  "do": "수영복을 입고 바다 앞 노천탕에서 노을, 낮엔 흰 모래 해변 하부시우라 산책",
+  "station": "니지마항 (新島港) / 니지마 공항",
+  "access": "다케시바 터미널에서 도카이기선 고속 제트선 약 2~3시간(야간 대형선도 있음), 또는 조후비행장에서 신중앙항공 약 35분. 섬 안은 렌탈 자전거가 일반적",
+  "jr_pass": [],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을"
+  ],
+  "best_time": "맑은 날 일몰 무렵",
+  "event": "",
+  "duration": "1박 추천",
+  "cost": "온천 무료, 배·항공 운임 별도",
+  "walking": "적음",
+  "fit": "매우 잘 맞음",
+  "condition": "맑은 저녁 노을 / 해상 악천후 시 배·항공 결항",
+  "caution": "혼탕이라 수영복 착용 필수",
+  "lat": 34.36411,
+  "lng": 139.2425,
+  "url": "https://niijima-info.jp/",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/新島",
+   "https://nominatim.openstreetmap.org/search?q=湯の浜露天温泉"
+  ],
+  "region": "간토"
+ },
+ {
   "id": "tokyo-takaosan",
   "name_ko": "다카오산",
   "name_ja": "高尾山",
@@ -4382,6 +12888,48 @@ window.SPOTS = [
   "url": "https://www.takaotozan.co.jp/",
   "sources": [
    "https://ja.wikipedia.org/wiki/高尾山"
+  ],
+  "region": "간토"
+ },
+ {
+  "id": "tokyo-tocho-observatory",
+  "name_ko": "도쿄도청 전망실 & 프로젝션 매핑",
+  "name_ja": "東京都庁 展望室",
+  "pref": "도쿄",
+  "area": "니시신주쿠",
+  "categories": [
+   "view",
+   "night"
+  ],
+  "summary": "지상 약 202m 도청 전망실을 무료로 개방. 밤에는 도청 건물 벽면에 대형 프로젝션 매핑을 연중 상영한다.",
+  "do": "북 전망실에서 신주쿠 야경을 보고, 내려와 도민광장에서 건물 벽 프로젝션 매핑 관람",
+  "station": "도초마에역 (都庁前, 도에이 오에도선) / 신주쿠역 (新宿)",
+  "access": "도초마에역 바로, JR 신주쿠역 서쪽 출구 도보 약 10분",
+  "jr_pass": [
+   "JR 도쿄 와이드 패스",
+   "JR 동일본 패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "맑은 겨울 낮(후지산), 일몰 후 야경",
+  "event": "프로젝션 매핑 연중 야간 상영. 작품·상영 시간은 공식 확인",
+  "duration": "1~2시간",
+  "cost": "무료",
+  "walking": "적음",
+  "fit": "매우 잘 맞음",
+  "condition": "맑은 날 후지산·원경",
+  "caution": "개실 약 9:30~22:00(남 전망실은 17:30까지). 휴실일 남=첫째·셋째 화, 북=둘째·넷째 월. 입구 짐 검사",
+  "lat": 35.6895,
+  "lng": 139.69175,
+  "url": "https://www.yokoso.metro.tokyo.lg.jp/tenbou/",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/東京都庁舎",
+   "https://www.gotokyo.org/jp/spot/74",
+   "https://www.metro.tokyo.lg.jp/information/press/2026/02/2026021603"
   ],
   "region": "간토"
  },
@@ -4505,6 +13053,157 @@ window.SPOTS = [
   "region": "간토"
  },
  {
+  "id": "tokyo-hachijojima",
+  "name_ko": "하치조지마",
+  "name_ja": "八丈島",
+  "pref": "도쿄",
+  "area": "하치조지마",
+  "categories": [
+   "cape",
+   "onsen",
+   "volcano"
+  ],
+  "summary": "도쿄도에 속한 남쪽 화산섬. 하치조후지와 미하라산 두 산 사이에 바다가 보이는 노천온천과 폭포가 있다.",
+  "do": "하치조후지 분화구 둘레길을 걷고, 섬 남부의 바다 전망 노천온천에서 휴식",
+  "station": "하치조지마 공항 / 소코도항(底土)",
+  "access": "하네다공항에서 ANA 항공 약 55분, 또는 다케시바 터미널에서 도카이기선 야간 대형선 약 10시간 이상. 섬 안은 노선버스(편수 적음)·택시",
+  "jr_pass": [],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을"
+  ],
+  "best_time": "5~10월",
+  "event": "",
+  "duration": "1박 추천",
+  "cost": "항공·배 운임은 시기별 상이, 온천 약 500~1,000엔",
+  "walking": "보통",
+  "fit": "매우 잘 맞음",
+  "condition": "기상 악화 시 항공 결항·배 접안 불가로 회항 가능 / 하치조후지는 강풍·안개 시 위험",
+  "caution": "섬 내 버스가 적어 렌터카 없이 다니려면 일정 여유 필요",
+  "lat": 33.1094,
+  "lng": 139.7914,
+  "url": "https://www.hachijo.gr.jp/",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/八丈島"
+  ],
+  "region": "간토"
+ },
+ {
+  "id": "tokyo-showa-kinen-park",
+  "name_ko": "국영 쇼와 기념공원",
+  "name_ja": "国営昭和記念公園",
+  "pref": "도쿄",
+  "area": "다치카와",
+  "categories": [
+   "nature",
+   "night"
+  ],
+  "summary": "다마 지역의 넓은 국영 공원. 가을 은행나무 가로수와 코스모스 언덕, 겨울 일루미네이션이 유명하다.",
+  "do": "자전거를 빌려 넓은 꽃밭과 은행나무 가로수를 돌고, 겨울엔 저녁 일루미네이션",
+  "station": "니시타치카와역 (西立川)",
+  "access": "JR 오메선 니시타치카와역 도보 약 2분(니시타치카와 입구). JR 다치카와역 도보 약 15분",
+  "jr_pass": [
+   "JR 도쿄 와이드 패스",
+   "JR 동일본 패스"
+  ],
+  "seasons": [
+   "봄",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "봄 벚꽃·튤립, 가을 코스모스·은행잎(11월 중하순), 겨울 일루미네이션",
+  "event": "겨울 일루미네이션·가을 단풍 축제 등은 매년 공식 확인",
+  "duration": "반나절",
+  "cost": "입원료 약 450엔",
+  "walking": "많음",
+  "fit": "조건부",
+  "condition": "꽃·단풍 시기에 진가",
+  "caution": "공원이 매우 넓어 걸어서 돌면 오래 걸림 → 자전거 대여 추천",
+  "lat": 35.70742,
+  "lng": 139.39431,
+  "url": "https://www.showakinen-koen.jp/",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/国営昭和記念公園"
+  ],
+  "region": "간토"
+ },
+ {
+  "id": "tokyo-skytree",
+  "name_ko": "도쿄 스카이트리",
+  "name_ja": "東京スカイツリー",
+  "pref": "도쿄",
+  "area": "오시아게(스미다구)",
+  "categories": [
+   "view",
+   "night"
+  ],
+  "summary": "높이 634m 전파탑. 350m·450m 전망대에서 도쿄 전역과 맑은 날 후지산까지 보인다.",
+  "do": "350m 천망 데크에서 야경, 추가 요금으로 450m 천망 회랑의 유리 경사로 걷기",
+  "station": "도쿄스카이트리역 (とうきょうスカイツリー, 도부) / 오시아게역 (押上)",
+  "access": "도부 스카이트리라인 도쿄스카이트리역 바로, 오시아게역(도쿄메트로·도에이·게이세이) 바로. 아사쿠사에서 도보 약 20분",
+  "jr_pass": [],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "공기 맑은 겨울 낮(후지산), 또는 일몰 시간대",
+  "event": "",
+  "duration": "1~2시간",
+  "cost": "천망 데크 평일 약 2,400엔, 회랑 세트 약 3,500엔(2026년 4월부터 변동 요금제, 날짜 지정권이 더 저렴)",
+  "walking": "적음",
+  "fit": "조건부",
+  "condition": "맑은 날 원경·후지산 / 흐리거나 비 오면 전망 거의 없음",
+  "caution": "",
+  "lat": 35.71014,
+  "lng": 139.81083,
+  "url": "https://www.tokyo-skytree.jp/",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/東京スカイツリー",
+   "https://www.walkerplus.com/spot/ar0313s06408/price.html"
+  ],
+  "region": "간토"
+ },
+ {
+  "id": "tokyo-tokyo-tower",
+  "name_ko": "도쿄 타워",
+  "name_ja": "東京タワー",
+  "pref": "도쿄",
+  "area": "시바코엔(미나토구)",
+  "categories": [
+   "view",
+   "night"
+  ],
+  "summary": "1958년 완공된 높이 333m 전파탑. 주황빛 조명이 켜진 밤 모습과 전망대에서 보는 도심 야경이 대표적.",
+  "do": "150m 메인 데크에서 야경, 여유 있으면 250m 톱 데크 투어. 시바공원 쪽에서 타워 야경 사진",
+  "station": "아카바네바시역 (赤羽橋, 도에이 오에도선)",
+  "access": "아카바네바시역 도보 약 5분, 도쿄메트로 가미야초역 도보 약 7분. JR 하마마쓰초역에서는 도보 약 15분",
+  "jr_pass": [],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "일몰 무렵~밤",
+  "event": "",
+  "duration": "1~2시간",
+  "cost": "메인 데크 약 1,200엔, 톱 데크 투어 약 3,000엔대",
+  "walking": "적음",
+  "fit": "조건부",
+  "condition": "맑은 밤 야경 / 흐리면 원경이 흐림",
+  "caution": "",
+  "lat": 35.65861,
+  "lng": 139.74556,
+  "url": "https://www.tokyotower.co.jp/",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/東京タワー"
+  ],
+  "region": "간토"
+ },
+ {
   "id": "tokyo-sumidagawa-fireworks",
   "name_ko": "스미다가와 불꽃놀이",
   "name_ja": "隅田川花火大会",
@@ -4583,6 +13282,515 @@ window.SPOTS = [
   "region": "간토"
  },
  {
+  "id": "tokyo-odaiba-seaside-park",
+  "name_ko": "오다이바 해변공원 (레인보우 브리지 야경)",
+  "name_ja": "お台場海浜公園",
+  "pref": "도쿄",
+  "area": "오다이바",
+  "categories": [
+   "night",
+   "city",
+   "cape"
+  ],
+  "summary": "도쿄만 인공 해변. 모래사장 너머 레인보우 브리지와 도쿄 타워, 도심 빌딩이 이어지는 야경 명소.",
+  "do": "유리카모메로 레인보우 브리지를 건너 해변 산책로에서 노을과 다리 야경 감상",
+  "station": "오다이바카이힌코엔역 (お台場海浜公園, 유리카모메) / 도쿄텔레포트역 (東京テレポート, 린카이선)",
+  "access": "신바시역에서 유리카모메 약 15분, 오다이바카이힌코엔역 도보 약 3분. 또는 린카이선 도쿄텔레포트역 도보 약 5분(JR 사이쿄선 직통, 도쿄 와이드 패스로 린카이선 이용 가능)",
+  "jr_pass": [
+   "JR 도쿄 와이드 패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "일몰~밤",
+  "event": "",
+  "duration": "반나절",
+  "cost": "무료",
+  "walking": "보통",
+  "fit": "조건부",
+  "condition": "맑은 저녁 노을·야경 / 강풍 땐 해변이 추움",
+  "caution": "해변은 수영 금지(일부 이벤트 제외)",
+  "lat": 35.63081,
+  "lng": 139.77661,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/お台場海浜公園"
+  ],
+  "region": "간토"
+ },
+ {
+  "id": "tokyo-okutama-lake",
+  "name_ko": "오쿠타마 호수",
+  "name_ja": "奥多摩湖",
+  "pref": "도쿄",
+  "area": "오쿠타마",
+  "categories": [
+   "nature",
+   "view"
+  ],
+  "summary": "오고치 댐으로 생긴 도쿄 서쪽 끝 산중 호수. 댐 위 산책로에서 산과 호수가 펼쳐지고 가을 단풍이 좋다.",
+  "do": "댐 제방 위를 걸으며 호수 전망, 오쿠타마역 주변 계곡 산책과 연계",
+  "station": "오쿠타마역 (奥多摩)",
+  "access": "JR 오메선 종점 오쿠타마역에서 니시토쿄버스 약 15분 '奥多摩湖' 하차",
+  "jr_pass": [
+   "JR 도쿄 와이드 패스",
+   "JR 동일본 패스"
+  ],
+  "seasons": [
+   "봄",
+   "가을"
+  ],
+  "best_time": "벚꽃 4월, 단풍 11월 초중순",
+  "event": "",
+  "duration": "반나절",
+  "cost": "무료",
+  "walking": "보통",
+  "fit": "조건부",
+  "condition": "단풍철·맑은 날",
+  "caution": "오쿠타마 방면 열차·버스 편수가 적어 귀가 시간 미리 확인",
+  "lat": 35.7774,
+  "lng": 139.0114,
+  "url": "https://www.okutama.gr.jp/",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/奥多摩湖"
+  ],
+  "region": "간토"
+ },
+ {
+  "id": "tokyo-imperial-palace-east-gardens",
+  "name_ko": "고쿄 히가시교엔 (에도성 터)",
+  "name_ja": "皇居東御苑",
+  "pref": "도쿄",
+  "area": "지요다(마루노우치)",
+  "categories": [
+   "culture",
+   "nature"
+  ],
+  "summary": "옛 에도성 혼마루·니노마루 자리를 정원으로 공개한 곳. 거대한 돌담과 천수대 터, 계절 정원을 무료로 볼 수 있다.",
+  "do": "오테몬으로 들어가 천수대 터에 올라 성터 규모를 보고 니노마루 정원 산책",
+  "station": "오테마치역 (大手町) / 도쿄역 (東京)",
+  "access": "도쿄메트로·도에이 오테마치역 도보 약 5분, JR 도쿄역 마루노우치 출구 도보 약 15분",
+  "jr_pass": [
+   "JR 도쿄 와이드 패스",
+   "JR 동일본 패스"
+  ],
+  "seasons": [
+   "봄",
+   "가을"
+  ],
+  "best_time": "봄 벚꽃·철쭉, 가을 단풍",
+  "event": "",
+  "duration": "1~2시간",
+  "cost": "무료",
+  "walking": "보통",
+  "fit": "백업",
+  "condition": "",
+  "caution": "대개 월·금요일 휴원, 입구에서 짐 검사. 휴원일은 궁내청 공지 확인",
+  "lat": 35.68639,
+  "lng": 139.7575,
+  "url": "https://www.kunaicho.go.jp/",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/皇居東御苑"
+  ],
+  "region": "간토"
+ },
+ {
+  "id": "tokyo-meiji-jingu",
+  "name_ko": "메이지 신궁",
+  "name_ja": "明治神宮",
+  "pref": "도쿄",
+  "area": "하라주쿠·요요기",
+  "categories": [
+   "culture",
+   "nature"
+  ],
+  "summary": "메이지 일왕 부부를 모신 신사. 하라주쿠 바로 옆인데도 인공으로 조성한 넓은 숲 속 자갈길이 이어진다.",
+  "do": "큰 도리이부터 숲길을 걸어 본전 참배, 6월엔 교엔(정원)의 꽃창포",
+  "station": "하라주쿠역 (原宿)",
+  "access": "JR 야마노테선 하라주쿠역 도보 약 1분(남쪽 참배길 입구). 도쿄메트로 메이지진구마에역도 인접",
+  "jr_pass": [
+   "JR 도쿄 와이드 패스",
+   "JR 동일본 패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "아침 이른 시간. 꽃창포 6월",
+  "event": "하쓰모데(설 참배) 매년 1월 1~3일, 전국 최대급 인파",
+  "duration": "1~2시간",
+  "cost": "무료(교엔은 별도 유료)",
+  "walking": "보통",
+  "fit": "백업",
+  "condition": "",
+  "caution": "본전까지 자갈길 약 10분 이상",
+  "lat": 35.67611,
+  "lng": 139.69917,
+  "url": "https://www.meijijingu.or.jp/",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/明治神宮"
+  ],
+  "region": "간토"
+ },
+ {
+  "id": "tokyo-shibamata-taishakuten",
+  "name_ko": "시바마타 다이샤쿠텐",
+  "name_ja": "柴又帝釈天（題経寺）",
+  "pref": "도쿄",
+  "area": "시바마타(가쓰시카구)",
+  "categories": [
+   "culture",
+   "town"
+  ],
+  "summary": "영화 '남자는 괴로워'의 무대인 절과 참배길. 본당 외벽을 뒤덮은 정교한 목조 조각이 볼거리.",
+  "do": "참배길에서 쑥 경단을 맛보고 조각 갤러리·정원 관람, 에도가와 강변 산책",
+  "station": "시바마타역 (柴又, 게이세이)",
+  "access": "게이세이 가나마치선 시바마타역 도보 약 3분. 게이세이 다카사고역에서 환승",
+  "jr_pass": [],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "평일 낮",
+  "event": "",
+  "duration": "반나절",
+  "cost": "참배 무료, 조각 갤러리·정원 약 400엔",
+  "walking": "적음",
+  "fit": "백업",
+  "condition": "",
+  "caution": "",
+  "lat": 35.7584,
+  "lng": 139.8782,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/柴又帝釈天"
+  ],
+  "region": "간토"
+ },
+ {
+  "id": "tokyo-tsukiji-outer-market",
+  "name_ko": "쓰키지 장외시장",
+  "name_ja": "築地場外市場",
+  "pref": "도쿄",
+  "area": "쓰키지(주오구)",
+  "categories": [
+   "city"
+  ],
+  "summary": "도매시장이 도요스로 옮긴 뒤에도 남은 해산물·먹거리 상점가. 골목마다 해산물 덮밥, 계란말이, 꼬치를 판다.",
+  "do": "오전에 골목을 돌며 해산물 덮밥·계란말이·굴 같은 길거리 먹거리, 옆 쓰키지 혼간지도 함께",
+  "station": "쓰키지역 (築地, 히비야선) / 쓰키지시조역 (築地市場, 오에도선)",
+  "access": "도쿄메트로 히비야선 쓰키지역 도보 약 1~3분, 도에이 오에도선 쓰키지시조역 도보 약 3분",
+  "jr_pass": [],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "오전 7~11시 무렵",
+  "event": "",
+  "duration": "1~2시간",
+  "cost": "먹거리·식사 약 1,000~4,000엔",
+  "walking": "적음",
+  "fit": "백업",
+  "condition": "",
+  "caution": "오후 일찍 닫는 가게가 많고 일요일·공휴일·수요일엔 쉬는 점포가 많음",
+  "lat": 35.66539,
+  "lng": 139.77047,
+  "url": "https://www.tsukiji.or.jp/",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/築地市場",
+   "https://nominatim.openstreetmap.org/search?q=築地場外市場"
+  ],
+  "region": "간토"
+ },
+ {
+  "id": "tokyo-sensoji",
+  "name_ko": "아사쿠사 센소지",
+  "name_ja": "浅草寺",
+  "pref": "도쿄",
+  "area": "아사쿠사",
+  "categories": [
+   "culture",
+   "town",
+   "night"
+  ],
+  "summary": "도쿄에서 가장 오래된 절. 가미나리몬과 나카미세 상점가, 해진 뒤 본당·오층탑 라이트업까지 도쿄 옛 정취의 대표.",
+  "do": "가미나리몬에서 나카미세 먹거리를 즐기며 본당까지 걷고, 해진 뒤 라이트업된 오층탑 감상",
+  "station": "아사쿠사역 (浅草, 도쿄메트로·도에이·도부)",
+  "access": "도쿄메트로 긴자선·도에이 아사쿠사선 아사쿠사역 도보 약 5분. JR 우에노역에서 긴자선 환승 약 5분",
+  "jr_pass": [],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "인파 적은 이른 아침 또는 일몰 후 라이트업",
+  "event": "산자마쓰리 매년 5월 셋째 주말 무렵. 날짜는 매년 공식 확인",
+  "duration": "1~2시간",
+  "cost": "무료",
+  "walking": "적음",
+  "fit": "백업",
+  "condition": "",
+  "caution": "낮 시간·주말은 나카미세가 매우 붐빔",
+  "lat": 35.71472,
+  "lng": 139.79675,
+  "url": "https://www.senso-ji.jp/",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/浅草寺"
+  ],
+  "region": "간토"
+ },
+ {
+  "id": "tokyo-yanaka-ginza",
+  "name_ko": "야나카 긴자 & 유야케 단단",
+  "name_ja": "谷中銀座商店街・夕やけだんだん",
+  "pref": "도쿄",
+  "area": "야나카(다이토구)",
+  "categories": [
+   "town",
+   "city",
+   "night"
+  ],
+  "summary": "옛 도쿄 서민 동네 분위기가 남은 짧은 상점가. 입구 계단 '유야케 단단'은 이름처럼 노을 명소.",
+  "do": "멘치카쓰 같은 군것질을 하며 상점가를 걷고, 야나카 묘지·절 골목 산책 후 계단에서 노을",
+  "station": "닛포리역 (日暮里)",
+  "access": "JR 닛포리역 서쪽 출구 도보 약 5분. 도쿄메트로 센다기역 도보 약 5분",
+  "jr_pass": [
+   "JR 도쿄 와이드 패스",
+   "JR 동일본 패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "늦은 오후~노을",
+  "event": "",
+  "duration": "1~2시간",
+  "cost": "군것질 약 500~1,500엔",
+  "walking": "보통",
+  "fit": "백업",
+  "condition": "맑은 날 노을",
+  "caution": "가게 대부분 저녁 일찍 닫음",
+  "lat": 35.72767,
+  "lng": 139.76532,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/谷中銀座商店街",
+   "https://nominatim.openstreetmap.org/search?q=谷中銀座"
+  ],
+  "region": "간토"
+ },
+ {
+  "id": "tokyo-ueno-park",
+  "name_ko": "우에노 공원 (박물관 거리·시노바즈 연못)",
+  "name_ja": "上野恩賜公園",
+  "pref": "도쿄",
+  "area": "우에노",
+  "categories": [
+   "nature",
+   "culture",
+   "city"
+  ],
+  "summary": "도쿄 대표 벚꽃 명소이자 도쿄국립박물관·국립서양미술관·동물원이 모인 문화 공원. 시노바즈 연못엔 여름 연꽃.",
+  "do": "봄엔 벚꽃 가로수길, 그 외 계절엔 도쿄국립박물관 관람 후 시노바즈 연못 산책과 아메요코 시장",
+  "station": "우에노역 (上野)",
+  "access": "JR 우에노역 공원 출구 도보 약 2분. 도쿄국립박물관은 공원 안쪽 도보 약 10분",
+  "jr_pass": [
+   "JR 도쿄 와이드 패스",
+   "JR 동일본 패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "벚꽃 3월 하순~4월 초, 연꽃 7~8월",
+  "event": "",
+  "duration": "반나절",
+  "cost": "공원 무료. 박물관·미술관 각각 약 1,000엔 안팎",
+  "walking": "보통",
+  "fit": "백업",
+  "condition": "",
+  "caution": "벚꽃철 주말엔 꽃놀이 인파로 매우 붐빔. 박물관은 대개 월요일 휴관",
+  "lat": 35.71222,
+  "lng": 139.77111,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/上野恩賜公園"
+  ],
+  "region": "간토"
+ },
+ {
+  "id": "tokyo-jindaiji",
+  "name_ko": "진다이지 & 소바 거리",
+  "name_ja": "深大寺",
+  "pref": "도쿄",
+  "area": "조후",
+  "categories": [
+   "culture",
+   "town",
+   "nature"
+  ],
+  "summary": "나라 시대 창건 전승이 있는 도쿄 굴지의 고찰. 숲과 샘물에 둘러싸인 참배길에 소바집이 늘어서 있다.",
+  "do": "본당 참배 후 참배길에서 진다이지 소바, 옆 진다이 식물공원 산책",
+  "station": "조후역 (調布, 게이오) / 미타카역 (三鷹)",
+  "access": "JR 미타카역 또는 기치조지역에서 버스 약 20~30분 '深大寺' 하차. 게이오선 조후역에서 버스 약 15분",
+  "jr_pass": [
+   "JR 도쿄 와이드 패스",
+   "JR 동일본 패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을"
+  ],
+  "best_time": "신록 5월, 단풍 11월 하순",
+  "event": "",
+  "duration": "반나절",
+  "cost": "참배 무료, 소바 약 1,000~1,500엔",
+  "walking": "보통",
+  "fit": "백업",
+  "condition": "",
+  "caution": "",
+  "lat": 35.66752,
+  "lng": 139.55047,
+  "url": "https://www.jindaiji.or.jp/",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/深大寺"
+  ],
+  "region": "간토"
+ },
+ {
+  "id": "tokyo-hamarikyu",
+  "name_ko": "하마리큐 정원",
+  "name_ja": "浜離宮恩賜庭園",
+  "pref": "도쿄",
+  "area": "시오도메",
+  "categories": [
+   "nature",
+   "culture",
+   "boat"
+  ],
+  "summary": "바닷물을 끌어들인 연못이 있는 에도 시대 쇼군가 정원. 연못 찻집 너머로 시오도메 고층빌딩이 겹쳐 보인다.",
+  "do": "연못 위 찻집에서 말차를 마시고, 정원 선착장에서 수상버스로 스미다강을 거슬러 아사쿠사로 이동",
+  "station": "시오도메역 (汐留) / 신바시역 (新橋)",
+  "access": "도에이 오에도선·유리카모메 시오도메역 도보 약 7분, JR 신바시역 도보 약 12분",
+  "jr_pass": [
+   "JR 도쿄 와이드 패스",
+   "JR 동일본 패스"
+  ],
+  "seasons": [
+   "봄",
+   "가을"
+  ],
+  "best_time": "봄 유채꽃·벚꽃, 가을 코스모스",
+  "event": "",
+  "duration": "1~2시간",
+  "cost": "입원료 약 300엔, 수상버스 별도",
+  "walking": "보통",
+  "fit": "백업",
+  "condition": "",
+  "caution": "수상버스(도쿄 크루즈)의 정원 발착 편은 요일·시기별로 다르니 공식 확인",
+  "lat": 35.66,
+  "lng": 139.76361,
+  "url": "https://www.tokyo-park.or.jp/teien/",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/浜離宮恩賜庭園"
+  ],
+  "region": "간토"
+ },
+ {
+  "id": "kanagawa-manazuru-mitsuishi",
+  "name_ko": "마나즈루곶 미쓰이시",
+  "name_ja": "真鶴岬・三ツ石",
+  "pref": "가나가와",
+  "area": "마나즈루",
+  "categories": [
+   "cape",
+   "view",
+   "nature"
+  ],
+  "summary": "사가미만으로 튀어나온 반도 끝. 바다 위 세 개의 바위 '미쓰이시'와 오래된 원시림이 어우러진다.",
+  "do": "곶 끝 전망 광장에서 미쓰이시 조망 후 계단으로 바위 해안까지 내려가 파도 감상",
+  "station": "마나즈루역 (真鶴)",
+  "access": "JR 도카이도선 마나즈루역에서 버스 약 15분 '케이프 마나즈루' 하차",
+  "jr_pass": [
+   "JR 도쿄 와이드 패스",
+   "JR 동일본 패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "맑은 날 아침(겨울엔 미쓰이시 사이 일출)",
+  "event": "",
+  "duration": "반나절",
+  "cost": "무료",
+  "walking": "보통",
+  "fit": "매우 잘 맞음",
+  "condition": "맑은 날 / 파도 높은 날엔 바위 해안 위험",
+  "caution": "해안까지 계단 왕복과 미끄러운 바위 주의",
+  "lat": 35.1412,
+  "lng": 139.161,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/真鶴岬"
+  ],
+  "region": "간토"
+ },
+ {
+  "id": "kanagawa-sarushima",
+  "name_ko": "사루시마",
+  "name_ja": "猿島",
+  "pref": "가나가와",
+  "area": "요코스카",
+  "categories": [
+   "cape",
+   "boat",
+   "nature"
+  ],
+  "summary": "도쿄만에 있는 무인 자연섬. 메이지 시대 포대 터의 벽돌 터널과 숲길이 남아 있어 탐험하듯 걷는다.",
+  "do": "배로 10분 건너가 요새 터널·포대 터를 걷고 바위 해변에서 바다 감상",
+  "station": "요코스카추오역 (横須賀中央, 게이큐)",
+  "access": "게이큐 요코스카추오역 도보 약 15분 미카사 터미널에서 배 약 10분. JR 요코스카역에서는 도보 약 30분",
+  "jr_pass": [],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을"
+  ],
+  "best_time": "4~10월 맑은 날",
+  "event": "",
+  "duration": "반나절",
+  "cost": "왕복 배삯+입도료 합계 2,000엔 안팎(공식 확인)",
+  "walking": "보통",
+  "fit": "매우 잘 맞음",
+  "condition": "강풍·높은 파도 시 결항",
+  "caution": "배는 연중 매일 운항(악천후 결항). 섬에 매점이 적으니 물 준비",
+  "lat": 35.28611,
+  "lng": 139.69417,
+  "url": "https://sarushima.jp/",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/猿島",
+   "https://sarushima.jp/"
+  ],
+  "region": "간토"
+ },
+ {
   "id": "kanagawa-ashinoko-pirate-ship",
   "name_ko": "아시노코 하코네 해적선",
   "name_ja": "箱根海賊船（芦ノ湖）",
@@ -4619,6 +13827,44 @@ window.SPOTS = [
    "https://ja.wikipedia.org/wiki/箱根観光船",
    "https://ja.wikipedia.org/wiki/桃源台駅",
    "https://www.hakonenavi.jp/international/kr/discount_passes/free_pass"
+  ],
+  "region": "간토"
+ },
+ {
+  "id": "kanagawa-enoden",
+  "name_ko": "에노덴 (에노시마 전철)",
+  "name_ja": "江ノ島電鉄",
+  "pref": "가나가와",
+  "area": "가마쿠라·후지사와",
+  "categories": [
+   "train",
+   "cape"
+  ],
+  "summary": "가마쿠라와 후지사와를 잇는 작은 해안 전철. 민가 처마 사이와 바닷가를 달리고, 가마쿠라코코마에역은 바다 바로 앞이다.",
+  "do": "1일권으로 가마쿠라→하세→가마쿠라코코마에역에서 바다 감상→에노시마, 시치리가하마 노을",
+  "station": "가마쿠라역 (鎌倉) / 후지사와역 (藤沢) / 가마쿠라코코마에역 (鎌倉高校前)",
+  "access": "JR 가마쿠라역 또는 후지사와역에서 환승. 가마쿠라~후지사와 전 구간 약 35분",
+  "jr_pass": [],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "맑은 날 오후~노을",
+  "event": "",
+  "duration": "반나절",
+  "cost": "1일 승차권 '노리오리쿤' 약 800엔",
+  "walking": "적음",
+  "fit": "매우 잘 맞음",
+  "condition": "맑은 날 바다·후지산 전망",
+  "caution": "주말 가마쿠라역 승차 대기. 가마쿠라코코마에 건널목은 사진 인파가 많아 차도·선로 진입 주의",
+  "lat": 35.30669,
+  "lng": 139.50056,
+  "url": "https://www.enoden.co.jp/",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/江ノ島電鉄",
+   "https://ja.wikipedia.org/wiki/鎌倉高校前駅"
   ],
   "region": "간토"
  },
@@ -4702,6 +13948,46 @@ window.SPOTS = [
   "region": "간토"
  },
  {
+  "id": "kanagawa-yugawara-onsen",
+  "name_ko": "유가와라 온천",
+  "name_ja": "湯河原温泉",
+  "pref": "가나가와",
+  "area": "유가와라",
+  "categories": [
+   "onsen",
+   "town",
+   "nature"
+  ],
+  "summary": "고대 시가집 만요슈에도 나오는 오래된 온천 마을. 계곡을 따라 료칸이 늘어서 있고 하코네보다 한적하다.",
+  "do": "만요공원 계곡 산책로와 족욕, 당일 온천이나 료칸 1박",
+  "station": "유가와라역 (湯河原)",
+  "access": "JR 도카이도선 유가와라역에서 버스 약 10분 '温泉場' 방면",
+  "jr_pass": [
+   "JR 도쿄 와이드 패스",
+   "JR 동일본 패스"
+  ],
+  "seasons": [
+   "봄",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "매화 2~3월, 단풍 11월 하순~12월 초",
+  "event": "",
+  "duration": "1박 추천",
+  "cost": "당일 온천 약 1,000~1,500엔",
+  "walking": "적음",
+  "fit": "매우 잘 맞음",
+  "condition": "",
+  "caution": "",
+  "lat": 35.14528,
+  "lng": 139.07444,
+  "url": "https://www.yugawara.or.jp/",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/湯河原温泉"
+  ],
+  "region": "간토"
+ },
+ {
   "id": "kanagawa-jogashima",
   "name_ko": "조가시마",
   "name_ja": "城ヶ島",
@@ -4739,6 +14025,43 @@ window.SPOTS = [
   "region": "간토"
  },
  {
+  "id": "kanagawa-hakone-tozan-railway",
+  "name_ko": "하코네 등산전차 (수국 열차)",
+  "name_ja": "箱根登山電車",
+  "pref": "가나가와",
+  "area": "하코네",
+  "categories": [
+   "train",
+   "nature"
+  ],
+  "summary": "급경사를 스위치백으로 오르는 산악 철도. 6~7월엔 선로변 수국 사이를 달려 '수국 전차'로 불린다.",
+  "do": "하코네유모토→고라 구간을 타며 오히라다이 스위치백과 계곡 철교, 수국철엔 창밖 수국 감상",
+  "station": "하코네유모토역 (箱根湯本) / 오히라다이역 (大平台)",
+  "access": "JR 오다와라역에서 하코네등산선으로 하코네유모토역 약 15분, 유모토~고라 약 40분",
+  "jr_pass": [],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을"
+  ],
+  "best_time": "수국 6월 중순~7월 중순, 단풍 11월",
+  "event": "",
+  "duration": "1~2시간",
+  "cost": "유모토~고라 편도 약 500엔 안팎. 오다큐 하코네 프리패스 사용 가능",
+  "walking": "적음",
+  "fit": "매우 잘 맞음",
+  "condition": "수국 시기에 진가 / 폭우 시 운휴 가능",
+  "caution": "수국철·단풍철 주말은 유모토역 승차 대기 긺",
+  "lat": 35.23861,
+  "lng": 139.07389,
+  "url": "https://www.hakonenavi.jp/",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/箱根登山鉄道",
+   "https://ja.wikipedia.org/wiki/大平台駅"
+  ],
+  "region": "간토"
+ },
+ {
   "id": "kanagawa-hakone-yumoto-onsen",
   "name_ko": "하코네유모토 온천",
   "name_ja": "箱根湯本温泉",
@@ -4772,6 +14095,152 @@ window.SPOTS = [
   "url": "https://www.hakone.or.jp/",
   "sources": [
    "https://ja.wikipedia.org/wiki/箱根湯本温泉"
+  ],
+  "region": "간토"
+ },
+ {
+  "id": "kanagawa-meigetsuin",
+  "name_ko": "메이게쓰인 (수국 절)",
+  "name_ja": "明月院",
+  "pref": "가나가와",
+  "area": "기타카마쿠라",
+  "categories": [
+   "nature",
+   "culture"
+  ],
+  "summary": "'아지사이데라(수국 절)'라 불리는 선종 사찰. 푸른 수국 돌계단과 둥근 창 너머 정원이 대표 풍경.",
+  "do": "6월 수국 돌계단 길을 걷고 본당 둥근 창으로 정원 감상",
+  "station": "기타카마쿠라역 (北鎌倉)",
+  "access": "JR 요코스카선 기타카마쿠라역 도보 약 10분",
+  "jr_pass": [
+   "JR 도쿄 와이드 패스",
+   "JR 동일본 패스"
+  ],
+  "seasons": [
+   "여름",
+   "가을"
+  ],
+  "best_time": "수국 6월, 단풍 11월 하순~12월 초",
+  "event": "",
+  "duration": "1~2시간",
+  "cost": "입장료 약 500엔(별도 공개 정원은 추가 요금)",
+  "walking": "보통",
+  "fit": "조건부",
+  "condition": "수국·단풍 시기에 진가",
+  "caution": "수국철 주말은 입장 줄이 김. 이른 시간 추천",
+  "lat": 35.33499,
+  "lng": 139.55146,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/明月院"
+  ],
+  "region": "간토"
+ },
+ {
+  "id": "kanagawa-miyagase-christmas",
+  "name_ko": "미야가세 호수 크리스마스 일루미네이션",
+  "name_ja": "宮ヶ瀬クリスマスみんなのつどい（宮ヶ瀬湖）",
+  "pref": "가나가와",
+  "area": "기요카와·아이카와",
+  "categories": [
+   "night",
+   "festival",
+   "nature"
+  ],
+  "summary": "산속 댐 호수 미야가세 호숫가 마을에 높이 30m가 넘는 살아 있는 전나무 트리와 산책로 일루미네이션이 켜진다.",
+  "do": "호숫가 '미즈노사토' 광장에서 대형 트리와 조명 산책로를 걷고 댐 호수 야경",
+  "station": "혼아쓰기역 (本厚木, 오다큐)",
+  "access": "오다큐선 혼아쓰기역에서 가나추버스 약 50분 '宮ヶ瀬' 종점, 바로",
+  "jr_pass": [],
+  "seasons": [
+   "겨울"
+  ],
+  "best_time": "11월 하순~12월 25일 저녁",
+  "event": "매년 11월 하순~12월 25일 무렵(2025년 11/22~12/25, 17:00~22:00). 2026년 날짜는 공식 확인",
+  "duration": "반나절",
+  "cost": "무료",
+  "walking": "적음",
+  "fit": "조건부",
+  "condition": "산간이라 밤 기온 매우 낮음",
+  "caution": "귀가 버스 막차와 혼잡 미리 확인",
+  "lat": 35.52944,
+  "lng": 139.22917,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/宮ヶ瀬湖",
+   "https://sp.jorudan.co.jp/illumi/spot_0036.html"
+  ],
+  "region": "간토"
+ },
+ {
+  "id": "kanagawa-sengokuhara-susuki",
+  "name_ko": "센고쿠하라 억새 초원",
+  "name_ja": "仙石原すすき草原",
+  "pref": "가나가와",
+  "area": "하코네",
+  "categories": [
+   "nature",
+   "view"
+  ],
+  "summary": "하코네 다이가타케 산기슭 경사면 전체가 가을이면 금빛 억새로 덮인다. 해 질 녘 역광이 특히 아름답다.",
+  "do": "억새 사이 산책로를 걸어 언덕 위에서 초원 전체 조망, 오후 늦게 역광 감상",
+  "station": "하코네유모토역 (箱根湯本) → 버스 '仙石高原'",
+  "access": "하코네유모토역 또는 고라역에서 하코네토잔버스 약 25~30분 '仙石高原' 하차 바로",
+  "jr_pass": [],
+  "seasons": [
+   "가을"
+  ],
+  "best_time": "9월 하순~11월 초순(절정 10월)",
+  "event": "",
+  "duration": "1~2시간",
+  "cost": "무료",
+  "walking": "보통",
+  "fit": "조건부",
+  "condition": "억새 시기 맑은 오후에 진가",
+  "caution": "가을 주말 하코네 도로 정체로 버스 지연 잦음",
+  "lat": 35.26964,
+  "lng": 139.01025,
+  "url": "https://www.hakonenavi.jp/",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/仙石原"
+  ],
+  "region": "간토"
+ },
+ {
+  "id": "kanagawa-oyama-afuri",
+  "name_ko": "오야마 아후리 신사 & 케이블카",
+  "name_ja": "大山阿夫利神社・大山ケーブル",
+  "pref": "가나가와",
+  "area": "이세하라",
+  "categories": [
+   "view",
+   "culture",
+   "nature"
+  ],
+  "summary": "에도 시대 서민 참배로 붐빈 산악 신사. 케이블카로 오르는 하사(下社) 경내에서 사가미만과 에노시마까지 내려다보인다.",
+  "do": "참배길 계단 상점가→케이블카로 하사, 전망 감상. 가을엔 단풍 라이트업, 체력 되면 정상까지 등산",
+  "station": "이세하라역 (伊勢原, 오다큐)",
+  "access": "오다큐선 이세하라역에서 가나추버스 약 30분 '大山ケーブル' 종점, 참배길 계단 약 15분 → 케이블카 약 6분 '阿夫利神社'역",
+  "jr_pass": [],
+  "seasons": [
+   "봄",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "단풍 11월 중하순(야간 라이트업 기간)",
+  "event": "가을 단풍 라이트업은 매년 11월 무렵. 날짜는 매년 공식 확인",
+  "duration": "반나절",
+  "cost": "케이블카 왕복 약 1,000엔대",
+  "walking": "보통",
+  "fit": "조건부",
+  "condition": "맑은 날 바다 전망 / 단풍철 진가",
+  "caution": "케이블카역까지 계단 참배길. 정상 등산은 왕복 3시간 이상",
+  "lat": 35.43187,
+  "lng": 139.23802,
+  "url": "https://www.afuri.or.jp/",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/大山阿夫利神社",
+   "https://nominatim.openstreetmap.org/search?q=大山阿夫利神社下社"
   ],
   "region": "간토"
  },
@@ -4816,6 +14285,167 @@ window.SPOTS = [
   "region": "간토"
  },
  {
+  "id": "kanagawa-sankeien",
+  "name_ko": "산케이엔",
+  "name_ja": "三溪園",
+  "pref": "가나가와",
+  "area": "요코하마(혼모쿠)",
+  "categories": [
+   "culture",
+   "nature"
+  ],
+  "summary": "실업가 하라 산케이가 교토·가마쿠라 등지의 옛 건물을 옮겨 지은 넓은 일본 정원. 연못 너머 언덕 위 삼층탑이 상징.",
+  "do": "연못을 한 바퀴 돌며 삼층탑과 옛 건물을 보고, 벚꽃·단풍철엔 정원 산책",
+  "station": "네기시역 (根岸) / 요코하마역 (横浜)",
+  "access": "JR 네기시역에서 버스 약 10분 '本牧' 하차 도보 약 10분, 또는 요코하마역 동쪽 출구에서 버스 약 35분 '三溪園入口'",
+  "jr_pass": [
+   "JR 도쿄 와이드 패스",
+   "JR 동일본 패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "벚꽃 4월 초, 단풍 11월 하순~12월 초",
+  "event": "",
+  "duration": "반나절",
+  "cost": "입원료 약 900엔 안팎(공식 확인)",
+  "walking": "보통",
+  "fit": "백업",
+  "condition": "",
+  "caution": "",
+  "lat": 35.41694,
+  "lng": 139.65889,
+  "url": "https://www.sankeien.or.jp/",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/三溪園"
+  ],
+  "region": "간토"
+ },
+ {
+  "id": "kanagawa-tsurugaoka-hachimangu",
+  "name_ko": "쓰루가오카 하치만구",
+  "name_ja": "鶴岡八幡宮",
+  "pref": "가나가와",
+  "area": "가마쿠라",
+  "categories": [
+   "culture",
+   "town"
+  ],
+  "summary": "가마쿠라 막부 시대부터 도시의 중심이 된 신사. 역에서 이어지는 참배길과 먹거리 거리 고마치도리가 붙어 있다.",
+  "do": "고마치도리에서 군것질 후 본궁 계단 위에서 가마쿠라 시내와 참배길 내려다보기",
+  "station": "가마쿠라역 (鎌倉)",
+  "access": "JR 요코스카선 가마쿠라역 도보 약 10분",
+  "jr_pass": [
+   "JR 도쿄 와이드 패스",
+   "JR 동일본 패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "벚꽃 4월 초, 연꽃 7~8월",
+  "event": "예대제 매년 9월 중순(야부사메 9/16 무렵). 날짜는 매년 공식 확인",
+  "duration": "1~2시간",
+  "cost": "무료",
+  "walking": "보통",
+  "fit": "백업",
+  "condition": "",
+  "caution": "주말 고마치도리 매우 혼잡",
+  "lat": 35.32609,
+  "lng": 139.55644,
+  "url": "https://www.hachimangu.or.jp/",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/鶴岡八幡宮"
+  ],
+  "region": "간토"
+ },
+ {
+  "id": "kanagawa-odawara-castle",
+  "name_ko": "오다와라성",
+  "name_ja": "小田原城",
+  "pref": "가나가와",
+  "area": "오다와라",
+  "categories": [
+   "culture",
+   "view"
+  ],
+  "summary": "전국시대 호조 가문의 본거지. 복원 천수각 꼭대기에서 사가미만 바다와 하코네 산이 보인다.",
+  "do": "천수각 전시를 보고 최상층 전망대에서 바다 조망, 봄엔 성터 공원 벚꽃",
+  "station": "오다와라역 (小田原)",
+  "access": "JR 오다와라역 동쪽 출구 도보 약 10분",
+  "jr_pass": [
+   "JR 도쿄 와이드 패스",
+   "JR 동일본 패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "벚꽃 3월 하순~4월 초, 수국 6월",
+  "event": "",
+  "duration": "1~2시간",
+  "cost": "천수각 약 500엔",
+  "walking": "보통",
+  "fit": "백업",
+  "condition": "",
+  "caution": "",
+  "lat": 35.25083,
+  "lng": 139.15361,
+  "url": "https://odawaracastle.com/",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/小田原城"
+  ],
+  "region": "간토"
+ },
+ {
+  "id": "kanagawa-yokohama-red-brick",
+  "name_ko": "요코하마 아카렌가 창고",
+  "name_ja": "横浜赤レンガ倉庫",
+  "pref": "가나가와",
+  "area": "요코하마",
+  "categories": [
+   "city",
+   "night"
+  ],
+  "summary": "20세기 초 세관 창고였던 붉은 벽돌 건물 두 동을 상점·이벤트 공간으로 쓴다. 겨울 크리스마스 마켓과 항구 야경이 좋다.",
+  "do": "창고 상점 구경 후 바다 쪽 광장에서 미나토미라이 야경, 겨울엔 크리스마스 마켓",
+  "station": "바샤미치역 / 니혼오도리역 (미나토미라이선) / 사쿠라기초역 (桜木町)",
+  "access": "미나토미라이선 바샤미치역·니혼오도리역 도보 약 6분, JR 사쿠라기초역 도보 약 15분",
+  "jr_pass": [
+   "JR 도쿄 와이드 패스",
+   "JR 동일본 패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "저녁~밤, 크리스마스 시즌",
+  "event": "크리스마스 마켓 매년 11월 하순~12월 25일 무렵. 날짜는 매년 공식 확인",
+  "duration": "1~2시간",
+  "cost": "무료(이벤트 일부 유료)",
+  "walking": "보통",
+  "fit": "백업",
+  "condition": "",
+  "caution": "",
+  "lat": 35.45222,
+  "lng": 139.64278,
+  "url": "https://www.yokohama-akarenga.jp/",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/横浜赤レンガ倉庫",
+   "https://en.wikipedia.org/wiki/Yokohama_Red_Brick_Warehouse"
+  ],
+  "region": "간토"
+ },
+ {
   "id": "kanagawa-yokohama-osanbashi",
   "name_ko": "요코하마 오산바시 (미나토미라이 야경)",
   "name_ja": "横浜港大さん橋",
@@ -4855,6 +14485,160 @@ window.SPOTS = [
    "https://ja.wikipedia.org/wiki/横浜港大さん橋国際客船ターミナル"
   ],
   "region": "간토"
+ },
+ {
+  "id": "kanagawa-yokohama-chinatown",
+  "name_ko": "요코하마 중화가",
+  "name_ja": "横浜中華街",
+  "pref": "가나가와",
+  "area": "요코하마",
+  "categories": [
+   "city",
+   "night"
+  ],
+  "summary": "일본 최대 규모의 차이나타운. 화려한 패루 문 안쪽 골목에 중국 음식점과 길거리 먹거리가 빽빽하다.",
+  "do": "패루 문을 지나 만두·찐빵 길거리 음식, 관제묘·마조묘 야간 조명",
+  "station": "모토마치·주카가이역 (元町・中華街, 미나토미라이선) / 이시카와초역 (石川町)",
+  "access": "미나토미라이선 모토마치·주카가이역 도보 약 1분, JR 네기시선 이시카와초역 도보 약 5분",
+  "jr_pass": [
+   "JR 도쿄 와이드 패스",
+   "JR 동일본 패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "저녁(조명 켜진 패루와 사당)",
+  "event": "춘절(음력 설) 행사 매년 1~2월. 날짜는 매년 공식 확인",
+  "duration": "1~2시간",
+  "cost": "길거리 음식 약 500엔~, 식사 약 1,500~3,000엔",
+  "walking": "적음",
+  "fit": "백업",
+  "condition": "",
+  "caution": "",
+  "lat": 35.4427,
+  "lng": 139.6459,
+  "url": "https://www.chinatown.or.jp/",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/横浜中華街"
+  ],
+  "region": "간토"
+ },
+ {
+  "id": "kanagawa-hasedera-kamakura",
+  "name_ko": "하세데라 (가마쿠라)",
+  "name_ja": "長谷寺（鎌倉）",
+  "pref": "가나가와",
+  "area": "가마쿠라",
+  "categories": [
+   "culture",
+   "view",
+   "nature"
+  ],
+  "summary": "산비탈에 자리한 절. 경내 전망대에서 유이가하마 바다가 내려다보이고 6월엔 수국 산책로가 유명하다.",
+  "do": "경내 전망대에서 바다 조망, 수국철엔 산책로, 근처 가마쿠라 대불과 묶어 방문",
+  "station": "하세역 (長谷, 에노덴)",
+  "access": "JR 가마쿠라역에서 에노덴 약 5분 하세역, 도보 약 5분",
+  "jr_pass": [
+   "JR 도쿄 와이드 패스",
+   "JR 동일본 패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을"
+  ],
+  "best_time": "수국 6월, 단풍 11월 하순~12월 초",
+  "event": "",
+  "duration": "1~2시간",
+  "cost": "참배료 약 400엔",
+  "walking": "보통",
+  "fit": "백업",
+  "condition": "",
+  "caution": "수국철 주말엔 산책로 입장 대기(정리권)가 생길 수 있음",
+  "lat": 35.31247,
+  "lng": 139.53294,
+  "url": "https://www.hasedera.jp/",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/長谷寺_(鎌倉市)"
+  ],
+  "region": "간토"
+ },
+ {
+  "id": "kanagawa-hakone-open-air-museum",
+  "name_ko": "하코네 조각의 숲 미술관",
+  "name_ja": "箱根 彫刻の森美術館",
+  "pref": "가나가와",
+  "area": "하코네",
+  "categories": [
+   "culture",
+   "nature"
+  ],
+  "summary": "산을 배경으로 넓은 잔디밭에 조각을 놓은 일본 첫 야외 미술관. 피카소관과 무료 족욕이 있다.",
+  "do": "야외 조각 정원 산책, 스테인드글라스 탑 오르기, 족욕으로 휴식",
+  "station": "조코쿠노모리역 (彫刻の森)",
+  "access": "하코네등산전차 조코쿠노모리역 도보 약 2분(하코네유모토역에서 약 35분)",
+  "jr_pass": [],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "맑은 날",
+  "event": "",
+  "duration": "반나절",
+  "cost": "입장료 약 2,000엔",
+  "walking": "보통",
+  "fit": "백업",
+  "condition": "비 오면 야외 감상이 불편",
+  "caution": "",
+  "lat": 35.24472,
+  "lng": 139.05151,
+  "url": "https://www.hakone-oam.or.jp/",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/箱根_彫刻の森美術館"
+  ],
+  "region": "간토"
+ },
+ {
+  "id": "niigata-katakai-festival-yonshakudama",
+  "name_ko": "가타카이 마쓰리 (4척옥 불꽃)",
+  "name_ja": "片貝まつり（正四尺玉）",
+  "pref": "니가타",
+  "area": "오지야 (가타카이)",
+  "categories": [
+   "festival",
+   "night"
+  ],
+  "summary": "아사하라 신사에 불꽃을 봉납하는 마을 축제로, 지름 약 120cm·무게 약 420kg의 '4척옥'이 하늘에서 지름 약 800m로 터진다. 주민이 사연을 담아 쏘는 봉납 불꽃이 특징.",
+  "do": "신사 뒤 언덕 관람석에서 밤 불꽃과 4척옥 관람, 낮엔 마을 행렬 구경",
+  "station": "나가오카역 (長岡) / 오지야역 (小千谷)",
+  "access": "에치고교통 급행버스(오지야–가타카이–나가오카역 노선) '가타카이 산노마치' 하차 도보 약 3분. 축제일엔 임시편·혼잡 주의",
+  "jr_pass": [
+   "JR 동일본 패스"
+  ],
+  "seasons": [
+   "가을"
+  ],
+  "best_time": "9월 둘째 금·토요일",
+  "event": "매년 9월 둘째 금요일과 다음 날(2024년부터, 이전엔 9/9~10 고정). 날짜는 매년 공식 확인",
+  "duration": "하루",
+  "cost": "관람석은 유료 좌석과 무료 구역(공식 확인)",
+  "walking": "보통",
+  "fit": "매우 잘 맞음",
+  "condition": "비·강풍 시 순연·중지 가능",
+  "caution": "숙소는 나가오카·오지야에 일찍 잡을 것. 귀가 버스 매우 혼잡",
+  "lat": 37.3697,
+  "lng": 138.7745,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/片貝まつり",
+   "https://ja.wikipedia.org/wiki/浅原神社"
+  ],
+  "region": "고신에쓰"
  },
  {
   "id": "niigata-kiyotsukyo-tunnel",
@@ -5014,6 +14798,165 @@ window.SPOTS = [
   "region": "고신에쓰"
  },
  {
+  "id": "niigata-senami-onsen",
+  "name_ko": "세나미 온천 (동해 노을 온천)",
+  "name_ja": "瀬波温泉",
+  "pref": "니가타",
+  "area": "무라카미",
+  "categories": [
+   "onsen",
+   "night",
+   "cape"
+  ],
+  "summary": "약 100℃ 고온 원천이 솟는 해변 온천 마을. 바다 쪽 노천탕에서 동해로 지는 해를 볼 수 있는 노을 명소.",
+  "do": "해 질 녘 바다 전망 노천탕에서 일몰 보고, 다음 날 무라카미 성하마을 산책",
+  "station": "무라카미역 (村上)",
+  "access": "우에쓰 본선 무라카미역에서 커뮤니티버스 '아벳샤'(세나미 순회) 또는 숙소 송영버스로 약 10분",
+  "jr_pass": [
+   "JR 동일본 패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을"
+  ],
+  "best_time": "맑은 날 일몰 시각(여름은 저녁 7시 전후)",
+  "event": "",
+  "duration": "1박 추천",
+  "cost": "숙박 요금 별도. 당일 입욕은 시설별",
+  "walking": "적음",
+  "fit": "매우 잘 맞음",
+  "condition": "맑은 날 노을 / 겨울엔 바닷바람이 셈",
+  "caution": "",
+  "lat": 38.2143,
+  "lng": 139.4395,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/瀬波温泉"
+  ],
+  "region": "고신에쓰"
+ },
+ {
+  "id": "niigata-tsukioka-onsen",
+  "name_ko": "쓰키오카 온천",
+  "name_ja": "月岡温泉",
+  "pref": "니가타",
+  "area": "시바타",
+  "categories": [
+   "onsen",
+   "town"
+  ],
+  "summary": "욕조에서 맑은 에메랄드빛을 띠는 유황 온천. 황화수소 이온 함량이 일본 최고 수준이라는 '미인탕'으로, 니가타시에서 버스로 갈 수 있는 온천 마을.",
+  "do": "료칸에 묵거나 당일 입욕으로 녹색 유황천에 들어가고, 온천가 산책",
+  "station": "니가타역 (新潟) / 시바타역 (新発田)",
+  "access": "니가타역에서 직통버스 약 60분, 또는 시바타역에서 직통버스 약 25분. 쓰키오카역(우에쓰선)에서는 택시 약 10분",
+  "jr_pass": [
+   "JR 동일본 패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "연중. 겨울 설경 온천",
+  "event": "",
+  "duration": "1박 추천",
+  "cost": "당일 입욕은 시설별 약 1,000엔 전후(시설 확인)",
+  "walking": "적음",
+  "fit": "매우 잘 맞음",
+  "condition": "날씨·계절에 따라 물빛이 유백색으로 바뀌기도 함",
+  "caution": "",
+  "lat": 37.8803,
+  "lng": 139.3092,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/月岡温泉"
+  ],
+  "region": "고신에쓰"
+ },
+ {
+  "id": "niigata-okutadami-lake-cruise",
+  "name_ko": "오쿠타다미호 유람선",
+  "name_ja": "奥只見湖遊覧船",
+  "pref": "니가타",
+  "area": "우오누마",
+  "categories": [
+   "boat",
+   "nature"
+  ],
+  "summary": "거대한 오쿠타다미 댐이 만든 산속 호수를 도는 유람선. 거의 터널로만 이어지는 실버라인을 버스로 지나 들어가며, 가을 단풍이 특히 좋다.",
+  "do": "댐 선착장에서 약 40분 호수 일주 크루즈, 시간이 되면 긴잔다이라까지 편도 승선",
+  "station": "우라사역 (浦佐)",
+  "access": "조에쓰 신칸센 우라사역에서 미나미에치고관광버스 '실버라인 경유 오쿠타다미 댐행' 약 60~80분 → 종점에서 선착장",
+  "jr_pass": [
+   "JR 동일본 패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을"
+  ],
+  "best_time": "10월 중순~11월 초 단풍, 5~6월 잔설·신록",
+  "event": "",
+  "duration": "하루",
+  "cost": "일주 코스 약 1,300엔(10월~ 약 1,500엔). 긴잔다이라 편도 약 1,600~1,800엔(2026년)",
+  "walking": "적음",
+  "fit": "매우 잘 맞음",
+  "condition": "강풍·악천후 시 결항 / 단풍기 혼잡",
+  "caution": "2026년 운항 5/20~11/8(긴잔다이라 코스 ~11/6, 9월까지 완전 예약제). 겨울엔 길이 막혀 운휴. 버스 편수 적어 왕복 시간표 먼저 확인",
+  "lat": 37.1536,
+  "lng": 139.2497,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/奥只見湖",
+   "https://niigata-kankou.or.jp/spot/8397"
+  ],
+  "region": "고신에쓰"
+ },
+ {
+  "id": "niigata-yuzawa-kogen-ropeway",
+  "name_ko": "유자와 고원 로프웨이 & 알프노사토",
+  "name_ja": "湯沢高原ロープウェイ・アルプの里",
+  "pref": "니가타",
+  "area": "유자와",
+  "categories": [
+   "view",
+   "nature"
+  ],
+  "summary": "에치고유자와역에서 걸어갈 수 있는 166인승 대형 로프웨이로 약 7분 만에 고도 500m를 오른다. 산정엔 고산식물원 알프노사토와 카페가 있다.",
+  "do": "로프웨이로 올라 유자와 온천가와 산들을 내려다보고 고산식물원 산책",
+  "station": "에치고유자와역 (越後湯沢)",
+  "access": "에치고유자와역에서 도보 약 8분 → 산록역. 로프웨이 약 7분",
+  "jr_pass": [
+   "JR 동일본 패스",
+   "JR 도쿄 와이드 패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "6~7월 고산식물, 10월 하순 단풍",
+  "event": "",
+  "duration": "반나절",
+  "cost": "왕복 유료(사전 구매 시 할인, 공식 확인)",
+  "walking": "적음",
+  "fit": "매우 잘 맞음",
+  "condition": "맑은 날 전망 / 천둥·강풍 시 운휴",
+  "caution": "운행 약 8:40~16:40(상행 막차 16:20). 겨울엔 스키장으로 운영",
+  "lat": 36.9388,
+  "lng": 138.7974,
+  "url": "https://www.yuzawakogen.com/",
+  "sources": [
+   "https://www.yuzawakogen.com/",
+   "https://ja.wikipedia.org/wiki/湯沢高原ロープウェイ",
+   "https://nominatim.openstreetmap.org/search?q=湯沢高原ロープウェイ&format=json"
+  ],
+  "region": "고신에쓰"
+ },
+ {
   "id": "niigata-gala-yuzawa",
   "name_ko": "갈라 유자와 (역 직결 스키장)",
   "name_ja": "GALA湯沢",
@@ -5049,6 +14992,45 @@ window.SPOTS = [
   "sources": [
    "https://gala.co.jp/winter/hours-pricing/",
    "https://www.jreast.co.jp/ko/multi/pass/tokyowidepass.html"
+  ],
+  "region": "고신에쓰"
+ },
+ {
+  "id": "niigata-naeba-dragondola",
+  "name_ko": "나에바 드래곤돌라 (단풍 곤돌라)",
+  "name_ja": "苗場ドラゴンドラ",
+  "pref": "니가타",
+  "area": "유자와 (나에바)",
+  "categories": [
+   "view",
+   "nature"
+  ],
+  "summary": "길이 5,481m로 일본 최장급인 8인승 곤돌라. 가을엔 '단풍 드래곤돌라'로 운행해 산골짜기와 호수를 내려다보며 20~30분간 단풍 속을 지난다.",
+  "do": "곤돌라를 타고 다시로 쪽 산정역까지 가며 계곡 단풍 감상",
+  "station": "에치고유자와역 (越後湯沢)",
+  "access": "에치고유자와역에서 나에바행 노선버스(나에바 프린스호텔 방면)로 이동 → 드래곤돌라 산록역. 버스 소요·편수는 시간표 확인",
+  "jr_pass": [
+   "JR 동일본 패스",
+   "JR 도쿄 와이드 패스"
+  ],
+  "seasons": [
+   "가을",
+   "겨울"
+  ],
+  "best_time": "10월 상순~11월 상순 단풍 운행",
+  "event": "",
+  "duration": "반나절",
+  "cost": "왕복 승차권 유료(공식 확인)",
+  "walking": "적음",
+  "fit": "조건부",
+  "condition": "단풍기 한정 운행 / 강풍 시 운휴",
+  "caution": "단풍철 주말은 대기 시간이 길다. 겨울엔 스키 리프트로만 운영",
+  "lat": 36.8026,
+  "lng": 138.7807,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/ドラゴンドラ",
+   "https://ja.wikipedia.org/wiki/苗場スキー場"
   ],
   "region": "고신에쓰"
  },
@@ -5091,6 +15073,358 @@ window.SPOTS = [
   "region": "고신에쓰"
  },
  {
+  "id": "niigata-tokamachi-snow-festival",
+  "name_ko": "도카마치 눈 축제",
+  "name_ja": "十日町雪まつり",
+  "pref": "니가타",
+  "area": "도카마치",
+  "categories": [
+   "festival",
+   "snow"
+  ],
+  "summary": "1950년부터 이어진 일본 현대 눈 축제의 원조. 시내 곳곳에 시민들이 만든 눈 조각과 '오마쓰리 광장'이 수십 곳 생긴다.",
+  "do": "순회버스로 시내 눈 조각과 광장을 돌고 지역 음식 포장마차 즐기기",
+  "station": "도카마치역 (十日町)",
+  "access": "JR 이이야마선·호쿠에쓰급행 호쿠호쿠선 도카마치역. 축제 기간엔 역과 회장을 잇는 순회버스와 임시열차가 다님",
+  "jr_pass": [
+   "JR 동일본 패스"
+  ],
+  "seasons": [
+   "겨울"
+  ],
+  "best_time": "2월 중순",
+  "event": "매년 2월 중순 약 3일간. 날짜는 매년 공식 확인",
+  "duration": "하루",
+  "cost": "관람 무료(일부 유료 행사)",
+  "walking": "보통",
+  "fit": "조건부",
+  "condition": "눈이 적은 해엔 규모 축소 가능",
+  "caution": "대형 설상 카니발은 2019년 눈 조각 붕괴 사고 이후 중단된 적이 있어 그해 프로그램은 공식 확인. 눈길용 신발 필요",
+  "lat": 37.1346,
+  "lng": 138.7562,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/十日町雪まつり",
+   "https://nominatim.openstreetmap.org/search?q=十日町駅&countrycodes=jp&format=json"
+  ],
+  "region": "고신에쓰"
+ },
+ {
+  "id": "niigata-bandaijima-befco-observatory",
+  "name_ko": "반다이지마 빌딩 Befco 바카우케 전망실",
+  "name_ja": "万代島ビル Befcoばかうけ展望室",
+  "pref": "니가타",
+  "area": "니가타시",
+  "categories": [
+   "view",
+   "night",
+   "city"
+  ],
+  "summary": "도키멧세 옆 31층 빌딩 꼭대기(지상 125m) 전망실. 시나노강 하구와 니가타 시가지, 맑은 날엔 사도섬까지 보이고 밤 10시까지 열어 야경 보기 좋다.",
+  "do": "해 질 녘에 올라 동해 노을과 시내 야경 보기",
+  "station": "니가타역 (新潟)",
+  "access": "니가타역 반다이구치 버스터미널에서 사도기선행 버스 약 15분 '도키멧세' 하차, 또는 역에서 도보 약 20분",
+  "jr_pass": [
+   "JR 동일본 패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "맑은 날 해 질 녘~밤",
+  "event": "",
+  "duration": "1~2시간",
+  "cost": "무료로 알려짐(현지 확인)",
+  "walking": "적음",
+  "fit": "조건부",
+  "condition": "맑은 날 사도섬·노을 / 흐리면 시내 야경만",
+  "caution": "금요일은 17:00까지로 짧음(그 외 8:00~22:00)",
+  "lat": 37.9262,
+  "lng": 139.06,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/万代島ビル"
+  ],
+  "region": "고신에쓰"
+ },
+ {
+  "id": "niigata-sado-senkakuwan",
+  "name_ko": "센카쿠만 아게시마 유원 (해중 투시선)",
+  "name_ja": "尖閣湾揚島遊園（海中透視船）",
+  "pref": "니가타",
+  "area": "사도 (아이카와)",
+  "categories": [
+   "boat",
+   "cape",
+   "nature"
+  ],
+  "summary": "사도 북서쪽 외해부 해안의 작은 만 다섯 개가 이어진 해상공원. 절벽과 암초 사이를 바닥이 투명한 배로 돌며 맑은 바닷속을 들여다본다.",
+  "do": "해중 투시선으로 만 안을 돌고, 절벽 위 산책로에서 해안 전망 보기",
+  "station": "니가타역 (新潟) → 니가타항에서 페리",
+  "access": "료쓰항에서 본선 버스로 약 1시간 → 사도시 아이카와지소에서 해부선(이와야구치행) 환승 약 14분 → '센카쿠완 유엔마에' 하차 바로. 사도 금산과 같은 날 묶기 좋음",
+  "jr_pass": [
+   "JR 동일본 패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을"
+  ],
+  "best_time": "4~10월 잔잔한 날",
+  "event": "",
+  "duration": "1~2시간",
+  "cost": "입원료+투시선 약 1,100~1,400엔(출처마다 달라 현지 확인)",
+  "walking": "적음",
+  "fit": "조건부",
+  "condition": "파도가 높으면 투시선 결항 / 맑은 날 물빛이 좋음",
+  "caution": "겨울(대략 12~2월)은 휴업·부정기 영업이고 투시선은 3월 중순까지 쉼. 해부선 버스는 편수가 적음",
+  "lat": 38.0939,
+  "lng": 138.2486,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/外海府海岸",
+   "https://nominatim.openstreetmap.org/search?q=尖閣湾揚島遊園&format=json"
+  ],
+  "region": "고신에쓰"
+ },
+ {
+  "id": "niigata-oyashirazu",
+  "name_ko": "오야시라즈 해안 절벽",
+  "name_ja": "親不知（親不知ピアパーク）",
+  "pref": "니가타",
+  "area": "이토이가와",
+  "categories": [
+   "cape",
+   "nature",
+   "view"
+  ],
+  "summary": "북알프스가 동해로 곧장 떨어지는 단애 지대로, 옛 호쿠리쿠도 최대의 난소였다. 해안 위를 고속도로가 바다 쪽으로 돌아나가는 풍경이 독특하다.",
+  "do": "역 근처 휴게소 '오야시라즈 피아파크'에서 해안과 절벽 보고, 시간이 되면 서쪽 오야시라즈 기념광장 전망대까지 이동",
+  "station": "오야시라즈역 (親不知)",
+  "access": "호쿠리쿠 신칸센 이토이가와역 → 에치고토키메키철도 니혼카이히스이라인으로 오야시라즈역 → 피아파크까지 약 700m 도보. 기념광장은 서쪽으로 약 4km라 택시",
+  "jr_pass": [
+   "호쿠리쿠 아치 패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을"
+  ],
+  "best_time": "맑은 날 해 질 녘",
+  "event": "",
+  "duration": "반나절",
+  "cost": "무료",
+  "walking": "보통",
+  "fit": "조건부",
+  "condition": "맑은 날 절벽·노을 / 겨울 거친 파도 때는 해변 접근 위험",
+  "caution": "JR 패스는 이토이가와역까지이고 에치고토키메키철도는 별도 요금. 열차 편수가 적어 시간표 확인",
+  "lat": 37.004,
+  "lng": 137.732,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/親不知",
+   "https://ja.wikipedia.org/wiki/親不知駅",
+   "https://nominatim.openstreetmap.org/search?q=親不知ピアパーク&countrycodes=jp&format=json"
+  ],
+  "region": "고신에쓰"
+ },
+ {
+  "id": "niigata-hyoko-swans",
+  "name_ko": "효코 백조 호수",
+  "name_ja": "瓢湖",
+  "pref": "니가타",
+  "area": "아가노 (스이바라)",
+  "categories": [
+   "nature",
+   "snow"
+  ],
+  "summary": "10월부터 3월까지 고니·큰고니 약 6,000마리가 겨울을 나는 작은 호수. 람사르 습지로, 아침 비상과 먹이 주기 때 장관이다.",
+  "do": "호숫가 관찰소에서 백조 무리와 아침 출발·저녁 귀환 보기",
+  "station": "스이바라역 (水原)",
+  "access": "우에쓰 본선 스이바라역에서 동쪽으로 약 2km(도보 약 25~30분 또는 택시)",
+  "jr_pass": [
+   "JR 동일본 패스"
+  ],
+  "seasons": [
+   "가을",
+   "겨울"
+  ],
+  "best_time": "11~2월 이른 아침",
+  "event": "",
+  "duration": "1~2시간",
+  "cost": "무료",
+  "walking": "보통",
+  "fit": "조건부",
+  "condition": "백조는 아침 일찍 먹이터로 날아가므로 해 뜰 무렵이 좋음",
+  "caution": "",
+  "lat": 37.8383,
+  "lng": 139.2372,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/瓢湖"
+  ],
+  "region": "고신에쓰"
+ },
+ {
+  "id": "niigata-kasugayama-castle",
+  "name_ko": "가스가야마성 터 (우에스기 겐신의 산성)",
+  "name_ja": "春日山城跡",
+  "pref": "니가타",
+  "area": "조에쓰",
+  "categories": [
+   "culture",
+   "view"
+  ],
+  "summary": "전국시대 무장 우에스기 겐신의 본거지였던 산성 터. 일본 100명성으로, 산꼭대기 혼마루 터에서 다카다 평야와 동해가 내려다보인다.",
+  "do": "산길을 올라 혼마루 터 전망과 재건된 비샤몬도 보기, 8월 말엔 겐신공 축제",
+  "station": "가스가야마역 (春日山)",
+  "access": "에치고토키메키철도 묘코하네우마선 가스가야마역에서 서쪽으로 도보 약 30분, 또는 버스 '린센지이리구치' 하차 도보 약 20분",
+  "jr_pass": [
+   "JR 동일본 패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을"
+  ],
+  "best_time": "4~11월 맑은 날. 8월 하순 겐신공 축제",
+  "event": "겐신공 축제: 매년 8월 하순 2일간. 날짜는 매년 공식 확인",
+  "duration": "반나절",
+  "cost": "성터 무료",
+  "walking": "많음",
+  "fit": "백업",
+  "condition": "맑은 날 동해 전망",
+  "caution": "역에서 걷는 거리가 길고 혼마루까지 경사 산길·계단이 많음. JR 동일본 패스는 에치고토키메키 나오에쓰~아라이 구간만 포함(가스가야마역은 이 구간)",
+  "lat": 37.1467,
+  "lng": 138.2056,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/春日山城"
+  ],
+  "region": "고신에쓰"
+ },
+ {
+  "id": "niigata-murakami-castle-town",
+  "name_ko": "무라카미 성하마을 (마치야·연어 마을)",
+  "name_ja": "村上 城下町（町屋・鮭）",
+  "pref": "니가타",
+  "area": "무라카미",
+  "categories": [
+   "town",
+   "culture",
+   "city"
+  ],
+  "summary": "무사 저택과 상인 마치야, 절이 늘어선 골목이 남은 옛 성하마을. 마치야 안을 공개하는 인형·병풍 축제와 처마에 연어를 매다는 연어 문화로 알려져 있다.",
+  "do": "마치야 거리와 절 골목(안젠코지)을 걷고 연어 박물관 이요보야 회관 들르기",
+  "station": "무라카미역 (村上)",
+  "access": "무라카미역에서 마치야 거리까지 도보 약 15~20분",
+  "jr_pass": [
+   "JR 동일본 패스"
+  ],
+  "seasons": [
+   "봄",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "3월 상순~4월 상순 인형 순례, 9월 중순~10월 중순 병풍 축제, 12월 염장 연어 시즌",
+  "event": "마치야 인형 순례: 매년 3월 상순~4월 상순 / 병풍 축제: 9월 중순~10월 중순. 날짜는 매년 공식 확인",
+  "duration": "반나절",
+  "cost": "거리 산책 무료. 이요보야 회관 유료",
+  "walking": "보통",
+  "fit": "백업",
+  "condition": "",
+  "caution": "",
+  "lat": 38.2255,
+  "lng": 139.4778,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/村上市",
+   "https://nominatim.openstreetmap.org/search?q=村上市 安善小路&countrycodes=jp&format=json"
+  ],
+  "region": "고신에쓰"
+ },
+ {
+  "id": "niigata-sado-kinzan",
+  "name_ko": "사도 금산 (사적 사도킨잔)",
+  "name_ja": "史跡 佐渡金山",
+  "pref": "니가타",
+  "area": "사도",
+  "categories": [
+   "culture",
+   "nature"
+  ],
+  "summary": "2024년 '사도섬의 금산'으로 세계유산에 등록된 옛 금은광. 에도 시대 손굴 갱도(소다유코)와 근대 갱도(도유코)를 걸어서 볼 수 있다.",
+  "do": "두 갱도 코스를 1시간 남짓 걸어 보고, 산이 V자로 갈라진 '도유노와리토'를 바라보기",
+  "station": "니가타역 (新潟) → 니가타항에서 페리",
+  "access": "니가타항에서 사도기선(제트포일 또는 카페리)으로 료쓰항 → 니가타교통사도 본선 버스로 약 1시간 남짓, '사도킨잔마에' 하차 바로",
+  "jr_pass": [
+   "JR 동일본 패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "4~10월(개관 시간 김). 연중 개관",
+  "event": "",
+  "duration": "하루",
+  "cost": "소다유코+도유코 공통 약 1,500엔(2025년 4월~). 사도기선·섬 버스 별도",
+  "walking": "보통",
+  "fit": "백업",
+  "condition": "",
+  "caution": "JR 패스는 니가타역까지. 페리·섬 버스는 별도 요금이고 섬 버스는 편수가 적으니 시간표 확인. 11~3월은 마감이 이르다",
+  "lat": 38.0409,
+  "lng": 138.2578,
+  "url": "https://www.visitsado.com/en/spot/detail0098/",
+  "sources": [
+   "https://www.visitsado.com/en/spot/detail0098/",
+   "http://niigata-kankou.or.jp/spot/detail_9012.html",
+   "https://ja.wikipedia.org/wiki/佐渡金山"
+  ],
+  "region": "고신에쓰"
+ },
+ {
+  "id": "niigata-sado-shukunegi",
+  "name_ko": "슈쿠네기 (사도의 옛 항구 마을)",
+  "name_ja": "宿根木",
+  "pref": "니가타",
+  "area": "사도 (오기)",
+  "categories": [
+   "town",
+   "cape"
+  ],
+  "summary": "기타마에부네 기항지로 번성한 항구 마을로, 배 목수가 지은 판자벽 2층 집 100여 채가 좁은 골목에 빽빽하다. 니가타현 첫 전통적 건조물군 보존지구.",
+  "do": "좁은 골목과 돌 얹은 지붕 집들을 산책하고, 근처 오기항 타라이부네와 함께 돌기",
+  "station": "니가타역 (新潟) → 니가타항에서 페리",
+  "access": "료쓰항에서 버스로 오기항까지 이동 → 니가타교통사도 '슈쿠네기선' 버스로 '슈쿠네기' 하차. 오기항에서 자전거 대여도 가능",
+  "jr_pass": [
+   "JR 동일본 패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을"
+  ],
+  "best_time": "4~10월",
+  "event": "",
+  "duration": "반나절",
+  "cost": "마을 산책 무료(일부 공개 가옥 유료)",
+  "walking": "보통",
+  "fit": "백업",
+  "condition": "",
+  "caution": "실제 주민이 사는 마을이라 사유지 출입 주의. 섬 남단이라 료쓰항에서 이동 시간이 길고 버스 편수 적음",
+  "lat": 37.8067,
+  "lng": 138.2432,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/宿根木"
+  ],
+  "region": "고신에쓰"
+ },
+ {
   "id": "niigata-yahiko",
   "name_ko": "야히코 신사 & 야히코산 로프웨이",
   "name_ja": "彌彦神社・弥彦山ロープウェイ",
@@ -5126,6 +15460,124 @@ window.SPOTS = [
   "sources": [
    "https://ja.wikipedia.org/wiki/弥彦山ロープウェイ",
    "https://yahikoyama-ropeway.jp/"
+  ],
+  "region": "고신에쓰"
+ },
+ {
+  "id": "niigata-northern-culture-museum",
+  "name_ko": "호쿠포 문화박물관 (옛 대지주 이토 가 저택)",
+  "name_ja": "北方文化博物館",
+  "pref": "니가타",
+  "area": "니가타시 (고난구)",
+  "categories": [
+   "culture",
+   "town"
+  ],
+  "summary": "에치고 최대급 지주였던 이토 가의 메이지 시대 저택을 그대로 박물관으로 쓴다. 넓은 다다미 방과 정원, 등록문화재 건물 26건이 남아 있다.",
+  "do": "대저택 안 방들과 회유식 정원을 돌고, 단풍철엔 정원 단풍 보기",
+  "station": "니가타역 (新潟) / 오기카와역 (荻川)",
+  "access": "니가타역에서 니가타교통 버스(S94·S95계통) '가미소우미 하쿠부쓰칸마에' 하차 도보 약 2분. 평일·토요일엔 JR 오기카와역 동쪽 출구에서 커뮤니티버스도 있음",
+  "jr_pass": [
+   "JR 동일본 패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "가을 단풍철(이때 니가타역발 셔틀버스가 다니기도 함)",
+  "event": "",
+  "duration": "반나절",
+  "cost": "입관료 유료(공식 확인)",
+  "walking": "적음",
+  "fit": "백업",
+  "condition": "",
+  "caution": "시내 니가타 분관(주오구)과 혼동 주의 — 본관은 고난구 소우미",
+  "lat": 37.8296,
+  "lng": 139.1521,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/北方文化博物館"
+  ],
+  "region": "고신에쓰"
+ },
+ {
+  "id": "yamanashi-katsunuma-budounooka",
+  "name_ko": "가쓰누마 부도노오카 (와인 언덕)",
+  "name_ja": "勝沼ぶどうの丘",
+  "pref": "야마나시",
+  "area": "고슈(가쓰누마)",
+  "categories": [
+   "city",
+   "onsen",
+   "view"
+  ],
+  "summary": "일본 와인 산지 가쓰누마의 언덕 위 시설. 지하 와인 저장고에서 지역 와인 약 180종을 시음하고, 전망 노천탕 '덴쿠노유'도 있다.",
+  "do": "시음 잔(타스트뱅)을 사서 지하 저장고 와인 시음, 노천탕에서 포도밭 전망",
+  "station": "가쓰누마부도쿄역 (勝沼ぶどう郷)",
+  "access": "JR 주오 본선 가쓰누마부도쿄역에서 도보 약 18분 또는 시민버스 한 정거장",
+  "jr_pass": [
+   "JR 동일본 패스",
+   "JR 도쿄 와이드 패스",
+   "호쿠리쿠 아치 패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을"
+  ],
+  "best_time": "8~10월 포도철, 4월 복숭아꽃",
+  "event": "",
+  "duration": "반나절",
+  "cost": "시음·온천 각 유료",
+  "walking": "보통",
+  "fit": "매우 잘 맞음",
+  "condition": "",
+  "caution": "가을 포도철엔 온천이 붐빔",
+  "lat": 35.6748,
+  "lng": 138.7368,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/ぶどうの丘"
+  ],
+  "region": "고신에쓰"
+ },
+ {
+  "id": "yamanashi-kawaguchiko-momiji-kairo",
+  "name_ko": "가와구치코 단풍 회랑 (후지 가와구치코 단풍 축제)",
+  "name_ja": "河口湖もみじ回廊・富士河口湖紅葉まつり",
+  "pref": "야마나시",
+  "area": "후지카와구치코",
+  "categories": [
+   "festival",
+   "night",
+   "nature"
+  ],
+  "summary": "가와구치코 북쪽 나시카와 강을 따라 단풍나무가 터널을 이루는 산책길. 축제 기간엔 해 진 뒤 라이트업.",
+  "do": "낮엔 단풍 터널과 후지산, 저녁엔 라이트업 산책",
+  "station": "가와구치코역 (河口湖, 후지큐선)",
+  "access": "가와구치코역에서 주유버스로 북쪽 호반, 회랑 부근 정류장 하차(오이시 공원과 같은 방면)",
+  "jr_pass": [
+   "JR 도쿄 와이드 패스"
+  ],
+  "seasons": [
+   "가을"
+  ],
+  "best_time": "11월 상중순",
+  "event": "매년 11월 상순~하순. 2026년은 11월 7일~29일, 라이트업 일몰~21시경",
+  "duration": "1~2시간",
+  "cost": "무료",
+  "walking": "적음",
+  "fit": "매우 잘 맞음",
+  "condition": "단풍 상태는 해마다 다름",
+  "caution": "주말엔 매우 혼잡, 전용 주차장 없음",
+  "lat": 35.5256,
+  "lng": 138.7624,
+  "url": "",
+  "sources": [
+   "https://nominatim.openstreetmap.org/search?q=もみじ回廊 富士河口湖町&countrycodes=jp&format=json",
+   "https://kaibutsu-blog.com/fujikawaguchiko-koyo-matsuri-2026/"
   ],
   "region": "고신에쓰"
  },
@@ -5211,6 +15663,44 @@ window.SPOTS = [
   "region": "고신에쓰"
  },
  {
+  "id": "yamanashi-nishizawa-keikoku",
+  "name_ko": "니시자와 계곡",
+  "name_ja": "西沢渓谷",
+  "pref": "야마나시",
+  "area": "야마나시시",
+  "categories": [
+   "nature"
+  ],
+  "summary": "후에후키강 원류의 화강암 협곡. 일본 폭포 100선 '나나쓰가마 오단 폭포'(5단, 낙차 약 20m)의 에메랄드빛 소가 하이라이트.",
+  "do": "계곡 산책로를 반시계 방향으로 돌며 폭포 연쇄 감상, 옛 삼림철도 길로 귀환",
+  "station": "야마나시시역 (山梨市)",
+  "access": "JR 주오 본선 야마나시시역에서 야마나시시 시민버스 '니시자와케이코쿠이리구치' 종점. 시즌엔 엔잔역발 고슈시 임시버스도",
+  "jr_pass": [
+   "JR 동일본 패스",
+   "JR 도쿄 와이드 패스",
+   "호쿠리쿠 아치 패스"
+  ],
+  "seasons": [
+   "여름",
+   "가을"
+  ],
+  "best_time": "10월 하순~11월 초 단풍, 5월 신록",
+  "event": "",
+  "duration": "하루",
+  "cost": "무료",
+  "walking": "많음",
+  "fit": "매우 잘 맞음",
+  "condition": "겨울엔 일부 구간 통행금지, 비 온 뒤 미끄러움",
+  "caution": "일주 약 4시간 산길(바위·계단 많음). 버스 편수 적음",
+  "lat": 35.8646,
+  "lng": 138.732,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/西沢渓谷"
+  ],
+  "region": "고신에쓰"
+ },
+ {
   "id": "yamanashi-shosenkyo",
   "name_ko": "쇼센쿄 협곡 & 쇼센쿄 로프웨이",
   "name_ja": "昇仙峡・昇仙峡ロープウェイ",
@@ -5248,6 +15738,46 @@ window.SPOTS = [
   "sources": [
    "https://ja.wikipedia.org/wiki/昇仙峡",
    "https://ja.wikipedia.org/wiki/昇仙峡ロープウェイ"
+  ],
+  "region": "고신에쓰"
+ },
+ {
+  "id": "yamanashi-yamanakako-cruise",
+  "name_ko": "야마나카호 유람선 '백조의 호수'",
+  "name_ja": "山中湖遊覧船「白鳥の湖」",
+  "pref": "야마나시",
+  "area": "야마나카코",
+  "categories": [
+   "boat",
+   "nature"
+  ],
+  "summary": "후지 5호 중 가장 큰 야마나카호를 백조 모양 배로 약 25분 일주. 뱃머리 너머로 후지산이 가득 찬다.",
+  "do": "약 25분 호수 일주 크루즈, 해 질 녘 호반 산책",
+  "station": "후지산역 (富士山, 후지큐선)",
+  "access": "후지큐선 후지산역에서 후지큐버스 고텐바역행 약 30분 '야마나카코 아사히가오카' 하차 바로",
+  "jr_pass": [
+   "JR 도쿄 와이드 패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "공기 맑은 가을~겨울",
+  "event": "",
+  "duration": "1~2시간",
+  "cost": "약 1,100엔",
+  "walking": "적음",
+  "fit": "매우 잘 맞음",
+  "condition": "강풍·결빙 시 결항 → 대체: 호반 산책",
+  "caution": "",
+  "lat": 35.4076,
+  "lng": 138.876,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/山中湖",
+   "https://nominatim.openstreetmap.org/search?q=旭日丘 山中湖&countrycodes=jp&format=json"
   ],
   "region": "고신에쓰"
  },
@@ -5332,6 +15862,198 @@ window.SPOTS = [
   "region": "고신에쓰"
  },
  {
+  "id": "yamanashi-kofu-castle-shingen-festival",
+  "name_ko": "고후성 (마이즈루성 공원) & 신겐공 축제",
+  "name_ja": "甲府城（舞鶴城公園）・信玄公祭り",
+  "pref": "야마나시",
+  "area": "고후",
+  "categories": [
+   "culture",
+   "festival"
+  ],
+  "summary": "고후역 바로 앞 돌담 성터 공원. 4월 신겐공 축제 때는 무사 행렬 '고슈 군단 출진'의 무대가 되며, '사무라이가 가장 많이 모인 축제'로 기네스 기록을 받았다.",
+  "do": "천수대에 올라 고후 분지 조망, 4월엔 출진 행렬 관람",
+  "station": "고후역 (甲府)",
+  "access": "JR 고후역 남쪽 출구에서 도보 약 5분",
+  "jr_pass": [
+   "JR 동일본 패스",
+   "JR 도쿄 와이드 패스",
+   "호쿠리쿠 아치 패스"
+  ],
+  "seasons": [
+   "봄",
+   "가을"
+  ],
+  "best_time": "4월 초 벚꽃·축제",
+  "event": "신겐공 축제: 매년 4월 12일(신겐 기일) 직전 주말 무렵(날짜는 매년 공식 확인)",
+  "duration": "1~2시간",
+  "cost": "무료",
+  "walking": "적음",
+  "fit": "조건부",
+  "condition": "축제일에 진가, 평소엔 산책 정도",
+  "caution": "",
+  "lat": 35.6653,
+  "lng": 138.5713,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/信玄公祭り",
+   "https://ja.wikipedia.org/wiki/甲府城"
+  ],
+  "region": "고신에쓰"
+ },
+ {
+  "id": "yamanashi-kiyosato-seisenryo",
+  "name_ko": "기요사토 고원 세이센료",
+  "name_ja": "清泉寮（清里高原）",
+  "pref": "야마나시",
+  "area": "호쿠토(기요사토)",
+  "categories": [
+   "view",
+   "nature"
+  ],
+  "summary": "야쓰가타케 남쪽 기슭 고원의 목장 숙소. 저지 소 우유 소프트크림의 원조로 유명하고, 잔디밭 정면으로 후지산이 보인다.",
+  "do": "목장 잔디밭에서 후지산·야쓰가타케 보며 소프트크림",
+  "station": "기요사토역 (清里, 고우미선)",
+  "access": "JR 주오 본선 고부치자와역에서 고우미선으로 기요사토역, 약 2km(택시 약 5분, 무료 송영버스 일부 예약제, 여름엔 피크닉버스)",
+  "jr_pass": [
+   "JR 동일본 패스"
+  ],
+  "seasons": [
+   "여름",
+   "가을"
+  ],
+  "best_time": "7~10월",
+  "event": "",
+  "duration": "반나절",
+  "cost": "무료(소프트크림 별도)",
+  "walking": "보통",
+  "fit": "조건부",
+  "condition": "맑은 날 후지산",
+  "caution": "",
+  "lat": 35.925,
+  "lng": 138.4197,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/清泉寮"
+  ],
+  "region": "고신에쓰"
+ },
+ {
+  "id": "yamanashi-motosuko",
+  "name_ko": "모토스호 (천 엔권 후지산)",
+  "name_ja": "本栖湖",
+  "pref": "야마나시",
+  "area": "후지카와구치코·미노부",
+  "categories": [
+   "nature",
+   "view"
+  ],
+  "summary": "천 엔 지폐 뒷면 '역(逆) 후지산' 도안의 무대. 본토 최고 수준 투명도의 짙푸른 호수.",
+  "do": "호반에서 지폐 속 구도로 후지산 감상, 바닥이 보이는 유람선",
+  "station": "가와구치코역 (河口湖, 후지큐선)",
+  "access": "가와구치코역에서 후지큐 노선버스 모토스코 방면(편수 적어 시간표 확인 필수)",
+  "jr_pass": [
+   "JR 도쿄 와이드 패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "맑은 겨울 아침, 4~5월 후지 시바자쿠라 축제(근처 리조트)",
+  "event": "",
+  "duration": "반나절",
+  "cost": "무료(유람선 유료)",
+  "walking": "보통",
+  "fit": "조건부",
+  "condition": "맑은 날만 후지산",
+  "caution": "대중교통 편수 적음",
+  "lat": 35.4639,
+  "lng": 138.5856,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/本栖湖"
+  ],
+  "region": "고신에쓰"
+ },
+ {
+  "id": "yamanashi-minobusan-kuonji",
+  "name_ko": "미노부산 구온지 & 미노부산 로프웨이",
+  "name_ja": "身延山久遠寺・身延山ロープウェイ",
+  "pref": "야마나시",
+  "area": "미노부",
+  "categories": [
+   "culture",
+   "view"
+  ],
+  "summary": "니치렌종 총본산. 수령 약 400년 수양벚나무와 287단 돌계단 '보다이테이'가 유명하고, 로프웨이 약 7분이면 해발 1,153m 오쿠노인에서 후지산이 보인다.",
+  "do": "287단 돌계단을 올라 본당 참배, 로프웨이로 오쿠노인 전망",
+  "station": "미노부역 (身延)",
+  "access": "JR 미노부선 미노부역에서 야마나시교통 버스 약 15분 '미노부산', 도보 약 20분",
+  "jr_pass": [
+   "후지산·시즈오카 지역 투어리스트 패스 미니"
+  ],
+  "seasons": [
+   "봄",
+   "가을"
+  ],
+  "best_time": "3월 하순~4월 초 수양벚꽃",
+  "event": "",
+  "duration": "반나절",
+  "cost": "로프웨이 왕복 유료",
+  "walking": "많음",
+  "fit": "조건부",
+  "condition": "맑은 날 오쿠노인에서 후지산",
+  "caution": "돌계단 287단이 매우 가파름(우회 언덕길 있음)",
+  "lat": 35.3819,
+  "lng": 138.4248,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/久遠寺",
+   "https://nominatim.openstreetmap.org/search?q=身延山ロープウェイ&countrycodes=jp&format=json"
+  ],
+  "region": "고신에쓰"
+ },
+ {
+  "id": "yamanashi-saiko-iyashinosato-nenba",
+  "name_ko": "사이코 이야시노사토 네바",
+  "name_ja": "西湖いやしの里根場",
+  "pref": "야마나시",
+  "area": "후지카와구치코",
+  "categories": [
+   "town"
+  ],
+  "summary": "산사태로 사라진 초가 마을을 복원한 곳. 투구 모양 초가집 20채가 늘어서고 맑은 날엔 뒤로 후지산이 보인다.",
+  "do": "초가집 공방·체험 구경하며 후지산 배경 사진",
+  "station": "가와구치코역 (河口湖, 후지큐선)",
+  "access": "가와구치코역에서 사이코·아오키가하라 주유 레트로버스 약 50분 '사이코 이야시노사토 네바'",
+  "jr_pass": [
+   "JR 도쿄 와이드 패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "맑은 날, 가을 단풍",
+  "event": "",
+  "duration": "반나절",
+  "cost": "입장 500엔",
+  "walking": "보통",
+  "fit": "조건부",
+  "condition": "맑은 날 후지산 배경",
+  "caution": "",
+  "lat": 35.505,
+  "lng": 138.6615,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/西湖いやしの里根場"
+  ],
+  "region": "고신에쓰"
+ },
+ {
   "id": "yamanashi-arakurayama-chureito",
   "name_ko": "아라쿠라야마 센겐 공원 (주레이토 오층탑)",
   "name_ja": "新倉山浅間公園（忠霊塔）",
@@ -5371,6 +16093,82 @@ window.SPOTS = [
   "region": "고신에쓰"
  },
  {
+  "id": "yamanashi-oshino-hakkai",
+  "name_ko": "오시노 핫카이",
+  "name_ja": "忍野八海",
+  "pref": "야마나시",
+  "area": "오시노",
+  "categories": [
+   "nature"
+  ],
+  "summary": "후지산 복류수가 솟는 8개 샘 연못. 물이 가장 많고 투명한 와쿠이케와 초가 마을, 후지산이 한 화면에 담긴다. 세계유산 구성자산.",
+  "do": "8개 연못을 돌며 맑은 샘물과 후지산 조망(사람 적은 데구치이케까지)",
+  "station": "후지산역 (富士山, 후지큐선)",
+  "access": "후지큐선 후지산역 또는 가와구치코역에서 후지큐버스 '오시노핫카이' 방면(약 20분 안팎)",
+  "jr_pass": [
+   "JR 도쿄 와이드 패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "맑은 아침, 공기 맑은 겨울",
+  "event": "",
+  "duration": "1~2시간",
+  "cost": "무료(일부 시설 유료)",
+  "walking": "적음",
+  "fit": "조건부",
+  "condition": "구름 끼면 후지산이 안 보임",
+  "caution": "낮엔 단체 관광객으로 매우 혼잡, 이른 아침 추천",
+  "lat": 35.4611,
+  "lng": 138.8333,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/忍野八海"
+  ],
+  "region": "고신에쓰"
+ },
+ {
+  "id": "yamanashi-oishi-park",
+  "name_ko": "오이시 공원",
+  "name_ja": "大石公園",
+  "pref": "야마나시",
+  "area": "후지카와구치코",
+  "categories": [
+   "nature",
+   "view"
+  ],
+  "summary": "가와구치코 북쪽 호반의 꽃 공원. 호수 건너 후지산을 배경으로 7월엔 라벤더 약 3,000포기, 가을엔 붉게 물드는 코키아가 펼쳐진다.",
+  "do": "꽃밭 너머 후지산 사진, 호반 산책",
+  "station": "가와구치코역 (河口湖, 후지큐선)",
+  "access": "가와구치코역에서 주유버스 약 30분 '가와구치코 시젠세이카쓰칸' 하차 바로",
+  "jr_pass": [
+   "JR 도쿄 와이드 패스"
+  ],
+  "seasons": [
+   "여름",
+   "가을"
+  ],
+  "best_time": "7월 상중순 라벤더, 10월 코키아",
+  "event": "",
+  "duration": "1~2시간",
+  "cost": "무료",
+  "walking": "적음",
+  "fit": "조건부",
+  "condition": "맑은 날 후지산 배경",
+  "caution": "",
+  "lat": 35.5233,
+  "lng": 138.7465,
+  "url": "",
+  "sources": [
+   "https://nominatim.openstreetmap.org/search?q=大石公園 富士河口湖町&countrycodes=jp&format=json",
+   "https://www.gltjp.com/ja/directory/item/14551/"
+  ],
+  "region": "고신에쓰"
+ },
+ {
   "id": "yamanashi-fuji-subaru-line-5th-station",
   "name_ko": "후지산 5합목 (후지 스바루라인)",
   "name_ja": "富士スバルライン五合目",
@@ -5406,6 +16204,201 @@ window.SPOTS = [
   "sources": [
    "https://www.fujikyubus.co.jp/mycar/timetablefares/",
    "https://ja.wikipedia.org/wiki/富士スバルライン"
+  ],
+  "region": "고신에쓰"
+ },
+ {
+  "id": "yamanashi-kitaguchi-hongu-sengen",
+  "name_ko": "기타구치혼구 후지센겐 신사",
+  "name_ja": "北口本宮冨士浅間神社",
+  "pref": "야마나시",
+  "area": "후지요시다",
+  "categories": [
+   "culture"
+  ],
+  "summary": "후지산 요시다구치 등산로의 출발점 신사. 커다란 나무 도리이와 수령 약 1,000년의 삼나무·편백이 선 숲속 경내, 세계유산 구성자산.",
+  "do": "숲속 참배길과 본전, 등산로 기점 둘러보기",
+  "station": "후지산역 (富士山, 후지큐선)",
+  "access": "후지큐선 후지산역에서 도보 약 25분",
+  "jr_pass": [
+   "JR 도쿄 와이드 패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "연중",
+  "event": "",
+  "duration": "1~2시간",
+  "cost": "무료",
+  "walking": "보통",
+  "fit": "백업",
+  "condition": "",
+  "caution": "",
+  "lat": 35.4708,
+  "lng": 138.7924,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/北口本宮冨士浅間神社"
+  ],
+  "region": "고신에쓰"
+ },
+ {
+  "id": "yamanashi-takeda-jinja",
+  "name_ko": "다케다 신사",
+  "name_ja": "武田神社",
+  "pref": "야마나시",
+  "area": "고후",
+  "categories": [
+   "culture"
+  ],
+  "summary": "다케다 신겐 3대의 거관 쓰쓰지가사키관 터에 세운 신사. 해자와 돌담이 남아 있고 보물전엔 다케다 가문 유품이 있다.",
+  "do": "참배 후 보물전 관람",
+  "station": "고후역 (甲府)",
+  "access": "JR 고후역 북쪽 출구 2번 승차장에서 야마나시교통 버스 약 10분 '다케다진자'",
+  "jr_pass": [
+   "JR 동일본 패스",
+   "JR 도쿄 와이드 패스",
+   "호쿠리쿠 아치 패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "4월 벚꽃",
+  "event": "",
+  "duration": "1~2시간",
+  "cost": "참배 무료, 보물전 유료",
+  "walking": "적음",
+  "fit": "백업",
+  "condition": "",
+  "caution": "",
+  "lat": 35.6867,
+  "lng": 138.5775,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/武田神社"
+  ],
+  "region": "고신에쓰"
+ },
+ {
+  "id": "yamanashi-saruhashi",
+  "name_ko": "사루하시",
+  "name_ja": "猿橋",
+  "pref": "야마나시",
+  "area": "오쓰키",
+  "categories": [
+   "culture",
+   "nature"
+  ],
+  "summary": "교각 없이 양쪽 절벽에서 나무를 겹쳐 내민 '하네바시' 구조의 다리. 일본 3대 기교(奇橋)로 꼽히는 국가 명승으로 수면에서 약 31m 높이.",
+  "do": "다리 위와 아래 협곡 산책로에서 구조 감상",
+  "station": "사루하시역 (猿橋)",
+  "access": "JR 주오 본선 사루하시역에서 동쪽 약 1.2km(도보 약 15분)",
+  "jr_pass": [
+   "JR 동일본 패스",
+   "JR 도쿄 와이드 패스",
+   "호쿠리쿠 아치 패스"
+  ],
+  "seasons": [
+   "봄",
+   "가을"
+  ],
+  "best_time": "신록·단풍철",
+  "event": "",
+  "duration": "1~2시간",
+  "cost": "무료",
+  "walking": "보통",
+  "fit": "백업",
+  "condition": "",
+  "caution": "",
+  "lat": 35.6157,
+  "lng": 138.9802,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/猿橋"
+  ],
+  "region": "고신에쓰"
+ },
+ {
+  "id": "yamanashi-erinji",
+  "name_ko": "에린지",
+  "name_ja": "恵林寺",
+  "pref": "야마나시",
+  "area": "고슈(엔잔)",
+  "categories": [
+   "culture"
+  ],
+  "summary": "다케다 가문의 보리사로 신겐의 묘소가 있는 절. 무소 소세키 작으로 전하는 국가 명승 정원이 볼거리.",
+  "do": "정원 감상과 신겐공 보물관 관람",
+  "station": "엔잔역 (塩山)",
+  "access": "JR 주오 본선 엔잔역에서 고슈시 시민버스 '에린지' 하차",
+  "jr_pass": [
+   "JR 동일본 패스",
+   "JR 도쿄 와이드 패스",
+   "호쿠리쿠 아치 패스"
+  ],
+  "seasons": [
+   "봄",
+   "가을"
+  ],
+  "best_time": "봄·가을",
+  "event": "",
+  "duration": "1~2시간",
+  "cost": "관람 유료(보물관 별도)",
+  "walking": "적음",
+  "fit": "백업",
+  "condition": "",
+  "caution": "",
+  "lat": 35.7299,
+  "lng": 138.7138,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/恵林寺"
+  ],
+  "region": "고신에쓰"
+ },
+ {
+  "id": "yamanashi-isawa-onsen",
+  "name_ko": "이사와 온천",
+  "name_ja": "石和温泉",
+  "pref": "야마나시",
+  "area": "후에후키",
+  "categories": [
+   "onsen"
+  ],
+  "summary": "1961년 포도밭에서 온천이 솟아 '푸른 하늘 온천'으로 화제가 된 뒤 생긴 온천 마을. 지금도 숙소 약 50곳과 유료 원천 족욕장이 있다.",
+  "do": "숙소 온천 후 원천 족욕, 봄 복숭아꽃·여름~가을 과일 따기",
+  "station": "이사와온센역 (石和温泉)",
+  "access": "JR 주오 본선 이사와온센역에서 온천가까지 도보 약 10~15분",
+  "jr_pass": [
+   "JR 동일본 패스",
+   "JR 도쿄 와이드 패스",
+   "호쿠리쿠 아치 패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "4월 복숭아꽃, 7~10월 과일철",
+  "event": "",
+  "duration": "1박 추천",
+  "cost": "족욕 유료, 숙박 별도",
+  "walking": "적음",
+  "fit": "백업",
+  "condition": "",
+  "caution": "",
+  "lat": 35.6579,
+  "lng": 138.646,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/石和温泉"
   ],
   "region": "고신에쓰"
  },
@@ -5451,6 +16444,46 @@ window.SPOTS = [
   "region": "고신에쓰"
  },
  {
+  "id": "nagano-norikura-tatamidaira",
+  "name_ko": "노리쿠라 다타미다이라",
+  "name_ja": "乗鞍岳 畳平",
+  "pref": "나가노",
+  "area": "노리쿠라",
+  "categories": [
+   "view",
+   "volcano",
+   "nature"
+  ],
+  "summary": "해발 약 2,700m, 일본에서 버스로 갈 수 있는 가장 높은 곳 가운데 하나인 화산 노리쿠라다케의 고원. 고산 꽃밭과 일출 명소이고 일반 차량은 다닐 수 없다.",
+  "do": "셔틀버스로 올라 꽃밭 데크 산책, 후지미다케 등 짧은 등산, 여름엔 일출 버스",
+  "station": "마쓰모토역 (松本) / 다카야마역 (高山)",
+  "access": "나가노 쪽: 신시마시마 → 노리쿠라고원 → 고원 주차장에서 셔틀버스. 기후 쪽: 다카야마 → 노히버스로 히라유 → 아칸다나·호오노키다이라 주차장에서 셔틀버스",
+  "jr_pass": [
+   "JR 동일본 패스",
+   "알펜·다카야마·마쓰모토 지역 투어리스트 패스",
+   "다카야마·호쿠리쿠 지역 투어리스트 패스"
+  ],
+  "seasons": [
+   "여름",
+   "가을"
+  ],
+  "best_time": "6월 말~8월 중순 고산 꽃, 9월 하순 단풍",
+  "event": "",
+  "duration": "하루",
+  "cost": "셔틀버스 왕복 유료(공식 확인)",
+  "walking": "보통",
+  "fit": "매우 잘 맞음",
+  "condition": "맑은 날 북알프스 전망 / 고지대라 여름에도 추움, 뇌우 주의",
+  "caution": "기후 쪽은 5월 15일, 나가노 쪽은 7월 초에 전 구간 개통(겨울 폐쇄). 2003년부터 일반 차량 통행 금지라 버스·택시만. 고산병 주의",
+  "lat": 36.1064,
+  "lng": 137.5536,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/畳平"
+  ],
+  "region": "고신에쓰"
+ },
+ {
   "id": "nagano-nozawa-onsen-dosojin",
   "name_ko": "노자와 온천 & 도소진 불축제",
   "name_ja": "野沢温泉・道祖神祭り",
@@ -5490,6 +16523,47 @@ window.SPOTS = [
    "https://nozawakanko.jp/",
    "https://nozawakanko.jp/access/",
    "https://www.jreast.co.jp/ko/multi/pass/eastpass.html"
+  ],
+  "region": "고신에쓰"
+ },
+ {
+  "id": "nagano-bessho-onsen",
+  "name_ko": "벳쇼 온천 (신슈의 가마쿠라)",
+  "name_ja": "別所温泉",
+  "pref": "나가노",
+  "area": "우에다",
+  "categories": [
+   "onsen",
+   "culture",
+   "train"
+  ],
+  "summary": "오래된 절이 모여 '신슈의 가마쿠라'라 불리는 온천 마을. 국보 팔각삼층탑의 안라쿠지, 기타무키 관음과 공동 외탕 세 곳이 걸어서 돌 수 있는 거리에 있다.",
+  "do": "로컬 전철 벳쇼선을 타고 들어가 외탕(오유·이시유·다이시유) 입욕과 절 순례",
+  "station": "벳쇼온센역 (別所温泉)",
+  "access": "우에다역에서 우에다전철 벳쇼선 종점 벳쇼온센역 하차",
+  "jr_pass": [
+   "JR 동일본 패스",
+   "호쿠리쿠 아치 패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "11월 단풍",
+  "event": "",
+  "duration": "반나절",
+  "cost": "외탕 수백 엔대, 안라쿠지 탑 배관 유료",
+  "walking": "보통",
+  "fit": "매우 잘 맞음",
+  "condition": "",
+  "caution": "우에다전철은 JR 패스 미적용",
+  "lat": 36.3527,
+  "lng": 138.1617,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/別所温泉"
   ],
   "region": "고신에쓰"
  },
@@ -5571,6 +16645,126 @@ window.SPOTS = [
   "region": "고신에쓰"
  },
  {
+  "id": "nagano-shirahone-onsen",
+  "name_ko": "시라호네 온천 (우윳빛 노천탕)",
+  "name_ja": "白骨温泉",
+  "pref": "나가노",
+  "area": "마쓰모토 (아즈미)",
+  "categories": [
+   "onsen",
+   "nature"
+  ],
+  "summary": "솟을 땐 투명하다가 시간이 지나면 우윳빛으로 변하는 산속 유황 온천. 계곡 옆 당일 공동 노천탕이 있다.",
+  "do": "공동 노천탕이나 료칸 당일 입욕으로 우윳빛 온천 즐기기, 가미코치·노리쿠라와 묶기",
+  "station": "마쓰모토역 (松本) → 신시마시마역 (新島々)",
+  "access": "마쓰모토역에서 알피코교통 가미코치선 약 30분 → 신시마시마역에서 버스 약 60분",
+  "jr_pass": [
+   "JR 동일본 패스",
+   "알펜·다카야마·마쓰모토 지역 투어리스트 패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "10월 단풍, 겨울 설경",
+  "event": "",
+  "duration": "1박 추천",
+  "cost": "공동 노천탕·당일 입욕 각 시설 요금",
+  "walking": "적음",
+  "fit": "매우 잘 맞음",
+  "condition": "",
+  "caution": "버스 편수가 적고 계절별로 운행이 달라짐(겨울은 축소·환승 가능) — 시간표 확인. 사철·버스는 JR 패스 미적용",
+  "lat": 36.1522,
+  "lng": 137.6276,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/白骨温泉"
+  ],
+  "region": "고신에쓰"
+ },
+ {
+  "id": "nagano-shibu-onsen",
+  "name_ko": "시부 온천 (9개 외탕 순례)",
+  "name_ja": "渋温泉",
+  "pref": "나가노",
+  "area": "야마노우치",
+  "categories": [
+   "onsen",
+   "town",
+   "night"
+  ],
+  "summary": "돌길 양옆으로 목조 료칸이 늘어선 온천 마을. 숙박객은 열쇠를 받아 공동 외탕 9곳을 돌며 수건에 도장을 받고, 밤 골목 풍경이 운치 있다.",
+  "do": "유카타 차림으로 외탕 9곳 순례, 밤에 금구옥(긴구야) 등 목조 료칸 외관 보기",
+  "station": "유다나카역 (湯田中)",
+  "access": "나가노역에서 나가노전철 특급 약 40분 → 유다나카역에서 버스 약 5분(또는 도보). 지고쿠다니 야엔코엔과 묶기 좋음",
+  "jr_pass": [
+   "JR 동일본 패스",
+   "호쿠리쿠 아치 패스"
+  ],
+  "seasons": [
+   "봄",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "12~3월(스노 몽키와 함께), 가을 단풍",
+  "event": "",
+  "duration": "1박 추천",
+  "cost": "숙박 요금 별도. 외탕 순례는 숙박객 열쇠로 무료",
+  "walking": "보통",
+  "fit": "매우 잘 맞음",
+  "condition": "",
+  "caution": "외탕은 기본적으로 숙박객용(열쇠). 나가노전철은 JR 패스 미적용",
+  "lat": 36.7344,
+  "lng": 138.4331,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/渋温泉"
+  ],
+  "region": "고신에쓰"
+ },
+ {
+  "id": "nagano-obasute-station-tanada",
+  "name_ko": "오바스테역 & 오바스테 계단식 논 (일본 3대 차창)",
+  "name_ja": "姨捨駅・姨捨の棚田",
+  "pref": "나가노",
+  "area": "지쿠마",
+  "categories": [
+   "train",
+   "night",
+   "view"
+  ],
+  "summary": "스위치백 구조의 산중턱 역 플랫폼에서 젠코지 평야가 펼쳐지는 '일본 3대 차창'. 아래 계단식 논은 달이 논마다 비친다는 '다고토노쓰키'로 유명하고 야경은 일본 야경유산이다.",
+  "do": "로컬 열차로 내려 플랫폼 전망과 계단식 논 산책, 주말엔 관광열차 '나이트뷰 오바스테'로 야경",
+  "station": "오바스테역 (姨捨)",
+  "access": "JR 시노노이선. 나가노역·마쓰모토역에서 보통열차로 오바스테역",
+  "jr_pass": [
+   "JR 동일본 패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "5~6월 물 댄 논, 맑은 날 해 질 녘~밤",
+  "event": "",
+  "duration": "1~2시간",
+  "cost": "무료(운임 별도)",
+  "walking": "적음",
+  "fit": "매우 잘 맞음",
+  "condition": "맑은 날 평야 전망·야경",
+  "caution": "특급은 서지 않고 보통열차만 정차, 편수 적음. 계단식 논까지는 비탈길",
+  "lat": 36.5026,
+  "lng": 138.0933,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/姨捨駅"
+  ],
+  "region": "고신에쓰"
+ },
+ {
   "id": "nagano-jigokudani-snow-monkey",
   "name_ko": "지고쿠다니 야엔코엔 (스노 몽키)",
   "name_ja": "地獄谷野猿公苑",
@@ -5607,6 +16801,160 @@ window.SPOTS = [
    "https://jigokudani-yaenkoen.co.jp/access/",
    "https://ja.wikipedia.org/wiki/地獄谷野猿公苑",
    "https://jigokudani-yaenkoen.co.jp/guide/"
+  ],
+  "region": "고신에쓰"
+ },
+ {
+  "id": "nagano-takato-castle-sakura",
+  "name_ko": "다카토 성터 공원 벚꽃",
+  "name_ja": "高遠城址公園（タカトオコヒガンザクラ）",
+  "pref": "나가노",
+  "area": "이나 (다카토)",
+  "categories": [
+   "festival",
+   "nature",
+   "culture"
+  ],
+  "summary": "이곳 고유의 작은 분홍빛 '다카토 고히간자쿠라' 약 1,500그루가 성터를 덮는 벚꽃 명소. 가을에도 단풍 축제를 한다.",
+  "do": "벚꽃철 성터 산책과 밤벚꽃, 가을엔 단풍 축제",
+  "station": "이나시역 (伊那市)",
+  "access": "JR 이다선 이나시역에서 JR버스 약 25분 '다카토역' 하차 → 공원까지 도보. 벚꽃철엔 JR 중앙본선 지노역발 임시 JR버스(약 1시간)도 운행",
+  "jr_pass": [],
+  "seasons": [
+   "봄",
+   "가을"
+  ],
+  "best_time": "4월 상순~중순 벚꽃, 11월 초 단풍",
+  "event": "벚꽃 축제: 매년 4월 상순~중순(개화에 맞춤), 날짜는 매년 공식 확인 / 단풍 축제: 2026년 10/31~11/8",
+  "duration": "반나절",
+  "cost": "벚꽃 축제 기간 입원료 있음(공식 확인)",
+  "walking": "보통",
+  "fit": "조건부",
+  "condition": "개화 시기에만 진가",
+  "caution": "이다선(JR 도카이)은 위 지역 패스 대상 아님. 지노역까지는 JR 동일본 패스로 가고 임시버스를 타는 방법이 현실적. 벚꽃철 주말 극심한 혼잡",
+  "lat": 35.8331,
+  "lng": 138.0628,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/高遠城",
+   "https://inashi-kankoukyoukai.jp/"
+  ],
+  "region": "고신에쓰"
+ },
+ {
+  "id": "nagano-tenryukyo",
+  "name_ko": "덴류쿄 (소라산포 덴류쿄 & 덴류 라인 뱃놀이)",
+  "name_ja": "天龍峡（そらさんぽ天龍峡・天竜ライン下り）",
+  "pref": "나가노",
+  "area": "이다",
+  "categories": [
+   "nature",
+   "boat",
+   "view"
+  ],
+  "summary": "덴류강이 깎은 명승 협곡. 고속도로 다리 아래 매달린 보행로 '소라산포 덴류쿄'에서 협곡을 내려다보고, 약 40분 뱃놀이로 협곡을 내려갈 수 있다.",
+  "do": "다리 밑 보행로와 협곡 산책로 걷기, 운항 중이면 덴류 라인 뱃놀이",
+  "station": "덴류쿄역 (天竜峡)",
+  "access": "JR 이다선 덴류쿄역에서 도보 약 5분. 이다선은 느리므로 도쿄·나고야에서 고속버스로 이다까지 가는 방법도 있음",
+  "jr_pass": [],
+  "seasons": [
+   "봄",
+   "가을"
+  ],
+  "best_time": "4월 벚꽃, 11월 단풍",
+  "event": "",
+  "duration": "반나절",
+  "cost": "산책로 무료. 뱃놀이 유료(공식 확인)",
+  "walking": "보통",
+  "fit": "조건부",
+  "condition": "수량·날씨에 따라 뱃놀이 결항",
+  "caution": "이다선(JR 도카이)은 위 지역 패스 대상 아님. 뱃놀이는 운영사 변경 이력이 있어 2026년 운항 여부·요금 공식 확인",
+  "lat": 35.4403,
+  "lng": 137.818,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/天竜峡",
+   "https://www.tenryukyo.net/"
+  ],
+  "region": "고신에쓰"
+ },
+ {
+  "id": "nagano-togakushi-shrine",
+  "name_ko": "도가쿠시 신사 (오쿠샤 삼나무 길)",
+  "name_ja": "戸隠神社（奥社）",
+  "pref": "나가노",
+  "area": "나가노시 (도가쿠시)",
+  "categories": [
+   "culture",
+   "nature"
+  ],
+  "summary": "도가쿠시산 기슭 다섯 신사로 이뤄진 오래된 산악 신앙지. 붉은 수신문 너머 수백 년 된 삼나무 가로수가 오쿠샤까지 이어진다.",
+  "do": "오쿠샤 참배길 삼나무 길을 걷고, 주샤 앞에서 도가쿠시 소바 먹기",
+  "station": "나가노역 (長野)",
+  "access": "나가노역에서 알피코교통 버스 약 50~70분 → '오쿠샤이리구치' 하차 → 참배길 약 2km",
+  "jr_pass": [
+   "JR 동일본 패스",
+   "호쿠리쿠 아치 패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을"
+  ],
+  "best_time": "5~6월 신록, 10월 중순 단풍",
+  "event": "",
+  "duration": "반나절",
+  "cost": "참배 무료. 버스 별도",
+  "walking": "많음",
+  "fit": "조건부",
+  "condition": "신록·단풍 때 진가 / 비 오는 날 미끄러움",
+  "caution": "오쿠샤 참배길은 편도 약 2km, 끝부분 돌계단이 가파름. 겨울엔 눈길이라 오쿠샤 참배 가능 여부 확인",
+  "lat": 36.7656,
+  "lng": 138.0621,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/戸隠神社"
+  ],
+  "region": "고신에쓰"
+ },
+ {
+  "id": "nagano-ryuoo-sora-terrace",
+  "name_ko": "류오 소라 테라스 (구름바다 전망대)",
+  "name_ja": "竜王マウンテンリゾート SORA terrace",
+  "pref": "나가노",
+  "area": "야마노우치",
+  "categories": [
+   "view",
+   "night"
+  ],
+  "summary": "166인승 로프웨이로 약 10분 올라가는 해발 1,770m 전망 테라스. 구름바다와 그 위로 지는 노을로 유명하다.",
+  "do": "오후 늦게 올라 구름바다와 일몰 보고, 해가 진 뒤 내려오기",
+  "station": "유다나카역 (湯田中)",
+  "access": "나가노역에서 나가노전철 → 유다나카역에서 무료 셔틀버스 약 25분 → 로프웨이 산록역 → 로프웨이 약 10분",
+  "jr_pass": [
+   "JR 동일본 패스",
+   "호쿠리쿠 아치 패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을"
+  ],
+  "best_time": "구름바다는 비 온 다음 날 아침·저녁, 9~10월",
+  "event": "",
+  "duration": "반나절",
+  "cost": "로프웨이 1일권 약 2,500~2,900엔(날짜별, 2026년)",
+  "walking": "적음",
+  "fit": "조건부",
+  "condition": "구름바다는 날씨 운 / 강풍 시 로프웨이·셔틀 운휴",
+  "caution": "2026년 그린시즌 4/25~11/8, 중간 운휴 기간(5월 평일·8월 말~9월 일부) 있음. 16:30 유다나카역발 셔틀을 타면 귀가는 택시",
+  "lat": 36.7762,
+  "lng": 138.479,
+  "url": "https://www.ryuoo.com/sora_terrace/",
+  "sources": [
+   "https://www.ryuoo.com/green/price_g/",
+   "https://www.ryuoo.com/access/",
+   "https://nominatim.openstreetmap.org/search?q=SORA terrace&format=json"
   ],
   "region": "고신에쓰"
  },
@@ -5690,6 +17038,46 @@ window.SPOTS = [
   "region": "고신에쓰"
  },
  {
+  "id": "nagano-karuizawa-shiraito-falls",
+  "name_ko": "가루이자와 시라이토 폭포",
+  "name_ja": "白糸の滝（軽井沢）",
+  "pref": "나가노",
+  "area": "가루이자와",
+  "categories": [
+   "nature",
+   "night"
+  ],
+  "summary": "높이 약 3m, 폭 약 70m 바위벽에서 지하수가 수백 가닥 실처럼 흘러내리는 폭포. 비가 와도 흐려지지 않으며, 여름·겨울 밤엔 기간 한정 조명 행사가 있다.",
+  "do": "숲길을 조금 걸어 폭포를 보고, 기간 중이면 밤 조명 감상",
+  "station": "가루이자와역 (軽井沢)",
+  "access": "가루이자와역에서 구사카루교통 버스(기타카루이자와 방면) 약 23분 '시라이토노타키' 하차 → 도보 약 5분",
+  "jr_pass": [
+   "JR 동일본 패스",
+   "JR 도쿄 와이드 패스",
+   "호쿠리쿠 아치 패스"
+  ],
+  "seasons": [
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "여름 피서, 10월 하순 단풍",
+  "event": "",
+  "duration": "1~2시간",
+  "cost": "무료(버스 별도)",
+  "walking": "적음",
+  "fit": "백업",
+  "condition": "",
+  "caution": "야간 조명은 기간 한정이고 버스 막차가 이르니 확인",
+  "lat": 36.4103,
+  "lng": 138.5922,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/白糸の滝_(長野県)"
+  ],
+  "region": "고신에쓰"
+ },
+ {
   "id": "nagano-narai-juku",
   "name_ko": "나라이주쿠",
   "name_ja": "奈良井宿",
@@ -5727,6 +17115,287 @@ window.SPOTS = [
    "https://touristpass.jp/ko/alpine/"
   ],
   "region": "고신에쓰"
+ },
+ {
+  "id": "nagano-matsumoto-castle",
+  "name_ko": "마쓰모토성",
+  "name_ja": "松本城",
+  "pref": "나가노",
+  "area": "마쓰모토",
+  "categories": [
+   "culture",
+   "city"
+  ],
+  "summary": "국보 천수를 가진 검은 성. 현존 12천수 가운데 유일한 평지성으로, 해자에 비친 천수와 북알프스가 함께 보인다.",
+  "do": "천수 내부의 가파른 계단을 올라 보고, 해자 둘레와 나와테 거리 산책",
+  "station": "마쓰모토역 (松本)",
+  "access": "마쓰모토역 동쪽 출구에서 도보 약 20분, 또는 타운스니커 북코스 버스 약 10분 '마쓰모토성·시청 앞'",
+  "jr_pass": [
+   "JR 동일본 패스",
+   "알펜·다카야마·마쓰모토 지역 투어리스트 패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "4월 벚꽃, 맑은 겨울날 설산 배경",
+  "event": "",
+  "duration": "1~2시간",
+  "cost": "공원 무료. 천수·혼마루 정원 유료",
+  "walking": "보통",
+  "fit": "백업",
+  "condition": "",
+  "caution": "천수 내부 계단이 매우 가파름. 성수기엔 입장 대기",
+  "lat": 36.2391,
+  "lng": 137.9691,
+  "url": "https://www.matsumoto-castle.jp/",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/松本城"
+  ],
+  "region": "고신에쓰"
+ },
+ {
+  "id": "nagano-suwa-taisha",
+  "name_ko": "스와타이샤 (시모샤 아키미야 외 4궁)",
+  "name_ja": "諏訪大社（下社秋宮ほか）",
+  "pref": "나가노",
+  "area": "스와",
+  "categories": [
+   "culture",
+   "festival"
+  ],
+  "summary": "스와호 남북에 흩어진 상사·하사 4궁으로 이뤄진 오래된 신사. 6년마다 거목을 산에서 끌어내리는 온바시라 축제와 호수 얼음이 갈라지는 '오미와타리' 전설로 유명하다.",
+  "do": "시모스와역 근처 아키미야·하루미야를 걸어서 돌고, 시간이 되면 상사 혼미야까지",
+  "station": "시모스와역 (下諏訪) / 가미스와역 (上諏訪)",
+  "access": "JR 중앙본선 시모스와역에서 아키미야까지 도보권. 상사 혼미야는 가미스와역·지노역에서 버스",
+  "jr_pass": [
+   "JR 동일본 패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "온바시라 축제 해 4~5월",
+  "event": "온바시라 축제: 6년마다 인년·신년(다음은 2028년, 4~5월). 날짜는 공식 확인",
+  "duration": "반나절",
+  "cost": "참배 무료",
+  "walking": "보통",
+  "fit": "백업",
+  "condition": "",
+  "caution": "4궁이 떨어져 있어 다 돌려면 버스·택시 필요",
+  "lat": 36.0754,
+  "lng": 138.0913,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/諏訪大社"
+  ],
+  "region": "고신에쓰"
+ },
+ {
+  "id": "nagano-tsumago-juku",
+  "name_ko": "쓰마고주쿠 (나카센도 숙장)",
+  "name_ja": "妻籠宿",
+  "pref": "나가노",
+  "area": "나기소",
+  "categories": [
+   "town",
+   "culture"
+  ],
+  "summary": "에도 시대 나카센도의 42번째 숙장으로, 1976년 일본 최초기 전통적 건조물군 보존지구가 된 목조 거리. 고개 너머 마고메까지 옛길 하이킹이 이어진다.",
+  "do": "옛 숙장 거리를 걷고, 체력이 되면 나카센도 옛길로 마고메까지 약 6km 하이킹",
+  "station": "나기소역 (南木曽)",
+  "access": "JR 중앙본선 나기소역에서 마을 버스(호신선·마고메선) '쓰마고' 하차, 도보면 약 4km",
+  "jr_pass": [
+   "알펜·다카야마·마쓰모토 지역 투어리스트 패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "10월 하순~11월 단풍",
+  "event": "",
+  "duration": "반나절",
+  "cost": "거리 무료(일부 시설 유료)",
+  "walking": "보통",
+  "fit": "백업",
+  "condition": "",
+  "caution": "마고메까지 걷는 경우 고갯길이라 2~3시간, 마고메는 기후현. 나기소역 정차 열차 편수 적음",
+  "lat": 35.5767,
+  "lng": 137.5953,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/妻籠宿"
+  ],
+  "region": "고신에쓰"
+ },
+ {
+  "id": "nagano-obuse",
+  "name_ko": "오부세 (밤과 호쿠사이의 마을)",
+  "name_ja": "小布施",
+  "pref": "나가노",
+  "area": "오부세",
+  "categories": [
+   "town",
+   "culture",
+   "city"
+  ],
+  "summary": "가쓰시카 호쿠사이가 말년에 머문 작은 마을. 호쿠사이 미술관과 봉황 천장화가 있는 간쇼인, 밤 과자 가게들이 모여 있다.",
+  "do": "호쿠사이칸 관람 후 밤 과자·몽블랑 먹으며 골목 산책, 간쇼인 천장화 보기",
+  "station": "오부세역 (小布施)",
+  "access": "나가노역에서 나가노전철 나가노선으로 오부세역 → 마을 중심까지 도보 약 10분",
+  "jr_pass": [
+   "JR 동일본 패스",
+   "호쿠리쿠 아치 패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을"
+  ],
+  "best_time": "9~10월 햇밤 시즌",
+  "event": "",
+  "duration": "반나절",
+  "cost": "호쿠사이칸·간쇼인 각각 유료",
+  "walking": "보통",
+  "fit": "백업",
+  "condition": "",
+  "caution": "나가노전철은 JR 패스 미적용. 간쇼인은 마을 중심에서 조금 떨어져 있음",
+  "lat": 36.6975,
+  "lng": 138.3121,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/小布施町"
+  ],
+  "region": "고신에쓰"
+ },
+ {
+  "id": "nagano-ueda-castle",
+  "name_ko": "우에다성 터 공원 (사나다 가의 성)",
+  "name_ja": "上田城跡公園",
+  "pref": "나가노",
+  "area": "우에다",
+  "categories": [
+   "culture",
+   "night"
+  ],
+  "summary": "사나다 마사유키가 쌓아 도쿠가와군을 두 번 물리친 성. 남은 망루 세 동과 해자가 있고, 봄 벚꽃 축제 때 밤 조명을 한다.",
+  "do": "망루와 해자 둘레를 걷고, 4월엔 밤벚꽃 보기",
+  "station": "우에다역 (上田)",
+  "access": "호쿠리쿠 신칸센 우에다역에서 도보 약 10분",
+  "jr_pass": [
+   "JR 동일본 패스",
+   "호쿠리쿠 아치 패스"
+  ],
+  "seasons": [
+   "봄",
+   "가을"
+  ],
+  "best_time": "4월 상순 벚꽃",
+  "event": "우에다성 센본자쿠라 축제: 매년 4월 상순(밤 조명). 날짜는 매년 공식 확인",
+  "duration": "1~2시간",
+  "cost": "공원 무료. 망루 내부 유료",
+  "walking": "적음",
+  "fit": "백업",
+  "condition": "벚꽃철에 진가",
+  "caution": "",
+  "lat": 36.404,
+  "lng": 138.2437,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/上田城",
+   "https://nominatim.openstreetmap.org/search?q=上田城跡公園&countrycodes=jp&format=json"
+  ],
+  "region": "고신에쓰"
+ },
+ {
+  "id": "nagano-zenkoji",
+  "name_ko": "젠코지",
+  "name_ja": "善光寺",
+  "pref": "나가노",
+  "area": "나가노시",
+  "categories": [
+   "culture",
+   "town"
+  ],
+  "summary": "국보 본당을 가진 나가노의 상징 절. 본당 지하의 캄캄한 회랑을 더듬어 도는 '오카이단 메구리'와 매일 아침 법요 '오아사지'가 특별하다.",
+  "do": "오카이단 메구리 체험, 이른 아침 오아사지 참관, 참배길 나카미세 산책",
+  "station": "나가노역 (長野)",
+  "access": "나가노역 젠코지구치에서 약 1.8km(도보 약 30분) 또는 버스로 '젠코지 다이몬' 하차. 나가노전철 젠코지시타역도 가능",
+  "jr_pass": [
+   "JR 동일본 패스",
+   "호쿠리쿠 아치 패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "이른 아침(오아사지). 2027년 고카이초 기간",
+  "event": "7년에 한 번 고카이초(비불 앞 대리불 공개): 2027년 4/4~6/19 예정",
+  "duration": "반나절",
+  "cost": "경내 무료. 본당 내진·오카이단 메구리 등 유료",
+  "walking": "보통",
+  "fit": "백업",
+  "condition": "",
+  "caution": "2027년 고카이초 기간은 매우 혼잡",
+  "lat": 36.6617,
+  "lng": 138.1877,
+  "url": "https://www.zenkoji.jp/",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/善光寺"
+  ],
+  "region": "고신에쓰"
+ },
+ {
+  "id": "toyama-gokayama-suganuma",
+  "name_ko": "고카야마 스가누마 갓쇼즈쿠리 마을",
+  "name_ja": "五箇山 菅沼合掌造り集落",
+  "pref": "도야마",
+  "area": "난토 (고카야마)",
+  "categories": [
+   "town",
+   "culture",
+   "snow"
+  ],
+  "summary": "쇼가와 강 굽이에 갓쇼즈쿠리 집 몇 채가 모여 있는 작은 세계유산 마을. 아이노쿠라보다 더 작고 조용하며, 눈 덮인 겨울 풍경이 좋다.",
+  "do": "마을을 내려다보는 전망 지점에서 사진, 민속관·염초관에서 산촌 생활과 화약 원료 생산 이야기 보기",
+  "station": "신타카오카역 (新高岡) / 다카오카역 (高岡)",
+  "access": "신타카오카역·다카오카역에서 가에쓰노버스 '세계유산버스'(시라카와고행)로 '스가누마' 하차. 아이노쿠라와 같은 노선이라 함께 돌기 좋음",
+  "jr_pass": [
+   "다카야마·호쿠리쿠 지역 투어리스트 패스",
+   "호쿠리쿠 패스",
+   "호쿠리쿠 아치 패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "1~2월 설경, 10월 하순~11월 단풍",
+  "event": "",
+  "duration": "반나절",
+  "cost": "마을 산책 무료. 민속관 등 유료",
+  "walking": "보통",
+  "fit": "매우 잘 맞음",
+  "condition": "눈 쌓인 겨울에 진가",
+  "caution": "세계유산버스는 다카야마·호쿠리쿠 패스로 탈 수 있음(신타카오카 구간, 일부 예약 필요). 다른 패스는 버스 별도 요금. 주민 거주지라 사유지 출입 주의",
+  "lat": 36.3996,
+  "lng": 136.8869,
+  "url": "https://gokayama-info.jp/",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/五箇山",
+   "https://touristpass.jp/en/takayama_hokuriku/",
+   "https://nominatim.openstreetmap.org/search?q=菅沼, 南砺市&countrycodes=jp&format=json"
+  ],
+  "region": "호쿠리쿠"
  },
  {
   "id": "toyama-gokayama-ainokura",
@@ -5770,6 +17439,46 @@ window.SPOTS = [
    "https://gokayama-info.jp/",
    "https://touristpass.jp/en/takayama_hokuriku/",
    "https://en.wikipedia.org/wiki/Gokayama"
+  ],
+  "region": "호쿠리쿠"
+ },
+ {
+  "id": "toyama-kurobe-dam",
+  "name_ko": "구로베 댐",
+  "name_ja": "黒部ダム",
+  "pref": "도야마",
+  "area": "다테야마",
+  "categories": [
+   "view",
+   "nature"
+  ],
+  "summary": "높이 186m로 일본 최고 높이의 아치식 댐. 여름~가을엔 관광 방수가 물보라와 무지개를 만든다. 알펜루트의 중간 지점.",
+  "do": "전망대에서 관광 방수 보기, 댐 위를 걸어 건너 알펜루트로 이어가기",
+  "station": "시나노오마치역 (信濃大町) / 다테야마역 (立山)",
+  "access": "나가노 쪽: JR 오이토선 시나노오마치역 → 버스로 오기사와 → 간덴 터널 전기버스로 구로베 댐역(한 번 환승). 도야마 쪽: 다테야마역에서 케이블카·고원버스·전기버스·로프웨이·케이블카를 갈아타고 구로베코역 → 댐 위 도보",
+  "jr_pass": [
+   "JR 동일본 패스",
+   "알펜·다카야마·마쓰모토 지역 투어리스트 패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을"
+  ],
+  "best_time": "6월 하순~10월 중순 관광 방수, 10월 단풍",
+  "event": "",
+  "duration": "반나절",
+  "cost": "오기사와~구로베 댐 전기버스 왕복 유료(공식 확인)",
+  "walking": "보통",
+  "fit": "매우 잘 맞음",
+  "condition": "관광 방수는 6월 하순~10월 중순만",
+  "caution": "겨울(12월~4월 중순) 알펜루트 운휴. 호수 유람선 '가루베'는 2024년 11월로 운항 종료. 전망대까지 계단이 많음",
+  "lat": 36.5664,
+  "lng": 137.6622,
+  "url": "https://www.kurobe-dam.com/",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/黒部ダム",
+   "https://touristpass.jp/en/alpine/"
   ],
   "region": "호쿠리쿠"
  },
@@ -5852,6 +17561,87 @@ window.SPOTS = [
    "https://touristpass.jp/en/alpine/",
    "https://kumanichi.com/articles/1980722",
    "https://www.alpen-route.com/access_new/fare/person/"
+  ],
+  "region": "호쿠리쿠"
+ },
+ {
+  "id": "toyama-shogawa-gorge-cruise",
+  "name_ko": "쇼가와쿄 유람선 & 오마키 온천",
+  "name_ja": "庄川峡遊覧船・大牧温泉",
+  "pref": "도야마",
+  "area": "도나미 (쇼가와)",
+  "categories": [
+   "boat",
+   "onsen",
+   "nature"
+  ],
+  "summary": "댐 호수가 된 쇼가와 협곡을 배로 거슬러 오르는 유람선. 종점 오마키 온천은 배로만 갈 수 있는 외딴 온천 료칸이다.",
+  "do": "고마키 댐 선착장에서 오마키 온천까지 협곡 유람, 짧게는 약 25분 주유 코스",
+  "station": "다카오카역 (高岡)",
+  "access": "다카오카역 앞에서 가에쓰노버스 '고마키 엔테이'행(하루 약 4왕복) → 종점 선착장. 이나미 즈이센지와 같은 노선",
+  "jr_pass": [
+   "호쿠리쿠 패스",
+   "호쿠리쿠 아치 패스",
+   "간사이 호쿠리쿠 패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "11월 단풍, 1~2월 설경",
+  "event": "",
+  "duration": "반나절",
+  "cost": "유람선 유료(코스별, 공식 확인). 오마키 온천 숙박 별도",
+  "walking": "적음",
+  "fit": "매우 잘 맞음",
+  "condition": "수위·기상에 따라 결항 가능",
+  "caution": "버스 하루 약 4왕복이라 왕복 시간표 먼저 확인. 버스는 JR 패스 미적용",
+  "lat": 36.5567,
+  "lng": 137.0083,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/小牧ダム",
+   "https://ja.wikipedia.org/wiki/庄川峡"
+  ],
+  "region": "호쿠리쿠"
+ },
+ {
+  "id": "toyama-shomyo-falls",
+  "name_ko": "쇼묘 폭포",
+  "name_ja": "称名滝",
+  "pref": "도야마",
+  "area": "다테야마",
+  "categories": [
+   "nature",
+   "view"
+  ],
+  "summary": "낙차 350m로 일본 최대 낙차의 폭포. 눈 녹는 봄엔 옆으로 낙차 약 500m의 한노키 폭포까지 함께 떨어진다.",
+  "do": "종점에서 계곡길을 걸어 폭포 관람대까지 가서 4단 폭포 보기",
+  "station": "다테야마역 (立山)",
+  "access": "덴테쓰토야마역에서 도야마지방철도로 다테야마역 → 계절 운행 쇼묘타키선 버스 → 종점 주차장에서 약 1.3km(도보 약 30분)",
+  "jr_pass": [
+   "알펜·다카야마·마쓰모토 지역 투어리스트 패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을"
+  ],
+  "best_time": "5~6월 눈 녹는 시기(한노키 폭포), 10월 하순 단풍",
+  "event": "",
+  "duration": "반나절",
+  "cost": "무료(교통비 별도)",
+  "walking": "보통",
+  "fit": "매우 잘 맞음",
+  "condition": "수량 많은 봄·비 온 뒤 박력 / 한노키 폭포는 봄 한정",
+  "caution": "버스는 계절 운행이고 편수 적음(겨울 도로 폐쇄). 알펜 패스는 덴테쓰토야마~다테야마 철도까지, 쇼묘타키선 버스는 별도",
+  "lat": 36.5753,
+  "lng": 137.5233,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/称名滝"
   ],
   "region": "호쿠리쿠"
  },
@@ -5985,6 +17775,129 @@ window.SPOTS = [
   "region": "호쿠리쿠"
  },
  {
+  "id": "toyama-namerikawa-hotaruika",
+  "name_ko": "나메리카와 반딧불오징어 해상관광 & 박물관",
+  "name_ja": "ほたるいか海上観光・ほたるいかミュージアム（滑川）",
+  "pref": "도야마",
+  "area": "나메리카와",
+  "categories": [
+   "boat",
+   "night",
+   "nature"
+  ],
+  "summary": "봄 도야마만에 몰려드는 반딧불오징어(특별천연기념물 해역)를 새벽 어선 옆에서 보는 관광선. 그물을 올릴 때 바다가 푸른 빛으로 반짝인다.",
+  "do": "새벽 관광선으로 정치망 조업과 오징어 발광 관찰, 낮엔 박물관 발광 쇼",
+  "station": "나메리카와역 (滑川)",
+  "access": "도야마역에서 아이노카제도야마철도(또는 도야마지방철도)로 나메리카와역 → 해변 '미치노에키 웨이브파크 나메리카와' 안 박물관. 관광선은 한밤~새벽 출항이라 근처 숙박+택시가 현실적",
+  "jr_pass": [
+   "호쿠리쿠 패스",
+   "호쿠리쿠 아치 패스",
+   "간사이 호쿠리쿠 패스"
+  ],
+  "seasons": [
+   "봄"
+  ],
+  "best_time": "4월 상순~5월 상순(관광선 운항기)",
+  "event": "해상관광: 매년 4월 상순~5월 상순 예약제. 날짜·출항 시각은 매년 공식 확인",
+  "duration": "반나절",
+  "cost": "관광선 유료·사전 예약제(공식 확인)",
+  "walking": "적음",
+  "fit": "조건부",
+  "condition": "파도·날씨로 결항 잦음 / 어획량에 따라 빛의 양 차이",
+  "caution": "JR 패스는 도야마역까지이고 아이노카제도야마철도 도야마 이동 구간은 별도 요금. 심야 출항이라 대중교통 없음",
+  "lat": 36.7741,
+  "lng": 137.3445,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/ホタルイカ群遊海面",
+   "https://nominatim.openstreetmap.org/search?q=ほたるいかミュージアム&countrycodes=jp&format=json"
+  ],
+  "region": "호쿠리쿠"
+ },
+ {
+  "id": "toyama-tonami-tulip-fair",
+  "name_ko": "도나미 튤립 페어",
+  "name_ja": "となみチューリップフェア",
+  "pref": "도야마",
+  "area": "도나미",
+  "categories": [
+   "festival",
+   "nature",
+   "view"
+  ],
+  "summary": "튤립 구근 산지 도나미의 공원에서 약 700품종, 300만 송이 넘는 튤립이 피는 봄 축제. 대화단에 매년 주제를 정한 지상화를 그려 전망탑에서 내려다본다.",
+  "do": "튤립 공원을 돌고 튤립 타워·스카이워크에서 지상화 감상",
+  "station": "도나미역 (砺波)",
+  "access": "다카오카역에서 JR 조하나선으로 도나미역 → 공원까지 도보권",
+  "jr_pass": [
+   "호쿠리쿠 패스",
+   "호쿠리쿠 아치 패스",
+   "간사이 호쿠리쿠 패스"
+  ],
+  "seasons": [
+   "봄"
+  ],
+  "best_time": "4월 하순~5월 초(골든위크)",
+  "event": "매년 4월 하순~5월 초. 날짜는 매년 공식 확인",
+  "duration": "반나절",
+  "cost": "페어 기간 입장료 있음(공식 확인)",
+  "walking": "보통",
+  "fit": "조건부",
+  "condition": "개화 상황에 따라 만개 시기 달라짐",
+  "caution": "골든위크라 혼잡. 조하나선 편수 적음",
+  "lat": 36.6418,
+  "lng": 136.9596,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/となみチューリップフェア",
+   "https://nominatim.openstreetmap.org/search?q=砺波チューリップ公園&countrycodes=jp&format=json"
+  ],
+  "region": "호쿠리쿠"
+ },
+ {
+  "id": "toyama-shinminato-ohashi-kaiomaru-park",
+  "name_ko": "신미나토 대교 & 해왕마루 공원",
+  "name_ja": "新湊大橋・海王丸パーク",
+  "pref": "도야마",
+  "area": "이미즈",
+  "categories": [
+   "view",
+   "night",
+   "cape"
+  ],
+  "summary": "범선 '해왕마루(초대)'가 영구 정박한 항구 공원과, 그 옆 주탑 600m 사장교. 다리 아래층 보행로를 걸어 바다를 건널 수 있고 밤엔 다리에 조명이 켜진다.",
+  "do": "다리 아래층 보행로 '아이노카제 프롬나드'를 걸어 건너며 바다 전망, 해 진 뒤 다리 조명 보기",
+  "station": "가이오마루역 (海王丸)",
+  "access": "다카오카역에서 만요선 노면전차로 가이오마루역 하차 도보권",
+  "jr_pass": [
+   "호쿠리쿠 패스",
+   "호쿠리쿠 아치 패스",
+   "간사이 호쿠리쿠 패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "맑은 날 해 질 녘~밤",
+  "event": "",
+  "duration": "1~2시간",
+  "cost": "다리 보행로 무료. 범선 선내 견학 유료",
+  "walking": "보통",
+  "fit": "조건부",
+  "condition": "맑은 날 다테야마 연봉 조망 / 강풍 시 보행로 통제 가능",
+  "caution": "보행로는 6:00~20:00만 통행. 다리 조명은 일몰 30분 뒤~22시경. 만요선은 JR 패스 미적용",
+  "lat": 36.7803,
+  "lng": 137.1062,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/新湊大橋",
+   "https://nominatim.openstreetmap.org/search?q=海王丸パーク&countrycodes=jp&format=json"
+  ],
+  "region": "호쿠리쿠"
+ },
+ {
   "id": "toyama-amaharashi-coast",
   "name_ko": "아마하라시 해안",
   "name_ja": "雨晴海岸",
@@ -6023,6 +17936,382 @@ window.SPOTS = [
   "sources": [
    "https://ja.wikipedia.org/wiki/雨晴海岸",
    "https://www.westjr.co.jp/travel-information/en/tickets-passes/other/hokuriku-arch-pass/"
+  ],
+  "region": "호쿠리쿠"
+ },
+ {
+  "id": "toyama-uozu-buried-forest-mirage",
+  "name_ko": "우오즈 매몰림 박물관 & 신기루 해안",
+  "name_ja": "魚津埋没林博物館（蜃気楼）",
+  "pref": "도야마",
+  "area": "우오즈",
+  "categories": [
+   "nature",
+   "culture",
+   "cape"
+  ],
+  "summary": "약 2,000년 전 바다 밑에 묻힌 삼나무 뿌리를 물속 그대로 보여 주는 특별천연기념물 박물관. 우오즈 해안은 봄 신기루 명소로, 박물관이 출현 기록을 남긴다.",
+  "do": "수중 전시관에서 거대한 고목 뿌리 보고, 해안에서 신기루 기다리기",
+  "station": "우오즈역 (魚津) / 신우오즈역 (新魚津)",
+  "access": "아이노카제도야마철도 우오즈역 또는 도야마지방철도 신우오즈역에서 택시 약 5분, 도보 약 25분",
+  "jr_pass": [
+   "호쿠리쿠 패스",
+   "호쿠리쿠 아치 패스",
+   "간사이 호쿠리쿠 패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을"
+  ],
+  "best_time": "신기루는 주로 봄 맑고 따뜻한 날",
+  "event": "",
+  "duration": "1~2시간",
+  "cost": "입관료 약 640엔",
+  "walking": "보통",
+  "fit": "조건부",
+  "condition": "신기루는 출현 예측이 어렵고 볼 수 있는 날이 적음",
+  "caution": "JR 패스는 도야마역 또는 구로베우나즈키온센역까지이고, 우오즈까지 제3섹터·사철은 별도 요금",
+  "lat": 36.8225,
+  "lng": 137.395,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/魚津埋没林博物館"
+  ],
+  "region": "호쿠리쿠"
+ },
+ {
+  "id": "toyama-takaoka-kanayamachi-mikurumayama",
+  "name_ko": "다카오카 가나야마치·야마초스지 & 미쿠루마야마 마쓰리",
+  "name_ja": "金屋町・山町筋／高岡御車山祭",
+  "pref": "도야마",
+  "area": "다카오카",
+  "categories": [
+   "town",
+   "festival"
+  ],
+  "summary": "격자창 집이 늘어선 주물 장인 마을 가나야마치와 흙벽 창고 상가 거리 야마초스지. 매년 5월 1일 화려한 수레 7대가 야마초스지를 도는 미쿠루마야마 마쓰리는 유네스코 무형유산이다.",
+  "do": "두 옛 거리를 산책하고, 5월 1일엔 수레 행렬 보기",
+  "station": "다카오카역 (高岡)",
+  "access": "다카오카역에서 야마초스지·가나야마치까지 도보 약 15~20분 또는 시내버스",
+  "jr_pass": [
+   "호쿠리쿠 패스",
+   "호쿠리쿠 아치 패스",
+   "간사이 호쿠리쿠 패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "5월 1일 축제",
+  "event": "미쿠루마야마 마쓰리: 매년 5월 1일(전야제 4월 30일)",
+  "duration": "반나절",
+  "cost": "거리 무료",
+  "walking": "보통",
+  "fit": "백업",
+  "condition": "",
+  "caution": "",
+  "lat": 36.7502,
+  "lng": 137.0054,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/高岡御車山祭",
+   "https://nominatim.openstreetmap.org/search?q=金屋町 高岡市&countrycodes=jp&format=json"
+  ],
+  "region": "호쿠리쿠"
+ },
+ {
+  "id": "toyama-takaoka-zuiryuji",
+  "name_ko": "다카오카 즈이류지 & 다카오카 대불",
+  "name_ja": "瑞龍寺・高岡大仏",
+  "pref": "도야마",
+  "area": "다카오카",
+  "categories": [
+   "culture"
+  ],
+  "summary": "가가번 2대 번주 마에다 도시나가의 보리사로, 산문·불전·법당이 국보인 선종 사찰. 역 반대편엔 청동 주조 도시 다카오카의 상징인 동조 대불이 있다.",
+  "do": "즈이류지의 회랑으로 둘러싸인 가람을 보고, 걸어서 다카오카 대불까지",
+  "station": "다카오카역 (高岡)",
+  "access": "다카오카역 남쪽 출구에서 즈이류지까지 도보 약 10분, 대불은 북쪽 출구에서 도보 약 10분 안팎",
+  "jr_pass": [
+   "호쿠리쿠 패스",
+   "호쿠리쿠 아치 패스",
+   "간사이 호쿠리쿠 패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "봄·여름 야간 라이트업 날",
+  "event": "",
+  "duration": "1~2시간",
+  "cost": "즈이류지 배관료 약 500엔. 대불 무료",
+  "walking": "적음",
+  "fit": "백업",
+  "condition": "",
+  "caution": "아이노카제도야마철도 도야마~다카오카는 패스에 따라 '통과 이용만' 가능(중간역 하차 불가)",
+  "lat": 36.7356,
+  "lng": 137.0105,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/瑞龍寺_(高岡市)",
+   "https://nominatim.openstreetmap.org/search?q=高岡大仏&countrycodes=jp&format=json",
+   "http://www.westjr.co.jp/travel-information/en/tickets-passes/jrwest-rail-pass/hokuriku/"
+  ],
+  "region": "호쿠리쿠"
+ },
+ {
+  "id": "toyama-toyama-castle",
+  "name_ko": "도야마성 터 공원",
+  "name_ja": "富山城址公園",
+  "pref": "도야마",
+  "area": "도야마시",
+  "categories": [
+   "culture",
+   "city"
+  ],
+  "summary": "도심 해자 옆에 1954년 지은 모의 천수(향토박물관)가 서 있는 성터 공원. 도야마 시내 산책 중 잠깐 들르기 좋다.",
+  "do": "해자와 천수 외관을 보고 향토박물관 관람, 근처 유리 미술관과 함께 돌기",
+  "station": "도야마역 (富山)",
+  "access": "도야마역에서 시내 노면전차로 '고쿠사이카이기조마에' 하차 도보 약 2분",
+  "jr_pass": [
+   "호쿠리쿠 패스",
+   "호쿠리쿠 아치 패스",
+   "간사이 호쿠리쿠 패스",
+   "다카야마·호쿠리쿠 지역 투어리스트 패스",
+   "알펜·다카야마·마쓰모토 지역 투어리스트 패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "4월 벚꽃",
+  "event": "",
+  "duration": "1~2시간",
+  "cost": "공원 무료. 향토박물관 유료",
+  "walking": "적음",
+  "fit": "백업",
+  "condition": "",
+  "caution": "천수는 사실에 근거하지 않은 모의 천수",
+  "lat": 36.6932,
+  "lng": 137.2108,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/富山城",
+   "https://nominatim.openstreetmap.org/search?q=富山城址公園&countrycodes=jp&format=json"
+  ],
+  "region": "호쿠리쿠"
+ },
+ {
+  "id": "toyama-glass-art-museum-kirari",
+  "name_ko": "도야마시 유리 미술관 (TOYAMA 키라리)",
+  "name_ja": "富山市ガラス美術館（TOYAMAキラリ）",
+  "pref": "도야마",
+  "area": "도야마시",
+  "categories": [
+   "culture",
+   "city"
+  ],
+  "summary": "구마 겐고가 설계한 나무 루버 아트리움 건물에 시립도서관과 함께 들어선 유리 미술관. 6층엔 데일 치훌리의 상설 설치작품 5점이 있다.",
+  "do": "건물 아트리움을 올려다보고 6층 치훌리 '글래스 아트 가든' 관람",
+  "station": "도야마역 (富山)",
+  "access": "도야마역에서 시내 노면전차로 '니시초' 하차 도보 약 1분, 역에서 걸으면 약 20분",
+  "jr_pass": [
+   "호쿠리쿠 패스",
+   "호쿠리쿠 아치 패스",
+   "간사이 호쿠리쿠 패스",
+   "다카야마·호쿠리쿠 지역 투어리스트 패스",
+   "알펜·다카야마·마쓰모토 지역 투어리스트 패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "비 오는 날 대안으로도 좋음",
+  "event": "",
+  "duration": "1~2시간",
+  "cost": "상설전 유료(기획전 별도)",
+  "walking": "적음",
+  "fit": "백업",
+  "condition": "",
+  "caution": "",
+  "lat": 36.6886,
+  "lng": 137.2148,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/TOYAMAキラリ"
+  ],
+  "region": "호쿠리쿠"
+ },
+ {
+  "id": "toyama-shinminato-uchikawa",
+  "name_ko": "신미나토 우치카와 (어부 마을 운하)",
+  "name_ja": "新湊 内川",
+  "pref": "도야마",
+  "area": "이미즈",
+  "categories": [
+   "town",
+   "boat"
+  ],
+  "summary": "어선이 줄지어 정박한 좁은 운하 양쪽으로 어부 집들이 늘어선 마을. 개성 있는 작은 다리가 여럿 걸려 있어 '일본의 베니스'라 불린다.",
+  "do": "운하를 따라 다리들을 건너며 산책, 근처 해왕마루 공원·신미나토 대교와 묶기",
+  "station": "히가시신미나토역 (東新湊)",
+  "access": "다카오카역에서 노면전차 만요선으로 히가시신미나토역·나카신미나토역 하차 도보권",
+  "jr_pass": [
+   "호쿠리쿠 패스",
+   "호쿠리쿠 아치 패스",
+   "간사이 호쿠리쿠 패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을"
+  ],
+  "best_time": "맑은 날 오후",
+  "event": "",
+  "duration": "1~2시간",
+  "cost": "무료",
+  "walking": "보통",
+  "fit": "백업",
+  "condition": "",
+  "caution": "JR 패스는 다카오카역까지, 만요선(제3섹터 노면전차)은 별도 요금. 주민 생활 공간이라 조용히",
+  "lat": 36.7781,
+  "lng": 137.0986,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/東新湊駅"
+  ],
+  "region": "호쿠리쿠"
+ },
+ {
+  "id": "toyama-inami-zuisenji",
+  "name_ko": "이나미 즈이센지 & 목조각 거리",
+  "name_ja": "井波 瑞泉寺・木彫りの町",
+  "pref": "도야마",
+  "area": "난토 (이나미)",
+  "categories": [
+   "town",
+   "culture"
+  ],
+  "summary": "정토진종 대찰 즈이센지를 장식한 이나미 목조각 장인들의 마을. 참배길 양쪽에 조각 공방이 이어져 장인이 끌질하는 모습을 볼 수 있다.",
+  "do": "즈이센지의 정교한 목조각 보고, 참배길 공방들 구경",
+  "station": "다카오카역 (高岡)",
+  "access": "다카오카역에서 가에쓰노버스(쇼가와초·고마키 엔테이행) '즈이센지마에' 하차 바로",
+  "jr_pass": [
+   "호쿠리쿠 패스",
+   "호쿠리쿠 아치 패스",
+   "간사이 호쿠리쿠 패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "연중",
+  "event": "",
+  "duration": "반나절",
+  "cost": "즈이센지 배관료 약 300엔",
+  "walking": "보통",
+  "fit": "백업",
+  "condition": "",
+  "caution": "버스 편수 적음. 쇼가와쿄 유람선과 같은 날 묶으면 효율적",
+  "lat": 36.5585,
+  "lng": 136.9722,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/瑞泉寺_(南砺市)"
+  ],
+  "region": "호쿠리쿠"
+ },
+ {
+  "id": "toyama-iwase-machinami",
+  "name_ko": "히가시이와세 옛 거리 (기타마에부네 항구 마을)",
+  "name_ja": "東岩瀬の町並み",
+  "pref": "도야마",
+  "area": "도야마시 (이와세)",
+  "categories": [
+   "town",
+   "city"
+  ],
+  "summary": "기타마에부네 해운으로 번성한 회선 도매상 저택(모리 가 등)과 양조장이 남은 항구 거리. 도야마 시내에서 노면전차로 바로 갈 수 있다.",
+  "do": "오마치 거리의 옛 상가와 모리 가 저택을 보고 양조장·카페 들르기",
+  "station": "히가시이와세역 (東岩瀬)",
+  "access": "도야마역 북쪽에서 도야마지방철도 도야마코선(노면전차)으로 히가시이와세역 하차 도보권",
+  "jr_pass": [
+   "호쿠리쿠 패스",
+   "호쿠리쿠 아치 패스",
+   "간사이 호쿠리쿠 패스",
+   "다카야마·호쿠리쿠 지역 투어리스트 패스",
+   "알펜·다카야마·마쓰모토 지역 투어리스트 패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을"
+  ],
+  "best_time": "맑은 날 오후",
+  "event": "",
+  "duration": "반나절",
+  "cost": "거리 무료. 모리 가 등 유료",
+  "walking": "보통",
+  "fit": "백업",
+  "condition": "",
+  "caution": "JR 패스는 도야마역까지, 도야마코선은 별도 요금",
+  "lat": 36.7524,
+  "lng": 137.2306,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/東岩瀬駅"
+  ],
+  "region": "호쿠리쿠"
+ },
+ {
+  "id": "toyama-himi-banyagai",
+  "name_ko": "히미 반야가이 (어시장 거리 & 온천)",
+  "name_ja": "ひみ番屋街",
+  "pref": "도야마",
+  "area": "히미",
+  "categories": [
+   "city",
+   "onsen"
+  ],
+  "summary": "겨울 방어로 유명한 히미 어항 옆 휴게소형 시장. 생선 가게와 회전초밥, 당일 온천 '소유'가 한곳에 있어 바다 건너 다테야마 연봉을 보며 쉬기 좋다.",
+  "do": "해산물 덮밥·회전초밥 먹고 당일 온천 입욕, 맑은 날엔 바다 너머 다테야마 보기",
+  "station": "히미역 (氷見)",
+  "access": "다카오카역에서 JR 히미선 종점 히미역 → 가에쓰노버스 시가지 순회버스(반야가이선) 약 12분. 아마하라시 해안과 같은 날 묶기 좋음",
+  "jr_pass": [
+   "호쿠리쿠 패스",
+   "호쿠리쿠 아치 패스",
+   "간사이 호쿠리쿠 패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "12~1월 방어철",
+  "event": "",
+  "duration": "반나절",
+  "cost": "온천 입욕 유료, 식사 별도",
+  "walking": "적음",
+  "fit": "백업",
+  "condition": "다테야마 조망은 맑은 겨울 아침에 좋음",
+  "caution": "",
+  "lat": 36.8644,
+  "lng": 136.9871,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/ひみ番屋街"
   ],
   "region": "호쿠리쿠"
  },
@@ -6066,6 +18355,169 @@ window.SPOTS = [
    "https://ja.wikipedia.org/wiki/鶴仙渓",
    "https://ja.wikipedia.org/wiki/山中温泉",
    "https://ja.wikipedia.org/wiki/あやとりはし"
+  ],
+  "region": "호쿠리쿠"
+ },
+ {
+  "id": "ishikawa-yamashiro-onsen",
+  "name_ko": "야마시로 온천 (고소유)",
+  "name_ja": "山代温泉（古総湯）",
+  "pref": "이시카와",
+  "area": "가가",
+  "categories": [
+   "onsen",
+   "town"
+  ],
+  "summary": "가가 온천향 중 하나로, 메이지 시대 공동탕을 복원한 '고소유'가 명물. 스테인드글라스 창 아래 비누 없이 온천만 즐기는 옛 방식이다.",
+  "do": "고소유와 소유 두 공동탕에 들르고, 구타니야키 가마와 로산진 관련 시설 둘러보기",
+  "station": "가가온센역 (加賀温泉)",
+  "access": "가가온센역에서 주유버스 '캔버스' 또는 가가 온천 버스 약 15분 '야마시로온센' 하차",
+  "jr_pass": [
+   "호쿠리쿠 아치 패스",
+   "호쿠리쿠 패스",
+   "간사이 호쿠리쿠 패스",
+   "다카야마·호쿠리쿠 지역 투어리스트 패스"
+  ],
+  "seasons": [
+   "봄",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "추운 계절, 겨울 게 철",
+  "event": "",
+  "duration": "반나절",
+  "cost": "고소유 약 700엔 전후",
+  "walking": "적음",
+  "fit": "매우 잘 맞음",
+  "condition": "",
+  "caution": "고소유는 비누·샴푸 사용 불가(옛 방식)",
+  "lat": 36.289,
+  "lng": 136.3615,
+  "url": "",
+  "sources": [
+   "https://nominatim.openstreetmap.org/search?q=山代温泉%20古総湯",
+   "https://ja.wikipedia.org/wiki/山代温泉"
+  ],
+  "region": "호쿠리쿠"
+ },
+ {
+  "id": "ishikawa-yuwaku-onsen",
+  "name_ko": "유와쿠 온천",
+  "name_ja": "湯涌温泉",
+  "pref": "이시카와",
+  "area": "가나자와",
+  "categories": [
+   "onsen",
+   "town"
+  ],
+  "summary": "가나자와 시내에서 버스로 갈 수 있는 산골 온천 마을. 여관 몇 채가 모인 작은 마을이라 조용하고, 다케히사 유메지 기념관이 있다.",
+  "do": "공동탕(소유)에서 온천하고 마을 산책, 가을엔 등불 축제 구경",
+  "station": "가나자와역 (金沢)",
+  "access": "가나자와역에서 호쿠테쓰 버스 '유와쿠온센'행 약 50분 종점 하차",
+  "jr_pass": [
+   "호쿠리쿠 아치 패스",
+   "호쿠리쿠 패스",
+   "간사이 호쿠리쿠 패스",
+   "다카야마·호쿠리쿠 지역 투어리스트 패스"
+  ],
+  "seasons": [
+   "가을",
+   "겨울"
+  ],
+  "best_time": "10월 등불 축제, 겨울 설경",
+  "event": "매년 10월 '유와쿠 본보리 마쓰리'(등불 축제), 날짜는 매년 공식 확인",
+  "duration": "반나절",
+  "cost": "공동탕 약 500엔 전후",
+  "walking": "적음",
+  "fit": "매우 잘 맞음",
+  "condition": "",
+  "caution": "버스 편수가 많지 않아 돌아오는 시간 확인",
+  "lat": 36.4867,
+  "lng": 136.7561,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/湯涌温泉"
+  ],
+  "region": "호쿠리쿠"
+ },
+ {
+  "id": "ishikawa-ishizaki-hoto-matsuri",
+  "name_ko": "이시자키 호토 마쓰리",
+  "name_ja": "石崎奉燈祭",
+  "pref": "이시카와",
+  "area": "나나오",
+  "categories": [
+   "festival",
+   "night"
+  ],
+  "summary": "높이 10m가 넘는 거대한 등롱(호토) 여러 기를 남자 수십 명이 메고 어촌 골목을 누비는 노토의 키리코 축제.",
+  "do": "밤에 불 켜진 대형 호토가 서로 모여 흔들리는 장면 보기, 와쿠라 온천 숙박과 묶기",
+  "station": "와쿠라온센역 (和倉温泉)",
+  "access": "가나자와역에서 특급 노토카가리비 등으로 와쿠라온센역 → 도보 약 10분",
+  "jr_pass": [
+   "호쿠리쿠 아치 패스",
+   "호쿠리쿠 패스",
+   "간사이 호쿠리쿠 패스"
+  ],
+  "seasons": [
+   "여름"
+  ],
+  "best_time": "8월 첫째 토요일 저녁~밤",
+  "event": "매년 8월 첫째 토요일 (2026년은 8월 1일 개최, 전야제 있음)",
+  "duration": "반나절",
+  "cost": "무료",
+  "walking": "보통",
+  "fit": "매우 잘 맞음",
+  "condition": "우천 시 일정 변경 가능",
+  "caution": "2024년 지진으로 나나오·와쿠라 일대 피해가 커 숙소가 부족할 수 있음. 와쿠라 온천 여관 영업 재개 상황 확인",
+  "lat": 37.0762,
+  "lng": 136.9308,
+  "url": "",
+  "sources": [
+   "https://summer.walkerplus.com/odekake/detail_e/ar0517e597676/",
+   "https://nominatim.openstreetmap.org/search?q=石崎町%20七尾市"
+  ],
+  "region": "호쿠리쿠"
+ },
+ {
+  "id": "ishikawa-kazuemachi-chaya",
+  "name_ko": "가즈에마치 차야가이",
+  "name_ja": "主計町茶屋街",
+  "pref": "이시카와",
+  "area": "가나자와",
+  "categories": [
+   "town",
+   "night"
+  ],
+  "summary": "아사노강 변에 늘어선 작은 찻집 거리. 히가시 차야가이보다 조용하고, 해 질 녘 강물에 비친 등불 풍경이 좋다.",
+  "do": "강변 산책 후 어두운 언덕길 '구라가리자카'를 지나 저녁 불빛 감상",
+  "station": "가나자와역 (金沢)",
+  "access": "가나자와역에서 노선버스 약 10분 '하시바초' 하차, 도보 약 3분. 히가시 차야가이와 묶어서",
+  "jr_pass": [
+   "호쿠리쿠 아치 패스",
+   "호쿠리쿠 패스",
+   "간사이 호쿠리쿠 패스",
+   "다카야마·호쿠리쿠 지역 투어리스트 패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "해 질 녘~밤, 아사노강 벚꽃 철",
+  "event": "",
+  "duration": "1~2시간",
+  "cost": "무료",
+  "walking": "적음",
+  "fit": "조건부",
+  "condition": "저녁 시간대에 가야 분위기가 삶",
+  "caution": "영업 중인 찻집은 일반 손님 출입 불가인 곳이 많음",
+  "lat": 36.5723,
+  "lng": 136.6633,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/主計町_(金沢市)"
   ],
   "region": "호쿠리쿠"
  },
@@ -6189,6 +18641,171 @@ window.SPOTS = [
   "region": "호쿠리쿠"
  },
  {
+  "id": "ishikawa-chirihama-nagisa-driveway",
+  "name_ko": "지리하마 나기사 드라이브웨이",
+  "name_ja": "千里浜なぎさドライブウェイ",
+  "pref": "이시카와",
+  "area": "하쿠이",
+  "categories": [
+   "cape",
+   "night"
+  ],
+  "summary": "모래가 단단해 일반 차량이 바닷가를 따라 달릴 수 있는 약 8km 모래사장. 동해(일본해)로 지는 노을이 좋다.",
+  "do": "단단한 모래사장을 걸으며 노을 보기(차 없으면 걷기만으로도 충분)",
+  "station": "하쿠이역 (羽咋, JR 나나오선)",
+  "access": "가나자와역에서 JR 나나오선(IR 이시카와 경유) 약 45분 하쿠이역 → 해변까지 약 2km, 도보 약 30분 또는 택시",
+  "jr_pass": [
+   "호쿠리쿠 아치 패스",
+   "호쿠리쿠 패스",
+   "간사이 호쿠리쿠 패스"
+  ],
+  "seasons": [
+   "여름",
+   "가을"
+  ],
+  "best_time": "맑은 날 해 질 녘",
+  "event": "",
+  "duration": "1~2시간",
+  "cost": "무료",
+  "walking": "보통",
+  "fit": "조건부",
+  "condition": "맑은 날 노을 / 파도·강풍 시 통행 규제(겨울에 잦음)",
+  "caution": "모래사장 침식이 진행 중. 2024년 노토반도 지진 이후 구치노토 일대에 복구 공사가 남아 있을 수 있어 통행 정보(이시카와 미치 정보넷) 확인",
+  "lat": 36.889,
+  "lng": 136.7644,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/千里浜なぎさドライブウェイ"
+  ],
+  "region": "호쿠리쿠"
+ },
+ {
+  "id": "ishikawa-21st-century-museum",
+  "name_ko": "가나자와 21세기 미술관",
+  "name_ja": "金沢21世紀美術館",
+  "pref": "이시카와",
+  "area": "가나자와",
+  "categories": [
+   "culture",
+   "city"
+  ],
+  "summary": "둥근 유리 건물의 현대미술관. 수영장 밑에 사람이 서 있는 듯한 작품 '스위밍 풀'로 유명하고, 무료 구역만 둘러봐도 재미있다.",
+  "do": "무료 교류 구역과 야외 작품을 보고, 관심 가는 기획전은 유료로 관람",
+  "station": "가나자와역 (金沢)",
+  "access": "가나자와역에서 노선버스 약 10분 '고린보' 또는 '히로사카·21세기미술관' 하차",
+  "jr_pass": [
+   "호쿠리쿠 아치 패스",
+   "호쿠리쿠 패스",
+   "간사이 호쿠리쿠 패스",
+   "다카야마·호쿠리쿠 지역 투어리스트 패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "연중. 비·눈 오는 날 실내 대안",
+  "event": "",
+  "duration": "1~2시간",
+  "cost": "교류 구역 무료, 전시는 기획에 따라 약 1,000~2,000엔대",
+  "walking": "적음",
+  "fit": "백업",
+  "condition": "궂은 날 대안으로 좋음",
+  "caution": "월요일 휴관(공휴일이면 다음 날). 수영장 내부는 시간 지정 입장이라 대기가 생김",
+  "lat": 36.5608,
+  "lng": 136.6582,
+  "url": "https://www.kanazawa21.jp/",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/金沢21世紀美術館"
+  ],
+  "region": "호쿠리쿠"
+ },
+ {
+  "id": "ishikawa-kanazawa-castle",
+  "name_ko": "가나자와성 공원",
+  "name_ja": "金沢城公園",
+  "pref": "이시카와",
+  "area": "가나자와",
+  "categories": [
+   "culture",
+   "night"
+  ],
+  "summary": "가가 번주 마에다 가문의 성터. 흰 납 기와의 복원 망루·문과 다양한 돌담 양식이 볼거리이고, 겐로쿠엔 바로 옆이다.",
+  "do": "하시즈메몬·히시야구라 일대를 걷고, 라이트업이 있는 밤엔 교쿠센인마루 정원 야경 보기",
+  "station": "가나자와역 (金沢)",
+  "access": "가나자와역에서 노선버스·주유버스 약 10분 '겐로쿠엔시타·가나자와조' 하차",
+  "jr_pass": [
+   "호쿠리쿠 아치 패스",
+   "호쿠리쿠 패스",
+   "간사이 호쿠리쿠 패스",
+   "다카야마·호쿠리쿠 지역 투어리스트 패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "4월 벚꽃, 겨울 설경. 정원 야간 라이트업은 주말 위주(일정 공식 확인)",
+  "event": "",
+  "duration": "1~2시간",
+  "cost": "공원 무료, 복원 건물 내부 약 300엔대",
+  "walking": "보통",
+  "fit": "백업",
+  "condition": "",
+  "caution": "",
+  "lat": 36.5643,
+  "lng": 136.6592,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/金沢城"
+  ],
+  "region": "호쿠리쿠"
+ },
+ {
+  "id": "ishikawa-kanazawa-station-tsuzumimon",
+  "name_ko": "가나자와역 쓰즈미몬",
+  "name_ja": "金沢駅 鼓門・もてなしドーム",
+  "pref": "이시카와",
+  "area": "가나자와",
+  "categories": [
+   "city",
+   "night"
+  ],
+  "summary": "노가쿠 북(쓰즈미)을 본뜬 거대한 목조 문과 유리 돔이 있는 역 광장. 밤에는 조명이 들어와 도착하자마자 사진 명소가 된다.",
+  "do": "동쪽 출구에서 문과 돔 사진 찍고, 역 안 백화점·상점가에서 가나자와 먹거리·금박 기념품 고르기",
+  "station": "가나자와역 (金沢)",
+  "access": "가나자와역 동쪽 출구 바로 앞",
+  "jr_pass": [
+   "호쿠리쿠 아치 패스",
+   "호쿠리쿠 패스",
+   "간사이 호쿠리쿠 패스",
+   "다카야마·호쿠리쿠 지역 투어리스트 패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "해 진 뒤 조명 시간",
+  "event": "",
+  "duration": "1~2시간",
+  "cost": "무료",
+  "walking": "적음",
+  "fit": "백업",
+  "condition": "",
+  "caution": "",
+  "lat": 36.5783,
+  "lng": 136.6478,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/金沢駅"
+  ],
+  "region": "호쿠리쿠"
+ },
+ {
   "id": "ishikawa-katayamazu-onsen",
   "name_ko": "가타야마즈 온천",
   "name_ja": "片山津温泉",
@@ -6225,6 +18842,47 @@ window.SPOTS = [
   "url": "https://www.hot-ishikawa.jp/",
   "sources": [
    "https://ja.wikipedia.org/wiki/片山津温泉"
+  ],
+  "region": "호쿠리쿠"
+ },
+ {
+  "id": "ishikawa-keta-taisha",
+  "name_ko": "게타 대사",
+  "name_ja": "氣多大社",
+  "pref": "이시카와",
+  "area": "하쿠이",
+  "categories": [
+   "culture",
+   "nature"
+  ],
+  "summary": "노토 지방 이치노미야(최고 격 신사). 사람 손이 닿지 않게 보존해 온 원시림 '이라즈노모리'를 뒤에 두고, 인연 맺기로 유명하다.",
+  "do": "본전 참배 후 지리하마 노을과 묶어 하쿠이 반나절 코스로",
+  "station": "하쿠이역 (羽咋, JR 나나오선)",
+  "access": "하쿠이역에서 버스 약 10분 '이치노미야' 하차, 도보 약 5분",
+  "jr_pass": [
+   "호쿠리쿠 아치 패스",
+   "호쿠리쿠 패스",
+   "간사이 호쿠리쿠 패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "연중",
+  "event": "",
+  "duration": "1~2시간",
+  "cost": "무료",
+  "walking": "적음",
+  "fit": "백업",
+  "condition": "",
+  "caution": "원시림은 출입 금지. 2024년 지진 영향으로 일부 시설 복구 중일 수 있음",
+  "lat": 36.926,
+  "lng": 136.7674,
+  "url": "https://www.keta.jp/",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/気多大社"
   ],
   "region": "호쿠리쿠"
  },
@@ -6268,6 +18926,236 @@ window.SPOTS = [
   "sources": [
    "https://shiro-niwa.pref.ishikawa.lg.jp/kenrokuen-garden/info.html",
    "https://ja.wikipedia.org/wiki/兼六園"
+  ],
+  "region": "호쿠리쿠"
+ },
+ {
+  "id": "ishikawa-nagamachi-samurai",
+  "name_ko": "나가마치 무사 저택 거리",
+  "name_ja": "長町武家屋敷跡",
+  "pref": "이시카와",
+  "area": "가나자와",
+  "categories": [
+   "town"
+  ],
+  "summary": "흙담과 작은 수로가 이어진 가가번 무사들의 옛 주거지. 겨울엔 흙담을 눈에서 지키는 짚 거적(코모카케)이 걸린다.",
+  "do": "흙담 골목과 수로를 걷고, 노무라가 저택의 작은 정원 보기",
+  "station": "가나자와역 (金沢)",
+  "access": "가나자와역에서 노선버스 약 10분 '고린보' 하차, 도보 약 5분",
+  "jr_pass": [
+   "호쿠리쿠 아치 패스",
+   "호쿠리쿠 패스",
+   "간사이 호쿠리쿠 패스",
+   "다카야마·호쿠리쿠 지역 투어리스트 패스"
+  ],
+  "seasons": [
+   "봄",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "12~3월 코모카케 풍경, 눈 온 직후",
+  "event": "",
+  "duration": "1~2시간",
+  "cost": "거리 무료, 노무라가 저택 약 500엔대",
+  "walking": "보통",
+  "fit": "백업",
+  "condition": "",
+  "caution": "주택가이므로 조용히",
+  "lat": 36.5637,
+  "lng": 136.6507,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/長町武家屋敷跡"
+  ],
+  "region": "호쿠리쿠"
+ },
+ {
+  "id": "ishikawa-myoryuji-ninja-temple",
+  "name_ko": "묘류지 (닌자데라)",
+  "name_ja": "妙立寺（忍者寺）",
+  "pref": "이시카와",
+  "area": "가나자와",
+  "categories": [
+   "culture"
+  ],
+  "summary": "함정 계단·숨은 방·비밀 통로가 많아 '닌자 절'로 불리는 절. 실제로는 번의 방어용 구조였다고 한다.",
+  "do": "예약한 시간에 안내를 따라 약 40분 동안 숨은 장치들을 둘러보기",
+  "station": "가나자와역 (金沢)",
+  "access": "가나자와역에서 노선버스 약 15분 '히로코지' 하차, 도보 약 5분 (데라마치 절 거리)",
+  "jr_pass": [
+   "호쿠리쿠 아치 패스",
+   "호쿠리쿠 패스",
+   "간사이 호쿠리쿠 패스",
+   "다카야마·호쿠리쿠 지역 투어리스트 패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "연중",
+  "event": "",
+  "duration": "1~2시간",
+  "cost": "약 1,200엔",
+  "walking": "보통",
+  "fit": "백업",
+  "condition": "",
+  "caution": "사전 전화 예약제, 안내는 일본어 중심(외국어 안내문 있음). 계단이 가파름",
+  "lat": 36.5554,
+  "lng": 136.649,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/妙立寺"
+  ],
+  "region": "호쿠리쿠"
+ },
+ {
+  "id": "ishikawa-mitsukejima",
+  "name_ko": "미쓰케지마 (군함섬)",
+  "name_ja": "見附島",
+  "pref": "이시카와",
+  "area": "스즈",
+  "categories": [
+   "cape"
+  ],
+  "summary": "군함처럼 생겨 '군함섬'으로 불리던 오쿠노토의 바위섬. 2024년 지진으로 섬 상당 부분이 무너져 모습이 크게 바뀌었다.",
+  "do": "해안에서 바뀐 섬의 모습을 보고 오쿠노토 복구 현장을 둘러보기",
+  "station": "없음 (스즈 시내 버스정류장)",
+  "access": "가나자와역에서 호쿠테쓰 특급버스 스즈 방면 약 3시간 → 택시. 대중교통만으로는 하루가 걸림",
+  "jr_pass": [],
+  "seasons": [
+   "여름",
+   "가을"
+  ],
+  "best_time": "맑은 날",
+  "event": "",
+  "duration": "반나절",
+  "cost": "무료",
+  "walking": "적음",
+  "fit": "백업",
+  "condition": "맑은 날",
+  "caution": "2024년 노토반도 지진으로 섬이 크게 붕괴, 주변 산책로·시설 이용 제한 가능. 오쿠노토는 아직 복구 중이라 도로·버스 운행을 반드시 사전 확인. 관광보다 복구 지원 성격으로 방문",
+  "lat": 37.3961,
+  "lng": 137.2473,
+  "url": "",
+  "sources": [
+   "https://nominatim.openstreetmap.org/search?q=見附島",
+   "https://ja.wikipedia.org/wiki/見付島"
+  ],
+  "region": "호쿠리쿠"
+ },
+ {
+  "id": "ishikawa-shirayama-hime-shrine",
+  "name_ko": "시라야마히메 신사",
+  "name_ja": "白山比咩神社",
+  "pref": "이시카와",
+  "area": "하쿠산",
+  "categories": [
+   "culture",
+   "nature"
+  ],
+  "summary": "전국 하쿠산 신사의 총본궁. 영산 하쿠산 신앙의 중심으로, 삼나무 숲 속 긴 참배로가 차분하다.",
+  "do": "숲속 참배로를 걸어 참배하고, 근처 데도리강 계곡 풍경 보기",
+  "station": "쓰루기역 (鶴来, 호쿠테쓰 이시카와선)",
+  "access": "가나자와 시내 노이치역에서 호쿠테쓰 이시카와선 약 30분 종점 쓰루기역 → 택시 약 5분 또는 버스",
+  "jr_pass": [],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을"
+  ],
+  "best_time": "신록·단풍철, 정월 참배",
+  "event": "",
+  "duration": "반나절",
+  "cost": "무료",
+  "walking": "보통",
+  "fit": "백업",
+  "condition": "",
+  "caution": "",
+  "lat": 36.4349,
+  "lng": 136.6362,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/白山比咩神社"
+  ],
+  "region": "호쿠리쿠"
+ },
+ {
+  "id": "ishikawa-omicho-market",
+  "name_ko": "오미초 시장",
+  "name_ja": "近江町市場",
+  "pref": "이시카와",
+  "area": "가나자와",
+  "categories": [
+   "city"
+  ],
+  "summary": "가나자와의 부엌이라 불리는 300년 가까운 역사의 시장. 노도구로·아마에비·겨울 게 등 호쿠리쿠 해산물이 모인다.",
+  "do": "시장 골목을 돌며 해산물 덮밥(가이센동)과 꼬치 해산물로 아침이나 점심 먹기",
+  "station": "가나자와역 (金沢)",
+  "access": "가나자와역에서 버스로 약 5분 '무사시가쓰지·오미초시장' 하차, 또는 도보 약 15분",
+  "jr_pass": [
+   "호쿠리쿠 아치 패스",
+   "호쿠리쿠 패스",
+   "간사이 호쿠리쿠 패스",
+   "다카야마·호쿠리쿠 지역 투어리스트 패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "겨울(11월 게 해금 이후)이 해산물 제철. 오전이 활기",
+  "event": "",
+  "duration": "1~2시간",
+  "cost": "가이센동 약 2,000~5,000엔",
+  "walking": "적음",
+  "fit": "백업",
+  "condition": "",
+  "caution": "수요일·일요일엔 쉬는 가게가 많음. 점심 인기 식당은 줄이 김",
+  "lat": 36.5711,
+  "lng": 136.6564,
+  "url": "https://ohmicho-ichiba.com/",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/近江町市場"
+  ],
+  "region": "호쿠리쿠"
+ },
+ {
+  "id": "ishikawa-wajima-asaichi",
+  "name_ko": "와지마 아침시장 (임시 상설 장소)",
+  "name_ja": "輪島朝市（パワーシティ輪島ワイプラザ内）",
+  "pref": "이시카와",
+  "area": "와지마",
+  "categories": [
+   "city",
+   "town"
+  ],
+  "summary": "천 년 넘게 이어졌다는 일본 3대 아침시장. 2024년 1월 지진 화재로 아침시장 거리가 불탄 뒤, 현재는 시내 쇼핑센터 안에서 상설 영업 중이다.",
+  "do": "해산물 건어물·와지마누리 칠기를 사며 상인들을 응원하고, 시로요네 센마이다와 묶어 방문",
+  "station": "와지마역앞 버스정류장 (輪島駅前, 철도역 없음)",
+  "access": "가나자와역에서 호쿠테쓰 '와지마 특급버스' 약 2시간 30분 → 와지마 시내에서 택시 또는 도보로 파워시티 와지마 와이플라자",
+  "jr_pass": [],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을"
+  ],
+  "best_time": "오전(약 9~13시)",
+  "event": "",
+  "duration": "1~2시간",
+  "cost": "무료(쇼핑 비용 별도)",
+  "walking": "적음",
+  "fit": "백업",
+  "condition": "",
+  "caution": "2024년 노토반도 지진·화재로 원래 아침시장 거리는 소실, 구획 정리 중. 2026년 9월 거리에서 첫 노점 행사가 열렸으나 본격 재개는 미정. 현재 장소는 와이플라자 안, 수요일 휴무(부정기). 노토 도로·버스 상황 사전 확인",
+  "lat": 37.3863,
+  "lng": 136.9048,
+  "url": "https://asaichi.info/",
+  "sources": [
+   "https://asaichi.info/",
+   "https://ja.wikipedia.org/wiki/輪島朝市"
   ],
   "region": "호쿠리쿠"
  },
@@ -6356,6 +19244,42 @@ window.SPOTS = [
   "region": "호쿠리쿠"
  },
  {
+  "id": "fukui-mikuni-fireworks",
+  "name_ko": "미쿠니 불꽃대회",
+  "name_ja": "三国花火大会",
+  "pref": "후쿠이",
+  "area": "사카이 (미쿠니)",
+  "categories": [
+   "festival",
+   "night",
+   "cape"
+  ],
+  "summary": "호쿠리쿠 최대급 불꽃대회. 미쿠니 해변에서 바다 위로 반원형 수중 불꽃이 펼쳐진다.",
+  "do": "모래사장에 자리 잡고 해 질 녘부터 불꽃 보기",
+  "station": "미쿠니미나토역 (三国港, 에치젠 철도)",
+  "access": "후쿠이역에서 에치젠 철도(당일 임시열차) → 미쿠니미나토역, 해변까지 도보 약 10~15분",
+  "jr_pass": [],
+  "seasons": [
+   "여름"
+  ],
+  "best_time": "8월 11일 밤",
+  "event": "매년 8월 11일 (날짜는 매년 공식 확인)",
+  "duration": "반나절",
+  "cost": "무료(유료 관람석 있음)",
+  "walking": "보통",
+  "fit": "매우 잘 맞음",
+  "condition": "악천후 시 연기",
+  "caution": "2026년 대회는 중지됨 — 2027년 개최 여부를 공식 확인 / 귀가 열차가 매우 혼잡. 아와라 온천 숙박 추천",
+  "lat": 36.2226,
+  "lng": 136.1348,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/三国花火大会",
+   "https://ja.wikipedia.org/wiki/三国海水浴場"
+  ],
+  "region": "호쿠리쿠"
+ },
+ {
   "id": "fukui-obama-sotomo-cruise",
   "name_ko": "소토모 유람선 (오바마)",
   "name_ja": "蘇洞門めぐり（小浜）",
@@ -6437,6 +19361,127 @@ window.SPOTS = [
   "region": "호쿠리쿠"
  },
  {
+  "id": "fukui-obama-omizuokuri",
+  "name_ko": "오미즈오쿠리 (오바마 물 보내기 의식)",
+  "name_ja": "お水送り（若狭神宮寺・鵜の瀬）",
+  "pref": "후쿠이",
+  "area": "오바마",
+  "categories": [
+   "festival",
+   "night",
+   "culture"
+  ],
+  "summary": "나라 도다이지 '오미즈토리'에 쓰일 물을 오바마에서 보내는 1,200년 된 의식. 횃불 행렬이 진구지에서 강가 '우노세'까지 이어진다.",
+  "do": "진구지 경내 큰 불 의식과 수백 명 횃불 행렬을 따라 강가 송수 의식 보기",
+  "station": "오바마역 (小浜, JR 오바마선)",
+  "access": "오바마역에서 버스·택시 약 15분 진구지. 행사 당일 교통편은 공식 확인",
+  "jr_pass": [
+   "호쿠리쿠 패스",
+   "간사이 호쿠리쿠 패스"
+  ],
+  "seasons": [
+   "봄"
+  ],
+  "best_time": "3월 2일 오후~밤",
+  "event": "매년 3월 2일 (날짜는 매년 공식 확인)",
+  "duration": "반나절",
+  "cost": "무료(횃불 참가는 별도)",
+  "walking": "많음",
+  "fit": "매우 잘 맞음",
+  "condition": "3월 초 저녁은 매우 추움",
+  "caution": "횃불 행렬을 따라 진구지~우노세 약 2km를 밤길로 걸음. 귀가 교통이 적어 오바마 숙박 추천",
+  "lat": 35.4597,
+  "lng": 135.783,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/若狭神宮寺",
+   "https://ja.wikipedia.org/wiki/遠敷川"
+  ],
+  "region": "호쿠리쿠"
+ },
+ {
+  "id": "fukui-oshima-island",
+  "name_ko": "오시마 (미쿠니)",
+  "name_ja": "雄島",
+  "pref": "후쿠이",
+  "area": "사카이 (미쿠니)",
+  "categories": [
+   "cape",
+   "nature",
+   "night"
+  ],
+  "summary": "붉은 다리로 건너가는 작은 섬. 도진보와 같은 기둥 모양 바위가 해안을 두르고, 섬 안엔 오미나토 신사가 숲에 싸여 있다.",
+  "do": "다리를 건너 섬 둘레 산책로를 돌고 해 질 녘 바다 노을 보기",
+  "station": "아와라온센역 (芦原温泉)",
+  "access": "도진보에서 해안을 따라 약 1.5km, 도보 약 25분. 미쿠니·아와라 쪽 버스는 오시마 경유편 확인",
+  "jr_pass": [
+   "호쿠리쿠 아치 패스",
+   "호쿠리쿠 패스",
+   "간사이 호쿠리쿠 패스",
+   "다카야마·호쿠리쿠 지역 투어리스트 패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을"
+  ],
+  "best_time": "맑은 날 저녁",
+  "event": "",
+  "duration": "1~2시간",
+  "cost": "무료",
+  "walking": "보통",
+  "fit": "매우 잘 맞음",
+  "condition": "맑은 날 노을 / 파도 높으면 해안 쪽 위험",
+  "caution": "섬 산책로는 바위·계단이 있어 운동화 권장. 해 진 뒤엔 어두움",
+  "lat": 36.2518,
+  "lng": 136.119,
+  "url": "",
+  "sources": [
+   "https://nominatim.openstreetmap.org/search?q=雄島%20坂井市"
+  ],
+  "region": "호쿠리쿠"
+ },
+ {
+  "id": "fukui-rainbow-line-summit-park",
+  "name_ko": "미카타고코 레인보우 라인 산정공원",
+  "name_ja": "三方五湖レインボーライン山頂公園",
+  "pref": "후쿠이",
+  "area": "와카사·미하마",
+  "categories": [
+   "view",
+   "nature"
+  ],
+  "summary": "색이 서로 다른 다섯 호수(미카타고코)와 와카사만을 한눈에 내려다보는 해발 약 400m 산정 공원. 족욕 테라스가 있다.",
+  "do": "리프트나 케이블카로 올라 다섯 호수 전망 테라스와 족욕 즐기기",
+  "station": "미하마역 (美浜, JR 오바마선)",
+  "access": "쓰루가역에서 JR 오바마선 약 30분 미하마역 → 택시 약 15분. 기야마역에서 걸으면 약 50분",
+  "jr_pass": [
+   "호쿠리쿠 패스",
+   "간사이 호쿠리쿠 패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을"
+  ],
+  "best_time": "맑은 날, 가을",
+  "event": "",
+  "duration": "반나절",
+  "cost": "입장 약 1,000엔(리프트·케이블카 포함) + 택시비",
+  "walking": "적음",
+  "fit": "조건부",
+  "condition": "맑은 날 전망 / 강풍이면 리프트 운휴 가능",
+  "caution": "버스가 없어 택시 필수. 영업시간·휴업일은 계절별로 공식 확인",
+  "lat": 35.6011,
+  "lng": 135.8689,
+  "url": "",
+  "sources": [
+   "https://nominatim.openstreetmap.org/search?q=梅丈岳",
+   "https://ja.wikipedia.org/wiki/三方五湖レインボーライン"
+  ],
+  "region": "호쿠리쿠"
+ },
+ {
   "id": "fukui-echizen-ono-castle-unkai",
   "name_ko": "에치젠 오노성 (천공의 성 운해)",
   "name_ja": "越前大野城（天空の城）",
@@ -6475,6 +19520,325 @@ window.SPOTS = [
    "https://www.ono-kankou.jp/",
    "http://www.onocastle.net/",
    "https://ja.wikipedia.org/wiki/越前大野城"
+  ],
+  "region": "호쿠리쿠"
+ },
+ {
+  "id": "fukui-echizen-misaki",
+  "name_ko": "에치젠미사키 (수선화 곶)",
+  "name_ja": "越前岬",
+  "pref": "후쿠이",
+  "area": "에치젠 (해안)",
+  "categories": [
+   "cape",
+   "nature"
+  ],
+  "summary": "동해로 튀어나온 절벽 곶과 등대. 한겨울 해안 비탈을 덮는 일본 수선화 군락과 겨울 대게(에치젠 가니) 철이 겹친다.",
+  "do": "등대 일대에서 바다 절벽과 노을 보고, 겨울엔 수선화 군락 걷기",
+  "station": "후쿠이역 (福井) / 다케후역",
+  "access": "후쿠이·다케후 쪽에서 에치젠 해안 방면 노선버스가 있으나 편수가 적어 시간표 확인 필수, 택시 병용",
+  "jr_pass": [
+   "호쿠리쿠 아치 패스",
+   "호쿠리쿠 패스",
+   "간사이 호쿠리쿠 패스",
+   "다카야마·호쿠리쿠 지역 투어리스트 패스"
+  ],
+  "seasons": [
+   "겨울"
+  ],
+  "best_time": "12~1월 수선화, 11~3월 게 철",
+  "event": "",
+  "duration": "반나절",
+  "cost": "무료",
+  "walking": "보통",
+  "fit": "조건부",
+  "condition": "겨울 동해는 거칠어 강풍·눈 시 버스 지연",
+  "caution": "대중교통이 불편해 일정 여유 필요",
+  "lat": 35.9817,
+  "lng": 135.9575,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/越前岬"
+  ],
+  "region": "호쿠리쿠"
+ },
+ {
+  "id": "fukui-heisenji-hakusan-shrine",
+  "name_ko": "헤이센지 하쿠산 신사 (이끼 신사)",
+  "name_ja": "平泉寺白山神社",
+  "pref": "후쿠이",
+  "area": "가쓰야마",
+  "categories": [
+   "culture",
+   "nature"
+  ],
+  "summary": "하쿠산 신앙의 거대 사찰 도시였던 곳. 지금은 삼나무 숲 아래 경내 전체가 녹색 이끼로 덮여 '이끼의 신사'로 불린다.",
+  "do": "이끼 융단이 깔린 경내와 옛 돌길 유적을 조용히 걷기",
+  "station": "가쓰야마역 (勝山, 에치젠 철도)",
+  "access": "후쿠이역에서 에치젠 철도 가쓰야마에이헤이지선 약 55분 → 가쓰야마역에서 버스·택시 약 15분",
+  "jr_pass": [
+   "호쿠리쿠 아치 패스",
+   "호쿠리쿠 패스",
+   "간사이 호쿠리쿠 패스",
+   "다카야마·호쿠리쿠 지역 투어리스트 패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을"
+  ],
+  "best_time": "6~7월 장마철 이끼가 가장 선명, 가을 단풍",
+  "event": "",
+  "duration": "반나절",
+  "cost": "무료",
+  "walking": "보통",
+  "fit": "조건부",
+  "condition": "비 온 뒤·흐린 날 이끼가 생생",
+  "caution": "이끼 위는 걷지 말 것. 공룡 박물관과 묶기 좋음",
+  "lat": 36.0439,
+  "lng": 136.5421,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/平泉寺白山神社"
+  ],
+  "region": "호쿠리쿠"
+ },
+ {
+  "id": "fukui-kehi-jingu",
+  "name_ko": "게히 신궁",
+  "name_ja": "氣比神宮",
+  "pref": "후쿠이",
+  "area": "쓰루가",
+  "categories": [
+   "culture"
+  ],
+  "summary": "호쿠리쿠 총진수로 불리는 쓰루가의 대표 신사. 높이 약 11m 붉은 목조 대도리이가 상징이다.",
+  "do": "대도리이와 경내 참배, 쓰루가 항구 산책과 묶기",
+  "station": "쓰루가역 (敦賀)",
+  "access": "쓰루가역에서 도보 약 15분 또는 버스 약 5분",
+  "jr_pass": [
+   "호쿠리쿠 아치 패스",
+   "호쿠리쿠 패스",
+   "간사이 호쿠리쿠 패스",
+   "다카야마·호쿠리쿠 지역 투어리스트 패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "연중, 9월 게히 마쓰리",
+  "event": "",
+  "duration": "1~2시간",
+  "cost": "무료",
+  "walking": "적음",
+  "fit": "백업",
+  "condition": "",
+  "caution": "",
+  "lat": 35.655,
+  "lng": 136.0747,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/氣比神宮"
+  ],
+  "region": "호쿠리쿠"
+ },
+ {
+  "id": "fukui-kehi-no-matsubara",
+  "name_ko": "게히노마쓰바라",
+  "name_ja": "気比の松原",
+  "pref": "후쿠이",
+  "area": "쓰루가",
+  "categories": [
+   "cape",
+   "nature"
+  ],
+  "summary": "일본 3대 송림 중 하나로 꼽히는 쓰루가만의 소나무 숲과 해변. 숲길과 잔잔한 만의 풍경이 어우러진다.",
+  "do": "송림 산책로를 걷고 해변에서 쓰루가만 노을 보기",
+  "station": "쓰루가역 (敦賀)",
+  "access": "쓰루가역에서 버스 약 10분 '마쓰바라' 방면 하차",
+  "jr_pass": [
+   "호쿠리쿠 아치 패스",
+   "호쿠리쿠 패스",
+   "간사이 호쿠리쿠 패스",
+   "다카야마·호쿠리쿠 지역 투어리스트 패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을"
+  ],
+  "best_time": "여름 해수욕철, 맑은 날 저녁",
+  "event": "",
+  "duration": "1~2시간",
+  "cost": "무료",
+  "walking": "보통",
+  "fit": "백업",
+  "condition": "맑은 날",
+  "caution": "",
+  "lat": 35.6561,
+  "lng": 136.0488,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/気比松原"
+  ],
+  "region": "호쿠리쿠"
+ },
+ {
+  "id": "fukui-kumagawa-juku",
+  "name_ko": "구마가와주쿠 (고등어 길 역참)",
+  "name_ja": "熊川宿",
+  "pref": "후쿠이",
+  "area": "와카사",
+  "categories": [
+   "town"
+  ],
+  "summary": "와카사의 고등어를 교토로 나르던 '사바 가도'의 역참 마을. 수로를 따라 옛 상가가 1km 넘게 이어지는 보존 지구다.",
+  "do": "수로 옆 길을 걸으며 고등어 초밥·칡떡 맛보기",
+  "station": "가미나카역 (上中, JR 오바마선)",
+  "access": "JR 오바마선 가미나카역 또는 고세이선 오미이마즈역에서 JR 서일본버스 와카에선 '와카사 구마가와' 하차",
+  "jr_pass": [
+   "호쿠리쿠 패스",
+   "간사이 호쿠리쿠 패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을"
+  ],
+  "best_time": "신록·단풍철",
+  "event": "",
+  "duration": "반나절",
+  "cost": "무료",
+  "walking": "보통",
+  "fit": "백업",
+  "condition": "",
+  "caution": "버스 편수가 적어 시간표 확인",
+  "lat": 35.4431,
+  "lng": 135.9015,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/熊川宿"
+  ],
+  "region": "호쿠리쿠"
+ },
+ {
+  "id": "fukui-maruoka-castle",
+  "name_ko": "마루오카성",
+  "name_ja": "丸岡城",
+  "pref": "후쿠이",
+  "area": "사카이 (마루오카)",
+  "categories": [
+   "culture"
+  ],
+  "summary": "에도 시대 이전의 천수가 남은 현존 12천수 중 하나. 작은 천수에 돌기와를 얹은 소박한 모습으로, 봄엔 벚꽃과 야간 조명이 든다.",
+  "do": "가파른 천수 내부 계단을 올라 마을 풍경 보기, 봄엔 벚꽃 축제 야경",
+  "station": "후쿠이역 (福井)",
+  "access": "후쿠이역 또는 아와라온센역에서 게이후쿠 버스(마루오카 경유편)로 '마루오카조' 방면 하차",
+  "jr_pass": [
+   "호쿠리쿠 아치 패스",
+   "호쿠리쿠 패스",
+   "간사이 호쿠리쿠 패스",
+   "다카야마·호쿠리쿠 지역 투어리스트 패스"
+  ],
+  "seasons": [
+   "봄",
+   "가을"
+  ],
+  "best_time": "4월 벚꽃 철",
+  "event": "봄 벚꽃 축제(마루오카성 사쿠라 마쓰리), 날짜는 매년 공식 확인",
+  "duration": "1~2시간",
+  "cost": "약 500엔 전후",
+  "walking": "보통",
+  "fit": "백업",
+  "condition": "",
+  "caution": "천수 계단이 매우 가팔라 밧줄을 잡고 오름",
+  "lat": 36.1523,
+  "lng": 136.2721,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/丸岡城"
+  ],
+  "region": "호쿠리쿠"
+ },
+ {
+  "id": "fukui-mikuni-minato-town",
+  "name_ko": "미쿠니미나토 옛 거리",
+  "name_ja": "三国湊の町並み（旧岸名家）",
+  "pref": "후쿠이",
+  "area": "사카이 (미쿠니)",
+  "categories": [
+   "town",
+   "festival"
+  ],
+  "summary": "기타마에부네 교역으로 번영한 항구 마을. 격자창 상가 '가구라다테' 양식 집들이 남아 있고, 5월엔 거대한 무사 인형 수레가 도는 미쿠니 마쓰리가 열린다.",
+  "do": "옛 상가 기시나가와 골목 카페를 둘러보고 도진보·오시마와 묶기",
+  "station": "미쿠니미나토역 (三国港, 에치젠 철도)",
+  "access": "후쿠이역에서 에치젠 철도 미쿠니아와라선 약 50분 미쿠니역·미쿠니미나토역, 도보 약 10분",
+  "jr_pass": [],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을"
+  ],
+  "best_time": "5월 미쿠니 마쓰리",
+  "event": "미쿠니 마쓰리 매년 5월 19~21일 (본 행사 20일)",
+  "duration": "반나절",
+  "cost": "기시나가 약 100엔대",
+  "walking": "보통",
+  "fit": "백업",
+  "condition": "",
+  "caution": "",
+  "lat": 36.2139,
+  "lng": 136.1487,
+  "url": "",
+  "sources": [
+   "https://nominatim.openstreetmap.org/search?q=旧岸名家",
+   "https://ja.wikipedia.org/wiki/坂井市龍翔博物館"
+  ],
+  "region": "호쿠리쿠"
+ },
+ {
+  "id": "fukui-tsuruga-red-brick-mussee",
+  "name_ko": "쓰루가 붉은 벽돌 창고 & 인도의 항구 쓰루가 무제움",
+  "name_ja": "敦賀赤レンガ倉庫・人道の港敦賀ムゼウム",
+  "pref": "후쿠이",
+  "area": "쓰루가",
+  "categories": [
+   "city",
+   "culture"
+  ],
+  "summary": "메이지 말 석유 창고였던 붉은 벽돌 건물(철도 디오라마·식당)과, 폴란드 고아와 스기하라 비자 유대인 난민이 상륙한 역사를 다룬 자료관이 항구에 모여 있다.",
+  "do": "디오라마로 옛 쓰루가 항 풍경을 보고, 무제움에서 '생명의 비자' 이야기 보기",
+  "station": "쓰루가역 (敦賀)",
+  "access": "쓰루가역에서 주유버스 약 10분, 또는 도보 약 25분",
+  "jr_pass": [
+   "호쿠리쿠 아치 패스",
+   "호쿠리쿠 패스",
+   "간사이 호쿠리쿠 패스",
+   "다카야마·호쿠리쿠 지역 투어리스트 패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "연중, 비 오는 날 대안",
+  "event": "",
+  "duration": "반나절",
+  "cost": "각 시설 수백 엔",
+  "walking": "보통",
+  "fit": "백업",
+  "condition": "궂은 날 대안",
+  "caution": "휴관일(주로 수요일) 공식 확인",
+  "lat": 35.6619,
+  "lng": 136.0746,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/敦賀赤レンガ倉庫",
+   "https://ja.wikipedia.org/wiki/人道の港_敦賀ムゼウム"
   ],
   "region": "호쿠리쿠"
  },
@@ -6519,6 +19883,129 @@ window.SPOTS = [
    "https://daihonzan-eiheiji.com/",
    "https://ja.wikipedia.org/wiki/永平寺",
    "https://daihonzan-eiheiji.com/sanpai.html"
+  ],
+  "region": "호쿠리쿠"
+ },
+ {
+  "id": "fukui-echizen-washi-village",
+  "name_ko": "에치젠 와시노사토 (종이 마을)",
+  "name_ja": "越前和紙の里",
+  "pref": "후쿠이",
+  "area": "에치젠시 (이마다테)",
+  "categories": [
+   "culture",
+   "town"
+  ],
+  "summary": "1,500년 종이 뜨기 역사를 가진 마을. 종이 뜨기 체험관과 종이 신을 모신 오타키·오카모토 신사의 겹지붕 사전이 볼거리다.",
+  "do": "파피루스관에서 직접 종이 뜨기 체험하고 종이 신 신사까지 산책",
+  "station": "에치젠다케후역 (越前たけふ) / 다케후역",
+  "access": "다케후역 쪽에서 후쿠테쓰 버스로 '와시노사토' 방면 약 30분 (편수 확인)",
+  "jr_pass": [
+   "호쿠리쿠 아치 패스",
+   "호쿠리쿠 패스",
+   "간사이 호쿠리쿠 패스",
+   "다카야마·호쿠리쿠 지역 투어리스트 패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "연중",
+  "event": "",
+  "duration": "반나절",
+  "cost": "종이 뜨기 체험 약 500~1,000엔대",
+  "walking": "보통",
+  "fit": "백업",
+  "condition": "",
+  "caution": "하피라인 다케후역은 호쿠리쿠 패스 적용 구간(후쿠이~에치젠하나도) 밖",
+  "lat": 35.9103,
+  "lng": 136.2462,
+  "url": "",
+  "sources": [
+   "https://nominatim.openstreetmap.org/search?q=越前和紙の里",
+   "https://nominatim.openstreetmap.org/search?q=パピルス館"
+  ],
+  "region": "호쿠리쿠"
+ },
+ {
+  "id": "fukui-ono-castle-town",
+  "name_ko": "오노 성하마을 (오쇼즈·시치켄 아침시장)",
+  "name_ja": "越前大野城下町（御清水・七間朝市）",
+  "pref": "후쿠이",
+  "area": "오노",
+  "categories": [
+   "town",
+   "city"
+  ],
+  "summary": "'호쿠리쿠의 작은 교토'라 불리는 바둑판 거리. 명수 '오쇼즈' 샘물과 400년 넘게 이어졌다는 시치켄 아침시장이 있다.",
+  "do": "아침시장에서 채소·토란 등 산골 먹거리 보고, 샘물 마시며 절 거리 산책, 성(천공의 성)과 묶기",
+  "station": "에치젠오노역 (越前大野, JR 에쓰미호쿠선)",
+  "access": "후쿠이역에서 JR 에쓰미호쿠선(구즈류선) 약 1시간 → 에치젠오노역, 거리까지 도보 약 15분",
+  "jr_pass": [
+   "호쿠리쿠 아치 패스",
+   "호쿠리쿠 패스",
+   "간사이 호쿠리쿠 패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을"
+  ],
+  "best_time": "아침시장은 봄~연말 오전(기간 공식 확인), 가을 운해 철",
+  "event": "",
+  "duration": "반나절",
+  "cost": "무료",
+  "walking": "보통",
+  "fit": "백업",
+  "condition": "",
+  "caution": "에쓰미호쿠선은 하루 편수가 적어 시간표 확인",
+  "lat": 35.9829,
+  "lng": 136.4865,
+  "url": "",
+  "sources": [
+   "https://nominatim.openstreetmap.org/search?q=御清水%20大野市",
+   "https://ja.wikipedia.org/wiki/越前大野駅"
+  ],
+  "region": "호쿠리쿠"
+ },
+ {
+  "id": "fukui-yokokan-garden",
+  "name_ko": "요코칸 정원",
+  "name_ja": "養浩館庭園",
+  "pref": "후쿠이",
+  "area": "후쿠이시",
+  "categories": [
+   "culture"
+  ],
+  "summary": "후쿠이 번주 마쓰다이라 가문의 별장 정원. 연못 위로 튀어나온 다다미 건물에서 물에 비친 정원을 감상하는 구조다.",
+  "do": "복원 저택에 앉아 연못 정원 보기, 후쿠이역 주변 일정 사이에 들르기",
+  "station": "후쿠이역 (福井)",
+  "access": "후쿠이역에서 도보 약 15분",
+  "jr_pass": [
+   "호쿠리쿠 아치 패스",
+   "호쿠리쿠 패스",
+   "간사이 호쿠리쿠 패스",
+   "다카야마·호쿠리쿠 지역 투어리스트 패스"
+  ],
+  "seasons": [
+   "봄",
+   "가을"
+  ],
+  "best_time": "신록·단풍철, 야간 개장일",
+  "event": "",
+  "duration": "1~2시간",
+  "cost": "수백 엔",
+  "walking": "적음",
+  "fit": "백업",
+  "condition": "",
+  "caution": "",
+  "lat": 36.0685,
+  "lng": 136.2244,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/養浩館庭園"
   ],
   "region": "호쿠리쿠"
  },
@@ -6686,6 +20173,48 @@ window.SPOTS = [
   "region": "도카이"
  },
  {
+  "id": "gifu-kinkazan-gifu-castle",
+  "name_ko": "긴카잔 로프웨이 & 기후성",
+  "name_ja": "金華山ロープウェー・岐阜城",
+  "pref": "기후",
+  "area": "기후",
+  "categories": [
+   "view",
+   "culture",
+   "night"
+  ],
+  "summary": "오다 노부나가가 천하통일을 꿈꾼 산성. 로프웨이로 해발 329m 정상에 오르면 나가라강과 노비 평야가 펼쳐지고, 여름엔 야간 운행으로 야경을 본다.",
+  "do": "로프웨이로 올라 성 천수 전망대에서 풍경 보고, 저녁엔 나가라강 우카이와 묶기",
+  "station": "기후역 (岐阜)",
+  "access": "JR 기후역에서 기후버스 약 15분 '기후코엔·레키시하쿠부쓰칸마에' 하차 → 로프웨이 산기슭역 도보 약 3분",
+  "jr_pass": [
+   "다카야마·호쿠리쿠 지역 투어리스트 패스",
+   "알펜·다카야마·마쓰모토 지역 투어리스트 패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "맑은 날, 여름 야간 운행 기간",
+  "event": "",
+  "duration": "반나절",
+  "cost": "로프웨이 왕복 약 1,000엔대 + 천수 약 200엔",
+  "walking": "보통",
+  "fit": "매우 잘 맞음",
+  "condition": "맑은 날 전망 / 강풍이면 로프웨이 운휴",
+  "caution": "정상역에서 천수까지 오르막 약 10분",
+  "lat": 35.4341,
+  "lng": 136.7822,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/岐阜城",
+   "https://nominatim.openstreetmap.org/search?q=金華山ロープウェー"
+  ],
+  "region": "도카이"
+ },
+ {
   "id": "gifu-nagara-ukai",
   "name_ko": "나가라강 우카이 (기후)",
   "name_ja": "長良川鵜飼",
@@ -6728,6 +20257,45 @@ window.SPOTS = [
   "region": "도카이"
  },
  {
+  "id": "gifu-nagaragawa-railway-nagara-train",
+  "name_ko": "나가라강 철도 관광열차 '나가라'",
+  "name_ja": "長良川鉄道 観光列車「ながら」",
+  "pref": "기후",
+  "area": "미노오타~군조하치만",
+  "categories": [
+   "train",
+   "nature"
+  ],
+  "summary": "나가라강 맑은 물을 따라 달리는 로컬선 관광열차. 목재 인테리어 객차에서 강변 풍경과 지역 음식을 즐긴다.",
+  "do": "강 쪽 좌석에서 나가라강 계곡 풍경을 보며 군조하치만까지 이동",
+  "station": "미노오타역 (美濃太田)",
+  "access": "나고야역에서 JR 다카야마 본선 약 40분 미노오타역 → 나가라강 철도 관광열차 승차",
+  "jr_pass": [
+   "다카야마·호쿠리쿠 지역 투어리스트 패스",
+   "알펜·다카야마·마쓰모토 지역 투어리스트 패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을"
+  ],
+  "best_time": "신록·여름 은어철·단풍철",
+  "event": "",
+  "duration": "반나절",
+  "cost": "운임 + 관광열차 요금, 식사 플랜은 별도 (공식 확인)",
+  "walking": "적음",
+  "fit": "매우 잘 맞음",
+  "condition": "",
+  "caution": "운행일이 주로 주말·공휴일이고 사전 예약제. 운행 일정 공식 확인",
+  "lat": 35.4457,
+  "lng": 137.0194,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/美濃太田駅"
+  ],
+  "region": "도카이"
+ },
+ {
   "id": "gifu-takayama-festival",
   "name_ko": "다카야마 마쓰리 & 옛 거리",
   "name_ja": "高山祭（春の山王祭・秋の八幡祭）",
@@ -6765,6 +20333,46 @@ window.SPOTS = [
    "https://ja.wikipedia.org/wiki/高山祭",
    "https://touristpass.jp/ko/takayama_hokuriku/",
    "https://www.hida.jp/english/festivalsandevents/4000105.html"
+  ],
+  "region": "도카이"
+ },
+ {
+  "id": "gifu-gattan-go-rail-bike",
+  "name_ko": "레일 마운틴 바이크 갓탄고!! (가미오카)",
+  "name_ja": "レールマウンテンバイク Gattan Go!!",
+  "pref": "기후",
+  "area": "히다 (가미오카)",
+  "categories": [
+   "train",
+   "nature"
+  ],
+  "summary": "폐선된 옛 가미오카 철도 선로 위를 자전거 차량으로 달리는 체험. 마을 코스와 붉은 철교를 건너는 계곡 코스가 있다.",
+  "do": "전동 어시스트 레일 자전거로 터널과 철교를 지나며 선로 위 달리기",
+  "station": "히다후루카와역 (飛騨古川)",
+  "access": "히다후루카와역에서 노히버스와 시내 순환버스를 갈아타 약 1시간 10분",
+  "jr_pass": [
+   "다카야마·호쿠리쿠 지역 투어리스트 패스",
+   "알펜·다카야마·마쓰모토 지역 투어리스트 패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을"
+  ],
+  "best_time": "신록·단풍철",
+  "event": "",
+  "duration": "반나절",
+  "cost": "마을 코스 2인승 약 4,000엔부터, 계곡 코스는 더 비쌈",
+  "walking": "적음",
+  "fit": "매우 잘 맞음",
+  "condition": "봄~가을 운영(대략 3~4월 시작), 수요일 휴무(공휴일·8월 제외)",
+  "caution": "사전 예약 권장. 계곡 코스는 1대 3명까지, 미취학 아동 불가. 버스 편수가 적음",
+  "lat": 36.3188,
+  "lng": 137.3073,
+  "url": "",
+  "sources": [
+   "https://nominatim.openstreetmap.org/search?q=Gattan%20Go",
+   "https://ja.wikipedia.org/wiki/奥飛驒温泉口駅"
   ],
   "region": "도카이"
  },
@@ -6811,6 +20419,160 @@ window.SPOTS = [
   "region": "도카이"
  },
  {
+  "id": "gifu-enakyo-cruise",
+  "name_ko": "에나쿄 유람선",
+  "name_ja": "恵那峡遊覧船",
+  "pref": "기후",
+  "area": "에나",
+  "categories": [
+   "boat",
+   "nature"
+  ],
+  "summary": "기소강을 막은 댐 호수에 기암 절벽이 이어지는 협곡. 유람선을 타고 물 위에서 바위 지형을 본다.",
+  "do": "약 30분 유람선으로 협곡 절벽과 기암 감상, 가을엔 단풍",
+  "station": "에나역 (恵那)",
+  "access": "나고야역에서 JR 주오 본선 약 1시간 에나역 → 도테쓰 버스 약 15분 '에나쿄' 하차",
+  "jr_pass": [
+   "알펜·다카야마·마쓰모토 지역 투어리스트 패스"
+  ],
+  "seasons": [
+   "봄",
+   "가을"
+  ],
+  "best_time": "4월 벚꽃·철쭉, 11월 단풍",
+  "event": "",
+  "duration": "반나절",
+  "cost": "유람선 약 1,000~2,000엔대 (공식 확인)",
+  "walking": "적음",
+  "fit": "매우 잘 맞음",
+  "condition": "강풍·증수 시 결항",
+  "caution": "",
+  "lat": 35.4799,
+  "lng": 137.4064,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/恵那峡",
+   "https://nominatim.openstreetmap.org/search?q=恵那峡遊覧船"
+  ],
+  "region": "도카이"
+ },
+ {
+  "id": "gifu-hirayu-onsen-otaki",
+  "name_ko": "히라유 온천 & 히라유 오타키 폭포",
+  "name_ja": "平湯温泉・平湯大滝",
+  "pref": "기후",
+  "area": "다카야마 (오쿠히다 온천향)",
+  "categories": [
+   "onsen",
+   "snow",
+   "nature"
+  ],
+  "summary": "오쿠히다 온천향 입구의 오래된 온천 마을. 근처 낙차 약 64m 히라유 오타키는 겨울에 얼어붙어 2월 결빙 축제 때 라이트업된다.",
+  "do": "버스터미널 옆 온천에 들르고, 겨울엔 얼어붙은 폭포 라이트업 보기",
+  "station": "다카야마역 (高山)",
+  "access": "다카야마 노히버스센터에서 노히버스 약 1시간 '히라유온센' 하차. 폭포는 터미널에서 도보 약 20~30분(축제 기간 셔틀 여부 확인)",
+  "jr_pass": [
+   "다카야마·호쿠리쿠 지역 투어리스트 패스",
+   "알펜·다카야마·마쓰모토 지역 투어리스트 패스"
+  ],
+  "seasons": [
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "2월 결빙 축제, 가을 단풍",
+  "event": "매년 2월 '히라유 오타키 결빙 축제' 라이트업, 날짜는 매년 공식 확인",
+  "duration": "1박 추천",
+  "cost": "당일 온천 약 1,000엔 전후",
+  "walking": "보통",
+  "fit": "매우 잘 맞음",
+  "condition": "한겨울 결빙은 기온에 따라 다름",
+  "caution": "겨울 눈길 대비 미끄럼 방지 신발. 신호타카 로프웨이와 묶기 좋음",
+  "lat": 36.1922,
+  "lng": 137.5525,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/平湯温泉",
+   "https://ja.wikipedia.org/wiki/平湯大滝"
+  ],
+  "region": "도카이"
+ },
+ {
+  "id": "gifu-naegi-castle-ruins",
+  "name_ko": "나에기성 터",
+  "name_ja": "苗木城跡",
+  "pref": "기후",
+  "area": "나카쓰가와",
+  "categories": [
+   "view",
+   "culture"
+  ],
+  "summary": "거대한 바위 위에 돌담과 건물을 얹어 쌓았던 산성 터. 전망대에서 기소강과 나카쓰가와 시내가 내려다보이고, 가을 아침엔 운해가 낀다.",
+  "do": "바위를 그대로 살린 돌담을 따라 올라 정상 전망대에서 기소강 풍경 보기",
+  "station": "나카쓰가와역 (中津川)",
+  "access": "JR 나카쓰가와역에서 기타에나 교통 버스 약 10분 '나에기' 하차, 오르막 도보 약 20분",
+  "jr_pass": [
+   "알펜·다카야마·마쓰모토 지역 투어리스트 패스"
+  ],
+  "seasons": [
+   "봄",
+   "가을"
+  ],
+  "best_time": "가을 이른 아침 운해",
+  "event": "",
+  "duration": "반나절",
+  "cost": "무료",
+  "walking": "많음",
+  "fit": "조건부",
+  "condition": "맑은 날 전망 / 운해는 가을 맑고 쌀쌀한 아침",
+  "caution": "버스정류장에서 정상까지 계단·오르막이 이어짐(30분 안팎). 마고메주쿠와 묶기 가능",
+  "lat": 35.5132,
+  "lng": 137.4853,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/苗木城"
+  ],
+  "region": "도카이"
+ },
+ {
+  "id": "gifu-mino-udatsu-town",
+  "name_ko": "미노 우다쓰 거리",
+  "name_ja": "美濃市美濃町（うだつの上がる町並み）",
+  "pref": "기후",
+  "area": "미노",
+  "categories": [
+   "town",
+   "night"
+  ],
+  "summary": "지붕 위 방화벽 '우다쓰'를 올린 상가들이 남은 와시(일본 종이) 상인 마을. 10월엔 종이 등불 작품이 거리를 밝히는 '아카리 아트전'이 열린다.",
+  "do": "우다쓰 지붕 거리 산책과 미노 와시 공방 구경, 가을 밤 등불 전시 보기",
+  "station": "미노시역 (美濃市, 나가라강 철도)",
+  "access": "JR 미노오타역에서 나가라강 철도 약 30분 미노시역, 도보 약 15분",
+  "jr_pass": [
+   "다카야마·호쿠리쿠 지역 투어리스트 패스",
+   "알펜·다카야마·마쓰모토 지역 투어리스트 패스"
+  ],
+  "seasons": [
+   "봄",
+   "가을"
+  ],
+  "best_time": "10월 아카리 아트전 저녁",
+  "event": "매년 10월 '미노 와시 아카리 아트전', 날짜는 매년 공식 확인",
+  "duration": "반나절",
+  "cost": "무료",
+  "walking": "보통",
+  "fit": "조건부",
+  "condition": "등불 행사 날 밤이 진가",
+  "caution": "",
+  "lat": 35.5468,
+  "lng": 136.9132,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/美濃市美濃町伝統的建造物群保存地区"
+  ],
+  "region": "도카이"
+ },
+ {
   "id": "gifu-shirakawago",
   "name_ko": "시라카와고 (갓쇼즈쿠리 마을)",
   "name_ja": "白川郷（合掌造り集落）",
@@ -6852,6 +20614,165 @@ window.SPOTS = [
   "region": "도카이"
  },
  {
+  "id": "gifu-hida-no-sato",
+  "name_ko": "히다노사토 (히다 민속촌)",
+  "name_ja": "飛騨の里（飛騨民俗村）",
+  "pref": "기후",
+  "area": "다카야마",
+  "categories": [
+   "town",
+   "culture",
+   "snow"
+  ],
+  "summary": "연못 둘레에 갓쇼즈쿠리 등 옛 민가를 옮겨 놓은 야외 박물관. 시라카와고에 못 가도 눈 덮인 갓쇼 지붕 풍경을 볼 수 있다.",
+  "do": "연못 둘레 민가를 돌며 화롯불 피운 실내와 겨울 설경 보기",
+  "station": "다카야마역 (高山)",
+  "access": "다카야마역 앞 버스터미널에서 버스 약 10분 '히다노사토' 하차",
+  "jr_pass": [
+   "다카야마·호쿠리쿠 지역 투어리스트 패스",
+   "알펜·다카야마·마쓰모토 지역 투어리스트 패스"
+  ],
+  "seasons": [
+   "봄",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "1~2월 설경, 가을 단풍",
+  "event": "",
+  "duration": "1~2시간",
+  "cost": "약 700엔대",
+  "walking": "보통",
+  "fit": "조건부",
+  "condition": "눈 쌓인 겨울에 진가",
+  "caution": "",
+  "lat": 36.1325,
+  "lng": 137.2351,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/飛騨民俗村"
+  ],
+  "region": "도카이"
+ },
+ {
+  "id": "gifu-hida-furukawa",
+  "name_ko": "히다후루카와 (세토가와 흰 벽 창고 거리)",
+  "name_ja": "飛騨古川（瀬戸川と白壁土蔵街）",
+  "pref": "기후",
+  "area": "히다",
+  "categories": [
+   "town",
+   "festival"
+  ],
+  "summary": "잉어가 헤엄치는 수로 옆으로 흰 벽 창고가 늘어선 차분한 옛 마을. 4월엔 큰북을 둘러싸고 부딪치는 '오코시다이코' 축제가 밤새 열린다.",
+  "do": "세토가와 수로 산책과 술 창고 들르기, 다카야마에서 기차로 반나절",
+  "station": "히다후루카와역 (飛騨古川)",
+  "access": "다카야마역에서 JR 다카야마 본선 약 15분 히다후루카와역, 거리까지 도보 약 5분",
+  "jr_pass": [
+   "다카야마·호쿠리쿠 지역 투어리스트 패스",
+   "알펜·다카야마·마쓰모토 지역 투어리스트 패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "4월 축제, 겨울 설경",
+  "event": "후루카와 마쓰리(오코시다이코) 매년 4월 19~20일",
+  "duration": "반나절",
+  "cost": "무료",
+  "walking": "적음",
+  "fit": "조건부",
+  "condition": "축제일이나 설경 때 진가",
+  "caution": "수로 잉어는 겨울엔 다른 곳으로 옮겨짐",
+  "lat": 36.2349,
+  "lng": 137.1877,
+  "url": "",
+  "sources": [
+   "https://nominatim.openstreetmap.org/search?q=瀬戸川と白壁土蔵街",
+   "https://ja.wikipedia.org/wiki/飛驒古川駅"
+  ],
+  "region": "도카이"
+ },
+ {
+  "id": "gifu-gujo-hachiman-castle",
+  "name_ko": "군조하치만성",
+  "name_ja": "郡上八幡城",
+  "pref": "기후",
+  "area": "군조",
+  "categories": [
+   "culture",
+   "view"
+  ],
+  "summary": "군조하치만 마을 위 산꼭대기의 목조 재건 천수. 가을엔 단풍, 이른 아침엔 운해 위에 뜬 성으로 보이기도 한다.",
+  "do": "천수에 올라 물의 마을 군조하치만 전경 보기, 아래 마을의 수로 산책과 묶기",
+  "station": "군조하치만역 (郡上八幡, 나가라강 철도)",
+  "access": "JR 미노오타역에서 나가라강 철도 약 1시간 반 군조하치만역 → 마을 중심까지 버스 → 성까지 오르막 도보 약 20분",
+  "jr_pass": [
+   "다카야마·호쿠리쿠 지역 투어리스트 패스",
+   "알펜·다카야마·마쓰모토 지역 투어리스트 패스"
+  ],
+  "seasons": [
+   "봄",
+   "가을"
+  ],
+  "best_time": "11월 단풍, 가을 운해",
+  "event": "",
+  "duration": "반나절",
+  "cost": "약 400엔대",
+  "walking": "많음",
+  "fit": "백업",
+  "condition": "",
+  "caution": "성까지 가파른 오르막(편도 약 20~30분)",
+  "lat": 35.7533,
+  "lng": 136.9615,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/郡上八幡城"
+  ],
+  "region": "도카이"
+ },
+ {
+  "id": "gifu-takayama-jinya",
+  "name_ko": "다카야마 진야",
+  "name_ja": "高山陣屋",
+  "pref": "기후",
+  "area": "다카야마",
+  "categories": [
+   "culture"
+  ],
+  "summary": "에도 막부의 지방 관청 건물이 전국에서 유일하게 거의 그대로 남은 곳. 넓은 다다미방과 쌀 창고를 볼 수 있다.",
+  "do": "관청 건물 내부를 둘러보고 앞마당 아침시장과 묶기",
+  "station": "다카야마역 (高山)",
+  "access": "다카야마역에서 도보 약 10분",
+  "jr_pass": [
+   "다카야마·호쿠리쿠 지역 투어리스트 패스",
+   "알펜·다카야마·마쓰모토 지역 투어리스트 패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "연중, 오전",
+  "event": "",
+  "duration": "1~2시간",
+  "cost": "약 400엔대",
+  "walking": "적음",
+  "fit": "백업",
+  "condition": "",
+  "caution": "",
+  "lat": 36.1397,
+  "lng": 137.2576,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/高山陣屋",
+   "https://nominatim.openstreetmap.org/search?q=高山陣屋"
+  ],
+  "region": "도카이"
+ },
+ {
   "id": "gifu-magome-juku",
   "name_ko": "마고메주쿠",
   "name_ja": "馬籠宿",
@@ -6885,6 +20806,191 @@ window.SPOTS = [
   "sources": [
    "https://ja.wikipedia.org/wiki/馬籠宿",
    "https://touristpass.jp/ko/alpine/"
+  ],
+  "region": "도카이"
+ },
+ {
+  "id": "gifu-miyagawa-morning-market",
+  "name_ko": "미야가와 아침시장",
+  "name_ja": "宮川朝市",
+  "pref": "기후",
+  "area": "다카야마",
+  "categories": [
+   "city"
+  ],
+  "summary": "미야가와 강변을 따라 매일 아침 열리는 시장. 농가 채소·절임·민예품 노점이 늘어선다.",
+  "do": "강가를 걸으며 미타라시 당고·절임 맛보고 사루보보 기념품 고르기",
+  "station": "다카야마역 (高山)",
+  "access": "다카야마역에서 도보 약 10분",
+  "jr_pass": [
+   "다카야마·호쿠리쿠 지역 투어리스트 패스",
+   "알펜·다카야마·마쓰모토 지역 투어리스트 패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "오전 7~12시 무렵(겨울엔 늦게 시작)",
+  "event": "",
+  "duration": "1~2시간",
+  "cost": "무료",
+  "walking": "적음",
+  "fit": "백업",
+  "condition": "",
+  "caution": "",
+  "lat": 36.1406,
+  "lng": 137.2592,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/宮川朝市"
+  ],
+  "region": "도카이"
+ },
+ {
+  "id": "gifu-sekigahara-battlefield",
+  "name_ko": "세키가하라 고전장",
+  "name_ja": "関ケ原古戦場（岐阜関ケ原古戦場記念館）",
+  "pref": "기후",
+  "area": "세키가하라",
+  "categories": [
+   "culture"
+  ],
+  "summary": "1600년 천하를 가른 세키가하라 전투의 현장. 역 근처 기념관에서 영상으로 전투를 보고 각 장수의 진터를 걸어 돌 수 있다.",
+  "do": "기념관 전망실에서 전장 지형을 확인하고, 결전지·이시다 미쓰나리 진터까지 걷거나 자전거로 돌기",
+  "station": "세키가하라역 (関ケ原)",
+  "access": "JR 도카이도 본선 오가키역 또는 마이바라역에서 약 15~25분 세키가하라역, 기념관까지 도보 약 10분",
+  "jr_pass": [],
+  "seasons": [
+   "봄",
+   "가을"
+  ],
+  "best_time": "선선한 봄·가을",
+  "event": "",
+  "duration": "반나절",
+  "cost": "기념관 약 500엔대",
+  "walking": "많음",
+  "fit": "백업",
+  "condition": "",
+  "caution": "진터를 다 돌면 여러 km 걷게 되므로 대여 자전거 권장",
+  "lat": 35.3705,
+  "lng": 136.4616,
+  "url": "",
+  "sources": [
+   "https://nominatim.openstreetmap.org/search?q=関ヶ原%20決戦地",
+   "https://ja.wikipedia.org/wiki/関ケ原町"
+  ],
+  "region": "도카이"
+ },
+ {
+  "id": "gifu-yoro-falls",
+  "name_ko": "요로노타키 폭포 & 요로 공원",
+  "name_ja": "養老の滝・養老公園",
+  "pref": "기후",
+  "area": "요로",
+  "categories": [
+   "nature"
+  ],
+  "summary": "물이 술로 변했다는 효자 전설이 깃든 약 30m 폭포. 산기슭 공원엔 기묘한 체험형 예술 공간 '요로 천명반전지'도 있다.",
+  "do": "계곡길을 올라 폭포 보고, 가을엔 단풍 산책",
+  "station": "요로역 (養老, 요로 철도)",
+  "access": "JR 오가키역에서 요로 철도 약 20분 요로역 → 공원까지 도보 약 10분, 폭포까지는 오르막 약 3km(도보 약 1시간) 또는 택시",
+  "jr_pass": [],
+  "seasons": [
+   "여름",
+   "가을"
+  ],
+  "best_time": "11월 단풍",
+  "event": "",
+  "duration": "반나절",
+  "cost": "무료(일부 시설 유료)",
+  "walking": "많음",
+  "fit": "백업",
+  "condition": "",
+  "caution": "역에서 폭포까지 계속 오르막",
+  "lat": 35.2828,
+  "lng": 136.5498,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/養老公園"
+  ],
+  "region": "도카이"
+ },
+ {
+  "id": "gifu-iwamura-castle-town",
+  "name_ko": "이와무라 성하마을 & 이와무라성 터",
+  "name_ja": "岩村町本通り・岩村城跡",
+  "pref": "기후",
+  "area": "에나 (이와무라)",
+  "categories": [
+   "town",
+   "culture",
+   "train"
+  ],
+  "summary": "상가 거리가 보존된 성하마을과, 일본 3대 산성으로 꼽히는 해발 약 717m의 성터 돌담. 작은 로컬선 아케치 철도로 간다.",
+  "do": "아케치 철도를 타고 가서 옛 거리를 걷고, 체력이 되면 성터 돌담까지 오르기",
+  "station": "이와무라역 (岩村, 아케치 철도)",
+  "access": "JR 에나역에서 아케치 철도 약 30분 이와무라역, 거리까지 도보 약 10분. 성터는 거리 끝에서 오르막 약 30~40분",
+  "jr_pass": [
+   "알펜·다카야마·마쓰모토 지역 투어리스트 패스"
+  ],
+  "seasons": [
+   "봄",
+   "가을"
+  ],
+  "best_time": "신록·단풍철",
+  "event": "",
+  "duration": "반나절",
+  "cost": "아케치 철도 운임 별도",
+  "walking": "많음",
+  "fit": "백업",
+  "condition": "",
+  "caution": "성터까지 돌계단 오르막이 길다(편도 30분 이상). 아케치 철도는 편수가 적음",
+  "lat": 35.3638,
+  "lng": 137.4451,
+  "url": "",
+  "sources": [
+   "https://nominatim.openstreetmap.org/search?q=岩村町本通り",
+   "https://ja.wikipedia.org/wiki/岩村城"
+  ],
+  "region": "도카이"
+ },
+ {
+  "id": "shizuoka-kawazu-sakura-festival",
+  "name_ko": "가와즈 벚꽃 축제",
+  "name_ja": "河津桜まつり",
+  "pref": "시즈오카",
+  "area": "가와즈",
+  "categories": [
+   "festival",
+   "night",
+   "nature"
+  ],
+  "summary": "2월에 피는 진분홍 이른 벚꽃 '가와즈자쿠라'가 가와즈강 둑을 따라 약 4km 이어지는 축제. 밤엔 일부 구간 라이트업.",
+  "do": "역에서 강둑 벚꽃길을 따라 걷고 노점 먹거리, 저녁 라이트업 보기",
+  "station": "가와즈역 (河津, 이즈큐)",
+  "access": "JR 이토역에서 이즈큐 직통 약 1시간 가와즈역, 역 바로 앞부터 벚꽃길",
+  "jr_pass": [
+   "JR 도쿄 와이드 패스"
+  ],
+  "seasons": [
+   "겨울",
+   "봄"
+  ],
+  "best_time": "2월 중순~하순(개화 따라 변동)",
+  "event": "매년 2월 1일 무렵~2월 말 (개화 상황에 따라 변동, 날짜는 매년 공식 확인)",
+  "duration": "반나절",
+  "cost": "무료",
+  "walking": "보통",
+  "fit": "매우 잘 맞음",
+  "condition": "개화 시기는 해마다 다름",
+  "caution": "주말 열차·도로 매우 혼잡",
+  "lat": 34.7475,
+  "lng": 138.9961,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/河津駅"
   ],
   "region": "도카이"
  },
@@ -6926,6 +21032,46 @@ window.SPOTS = [
    "https://ja.wikipedia.org/wiki/舘山寺温泉",
    "https://touristpass.jp/ko/fuji_shizuoka/",
    "https://www.kanzanji.gr.jp/event/3482"
+  ],
+  "region": "도카이"
+ },
+ {
+  "id": "shizuoka-nakatajima-sand-dunes",
+  "name_ko": "나카타지마 사구",
+  "name_ja": "中田島砂丘",
+  "pref": "시즈오카",
+  "area": "하마마쓰",
+  "categories": [
+   "volcano",
+   "cape",
+   "festival"
+  ],
+  "summary": "엔슈나다 바다를 따라 펼쳐진 큰 사구. 바람이 만든 모래 물결이 보이고, 여름엔 바다거북이 알을 낳으러 온다. 5월 하마마쓰 마쓰리 연싸움 회장이 근처다.",
+  "do": "모래 언덕을 넘어 바다까지 걷고 해 질 녘 모래 물결 보기, 5월엔 대형 연 싸움 구경",
+  "station": "하마마쓰역 (浜松)",
+  "access": "JR 하마마쓰역에서 엔테쓰 버스 나카타지마 방면 약 15~20분 → 도보 약 5분 (패스 미니에 이 버스 포함)",
+  "jr_pass": [
+   "후지산·시즈오카 지역 투어리스트 패스 미니"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을"
+  ],
+  "best_time": "해 질 녘, 5월 3~5일 연 축제",
+  "event": "하마마쓰 마쓰리 연싸움 매년 5월 3~5일",
+  "duration": "1~2시간",
+  "cost": "무료",
+  "walking": "보통",
+  "fit": "매우 잘 맞음",
+  "condition": "강풍이면 모래바람",
+  "caution": "모래 위라 걷기 힘듦. 거북 산란지 보호 구역 출입 주의",
+  "lat": 34.6606,
+  "lng": 137.7397,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/中田島砂丘",
+   "https://touristpass.jp/en/fuji_shizuoka/"
   ],
   "region": "도카이"
  },
@@ -6972,6 +21118,83 @@ window.SPOTS = [
   "region": "도카이"
  },
  {
+  "id": "shizuoka-dogashima-tensodo-cruise",
+  "name_ko": "도가시마 덴소도 동굴 유람선",
+  "name_ja": "堂ヶ島 天窓洞（洞くつめぐり遊覧船）",
+  "pref": "시즈오카",
+  "area": "니시이즈",
+  "categories": [
+   "boat",
+   "cape",
+   "night"
+  ],
+  "summary": "천장에 구멍이 뚫려 빛이 쏟아지는 해식 동굴 '덴소도'에 작은 배로 들어간다. 니시이즈 바다로 지는 노을도 명소.",
+  "do": "약 20분 동굴 유람선 후 산시로지마 쪽에서 노을 보기(간조 땐 섬까지 모래길)",
+  "station": "슈젠지역 (修善寺, 이즈하코네 철도)",
+  "access": "슈젠지역에서 도카이버스 마쓰자키행 약 70~90분 '도가시마' 하차 바로. 이즈큐시모다역에서도 버스",
+  "jr_pass": [
+   "후지산·시즈오카 지역 투어리스트 패스 미니"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을"
+  ],
+  "best_time": "맑은 날 낮, 해 질 녘",
+  "event": "",
+  "duration": "반나절",
+  "cost": "동굴 코스 약 1,500엔",
+  "walking": "적음",
+  "fit": "매우 잘 맞음",
+  "condition": "파도 높으면 결항",
+  "caution": "버스 이동이 길어 니시이즈 숙박 권장",
+  "lat": 34.7827,
+  "lng": 138.7662,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/堂ヶ島天窓洞"
+  ],
+  "region": "도카이"
+ },
+ {
+  "id": "shizuoka-ryugukutsu",
+  "name_ko": "류구쿠쓰 (용궁굴)",
+  "name_ja": "龍宮窟",
+  "pref": "시즈오카",
+  "area": "시모다",
+  "categories": [
+   "cape",
+   "volcano"
+  ],
+  "summary": "해식 동굴 천장이 무너져 하늘이 뚫린 바다 동굴. 위쪽 산책로에서 내려다보면 구멍이 하트 모양으로 보인다.",
+  "do": "동굴 안에서 뚫린 천장과 파도 보고, 위 산책로에서 하트 모양 내려다보기. 근처 모래 썰매 언덕도",
+  "station": "이즈큐시모다역 (伊豆急下田)",
+  "access": "이즈큐시모다역에서 도카이버스 다우시(田牛)행 약 20분, 편수 적음",
+  "jr_pass": [
+   "JR 도쿄 와이드 패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을"
+  ],
+  "best_time": "맑은 날 낮",
+  "event": "",
+  "duration": "1~2시간",
+  "cost": "무료",
+  "walking": "보통",
+  "fit": "매우 잘 맞음",
+  "condition": "파도 높으면 동굴 안 출입 제한 가능",
+  "caution": "버스 편수가 적어 택시 병용 고려",
+  "lat": 34.6422,
+  "lng": 138.9153,
+  "url": "",
+  "sources": [
+   "https://nominatim.openstreetmap.org/search?q=龍宮窟"
+  ],
+  "region": "도카이"
+ },
+ {
   "id": "shizuoka-shuzenji-onsen",
   "name_ko": "슈젠지 온천",
   "name_ja": "修善寺温泉",
@@ -7008,6 +21231,85 @@ window.SPOTS = [
   "sources": [
    "https://ja.wikipedia.org/wiki/修善寺温泉",
    "https://touristpass.jp/ko/fuji_shizuoka/"
+  ],
+  "region": "도카이"
+ },
+ {
+  "id": "shizuoka-shiraito-falls",
+  "name_ko": "시라이토 폭포",
+  "name_ja": "白糸ノ滝",
+  "pref": "시즈오카",
+  "area": "후지노미야",
+  "categories": [
+   "nature"
+  ],
+  "summary": "후지산 눈 녹은 물이 절벽 틈에서 실처럼 수백 갈래로 흘러내리는 폭 약 150m 폭포. 근처엔 굉음의 오토도메 폭포도 있다.",
+  "do": "폭포 전망대와 아래 물가 산책, 맑은 날 후지산과 함께 보기",
+  "station": "후지노미야역 (富士宮)",
+  "access": "JR 미노부선 후지노미야역에서 버스 약 30분 '시라이토노타키' 하차, 도보 약 5분",
+  "jr_pass": [
+   "후지산·시즈오카 지역 투어리스트 패스 미니"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을"
+  ],
+  "best_time": "신록·여름, 가을 단풍",
+  "event": "",
+  "duration": "반나절",
+  "cost": "무료",
+  "walking": "보통",
+  "fit": "매우 잘 맞음",
+  "condition": "",
+  "caution": "폭포 아래로 내려가는 계단 있음",
+  "lat": 35.3129,
+  "lng": 138.5873,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/白糸の滝_(静岡県)"
+  ],
+  "region": "도카이"
+ },
+ {
+  "id": "shizuoka-atami-onsen",
+  "name_ko": "아타미 온천",
+  "name_ja": "熱海温泉",
+  "pref": "시즈오카",
+  "area": "아타미",
+  "categories": [
+   "onsen",
+   "town",
+   "night"
+  ],
+  "summary": "도쿄에서 신칸센 약 40분의 대형 바닷가 온천 마을. 역 앞 상점가 먹거리와 해변 산책, 언덕 위 여관의 바다 전망 노천탕이 매력.",
+  "do": "역 앞 상점가에서 해산물 간식 먹고 선비치 해변 야간 조명 보며 산책, 바다 보이는 온천",
+  "station": "아타미역 (熱海)",
+  "access": "JR 아타미역에서 바로 상점가, 해변까지 도보 약 15~20분",
+  "jr_pass": [
+   "후지산·시즈오카 지역 투어리스트 패스 미니",
+   "JR 도쿄 와이드 패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "연중, 1~2월 아타미 매원·이른 벚꽃",
+  "event": "",
+  "duration": "1박 추천",
+  "cost": "당일 온천 약 1,000~2,000엔",
+  "walking": "보통",
+  "fit": "매우 잘 맞음",
+  "condition": "",
+  "caution": "언덕 마을이라 오르막이 많음. 해상 불꽃대회 날은 숙소 매우 혼잡",
+  "lat": 35.099,
+  "lng": 139.0729,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/熱海温泉",
+   "https://ja.wikipedia.org/wiki/熱海駅"
   ],
   "region": "도카이"
  },
@@ -7097,6 +21399,84 @@ window.SPOTS = [
   "region": "도카이"
  },
  {
+  "id": "shizuoka-oigawa-railway-sl",
+  "name_ko": "오이가와 철도 증기기관차 (신카나야)",
+  "name_ja": "大井川鐵道 SL（新金谷）",
+  "pref": "시즈오카",
+  "area": "시마다·가와네",
+  "categories": [
+   "train",
+   "nature"
+  ],
+  "summary": "지금도 증기기관차가 달리는 사철. 현재는 토마스·퍼시 디자인 SL로 운행하며, 차 밭과 오이가와 강 풍경을 따라 간다.",
+  "do": "신카나야에서 SL을 타고 오이가와 강변을 달리며 가와네 온천과 묶기",
+  "station": "가나야역 (金谷) → 신카나야역 (新金谷, 오이가와 철도)",
+  "access": "JR 도카이도 본선 가나야역에서 오이가와 철도로 1정거장 신카나야역",
+  "jr_pass": [
+   "후지산·시즈오카 지역 투어리스트 패스 미니"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을"
+  ],
+  "best_time": "신록·단풍철",
+  "event": "",
+  "duration": "반나절",
+  "cost": "운임 + SL 요금 (공식 확인)",
+  "walking": "적음",
+  "fit": "매우 잘 맞음",
+  "condition": "",
+  "caution": "2022년 태풍 피해로 가와네온센사사마도~센즈 구간 운휴 중(전 구간 재개는 2029년 봄 전망, 이에야마에서 정영 버스 대체). SL 운행 구간·운행일은 공식 확인, 사전 예약 필요",
+  "lat": 34.8257,
+  "lng": 138.1378,
+  "url": "https://daitetsu.jp/",
+  "sources": [
+   "https://daitetsu.jp/",
+   "https://nominatim.openstreetmap.org/search?q=新金谷駅"
+  ],
+  "region": "도카이"
+ },
+ {
+  "id": "shizuoka-irozaki",
+  "name_ko": "이로자키 곶",
+  "name_ja": "石廊崎",
+  "pref": "시즈오카",
+  "area": "미나미이즈",
+  "categories": [
+   "cape",
+   "view"
+  ],
+  "summary": "이즈반도 최남단 곶. 등대와 절벽 틈에 지은 이로 신사, 바다를 내려다보는 전망 시설 '이로자키 오션 테라스'가 있다.",
+  "do": "등대를 지나 곶 끝 신사까지 걷고 태평양 절벽 풍경 보기",
+  "station": "이즈큐시모다역 (伊豆急下田)",
+  "access": "이즈큐시모다역에서 도카이버스 이로자키 방면 약 30~40분 → 곶 끝까지 도보 약 15~20분",
+  "jr_pass": [
+   "JR 도쿄 와이드 패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "맑은 날",
+  "event": "",
+  "duration": "반나절",
+  "cost": "무료",
+  "walking": "보통",
+  "fit": "매우 잘 맞음",
+  "condition": "강풍 잦음 / 맑은 날 이즈 제도 조망",
+  "caution": "절벽 길이라 바람 강한 날 주의",
+  "lat": 34.6021,
+  "lng": 138.8464,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/石廊崎"
+  ],
+  "region": "도카이"
+ },
+ {
   "id": "shizuoka-jogasaki-coast",
   "name_ko": "조가사키 해안 (가도와키 현수교)",
   "name_ja": "城ヶ崎海岸（門脇吊橋）",
@@ -7135,6 +21515,44 @@ window.SPOTS = [
    "https://ja.wikipedia.org/wiki/城ヶ崎海岸",
    "https://www.jreast.co.jp/ko/multi/pass/tokyowidepass.html",
    "https://hellonavi.jp/detail/page/detail/1562"
+  ],
+  "region": "도카이"
+ },
+ {
+  "id": "shizuoka-mishima-skywalk",
+  "name_ko": "미시마 스카이워크",
+  "name_ja": "三島スカイウォーク（箱根西麓・三島大吊橋）",
+  "pref": "시즈오카",
+  "area": "미시마",
+  "categories": [
+   "view"
+  ],
+  "summary": "길이 약 400m의 일본 최장 보행자 현수교. 다리 위에서 정면으로 후지산과 스루가만이 보인다.",
+  "do": "흔들리는 현수교를 왕복하며 후지산 사진 찍기",
+  "station": "미시마역 (三島)",
+  "access": "JR 미시마역 남쪽 출구에서 버스 약 25분 '미시마 스카이워크' 하차",
+  "jr_pass": [
+   "후지산·시즈오카 지역 투어리스트 패스 미니"
+  ],
+  "seasons": [
+   "가을",
+   "겨울",
+   "봄"
+  ],
+  "best_time": "공기 맑은 겨울 오전",
+  "event": "",
+  "duration": "1~2시간",
+  "cost": "약 1,000~1,500엔",
+  "walking": "적음",
+  "fit": "조건부",
+  "condition": "맑은 날 후지산 / 강풍 시 통행 제한",
+  "caution": "고소공포증 주의",
+  "lat": 35.1523,
+  "lng": 138.9806,
+  "url": "https://mishima-skywalk.jp/",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/箱根西麓・三島大吊橋",
+   "https://nominatim.openstreetmap.org/search?q=三島スカイウォーク"
   ],
   "region": "도카이"
  },
@@ -7180,6 +21598,268 @@ window.SPOTS = [
   "region": "도카이"
  },
  {
+  "id": "shizuoka-bentenjima",
+  "name_ko": "벤텐지마 (하마나호 바다 도리이)",
+  "name_ja": "弁天島",
+  "pref": "시즈오카",
+  "area": "하마마쓰 (하마나호)",
+  "categories": [
+   "cape",
+   "night"
+  ],
+  "summary": "하마나호가 바다와 만나는 입구에 붉은 대도리이가 물 위에 선 섬. 도리이 너머로 지는 노을이 명소다.",
+  "do": "역에서 해변 공원으로 걸어가 도리이와 노을 사진, 봄엔 조개잡이",
+  "station": "벤텐지마역 (弁天島)",
+  "access": "JR 하마마쓰역에서 도카이도 본선 약 15분 벤텐지마역, 도보 약 3분",
+  "jr_pass": [
+   "후지산·시즈오카 지역 투어리스트 패스 미니"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "맑은 날 해 질 녘",
+  "event": "",
+  "duration": "1~2시간",
+  "cost": "무료",
+  "walking": "적음",
+  "fit": "조건부",
+  "condition": "맑은 날 노을",
+  "caution": "",
+  "lat": 34.6967,
+  "lng": 137.5965,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/弁天島_(浜松市)"
+  ],
+  "region": "도카이"
+ },
+ {
+  "id": "shizuoka-sumatakyo-yume-no-tsuribashi",
+  "name_ko": "스마타쿄 유메노쓰리바시 (꿈의 흔들다리)",
+  "name_ja": "寸又峡 夢の吊橋",
+  "pref": "시즈오카",
+  "area": "가와네혼초",
+  "categories": [
+   "nature",
+   "onsen"
+  ],
+  "summary": "에메랄드빛 호수 위 높이 약 8m에 걸린 좁은 흔들다리. 협곡 숲 속에 있고 근처에 스마타쿄 온천이 있다.",
+  "do": "흔들다리를 건너 협곡 산책로를 한 바퀴 돌고 스마타쿄 온천에서 쉬기",
+  "station": "가나야역 (金谷) → 센즈 (千頭)",
+  "access": "가나야역에서 오이가와 철도로 이에야마역 → 정영 대체버스로 센즈 → 스마타쿄행 버스 약 40분. 하루 몇 편 수준",
+  "jr_pass": [
+   "후지산·시즈오카 지역 투어리스트 패스 미니"
+  ],
+  "seasons": [
+   "봄",
+   "가을"
+  ],
+  "best_time": "신록, 11월 단풍",
+  "event": "",
+  "duration": "1박 추천",
+  "cost": "버스·철도 운임 수천 엔",
+  "walking": "많음",
+  "fit": "조건부",
+  "condition": "맑은 날 물빛이 선명 / 비 온 뒤엔 탁해짐",
+  "caution": "다리는 한 번에 10명까지, 성수기엔 대기·일방통행 운영. 산책로 끝에 긴 오르막 계단. 철도 일부 운휴로 대중교통 매우 불편해 온천 숙박 권장",
+  "lat": 35.181,
+  "lng": 138.1123,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/夢の吊橋",
+   "https://ja.wikipedia.org/wiki/寸又峡",
+   "https://daitetsu.jp/"
+  ],
+  "region": "도카이"
+ },
+ {
+  "id": "shizuoka-kunozan-toshogu",
+  "name_ko": "구노잔 도쇼구",
+  "name_ja": "久能山東照宮",
+  "pref": "시즈오카",
+  "area": "시즈오카",
+  "categories": [
+   "culture",
+   "view"
+  ],
+  "summary": "도쿠가와 이에야스를 처음 모신 신사. 화려한 국보 사전이 바다를 내려다보는 절벽 위에 있고, 해안에서 1,159단 돌계단으로 오를 수 있다.",
+  "do": "니혼다이라에서 로프웨이로 건너가거나 해안 쪽 돌계단으로 올라 참배하고 스루가만 보기",
+  "station": "시즈오카역 (静岡)",
+  "access": "JR 시즈오카역에서 니혼다이라행 버스 약 45분 → 니혼다이라 로프웨이 약 5분. 또는 해안 쪽 '구노잔시타'에서 돌계단",
+  "jr_pass": [
+   "후지산·시즈오카 지역 투어리스트 패스 미니"
+  ],
+  "seasons": [
+   "봄",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "맑은 날, 겨울 딸기 철(해안 딸기 농장)",
+  "event": "",
+  "duration": "반나절",
+  "cost": "참배 약 500엔대 + 로프웨이",
+  "walking": "많음",
+  "fit": "백업",
+  "condition": "",
+  "caution": "해안에서 오르면 1,159단 계단(약 20분 이상). 로프웨이 이용 시에도 계단 있음",
+  "lat": 34.9648,
+  "lng": 138.4676,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/久能山東照宮"
+  ],
+  "region": "도카이"
+ },
+ {
+  "id": "shizuoka-nirayama-reverberatory-furnace",
+  "name_ko": "니라야마 반사로",
+  "name_ja": "韮山反射炉",
+  "pref": "시즈오카",
+  "area": "이즈노쿠니",
+  "categories": [
+   "culture"
+  ],
+  "summary": "막부 말기 대포를 만들려고 세운 쇠 녹이는 용광로. 실제 가동한 것 중 유일하게 남아 세계유산(메이지 산업혁명 유산)이 됐다.",
+  "do": "반사로와 그 뒤 차밭 너머 후지산 보기, 슈젠지 가는 길에 들르기",
+  "station": "이즈나가오카역 (伊豆長岡, 이즈하코네 철도)",
+  "access": "JR 미시마역에서 이즈하코네 철도 약 20분 이즈나가오카역 → 버스 또는 도보 약 25분",
+  "jr_pass": [
+   "후지산·시즈오카 지역 투어리스트 패스 미니"
+  ],
+  "seasons": [
+   "봄",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "맑은 날(후지산 조망)",
+  "event": "",
+  "duration": "1~2시간",
+  "cost": "약 500엔",
+  "walking": "보통",
+  "fit": "백업",
+  "condition": "",
+  "caution": "",
+  "lat": 35.0394,
+  "lng": 138.962,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/韮山反射炉"
+  ],
+  "region": "도카이"
+ },
+ {
+  "id": "shizuoka-sunpu-castle-park",
+  "name_ko": "슨푸성 공원",
+  "name_ja": "駿府城公園",
+  "pref": "시즈오카",
+  "area": "시즈오카",
+  "categories": [
+   "culture"
+  ],
+  "summary": "이에야스가 은퇴 후 살던 성터 공원. 복원된 망루·문과 일본 정원 '모미지야마 정원', 천수대 발굴 현장을 볼 수 있다.",
+  "do": "해자 둘레를 걷고 정원 찻집에서 시즈오카 차 한 잔",
+  "station": "시즈오카역 (静岡)",
+  "access": "JR 시즈오카역에서 도보 약 15분",
+  "jr_pass": [
+   "후지산·시즈오카 지역 투어리스트 패스 미니"
+  ],
+  "seasons": [
+   "봄",
+   "가을"
+  ],
+  "best_time": "3~4월 벚꽃, 11월 단풍",
+  "event": "",
+  "duration": "1~2시간",
+  "cost": "공원 무료, 시설 각 수백 엔",
+  "walking": "보통",
+  "fit": "백업",
+  "condition": "",
+  "caution": "",
+  "lat": 34.9792,
+  "lng": 138.3833,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/駿府城"
+  ],
+  "region": "도카이"
+ },
+ {
+  "id": "shizuoka-fujisan-hongu-sengen-taisha",
+  "name_ko": "후지산 혼구 센겐타이샤",
+  "name_ja": "富士山本宮浅間大社",
+  "pref": "시즈오카",
+  "area": "후지노미야",
+  "categories": [
+   "culture",
+   "city"
+  ],
+  "summary": "전국 센겐 신사의 총본궁이자 후지산 신앙의 중심. 경내 와쿠타마이케 연못엔 후지산 용수가 솟고, 근처에서 후지노미야 야키소바를 먹을 수 있다.",
+  "do": "참배 후 맑은 용수 연못을 보고 오미야 요코초에서 야키소바 먹기",
+  "station": "후지노미야역 (富士宮)",
+  "access": "JR 미노부선 후지노미야역에서 도보 약 10분",
+  "jr_pass": [
+   "후지산·시즈오카 지역 투어리스트 패스 미니"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "맑은 날(경내에서 후지산), 봄 벚꽃",
+  "event": "",
+  "duration": "1~2시간",
+  "cost": "무료",
+  "walking": "적음",
+  "fit": "백업",
+  "condition": "",
+  "caution": "",
+  "lat": 35.2274,
+  "lng": 138.61,
+  "url": "https://fuji-hongu.or.jp/",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/富士山本宮浅間大社"
+  ],
+  "region": "도카이"
+ },
+ {
+  "id": "aichi-konomiya-hadaka-matsuri",
+  "name_ko": "고노미야 하다카 마쓰리",
+  "name_ja": "国府宮はだか祭（儺追神事）",
+  "pref": "아이치",
+  "area": "이나자와",
+  "categories": [
+   "festival",
+   "culture"
+  ],
+  "summary": "한겨울 훈도시 차림 남자 수천 명이 액막이 '신남(神男)'을 만지려고 몰려드는 오와리 오쿠니타마 신사의 알몸 축제.",
+  "do": "오후 경내에서 알몸 남자들의 행렬과 신남 쟁탈전 구경",
+  "station": "고노미야역 (国府宮, 메이테쓰)",
+  "access": "메이테쓰 나고야본선 고노미야역에서 도보 약 3분",
+  "jr_pass": [],
+  "seasons": [
+   "겨울"
+  ],
+  "best_time": "음력 1월 13일 (2~3월)",
+  "event": "매년 음력 1월 13일. 날짜는 매년 공식 확인",
+  "duration": "반나절",
+  "cost": "관람 무료",
+  "walking": "보통",
+  "fit": "매우 잘 맞음",
+  "condition": "추운 날씨 대비",
+  "caution": "당일 극심한 혼잡, 인파 속 안전 주의",
+  "lat": 35.2561,
+  "lng": 136.8051,
+  "url": "http://www.konomiya.or.jp",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/尾張大国霊神社"
+  ],
+  "region": "도카이"
+ },
+ {
   "id": "aichi-kisogawa-ukai",
   "name_ko": "기소강 우카이 (이누야마)",
   "name_ja": "木曽川うかい（犬山）",
@@ -7214,6 +21894,41 @@ window.SPOTS = [
    "http://kisogawa-ukai.jp/",
    "https://ja.wikipedia.org/wiki/木曽川鵜飼",
    "http://kisogawa-ukai.jp/night/light/"
+  ],
+  "region": "도카이"
+ },
+ {
+  "id": "aichi-toyohashi-gion-tezutsu",
+  "name_ko": "도요하시 기온 마쓰리 (데즈쓰 하나비)",
+  "name_ja": "豊橋祇園祭（手筒花火）",
+  "pref": "아이치",
+  "area": "도요하시",
+  "categories": [
+   "festival",
+   "night"
+  ],
+  "summary": "사람이 직접 품에 안고 불기둥을 뿜는 '데즈쓰 하나비' 발상지 요시다 신사의 여름 축제. 불똥을 뒤집어쓰며 버티는 모습이 압권이다.",
+  "do": "금요일 밤 신사 경내에서 데즈쓰 하나비 봉납, 토요일 밤엔 타상 불꽃",
+  "station": "도요하시역 (豊橋)",
+  "access": "JR·메이테쓰 도요하시역에서 도요테쓰 시내전차 이용 또는 도보 약 20분, 요시다 신사·도요하시 공원 일대",
+  "jr_pass": [],
+  "seasons": [
+   "여름"
+  ],
+  "best_time": "7월 중순 금~일",
+  "event": "매년 7월 중순 금~일 (금 저녁 데즈쓰 하나비, 토 저녁 타상 불꽃, 일 신여 행렬). 날짜는 매년 공식 확인",
+  "duration": "반나절",
+  "cost": "관람 무료 (유료석 있을 수 있음)",
+  "walking": "보통",
+  "fit": "매우 잘 맞음",
+  "condition": "우천·강풍 시 연기 가능",
+  "caution": "경내가 좁아 데즈쓰 하나비는 일찍 자리 잡아야 함",
+  "lat": 34.7703,
+  "lng": 137.3899,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/豊橋祇園祭",
+   "https://ja.wikipedia.org/wiki/吉田神社_(豊橋市)"
   ],
   "region": "도카이"
  },
@@ -7257,6 +21972,80 @@ window.SPOTS = [
   "sources": [
    "https://www.midland-square.com/sky-promenade/",
    "https://touristpass.jp/ko/takayama_hokuriku/"
+  ],
+  "region": "도카이"
+ },
+ {
+  "id": "aichi-sakushima",
+  "name_ko": "사쿠시마 (아트 섬)",
+  "name_ja": "佐久島",
+  "pref": "아이치",
+  "area": "니시오",
+  "categories": [
+   "cape",
+   "boat",
+   "town"
+  ],
+  "summary": "미카와만 한가운데 인구 200명 남짓의 섬. 검게 칠한 판자벽 마을과 섬 곳곳의 야외 예술작품으로 '미카와만의 흑진주'라 불린다.",
+  "do": "고속선으로 건너가 자전거나 도보로 아트 작품과 검은 벽 골목 돌기",
+  "station": "니시오역 (西尾, 메이테쓰)",
+  "access": "메이테쓰 니시오역에서 버스로 '사쿠시마행 선착장(一色)' → 니시오 시영 고속선 동항까지 약 25분(하루 7~8왕복)",
+  "jr_pass": [],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을"
+  ],
+  "best_time": "봄~가을 맑은 날",
+  "event": "",
+  "duration": "하루",
+  "cost": "배 편도 약 830엔",
+  "walking": "보통",
+  "fit": "매우 잘 맞음",
+  "condition": "강풍·고파 시 결항 / 섬엔 신호등도 없고 자동차가 적음",
+  "caution": "배 편수가 적어 돌아오는 시간 확인 필수",
+  "lat": 34.7292,
+  "lng": 137.0417,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/佐久島"
+  ],
+  "region": "도카이"
+ },
+ {
+  "id": "aichi-shinojima",
+  "name_ko": "시노지마",
+  "name_ja": "篠島",
+  "pref": "아이치",
+  "area": "미나미치타",
+  "categories": [
+   "cape",
+   "boat"
+  ],
+  "summary": "지타반도 끝 앞바다의 작은 어촌 섬. 시라스(잔멸치)와 겨울 복어로 유명하고 섬 둘레를 걸어서 돌 수 있다.",
+  "do": "배로 건너가 섬 산책과 시라스·해산물 식사",
+  "station": "고와역 (河和, 메이테쓰)",
+  "access": "메이테쓰 고와역 → 고와항 또는 모로자키항에서 메이테쓰 해상관광선 고속선",
+  "jr_pass": [],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "여름 해수욕·시라스, 겨울(10~3월경) 복어",
+  "event": "",
+  "duration": "하루",
+  "cost": "고속선 왕복 + 식사",
+  "walking": "보통",
+  "fit": "매우 잘 맞음",
+  "condition": "강풍·고파 시 결항",
+  "caution": "",
+  "lat": 34.6764,
+  "lng": 137.0031,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/篠島"
   ],
   "region": "도카이"
  },
@@ -7337,6 +22126,45 @@ window.SPOTS = [
   "region": "도카이"
  },
  {
+  "id": "aichi-mirai-tower",
+  "name_ko": "주부전력 MIRAI TOWER (옛 나고야 TV탑)",
+  "name_ja": "中部電力 MIRAI TOWER（名古屋テレビ塔）",
+  "pref": "아이치",
+  "area": "나고야 (사카에)",
+  "categories": [
+   "view",
+   "night",
+   "city"
+  ],
+  "summary": "1954년 생긴 일본 첫 집약 전파탑. 지상 90m 스카이데크와 100m 반옥외 스카이 발코니에서 히사야오도리 공원과 시내 야경을 본다.",
+  "do": "해 질 녘 올라가 스카이 발코니에서 바람 맞으며 야경 보기",
+  "station": "히사야오도리역 (久屋大通, 지하철)",
+  "access": "지하철 히사야오도리역에서 바로, 사카에역에서 도보 약 3분",
+  "jr_pass": [],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "연중. 전망대 10:00~21:00(토요일 21:40까지)",
+  "event": "",
+  "duration": "1~2시간",
+  "cost": "전망대 유료 (요금은 공식 확인)",
+  "walking": "적음",
+  "fit": "매우 잘 맞음",
+  "condition": "맑은 밤 야경 / 행사 때 낮·밤 2부제 영업",
+  "caution": "",
+  "lat": 35.1723,
+  "lng": 136.9083,
+  "url": "https://www.nagoya-tv-tower.co.jp/",
+  "sources": [
+   "https://www.nagoya-tv-tower.co.jp/",
+   "https://ja.wikipedia.org/wiki/名古屋テレビ塔"
+  ],
+  "region": "도카이"
+ },
+ {
   "id": "aichi-himakajima",
   "name_ko": "히마카지마",
   "name_ja": "日間賀島",
@@ -7412,6 +22240,79 @@ window.SPOTS = [
   "region": "도카이"
  },
  {
+  "id": "aichi-tokoname-yakimono-sanpomichi",
+  "name_ko": "도코나메 야키모노 산책길",
+  "name_ja": "常滑やきもの散歩道",
+  "pref": "아이치",
+  "area": "도코나메",
+  "categories": [
+   "town",
+   "culture"
+  ],
+  "summary": "일본 6대 옛 가마의 하나인 도코나메 가마 마을. 토관과 술병을 박아 넣은 '도칸자카' 언덕길, 벽돌 굴뚝, 검은 판자벽 공장이 남아 있다.",
+  "do": "1.6km A코스(약 1시간)를 걸으며 도칸자카·오름가마 보고 도자기 가게 구경",
+  "station": "도코나메역 (常滑, 메이테쓰)",
+  "access": "메이테쓰 도코나메선 도코나메역에서 도보 약 10분. 주부 국제공항역에서 한 정거장이라 귀국 전날 들르기 좋음",
+  "jr_pass": [],
+  "seasons": [
+   "봄",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "봄·가을 맑은 낮",
+  "event": "",
+  "duration": "반나절",
+  "cost": "무료",
+  "walking": "보통",
+  "fit": "조건부",
+  "condition": "비 오면 언덕길이 미끄러움",
+  "caution": "",
+  "lat": 34.8906,
+  "lng": 136.8392,
+  "url": "http://tokonamesanpo.jp/",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/やきもの散歩道"
+  ],
+  "region": "도카이"
+ },
+ {
+  "id": "aichi-yuya-onsen-horaijisan",
+  "name_ko": "유야 온천 · 호라이지산",
+  "name_ja": "湯谷温泉・鳳来寺山",
+  "pref": "아이치",
+  "area": "신시로 (오쿠미카와)",
+  "categories": [
+   "onsen",
+   "nature",
+   "culture"
+  ],
+  "summary": "우레강 계곡을 따라 료칸이 모인 산골 온천과, 1,400여 단 돌계단 위에 절과 도쇼구가 있는 원시림의 명산을 묶은 오쿠미카와 코스.",
+  "do": "호라이지산 돌계단을 올라 본당 전망대에서 경치 보고, 유야 온천에서 묵거나 당일 입욕",
+  "station": "유야온센역 (湯谷温泉, JR 이다선)",
+  "access": "JR 도요하시역에서 이다선으로 유야온센역. 호라이지산 산정까지는 신시로시 S버스(월~토), 11월 주말엔 혼나가시노역발 도요테쓰 버스도",
+  "jr_pass": [],
+  "seasons": [
+   "봄",
+   "가을"
+  ],
+  "best_time": "11월 단풍(호라이지산 단풍 축제), 신록 5월",
+  "event": "",
+  "duration": "1박 추천",
+  "cost": "입욕·숙박 비용",
+  "walking": "많음",
+  "fit": "조건부",
+  "condition": "비 오면 돌계단 미끄러움",
+  "caution": "산기슭 '호라이지' 정류장에서 걸어 오르면 편도 1시간 넘는 돌계단. 일요일엔 일부 버스 운휴",
+  "lat": 34.9705,
+  "lng": 137.613,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/鳳来寺山",
+   "https://ja.wikipedia.org/wiki/湯谷温泉駅"
+  ],
+  "region": "도카이"
+ },
+ {
   "id": "aichi-gamagori-takeshima",
   "name_ko": "가마고리 다케시마",
   "name_ja": "竹島（蒲郡）",
@@ -7447,6 +22348,339 @@ window.SPOTS = [
   "sources": [
    "https://www.gamagori.jp/spot/750",
    "https://ja.wikipedia.org/wiki/竹島_(愛知県)"
+  ],
+  "region": "도카이"
+ },
+ {
+  "id": "aichi-nagoya-castle",
+  "name_ko": "나고야성 (혼마루 어전)",
+  "name_ja": "名古屋城（本丸御殿）",
+  "pref": "아이치",
+  "area": "나고야",
+  "categories": [
+   "culture"
+  ],
+  "summary": "금 샤치호코로 유명한 오와리 도쿠가와 가문의 성. 2018년 목조로 복원한 혼마루 어전의 금빛 장벽화가 볼거리다.",
+  "do": "혼마루 어전 내부의 복원 장벽화를 보고 성곽 정원·석벽을 한 바퀴 산책",
+  "station": "나고야조역 (名古屋城, 지하철 메이조선)",
+  "access": "나고야역에서 지하철로 환승해 메이조선 나고야조역 7번 출구에서 도보 약 5분. 관광 순환버스 '메구루'도 정차",
+  "jr_pass": [],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "연중. 벚꽃은 3월 말~4월 초",
+  "event": "",
+  "duration": "반나절",
+  "cost": "입장 약 500엔",
+  "walking": "보통",
+  "fit": "백업",
+  "condition": "",
+  "caution": "콘크리트 천수각은 목조 복원 공사 준비로 2018년부터 입장 금지(목조 천수 완공은 빨라야 2030년대). 외관과 혼마루 어전만 관람",
+  "lat": 35.1856,
+  "lng": 136.8986,
+  "url": "https://www.nagoyajo.city.nagoya.jp/",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/名古屋城"
+  ],
+  "region": "도카이"
+ },
+ {
+  "id": "aichi-toyokawa-inari",
+  "name_ko": "도요카와 이나리",
+  "name_ja": "豊川稲荷（妙厳寺）",
+  "pref": "아이치",
+  "area": "도요카와",
+  "categories": [
+   "culture"
+  ],
+  "summary": "일본 3대 이나리로 꼽히는 조동종 사찰. 안쪽 '레이코즈카'에 여우상 천여 개가 빼곡히 늘어선 풍경이 독특하다.",
+  "do": "본전 참배 후 여우상 언덕 레이코즈카 보고 참배길에서 유부초밥 먹기",
+  "station": "도요카와역 (豊川, JR 이다선) / 도요카와이나리역 (메이테쓰)",
+  "access": "JR 도요카와역·메이테쓰 도요카와이나리역에서 도보 약 5분",
+  "jr_pass": [],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "연중",
+  "event": "",
+  "duration": "1~2시간",
+  "cost": "무료",
+  "walking": "적음",
+  "fit": "백업",
+  "condition": "",
+  "caution": "",
+  "lat": 34.8245,
+  "lng": 137.392,
+  "url": "https://www.toyokawainari.jp/",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/豊川稲荷"
+  ],
+  "region": "도카이"
+ },
+ {
+  "id": "aichi-meijimura",
+  "name_ko": "박물관 메이지무라",
+  "name_ja": "博物館明治村",
+  "pref": "아이치",
+  "area": "이누야마",
+  "categories": [
+   "culture",
+   "town",
+   "train"
+  ],
+  "summary": "메이지 시대 건물 60여 채를 옮겨 세운 야외 박물관. 옛 제국호텔 현관, 증기기관차와 교토 시전(전차)을 실제로 탈 수 있다.",
+  "do": "넓은 부지를 증기기관차·시전으로 이동하며 건물 구경, 하이칼라 의상 체험",
+  "station": "이누야마역 (犬山, 메이테쓰)",
+  "access": "메이테쓰 이누야마역 동쪽 출구에서 기후버스 약 20분. 나고야 메이테쓰 버스센터·사카에에서 직행버스도 있음",
+  "jr_pass": [],
+  "seasons": [
+   "봄",
+   "가을"
+  ],
+  "best_time": "봄·가을. 여름엔 더위, 겨울엔 휴관일 확인",
+  "event": "",
+  "duration": "하루",
+  "cost": "입장 유료 (약 2,000엔 안팎, 공식 확인)",
+  "walking": "많음",
+  "fit": "백업",
+  "condition": "비 오면 실외 이동이 많아 불편",
+  "caution": "부지가 넓고 언덕이 많아 하루 종일 걷게 됨",
+  "lat": 35.3418,
+  "lng": 136.9893,
+  "url": "https://www.meijimura.com/",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/博物館明治村"
+  ],
+  "region": "도카이"
+ },
+ {
+  "id": "aichi-arimatsu",
+  "name_ko": "아리마쓰 (아리마쓰 시보리 옛 거리)",
+  "name_ja": "有松",
+  "pref": "아이치",
+  "area": "나고야 (미도리구)",
+  "categories": [
+   "town"
+  ],
+  "summary": "옛 도카이도 길가에 홀치기염색(시보리) 상가가 늘어선 거리. 나고야 시내에서 드물게 에도 시대 마을 풍경이 이어진다.",
+  "do": "옛 상가 거리를 걷고 시보리 가게에서 염색 소품 구경·체험",
+  "station": "아리마쓰역 (有松, 메이테쓰)",
+  "access": "메이테쓰 나고야본선 아리마쓰역에서 도보 약 1~3분",
+  "jr_pass": [],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "연중. 6월 초 '아리마쓰 시보리 축제' 때 활기",
+  "event": "",
+  "duration": "1~2시간",
+  "cost": "무료 (체험 별도)",
+  "walking": "적음",
+  "fit": "백업",
+  "condition": "",
+  "caution": "",
+  "lat": 35.0673,
+  "lng": 136.9717,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/有松駅"
+  ],
+  "region": "도카이"
+ },
+ {
+  "id": "aichi-atsuta-jingu",
+  "name_ko": "아쓰타 신궁",
+  "name_ja": "熱田神宮",
+  "pref": "아이치",
+  "area": "나고야 (아쓰타)",
+  "categories": [
+   "culture"
+  ],
+  "summary": "삼종신기의 하나인 구사나기 검을 모신다는 나고야 최고(最古)급 신사. 큰 녹나무 숲에 둘러싸인 넓은 경내가 도심 속 쉼터다.",
+  "do": "숲길 참배 후 경내 근처에서 히쓰마부시(장어덮밥) 먹기",
+  "station": "진구마에역 (神宮前, 메이테쓰)",
+  "access": "메이테쓰 진구마에역에서 도보 약 3분. JR 아쓰타역에서는 도보 약 8분",
+  "jr_pass": [],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "연중. 아침 일찍이 한적",
+  "event": "",
+  "duration": "1~2시간",
+  "cost": "무료",
+  "walking": "보통",
+  "fit": "백업",
+  "condition": "",
+  "caution": "새해 첫 참배(1월 초) 기간은 매우 혼잡",
+  "lat": 35.1274,
+  "lng": 136.9087,
+  "url": "https://www.atsutajingu.or.jp/",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/熱田神宮"
+  ],
+  "region": "도카이"
+ },
+ {
+  "id": "aichi-osu-kannon-shotengai",
+  "name_ko": "오스 관음 · 오스 상점가",
+  "name_ja": "大須観音・大須商店街",
+  "pref": "아이치",
+  "area": "나고야 (오스)",
+  "categories": [
+   "city",
+   "culture"
+  ],
+  "summary": "주홍색 본당의 오스 관음 앞으로 아케이드 상점가가 사방으로 뻗은 나고야 대표 먹거리·서브컬처 거리.",
+  "do": "관음 참배 후 아케이드에서 군것질(가라아게·만주 등)과 중고·애니 숍 구경",
+  "station": "오스칸논역 (大須観音, 지하철 쓰루마이선)",
+  "access": "지하철 쓰루마이선 오스칸논역 2번 출구 바로 앞. 메이조선 가미마에즈역에서도 도보 약 5분",
+  "jr_pass": [],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "연중. 상점이 여는 낮~저녁",
+  "event": "",
+  "duration": "반나절",
+  "cost": "무료 (먹거리 비용 별도)",
+  "walking": "보통",
+  "fit": "백업",
+  "condition": "비 와도 아케이드라 무난",
+  "caution": "",
+  "lat": 35.1598,
+  "lng": 136.8995,
+  "url": "http://www.osu-kannon.jp/",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/大須観音",
+   "https://ja.wikipedia.org/wiki/大須_(名古屋市)"
+  ],
+  "region": "도카이"
+ },
+ {
+  "id": "aichi-inuyama-castle",
+  "name_ko": "이누야마성 · 조카마치",
+  "name_ja": "犬山城・城下町",
+  "pref": "아이치",
+  "area": "이누야마",
+  "categories": [
+   "culture",
+   "town",
+   "view"
+  ],
+  "summary": "에도 시대 이전 천수가 그대로 남은 국보 성. 기소강 절벽 위 꼭대기 회랑에서 강과 노비 평야를 내려다본다. 아래 조카마치는 먹거리 골목.",
+  "do": "천수 꼭대기 바깥 회랑 한 바퀴, 내려와 조카마치에서 먹거리 산책",
+  "station": "이누야마유엔역 (犬山遊園, 메이테쓰) / 이누야마역 (犬山)",
+  "access": "메이테쓰 이누야마유엔역에서 도보 약 15분, 이누야마역에서 조카마치를 지나 도보 약 20분",
+  "jr_pass": [],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "연중. 벚꽃 3월 말~4월 초, 여름밤엔 기소강 우카이와 묶기 좋음",
+  "event": "",
+  "duration": "반나절",
+  "cost": "천수 입장 유료 (약 수백 엔)",
+  "walking": "보통",
+  "fit": "백업",
+  "condition": "",
+  "caution": "천수 내부 계단이 매우 가팔라 짐은 최소로",
+  "lat": 35.3883,
+  "lng": 136.9393,
+  "url": "https://inuyama-castle.jp/",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/犬山城"
+  ],
+  "region": "도카이"
+ },
+ {
+  "id": "aichi-ghibli-park",
+  "name_ko": "지브리 파크",
+  "name_ja": "ジブリパーク",
+  "pref": "아이치",
+  "area": "나가쿠테",
+  "categories": [
+   "culture",
+   "city"
+  ],
+  "summary": "아이치 엑스포 기념공원 안에 지브리 작품 세계를 재현한 공원. '사쓰키와 메이의 집', 대창고, 마녀의 계곡 등 5개 구역으로 나뉜다.",
+  "do": "예약한 구역을 돌며 작품 속 건물 안에 들어가 보기",
+  "station": "아이치큐하쿠키넨코엔역 (愛・地球博記念公園, 리니모)",
+  "access": "지하철 히가시야마선 종점 후지가오카역에서 리니모로 환승, 아이치큐하쿠키넨코엔역 하차 바로",
+  "jr_pass": [],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "연중. 날짜 지정 사전 예매 필수",
+  "event": "",
+  "duration": "하루",
+  "cost": "구역별 날짜 지정 티켓 (공식 확인)",
+  "walking": "많음",
+  "fit": "백업",
+  "condition": "",
+  "caution": "티켓은 날짜 지정 사전 판매, 인기 날짜는 빨리 매진. 구역 사이 이동 거리가 길다",
+  "lat": 35.1728,
+  "lng": 137.0897,
+  "url": "https://ghibli-park.jp/",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/ジブリパーク"
+  ],
+  "region": "도카이"
+ },
+ {
+  "id": "mie-kamishima",
+  "name_ko": "가미시마 (신의 섬, '파도소리' 무대)",
+  "name_ja": "神島",
+  "pref": "미에",
+  "area": "도바",
+  "categories": [
+   "cape",
+   "boat",
+   "town"
+  ],
+  "summary": "이세만 입구, 이라고곶과 마주 보는 둘레 3.9km의 섬. 미시마 유키오 소설 '파도소리(潮騒)'의 무대로, 등대와 카르스트 지형이 있다.",
+  "do": "시영 정기선으로 건너가 야쓰시로 신사 돌계단·가미시마 등대·카르스트 지형을 잇는 섬 일주(약 2시간)",
+  "station": "도바역 (鳥羽, JR 산구선·긴테쓰)",
+  "access": "도바역 앞 사타하마항(도바 마린터미널)에서 도바 시영 정기선. 아이치 쪽 이라고항에서도 배편 있음",
+  "jr_pass": [
+   "이세·구마노·와카야마 지역 투어리스트 패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을"
+  ],
+  "best_time": "봄~가을 맑은 날",
+  "event": "",
+  "duration": "하루",
+  "cost": "배 왕복 + 식사",
+  "walking": "많음",
+  "fit": "매우 잘 맞음",
+  "condition": "강풍·고파 시 결항",
+  "caution": "섬 전체가 산지라 언덕·계단이 많음. 배 편수가 적어 시간표 확인 필수",
+  "lat": 34.5486,
+  "lng": 136.9864,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/神島_(三重県)",
+   "https://www.city.toba.mie.jp/material/files/group/45/kamishima.pdf"
   ],
   "region": "도카이"
  },
@@ -7530,6 +22764,42 @@ window.SPOTS = [
   "region": "도카이"
  },
  {
+  "id": "mie-kintetsu-shimakaze",
+  "name_ko": "긴테쓰 관광특급 시마카제",
+  "name_ja": "近鉄 観光特急しまかぜ",
+  "pref": "미에",
+  "area": "가시코지마 (오사카·교토·나고야 발)",
+  "categories": [
+   "train"
+  ],
+  "summary": "오사카난바·교토·긴테쓰나고야에서 이세시마 가시코지마까지 달리는 고급 관광특급. 넓은 가죽 좌석, 전망 차량, 카페 차량이 있다.",
+  "do": "맨 앞 전망석에서 앞 풍경 보며 카페 차량에서 식사·스위츠",
+  "station": "가시코지마역 (賢島, 긴테쓰 시마선)",
+  "access": "오사카난바·교토·긴테쓰나고야 각 1일 1왕복 수준. 우지야마다·도바·우가타 등 정차",
+  "jr_pass": [],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "연중. 좌석은 1개월 전부터 예약",
+  "event": "",
+  "duration": "반나절",
+  "cost": "운임 + 특급요금 + 시마카제 특별차량요금",
+  "walking": "적음",
+  "fit": "매우 잘 맞음",
+  "condition": "",
+  "caution": "출발역별로 운휴 요일이 있음(공식 운행일 확인). 인기 열차라 전망석은 일찍 매진",
+  "lat": 34.3085,
+  "lng": 136.8186,
+  "url": "https://www.kintetsu.jp/kouhou/Train/B56.html",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/近鉄50000系電車"
+  ],
+  "region": "도카이"
+ },
+ {
   "id": "mie-nabana-no-sato-illumination",
   "name_ko": "나바나노사토 겨울 일루미네이션",
   "name_ja": "なばなの里 ウィンターイルミネーション",
@@ -7565,6 +22835,43 @@ window.SPOTS = [
    "https://www.nagashima-onsen.co.jp/nabana/illumination/",
    "https://www.nagashima-onsen.co.jp/nabana/info/new-indo-after.html",
    "https://ja.wikipedia.org/wiki/なばなの里"
+  ],
+  "region": "도카이"
+ },
+ {
+  "id": "mie-daiozaki-lighthouse",
+  "name_ko": "다이오자키 등대",
+  "name_ja": "大王埼灯台",
+  "pref": "미에",
+  "area": "시마 (다이오)",
+  "categories": [
+   "cape",
+   "view"
+  ],
+  "summary": "옛 뱃사람들이 두려워한 바다의 난소에 선 '일본 등대 50선' 흰 등대. 꼭대기까지 올라가 구마노나다를 내려다볼 수 있고, 아래 나키리 어촌은 그림 그리는 마을로 유명하다.",
+  "do": "등대에 올라 바다 전망, 내려와 어촌 골목과 해산물 가게 구경",
+  "station": "우가타역 (鵜方, 긴테쓰 시마선)",
+  "access": "긴테쓰 우가타역에서 미에교통 버스로 '다이오자키 등대' 방면, 정류장에서 도보 약 10분",
+  "jr_pass": [],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "맑은 날. 겨울엔 공기가 맑아 전망 좋음",
+  "event": "",
+  "duration": "1~2시간",
+  "cost": "등대 참관 약 300엔",
+  "walking": "보통",
+  "fit": "매우 잘 맞음",
+  "condition": "강풍 시 참관 중지될 수 있음",
+  "caution": "",
+  "lat": 34.2761,
+  "lng": 136.8994,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/大王埼灯台"
   ],
   "region": "도카이"
  },
@@ -7646,6 +22953,204 @@ window.SPOTS = [
   "region": "도카이"
  },
  {
+  "id": "mie-osatsu-ama-hut",
+  "name_ko": "오사쓰 해녀 오두막 · 이시가미상",
+  "name_ja": "相差 海女小屋・石神さん（神明神社）",
+  "pref": "미에",
+  "area": "도바 (오사쓰)",
+  "categories": [
+   "town",
+   "culture",
+   "cape"
+  ],
+  "summary": "해녀가 가장 많은 마을 중 하나인 오사쓰. 해녀 오두막에서 해녀가 직접 구워 주는 해산물을 먹고, 여성의 소원 하나를 들어준다는 '이시가미상'에 참배한다.",
+  "do": "해녀 오두막에서 숯불 해산물 점심(예약), 이시가미상 참배 후 해녀 마을 골목 산책",
+  "station": "도바역 (鳥羽, JR 산구선·긴테쓰)",
+  "access": "도바 버스센터에서 가모메버스 도바~구자키선으로 '이시가미상 앞(相差)' 하차",
+  "jr_pass": [
+   "이세·구마노·와카야마 지역 투어리스트 패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "연중. 해녀 조업철은 봄~가을",
+  "event": "",
+  "duration": "반나절",
+  "cost": "해녀 오두막 식사 수천 엔 (예약제)",
+  "walking": "보통",
+  "fit": "매우 잘 맞음",
+  "condition": "",
+  "caution": "해녀 오두막은 사전 예약제. 버스 편수가 적으니 시간표 확인",
+  "lat": 34.3887,
+  "lng": 136.9018,
+  "url": "",
+  "sources": [
+   "https://www.city.toba.mie.jp/material/files/group/45/kamomebusrosen.pdf"
+  ],
+  "region": "도카이"
+ },
+ {
+  "id": "mie-yokoyama-observatory",
+  "name_ko": "요코야마 전망대 (아고만 조망)",
+  "name_ja": "横山展望台",
+  "pref": "미에",
+  "area": "시마 (우가타)",
+  "categories": [
+   "view",
+   "night",
+   "nature"
+  ],
+  "summary": "리아스식 해안의 아고만과 진주 양식 뗏목, 크고 작은 섬을 한눈에 내려다보는 전망대. 미슐랭 그린가이드 별 하나, 노을 명소다.",
+  "do": "천공 카페 테라스에서 아고만 조망, 위쪽 미하라시 전망대까지 올라 노을 보기",
+  "station": "우가타역 (鵜方, 긴테쓰 시마선)",
+  "access": "긴테쓰 우가타역에서 택시 약 10분 또는 도보 약 40분. 시마요코야마역에서 산책로로 도보 약 35~45분",
+  "jr_pass": [],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "맑은 날 오후~일몰. 벚꽃은 4월 초",
+  "event": "",
+  "duration": "1~2시간",
+  "cost": "무료",
+  "walking": "많음",
+  "fit": "매우 잘 맞음",
+  "condition": "맑은 날 노을 / 안개·비 오면 전망 없음",
+  "caution": "버스가 없어 도보면 편도 40분 안팎 산길. 택시 이용 권장",
+  "lat": 34.3244,
+  "lng": 136.788,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/横山展望台",
+   "https://www.env.go.jp/park/iseshima/data/mankitsu/yokoyama_01.pdf"
+  ],
+  "region": "도카이"
+ },
+ {
+  "id": "mie-yokkaichi-factory-night-cruise",
+  "name_ko": "욧카이치 공장 야경 크루즈",
+  "name_ja": "四日市 工場夜景クルーズ",
+  "pref": "미에",
+  "area": "욧카이치",
+  "categories": [
+   "night",
+   "boat",
+   "city"
+  ],
+  "summary": "일본 대표 석유화학 콤비나트를 바다에서 도는 야간 크루즈. 불 밝힌 플랜트와 굴뚝 불꽃이 SF 영화 같은 풍경을 만든다.",
+  "do": "60분 또는 90분 크루즈로 콤비나트 야경 돌아보기",
+  "station": "욧카이치역 (四日市, JR 간사이본선) / 긴테쓰욧카이치역",
+  "access": "욧카이치항 지토세 지구 승선장 출항. 역에서 무료 셔틀버스를 운행한 사례가 있으니 예약 시 확인",
+  "jr_pass": [
+   "이세·구마노·와카야마 지역 투어리스트 패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "운항일 저녁. 겨울은 공기가 맑아 선명",
+  "event": "",
+  "duration": "반나절",
+  "cost": "60분 약 5,000엔 / 90분 약 6,500엔 (예약제)",
+  "walking": "적음",
+  "fit": "매우 잘 맞음",
+  "condition": "강풍·고파 시 결항",
+  "caution": "운항일 한정·사전 예약제. 6세 미만 승선 불가, 굽 높은 신발 불가. '욧카이치항 포트빌딩'과 승선장이 다름",
+  "lat": 34.9524,
+  "lng": 136.6369,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/四日市コンビナート",
+   "https://tabiiro.jp/plan/1046/",
+   "https://wwwtb.mlit.go.jp/chubu/kankou/chiiki/glocon/yokkaichi/kuru-zu.pdf"
+  ],
+  "region": "도카이"
+ },
+ {
+  "id": "mie-kumano-kodo-magose",
+  "name_ko": "구마노 고도 마고세 고개 (이세지)",
+  "name_ja": "熊野古道 馬越峠",
+  "pref": "미에",
+  "area": "오와세 · 기호쿠",
+  "categories": [
+   "nature",
+   "culture"
+  ],
+  "summary": "세계유산 구마노 고도 이세지에서 가장 아름답다는 돌길 구간. 편백 숲 속으로 이끼 낀 돌계단이 고개까지 이어진다.",
+  "do": "와시게 쪽 입구에서 고개까지 약 2km 돌길 하이킹, 여유 있으면 덴구쿠라산 전망까지",
+  "station": "오와세역 (尾鷲, JR 기세이본선) / 아이가역 (相賀)",
+  "access": "오와세역에서 미에교통 버스로 '와시게(鷲毛)' 하차, 등산로 입구 바로. 오와세역 쪽으로 내려와도 됨",
+  "jr_pass": [
+   "이세·구마노·와카야마 지역 투어리스트 패스"
+  ],
+  "seasons": [
+   "봄",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "봄·가을 맑은 날",
+  "event": "",
+  "duration": "반나절",
+  "cost": "무료",
+  "walking": "많음",
+  "fit": "조건부",
+  "condition": "비 온 뒤 돌길이 매우 미끄러움 / 오와세는 비가 잦은 지역",
+  "caution": "편도 1시간 이상 오르막 돌길. 등산화 권장",
+  "lat": 34.0918,
+  "lng": 136.2016,
+  "url": "https://www.kodo.pref.mie.lg.jp/course/08.html",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/馬越峠"
+  ],
+  "region": "도카이"
+ },
+ {
+  "id": "mie-maruyama-senmaida",
+  "name_ko": "마루야마 센마이다 (계단식 논)",
+  "name_ja": "丸山千枚田",
+  "pref": "미에",
+  "area": "구마노 (기와)",
+  "categories": [
+   "nature",
+   "town"
+  ],
+  "summary": "산비탈 가득 작은 논 천여 장이 층층이 쌓인 일본 계단식 논 100선. 주민과 오너 제도로 복원해 지키고 있다.",
+  "do": "전망 지점에서 계단식 논 내려다보고 논두렁길 산책",
+  "station": "구마노시역 (熊野市, JR 기세이본선)",
+  "access": "구마노시역에서 미에교통 버스 '센마이다' 방면 노선(편수 적음)",
+  "jr_pass": [
+   "이세·구마노·와카야마 지역 투어리스트 패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을"
+  ],
+  "best_time": "5월 물 댄 논, 7~8월 초록, 9월 벼 수확·석산(꽃무릇)",
+  "event": "",
+  "duration": "반나절",
+  "cost": "무료",
+  "walking": "보통",
+  "fit": "조건부",
+  "condition": "물 댄 시기·수확기에 진가 / 겨울엔 휴경",
+  "caution": "버스 편수가 매우 적어 왕복 시간 먼저 확인",
+  "lat": 33.875,
+  "lng": 135.9556,
+  "url": "https://www.maruyamasenmaida.jp/",
+  "sources": [
+   "https://www.maruyamasenmaida.jp/",
+   "https://ja.wikipedia.org/wiki/丸山千枚田"
+  ],
+  "region": "도카이"
+ },
+ {
   "id": "mie-ago-bay-sunset-cruise",
   "name_ko": "아고만 유람선 · 선셋 크루즈 (가시코지마)",
   "name_ja": "賢島エスパーニャクルーズ（英虞湾サンセットクルーズ）",
@@ -7684,6 +23189,85 @@ window.SPOTS = [
   "region": "도카이"
  },
  {
+  "id": "mie-asamayama-summit",
+  "name_ko": "아사마산 산정 전망대 (이세시마 스카이라인)",
+  "name_ja": "朝熊山頂展望台（伊勢志摩スカイライン）",
+  "pref": "미에",
+  "area": "이세",
+  "categories": [
+   "view",
+   "night",
+   "culture"
+  ],
+  "summary": "이세시마 스카이라인 꼭대기, 이세만과 도바 앞 섬들을 내려다보는 산정 전망대. 유료 족욕 시설이 있고, 근처 곤고쇼지는 '이세 참배 후 아사마도 참배'라던 옛 절이다.",
+  "do": "족욕하며 이세만 조망, 곤고쇼지 참배",
+  "station": "이스즈가와역 (五十鈴川, 긴테쓰)",
+  "access": "긴테쓰 이스즈가와역 등에서 산구버스 약 20~25분 '산조코엔(山上広苑)'·'곤고쇼지' 하차. 토·일·공휴일과 연말연시·오봉만 운행",
+  "jr_pass": [],
+  "seasons": [
+   "봄",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "맑은 날. 공기 맑은 가을~겨울, 새해 첫 일출 명소",
+  "event": "",
+  "duration": "반나절",
+  "cost": "버스 편도 약 900엔 + 족욕 소액",
+  "walking": "적음",
+  "fit": "조건부",
+  "condition": "맑은 날 전망 / 평일엔 대중교통 없음",
+  "caution": "버스는 주말·공휴일만 운행, 요금·시간표는 탑승 전 확인",
+  "lat": 34.4611,
+  "lng": 136.7817,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/朝熊山",
+   "https://www.kankomie.or.jp/spot/1609"
+  ],
+  "region": "도카이"
+ },
+ {
+  "id": "mie-hananoiwaya-shishiiwa",
+  "name_ko": "하나노이와야 신사 · 시시이와 (시치리미하마)",
+  "name_ja": "花窟神社・獅子岩（七里御浜）",
+  "pref": "미에",
+  "area": "구마노",
+  "categories": [
+   "culture",
+   "cape",
+   "festival"
+  ],
+  "summary": "높이 약 45m 거대 바위 자체를 신체로 모시는 '일본 최고(最古)의 신사'. 근처 해변엔 사자 머리 모양의 시시이와가 서 있다. 둘 다 세계유산 구마노 참배길의 일부.",
+  "do": "바위 신체와 거대한 밧줄 보기, 시치리미하마 자갈 해변 따라 시시이와까지 산책",
+  "station": "구마노시역 (熊野市, JR 기세이본선)",
+  "access": "구마노시역에서 미에교통 버스 약 5분 '하나노이와야' 하차. 시시이와는 역에서 도보권",
+  "jr_pass": [
+   "이세·구마노·와카야마 지역 투어리스트 패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "연중. 오쓰나카케 신사 날",
+  "event": "오쓰나카케 신사(바위에서 큰 밧줄을 바다 쪽으로 거는 의식): 매년 2월 2일·10월 2일",
+  "duration": "1~2시간",
+  "cost": "무료",
+  "walking": "보통",
+  "fit": "조건부",
+  "condition": "",
+  "caution": "",
+  "lat": 33.8799,
+  "lng": 136.0933,
+  "url": "https://hananoiwaya.com/",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/花窟神社",
+   "https://ja.wikipedia.org/wiki/獅子岩"
+  ],
+  "region": "도카이"
+ },
+ {
   "id": "mie-futami-meoto-iwa",
   "name_ko": "후타미 메오토이와 (부부바위)",
   "name_ja": "二見興玉神社・夫婦岩",
@@ -7718,6 +23302,160 @@ window.SPOTS = [
   "sources": [
    "https://ja.wikipedia.org/wiki/二見興玉神社",
    "https://futamiokitamajinja.or.jp/event/"
+  ],
+  "region": "도카이"
+ },
+ {
+  "id": "mie-toba-aquarium",
+  "name_ko": "도바 수족관",
+  "name_ja": "鳥羽水族館",
+  "pref": "미에",
+  "area": "도바",
+  "categories": [
+   "city"
+  ],
+  "summary": "일본에서 가장 많은 종류의 생물을 기르는 수족관. 일본에서 유일하게 듀공을 볼 수 있는 곳으로 유명하다.",
+  "do": "듀공·인어 존과 해양 포유류 쇼 보기",
+  "station": "도바역 (鳥羽, JR 산구선·긴테쓰)",
+  "access": "도바역에서 도보 약 10분",
+  "jr_pass": [
+   "이세·구마노·와카야마 지역 투어리스트 패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "연중. 비 오는 날 대안",
+  "event": "",
+  "duration": "반나절",
+  "cost": "입장 유료 (공식 확인)",
+  "walking": "보통",
+  "fit": "백업",
+  "condition": "실내라 날씨 무관",
+  "caution": "",
+  "lat": 34.4815,
+  "lng": 136.8458,
+  "url": "https://aquarium.co.jp/",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/鳥羽水族館"
+  ],
+  "region": "도카이"
+ },
+ {
+  "id": "mie-mikimoto-pearl-island",
+  "name_ko": "미키모토 진주섬",
+  "name_ja": "ミキモト真珠島",
+  "pref": "미에",
+  "area": "도바",
+  "categories": [
+   "culture",
+   "cape"
+  ],
+  "summary": "세계 첫 진주 양식에 성공한 미키모토 고키치의 섬. 진주 박물관과 함께 흰 옷 입은 해녀의 잠수 실연을 볼 수 있다.",
+  "do": "다리 건너 섬에 들어가 진주 박물관 관람, 해녀 실연 시간 맞춰 보기",
+  "station": "도바역 (鳥羽, JR 산구선·긴테쓰)",
+  "access": "도바역에서 도보 약 5분",
+  "jr_pass": [
+   "이세·구마노·와카야마 지역 투어리스트 패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "연중",
+  "event": "",
+  "duration": "1~2시간",
+  "cost": "입장 유료 (공식 확인)",
+  "walking": "적음",
+  "fit": "백업",
+  "condition": "악천후 시 해녀 실연 중지",
+  "caution": "",
+  "lat": 34.4833,
+  "lng": 136.8469,
+  "url": "https://www.mikimoto-pearl-island.jp",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/ミキモト真珠島"
+  ],
+  "region": "도카이"
+ },
+ {
+  "id": "mie-seki-juku",
+  "name_ko": "세키주쿠 (도카이도 역참 마을)",
+  "name_ja": "関宿",
+  "pref": "미에",
+  "area": "가메야마 (세키)",
+  "categories": [
+   "town"
+  ],
+  "summary": "옛 도카이도 47번째 역참. 약 1.8km에 걸쳐 에도~메이지 시대 상가 200채 이상이 남아 중요 전통 건조물군 보존지구로 지정됐다.",
+  "do": "동서 오이와케 사이 1.8km 옛길을 걷고 자료관 2층 전망대에서 거리 내려다보기",
+  "station": "세키역 (関, JR 간사이본선)",
+  "access": "JR 세키역에서 북쪽으로 도보 약 5분",
+  "jr_pass": [
+   "이세·구마노·와카야마 지역 투어리스트 패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "연중. 관광객이 적은 평일 오전",
+  "event": "",
+  "duration": "반나절",
+  "cost": "거리 무료, 자료관 세트 약 300엔",
+  "walking": "보통",
+  "fit": "백업",
+  "condition": "",
+  "caution": "가메야마~세키 구간 열차 편수가 적어 시간표 확인",
+  "lat": 34.8517,
+  "lng": 136.4004,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/関宿"
+  ],
+  "region": "도카이"
+ },
+ {
+  "id": "mie-iga-ueno-ninja",
+  "name_ko": "이가 우에노성 · 이가류 닌자 박물관",
+  "name_ja": "伊賀上野城・伊賀流忍者博物館",
+  "pref": "미에",
+  "area": "이가",
+  "categories": [
+   "culture"
+  ],
+  "summary": "닌자의 고장 이가. 우에노 공원 안 닌자 박물관에서 닌자 복장 안내인이 회전문·숨은 방 장치를 직접 보여 주고, 옆 이가 우에노성은 높은 석벽으로 유명하다.",
+  "do": "닌자 저택 장치 시연 보고, 수리검 체험·쇼(별도 요금), 성 석벽 산책",
+  "station": "우에노시역 (上野市, 이가철도)",
+  "access": "JR 간사이본선 이가우에노역에서 이가철도로 갈아타 우에노시역 하차, 도보 약 10분",
+  "jr_pass": [
+   "이세·구마노·와카야마 지역 투어리스트 패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "연중. 벚꽃은 4월 초",
+  "event": "",
+  "duration": "반나절",
+  "cost": "닌자 박물관 약 1,000엔, 성은 별도",
+  "walking": "보통",
+  "fit": "백업",
+  "condition": "",
+  "caution": "JR 패스는 이가우에노역까지, 이가철도는 별도 요금",
+  "lat": 34.7717,
+  "lng": 136.1291,
+  "url": "https://www.iganinja.jp/",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/伊賀流忍者博物館",
+   "https://ja.wikipedia.org/wiki/上野城"
   ],
   "region": "도카이"
  },
@@ -7763,6 +23501,81 @@ window.SPOTS = [
   "region": "도카이"
  },
  {
+  "id": "mie-ise-jingu-geku",
+  "name_ko": "이세 신궁 외궁 (도요우케 대신궁)",
+  "name_ja": "伊勢神宮 外宮（豊受大神宮）",
+  "pref": "미에",
+  "area": "이세",
+  "categories": [
+   "culture"
+  ],
+  "summary": "아마테라스의 식사를 맡는 신을 모신 이세 신궁 외궁. 전통적으로 외궁 → 내궁 순으로 참배하며, 역에서 걸어갈 수 있다.",
+  "do": "이세시역에서 걸어가 삼나무 숲 참배 후 버스로 내궁·오카게요코초로 이동",
+  "station": "이세시역 (伊勢市, JR 산구선·긴테쓰)",
+  "access": "이세시역에서 도보 약 5분. 내궁까지 미에교통 버스 약 15분",
+  "jr_pass": [
+   "이세·구마노·와카야마 지역 투어리스트 패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "연중. 이른 아침이 고요",
+  "event": "",
+  "duration": "1~2시간",
+  "cost": "무료",
+  "walking": "보통",
+  "fit": "백업",
+  "condition": "",
+  "caution": "",
+  "lat": 34.4872,
+  "lng": 136.7029,
+  "url": "https://www.isejingu.or.jp/about/geku/",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/豊受大神宮"
+  ],
+  "region": "도카이"
+ },
+ {
+  "id": "shiga-nagahama-hikiyama-matsuri",
+  "name_ko": "나가하마 히키야마 마쓰리 (어린이 가부키)",
+  "name_ja": "長浜曳山祭",
+  "pref": "시가",
+  "area": "나가하마",
+  "categories": [
+   "festival",
+   "culture"
+  ],
+  "summary": "무대가 달린 화려한 수레(히키야마) 위에서 아이들이 가부키를 공연하는 봄 축제. 일본 3대 수레 축제이자 유네스코 무형문화유산.",
+  "do": "4월 15일 전후 수레 위 어린이 가부키 관람, 평소엔 히키야마 박물관에서 실물 수레 보기",
+  "station": "나가하마역 (長浜, JR 비와코선)",
+  "access": "JR 나가하마역에서 나가하마 하치만구·구 시가지까지 도보 약 10분",
+  "jr_pass": [
+   "간사이 와이드 패스"
+  ],
+  "seasons": [
+   "봄"
+  ],
+  "best_time": "4월 13~15일 (본 축제 4월 15일)",
+  "event": "매년 4월 15일 전후 (13일 첫 공연, 14일 요미야, 15일 본제). 일정은 매년 공식 확인",
+  "duration": "반나절",
+  "cost": "관람 무료",
+  "walking": "보통",
+  "fit": "매우 잘 맞음",
+  "condition": "비 오면 공연 축소 가능",
+  "caution": "인기 공연 장소는 일찍부터 붐빔",
+  "lat": 35.3826,
+  "lng": 136.2743,
+  "url": "https://nagahama-hikiyama.or.jp/presently/",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/長浜曳山祭",
+   "https://ja.wikipedia.org/wiki/長浜八幡宮"
+  ],
+  "region": "간사이"
+ },
+ {
   "id": "shiga-biwako-hanabi",
   "name_ko": "비와코 대불꽃대회 (오쓰)",
   "name_ja": "びわ湖大花火大会",
@@ -7797,6 +23610,44 @@ window.SPOTS = [
    "https://weathernews.jp/hanabi/area/kinki/08/",
    "https://www.biwakokisen.co.jp/",
    "https://www.biwako-visitors.jp/hanabi/"
+  ],
+  "region": "간사이"
+ },
+ {
+  "id": "shiga-michigan-cruise",
+  "name_ko": "비와코 미시간 크루즈 (외륜선)",
+  "name_ja": "びわ湖汽船 ミシガンクルーズ",
+  "pref": "시가",
+  "area": "오쓰",
+  "categories": [
+   "boat",
+   "night"
+  ],
+  "summary": "미국 미시시피강 외륜선을 본뜬 대형 유람선으로 오쓰 앞 남호를 도는 크루즈. 갑판에서 비와호와 히에이산을 본다.",
+  "do": "오쓰항에서 승선해 갑판 산책·선상 공연 즐기기, 계절 저녁 크루즈",
+  "station": "비와코하마오쓰역 (びわ湖浜大津, 게이한) / 오쓰역 (大津, JR)",
+  "access": "게이한 비와코하마오쓰역에서 오쓰항까지 도보 약 5분. JR 오쓰역에서는 도보 약 15분. 야나기가사키·니오노하마에서도 승하선",
+  "jr_pass": [
+   "간사이 와이드 패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을"
+  ],
+  "best_time": "봄~가을. 여름 저녁 크루즈",
+  "event": "",
+  "duration": "1~2시간",
+  "cost": "승선료 코스별 유료 (공식 확인)",
+  "walking": "적음",
+  "fit": "매우 잘 맞음",
+  "condition": "강풍·악천후 시 결항",
+  "caution": "",
+  "lat": 35.0131,
+  "lng": 135.8671,
+  "url": "https://www.biwakokisen.co.jp/cruise/michigan/",
+  "sources": [
+   "https://www.biwakokisen.co.jp/cruise/michigan/"
   ],
   "region": "간사이"
  },
@@ -7841,6 +23692,43 @@ window.SPOTS = [
   "region": "간사이"
  },
  {
+  "id": "shiga-omihachiman-sagicho",
+  "name_ko": "오미하치만 사기초 마쓰리 (불 축제)",
+  "name_ja": "左義長まつり（近江八幡）",
+  "pref": "시가",
+  "area": "오미하치만",
+  "categories": [
+   "festival",
+   "night"
+  ],
+  "summary": "그해 띠 동물을 곡물·해산물로 꾸민 수레 '사기초'를 화장한 남자들이 메고 다니다 서로 부딪치고, 마지막 밤 모두 불태우는 노부나가 유래의 불 축제.",
+  "do": "낮엔 사기초 부딪치기 구경, 마지막 날 밤 히무레 하치만구 일대 봉화",
+  "station": "오미하치만역 (近江八幡, JR 비와코선)",
+  "access": "JR 오미하치만역에서 오미철도 버스 약 10분 → 히무레 하치만구 일대",
+  "jr_pass": [
+   "간사이 와이드 패스"
+  ],
+  "seasons": [
+   "봄"
+  ],
+  "best_time": "3월 중순 토·일",
+  "event": "매년 3월 14·15일에 가까운 토·일. 날짜는 매년 공식 확인",
+  "duration": "반나절",
+  "cost": "관람 무료",
+  "walking": "보통",
+  "fit": "매우 잘 맞음",
+  "condition": "우천 시 일정 변경 가능",
+  "caution": "불길 가까이는 위험하니 안내에 따를 것",
+  "lat": 35.141,
+  "lng": 136.0896,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/左義長",
+   "https://ja.wikipedia.org/wiki/日牟禮八幡宮"
+  ],
+  "region": "간사이"
+ },
+ {
   "id": "shiga-omihachiman-canal",
   "name_ko": "오미하치만 하치만보리 뱃놀이·하치만산 로프웨이",
   "name_ja": "八幡堀めぐり・八幡山ロープウェー",
@@ -7876,6 +23764,45 @@ window.SPOTS = [
   "sources": [
    "https://www.omi8.com/spot/detail_1030.html",
    "https://www.ohmitetudo.co.jp/ropeway/"
+  ],
+  "region": "간사이"
+ },
+ {
+  "id": "shiga-okishima",
+  "name_ko": "오키시마 (호수 속 유인도)",
+  "name_ja": "沖島",
+  "pref": "시가",
+  "area": "오미하치만",
+  "categories": [
+   "cape",
+   "boat",
+   "town"
+  ],
+  "summary": "일본에서 유일하게 담수호 안에 있는 유인도. 자동차가 없고 주민은 배와 세발자전거로 다니며, 고양이가 많은 어촌이다.",
+  "do": "통선으로 약 10분 건너가 어촌 골목과 오쓰시마 신사 산책",
+  "station": "오미하치만역 (近江八幡, JR 비와코선)",
+  "access": "오미하치만역에서 오미철도 버스(조메이지선 휴가무라행) 또는 시영 '아카콘 버스'로 호리키리 신항 → 통선",
+  "jr_pass": [
+   "간사이 와이드 패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을"
+  ],
+  "best_time": "봄~가을 평일·토요일",
+  "event": "",
+  "duration": "반나절",
+  "cost": "통선 왕복 소액",
+  "walking": "보통",
+  "fit": "매우 잘 맞음",
+  "condition": "강풍 시 결항",
+  "caution": "호리키리항행 버스는 일·공휴일 운행 없음(토요일은 아카콘 버스만). 섬에 상점이 적음",
+  "lat": 35.2078,
+  "lng": 136.0661,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/沖島"
   ],
   "region": "간사이"
  },
@@ -7916,6 +23843,122 @@ window.SPOTS = [
   "sources": [
    "https://www.biwakokisen.co.jp/cruise/chikubu/",
    "https://www.biwakokisen.co.jp/cruise/chikubu/price_time/"
+  ],
+  "region": "간사이"
+ },
+ {
+  "id": "shiga-kaizu-osaki-sakura",
+  "name_ko": "가이즈오사키 벚꽃 (호숫가 벚꽃 터널)",
+  "name_ja": "海津大崎の桜",
+  "pref": "시가",
+  "area": "다카시마 (마키노)",
+  "categories": [
+   "nature",
+   "boat"
+  ],
+  "summary": "비와호로 튀어나온 바위 해안을 따라 약 4km에 소메이요시노 약 600그루가 늘어선 '일본 벚꽃 명소 100선'. 호수 위 배에서 보는 벚꽃이 특히 좋다.",
+  "do": "호숫가 벚꽃 터널 걷기, 벚꽃철 관광선으로 물 위에서 보기",
+  "station": "마키노역 (マキノ, JR 고세이선)",
+  "access": "벚꽃철엔 JR 마키노역 등에서 임시 셔틀·순환 버스, 비와코 기선 등의 벚꽃 크루즈 운항 (해마다 다름)",
+  "jr_pass": [
+   "간사이 와이드 패스",
+   "간사이 호쿠리쿠 패스"
+  ],
+  "seasons": [
+   "봄"
+  ],
+  "best_time": "4월 중순 (만개 시기는 해마다 확인)",
+  "event": "",
+  "duration": "반나절",
+  "cost": "무료 (크루즈 별도)",
+  "walking": "보통",
+  "fit": "조건부",
+  "condition": "만개 시기 한정",
+  "caution": "만개 주말엔 교통 규제·극심한 혼잡. 길 일부는 인도가 없음",
+  "lat": 35.4493,
+  "lng": 136.0876,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/海津大崎"
+  ],
+  "region": "간사이"
+ },
+ {
+  "id": "shiga-katata-ukimido",
+  "name_ko": "가타타 우키미도 (만게쓰지)",
+  "name_ja": "浮御堂（満月寺）",
+  "pref": "시가",
+  "area": "오쓰 (가타타)",
+  "categories": [
+   "culture",
+   "night"
+  ],
+  "summary": "비와호 위로 튀어나온 작은 불당. 히로시게가 그린 오미팔경 '가타타의 내려앉는 기러기'의 무대로, 호수 위 풍경과 노을이 좋다.",
+  "do": "호수 위 불당에서 비와호 바라보기, 가타타 옛 마을 산책",
+  "station": "가타타역 (堅田, JR 고세이선)",
+  "access": "JR 가타타역에서 버스로 '가타타 데마치' 하차 후 도보 약 7분",
+  "jr_pass": [
+   "간사이 와이드 패스",
+   "간사이 호쿠리쿠 패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "연중. 해 질 녘 (개문 8:00~17:00)",
+  "event": "",
+  "duration": "1~2시간",
+  "cost": "소액 입장료",
+  "walking": "적음",
+  "fit": "조건부",
+  "condition": "맑은 날 호수 풍경",
+  "caution": "",
+  "lat": 35.1098,
+  "lng": 135.9209,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/満月寺_(大津市)"
+  ],
+  "region": "간사이"
+ },
+ {
+  "id": "shiga-makino-metasequoia",
+  "name_ko": "마키노 메타세쿼이아 가로수길",
+  "name_ja": "マキノ メタセコイア並木",
+  "pref": "시가",
+  "area": "다카시마 (마키노)",
+  "categories": [
+   "nature"
+  ],
+  "summary": "약 500그루 메타세쿼이아가 2.4km 직선으로 늘어선 길. 신록·단풍·설경 철마다 색이 바뀌며 '겨울연가' 장면을 닮았다고 알려졌다.",
+  "do": "가로수길을 걸으며 사진 찍고, 마키노 피클랜드에서 젤라토, 마키노 고원 온천 '사라사'까지",
+  "station": "마키노역 (マキノ, JR 고세이선)",
+  "access": "JR 마키노역에서 고세이 버스로 '마키노 피클랜드' 하차 (편수 적음)",
+  "jr_pass": [
+   "간사이 와이드 패스",
+   "간사이 호쿠리쿠 패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "11월 하순 주황 단풍, 5월 신록, 겨울 설경",
+  "event": "",
+  "duration": "반나절",
+  "cost": "무료",
+  "walking": "보통",
+  "fit": "조건부",
+  "condition": "단풍·눈 시기에 진가",
+  "caution": "차도 옆이라 촬영 시 차량 주의. 버스 편수가 적음",
+  "lat": 35.4668,
+  "lng": 136.0359,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/マキノ高原"
   ],
   "region": "간사이"
  },
@@ -8003,6 +24046,40 @@ window.SPOTS = [
   "region": "간사이"
  },
  {
+  "id": "shiga-eigenji",
+  "name_ko": "에이겐지 단풍",
+  "name_ja": "永源寺（紅葉）",
+  "pref": "시가",
+  "area": "히가시오미",
+  "categories": [
+   "culture",
+   "nature"
+  ],
+  "summary": "스즈카산맥 기슭 계곡가의 임제종 사찰. 단풍나무 약 3,000그루로 시가현 손꼽히는 단풍 명소다.",
+  "do": "계곡 다리를 건너 단풍 터널 참배길 걷기",
+  "station": "요카이치역 (八日市, 오미철도)",
+  "access": "오미철도 요카이치역에서 오미철도 버스 '에이겐지 차고'행 약 35분 '에이겐지마에' 하차",
+  "jr_pass": [],
+  "seasons": [
+   "가을"
+  ],
+  "best_time": "11월 중순~하순",
+  "event": "",
+  "duration": "반나절",
+  "cost": "배관 유료 (공식 확인)",
+  "walking": "보통",
+  "fit": "조건부",
+  "condition": "단풍철 한정 진가",
+  "caution": "단풍철 주말 도로 정체로 버스 지연",
+  "lat": 35.0806,
+  "lng": 136.3196,
+  "url": "https://eigenji-t.jp/",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/永源寺"
+  ],
+  "region": "간사이"
+ },
+ {
   "id": "shiga-hieizan-sakamoto-cable",
   "name_ko": "히에이산 엔랴쿠지·사카모토 케이블",
   "name_ja": "比叡山延暦寺・坂本ケーブル",
@@ -8044,6 +24121,276 @@ window.SPOTS = [
   "region": "간사이"
  },
  {
+  "id": "shiga-koka-ninja-house",
+  "name_ko": "고카류 닌자 저택",
+  "name_ja": "甲賀流忍術屋敷",
+  "pref": "시가",
+  "area": "고카",
+  "categories": [
+   "culture"
+  ],
+  "summary": "고카 닌자 53가의 우두머리 모치즈키 가문이 에도 중기에 지은 실제 집. 회전문, 함정, 숨은 사다리와 방 같은 장치가 그대로 남아 있다.",
+  "do": "저택 안 장치 체험, 닌자 비전 약차 시음",
+  "station": "고난역 (甲南, JR 구사쓰선)",
+  "access": "JR 구사쓰선 고난역에서 도보 약 20분 (택시 약 5분)",
+  "jr_pass": [
+   "간사이 와이드 패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "연중",
+  "event": "",
+  "duration": "1~2시간",
+  "cost": "입장 유료 (공식 확인)",
+  "walking": "보통",
+  "fit": "백업",
+  "condition": "",
+  "caution": "구사쓰선 열차 편수가 적음",
+  "lat": 34.9184,
+  "lng": 136.1674,
+  "url": "https://www.kouka-ninjya.com/",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/甲賀流忍術屋敷"
+  ],
+  "region": "간사이"
+ },
+ {
+  "id": "shiga-nagahama-kurokabe-square",
+  "name_ko": "나가하마 구로카베 스퀘어",
+  "name_ja": "長浜 黒壁スクエア",
+  "pref": "시가",
+  "area": "나가하마",
+  "categories": [
+   "town",
+   "city"
+  ],
+  "summary": "옛 은행 '구로카베(검은 벽)' 건물을 중심으로 유리 공방·갤러리가 모인 옛 상가 거리. 호쿠코쿠 가도의 마을 풍경이 남아 있다.",
+  "do": "유리 공방·가게 구경하고 나가하마 명물 요리 먹기, 지쿠부섬 크루즈와 묶기",
+  "station": "나가하마역 (長浜, JR 비와코선)",
+  "access": "JR 나가하마역에서 도보 약 5분",
+  "jr_pass": [
+   "간사이 와이드 패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "연중",
+  "event": "",
+  "duration": "반나절",
+  "cost": "무료 (체험·식사 별도)",
+  "walking": "적음",
+  "fit": "백업",
+  "condition": "",
+  "caution": "",
+  "lat": 35.3811,
+  "lng": 136.2666,
+  "url": "https://www.kurokabe.co.jp/",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/黒壁スクエア"
+  ],
+  "region": "간사이"
+ },
+ {
+  "id": "shiga-miidera",
+  "name_ko": "미이데라 (온조지)",
+  "name_ja": "三井寺（園城寺）",
+  "pref": "시가",
+  "area": "오쓰",
+  "categories": [
+   "culture",
+   "view"
+  ],
+  "summary": "오미팔경 '미이의 저녁 종'으로 이름난 천태종 대본산. 넓은 경내에 국보 금당이 있고 위쪽에서 오쓰 시내와 비와호가 보인다.",
+  "do": "금당·종루 보고 관음당 쪽 언덕에서 비와호 조망",
+  "station": "미이데라역 (三井寺, 게이한 이시야마사카모토선)",
+  "access": "게이한 미이데라역에서 도보 약 10분",
+  "jr_pass": [],
+  "seasons": [
+   "봄",
+   "가을"
+  ],
+  "best_time": "벚꽃 4월 초, 단풍 11월",
+  "event": "",
+  "duration": "1~2시간",
+  "cost": "입장 유료 (공식 확인)",
+  "walking": "보통",
+  "fit": "백업",
+  "condition": "",
+  "caution": "경내가 넓고 계단이 있음",
+  "lat": 35.0134,
+  "lng": 135.8529,
+  "url": "http://www.shiga-miidera.or.jp/",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/園城寺"
+  ],
+  "region": "간사이"
+ },
+ {
+  "id": "shiga-miho-museum",
+  "name_ko": "미호 뮤지엄",
+  "name_ja": "MIHO MUSEUM",
+  "pref": "시가",
+  "area": "고카 (시가라키)",
+  "categories": [
+   "culture",
+   "nature"
+  ],
+  "summary": "I.M. 페이가 설계한 산속 미술관. 수양벚나무 길과 은빛 터널을 지나 다리를 건너면 산 능선에 묻힌 듯한 건물이 나타난다.",
+  "do": "봄엔 수양벚꽃 길과 터널 걷기, 고대 미술 컬렉션 관람",
+  "station": "이시야마역 (石山, JR 비와코선)",
+  "access": "JR 이시야마역 3번 정류장에서 데이산 버스 150번 '미호 뮤지엄'행 약 50분 (개관 시즌만 운행)",
+  "jr_pass": [
+   "간사이 와이드 패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을"
+  ],
+  "best_time": "4월 수양벚꽃, 11월 단풍",
+  "event": "",
+  "duration": "반나절",
+  "cost": "입장 유료 + 버스 편도 약 1,000엔",
+  "walking": "보통",
+  "fit": "백업",
+  "condition": "",
+  "caution": "봄·여름·가을 개관 시즌만 열고 월요일·전시 교체기 휴관. 개관 달력 확인 필수",
+  "lat": 34.9146,
+  "lng": 136.0229,
+  "url": "https://www.miho.jp/",
+  "sources": [
+   "https://www.miho.jp/access/",
+   "https://ja.wikipedia.org/wiki/MIHO_MUSEUM"
+  ],
+  "region": "간사이"
+ },
+ {
+  "id": "shiga-shigaraki",
+  "name_ko": "시가라키 (너구리 도자기 마을)",
+  "name_ja": "信楽",
+  "pref": "시가",
+  "area": "고카 (시가라키)",
+  "categories": [
+   "town",
+   "culture",
+   "train"
+  ],
+  "summary": "일본 6대 옛 가마의 하나. 역 앞부터 크고 작은 너구리 도자기가 줄지어 반기고, 가마 공방과 도자기 가게가 모여 있다.",
+  "do": "시가라키 고원철도를 타고 가서 너구리 상점가·가마 공방 구경, 도예 체험",
+  "station": "시가라키역 (信楽, 시가라키 고원철도)",
+  "access": "JR 구사쓰선 기부카와역에서 시가라키 고원철도로 갈아타 종점 시가라키역 (약 25분)",
+  "jr_pass": [
+   "간사이 와이드 패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "연중. 10월 도자기 축제 시기",
+  "event": "",
+  "duration": "반나절",
+  "cost": "무료 (체험 별도)",
+  "walking": "보통",
+  "fit": "백업",
+  "condition": "",
+  "caution": "시가라키 고원철도는 JR 패스 대상 아님(별도 요금), 열차는 1시간 1편 수준",
+  "lat": 34.878,
+  "lng": 136.0586,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/信楽町",
+   "https://ja.wikipedia.org/wiki/信楽高原鐵道"
+  ],
+  "region": "간사이"
+ },
+ {
+  "id": "shiga-ishiyamadera",
+  "name_ko": "이시야마데라",
+  "name_ja": "石山寺",
+  "pref": "시가",
+  "area": "오쓰 (이시야마)",
+  "categories": [
+   "culture",
+   "nature"
+  ],
+  "summary": "거대한 규회석 암반 위에 지은 고찰. 무라사키 시키부가 '겐지 이야기'를 구상했다는 절로, 봄 매화·벚꽃, 가을 단풍이 좋다.",
+  "do": "규회석 바위와 국보 다보탑 보고 경내 언덕 산책",
+  "station": "이시야마데라역 (石山寺, 게이한) / 이시야마역 (石山, JR)",
+  "access": "게이한 이시야마데라역에서 도보 약 10분. JR 이시야마역에서 게이한 또는 버스로 환승",
+  "jr_pass": [
+   "간사이 와이드 패스"
+  ],
+  "seasons": [
+   "봄",
+   "가을"
+  ],
+  "best_time": "벚꽃 4월 초, 단풍 11월 (야간 라이트업이 열리는 해도 있음)",
+  "event": "",
+  "duration": "1~2시간",
+  "cost": "입산 유료 (공식 확인)",
+  "walking": "보통",
+  "fit": "백업",
+  "condition": "",
+  "caution": "",
+  "lat": 34.9604,
+  "lng": 135.9056,
+  "url": "https://www.ishiyamadera.or.jp/",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/石山寺"
+  ],
+  "region": "간사이"
+ },
+ {
+  "id": "shiga-hikone-castle",
+  "name_ko": "히코네성 · 겐큐엔",
+  "name_ja": "彦根城・玄宮園",
+  "pref": "시가",
+  "area": "히코네",
+  "categories": [
+   "culture",
+   "view"
+  ],
+  "summary": "에도 시대 천수가 남은 국보 5성 중 하나. 천수에서 비와호가 보이고, 성 아래 다이묘 정원 겐큐엔에선 연못 너머로 천수를 올려다본다.",
+  "do": "천수에 올라 비와호 조망, 겐큐엔 연못 정원 산책, 히코냥 등장 시간 확인",
+  "station": "히코네역 (彦根, JR 비와코선)",
+  "access": "JR 히코네역에서 도보 약 15분",
+  "jr_pass": [
+   "간사이 와이드 패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "벚꽃 4월 초, 단풍 11월. 가을엔 야간 개장 행사",
+  "event": "",
+  "duration": "반나절",
+  "cost": "입장 유료 (겐큐엔 포함 세트, 공식 확인)",
+  "walking": "보통",
+  "fit": "백업",
+  "condition": "",
+  "caution": "천수까지 돌계단·언덕이 이어짐",
+  "lat": 35.2764,
+  "lng": 136.2519,
+  "url": "https://hikonecastle.com/",
+  "sources": [
+   "https://hikonecastle.com/",
+   "https://ja.wikipedia.org/wiki/彦根城",
+   "https://ja.wikipedia.org/wiki/玄宮園"
+  ],
+  "region": "간사이"
+ },
+ {
   "id": "kyoto-gozan-okuribi",
   "name_ko": "고잔 오쿠리비 (다이몬지 불)",
   "name_ja": "五山送り火",
@@ -8076,6 +24423,41 @@ window.SPOTS = [
   "sources": [
    "https://ja.wikipedia.org/wiki/五山送り火",
    "https://www.gozan-okuribi.com/"
+  ],
+  "region": "간사이"
+ },
+ {
+  "id": "kyoto-gion-matsuri",
+  "name_ko": "기온 마쓰리 (야마보코 순행·요이야마)",
+  "name_ja": "祇園祭（山鉾巡行・宵山）",
+  "pref": "교토",
+  "area": "교토 시내 (시조 가라스마)",
+  "categories": [
+   "festival",
+   "night",
+   "culture"
+  ],
+  "summary": "7월 한 달 동안 열리는 야사카 신사의 축제. 거대한 수레 야마보코가 시내를 도는 순행과, 등롱 켠 수레 사이를 걷는 요이야마 밤이 하이라이트.",
+  "do": "요이야마 밤 등롱 켠 야마보코 거리 산책, 순행 날 오전 시조도리에서 수레 방향 전환 '쓰지마와시' 보기",
+  "station": "시조역 (四条, 지하철) / 가라스마역 (烏丸, 한큐)",
+  "access": "지하철 가라스마선 시조역·한큐 가라스마역 일대가 중심",
+  "jr_pass": [],
+  "seasons": [
+   "여름"
+  ],
+  "best_time": "7월 14~16일 요이야마, 7월 17일 전 순행, 7월 24일 후 순행",
+  "event": "매년 7월 1~31일. 야마보코 순행 7월 17일(전)·24일(후), 요이야마 14~16일·21~23일",
+  "duration": "반나절",
+  "cost": "관람 무료 (유료 관람석 있음)",
+  "walking": "보통",
+  "fit": "매우 잘 맞음",
+  "condition": "무더위·소나기 대비",
+  "caution": "요이야마·순행 날은 교토 시내 최고 수준 혼잡, 일부 도로 통제. 숙소는 일찍 예약",
+  "lat": 35.0037,
+  "lng": 135.7604,
+  "url": "https://www.yasaka-jinja.or.jp/event/gion/",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/祇園祭"
   ],
   "region": "간사이"
  },
@@ -8241,6 +24623,90 @@ window.SPOTS = [
   "region": "간사이"
  },
  {
+  "id": "kyoto-fushimi-inari",
+  "name_ko": "후시미 이나리 타이샤 (센본 도리이)",
+  "name_ja": "伏見稲荷大社（千本鳥居）",
+  "pref": "교토",
+  "area": "교토 후시미",
+  "categories": [
+   "culture",
+   "view",
+   "night"
+  ],
+  "summary": "전국 이나리 신사의 총본궁. 주홍 도리이 수천 기가 산길을 따라 터널처럼 이어지고, 산 중턱 요쓰쓰지에서 교토 시내가 보인다.",
+  "do": "센본 도리이를 지나 요쓰쓰지 전망 지점까지 오르기(왕복 약 1~1.5시간)",
+  "station": "이나리역 (稲荷, JR 나라선)",
+  "access": "JR 나라선 이나리역 바로 앞. 게이한 후시미이나리역에서 도보 약 5분",
+  "jr_pass": [
+   "간사이 와이드 패스",
+   "간사이 히로시마 패스",
+   "JR간사이 미니 패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "이른 아침 또는 해 질 녘 이후 (24시간 참배 가능)",
+  "event": "",
+  "duration": "반나절",
+  "cost": "무료",
+  "walking": "많음",
+  "fit": "매우 잘 맞음",
+  "condition": "",
+  "caution": "낮 시간대 입구~센본 도리이 구간은 매우 혼잡. 산 정상 일주는 계단 위주 2~3시간",
+  "lat": 34.9669,
+  "lng": 135.7731,
+  "url": "https://inari.jp/",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/伏見稲荷大社"
+  ],
+  "region": "간사이"
+ },
+ {
+  "id": "kyoto-kyoto-tower",
+  "name_ko": "교토 타워",
+  "name_ja": "京都タワー",
+  "pref": "교토",
+  "area": "교토역 앞",
+  "categories": [
+   "view",
+   "night",
+   "city"
+  ],
+  "summary": "교토역 앞 하얀 촛불 모양 타워. 지상 100m 전망실에서 사방 교토 시내와 맑으면 오사카 쪽까지 보인다.",
+  "do": "도착·출발하는 날 해 질 녘에 올라 교토 야경 보기",
+  "station": "교토역 (京都)",
+  "access": "JR 교토역 중앙 출구 앞 도보 약 2분",
+  "jr_pass": [
+   "간사이 와이드 패스",
+   "간사이 히로시마 패스",
+   "JR간사이 미니 패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "연중. 일몰 전후 (전망실 10:30~21:00 기준, 변동 가능)",
+  "event": "",
+  "duration": "1~2시간",
+  "cost": "전망실 유료 (공식 확인)",
+  "walking": "적음",
+  "fit": "조건부",
+  "condition": "맑은 날 전망 / 흐리면 야경만",
+  "caution": "",
+  "lat": 34.9875,
+  "lng": 135.7594,
+  "url": "https://www.kyoto-tower.jp/",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/京都タワー"
+  ],
+  "region": "간사이"
+ },
+ {
   "id": "kyoto-kurama-kibune",
   "name_ko": "구라마·기부네 (에이잔 전철 단풍 터널)",
   "name_ja": "鞍馬・貴船",
@@ -8274,6 +24740,120 @@ window.SPOTS = [
   "sources": [
    "https://kifunejinja.jp/",
    "https://eizandensha.co.jp/"
+  ],
+  "region": "간사이"
+ },
+ {
+  "id": "kyoto-gion-yasaka-hanamikoji",
+  "name_ko": "기온 · 야사카 신사 · 하나미코지",
+  "name_ja": "祇園・八坂神社・花見小路通",
+  "pref": "교토",
+  "area": "교토 히가시야마 (기온)",
+  "categories": [
+   "town",
+   "culture",
+   "night"
+  ],
+  "summary": "주홍 누문의 야사카 신사와, 오차야가 늘어선 돌길 하나미코지. 등불이 켜지는 저녁 기온의 분위기가 교토다움의 정점이다.",
+  "do": "저녁 무렵 야사카 신사 참배 후 하나미코지·시라카와 거리 산책",
+  "station": "기온시조역 (祇園四条, 게이한)",
+  "access": "게이한 기온시조역에서 야사카 신사까지 도보 약 5분. 한큐 교토카와라마치역에서 도보 약 8분",
+  "jr_pass": [],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "해 질 녘~밤. 벚꽃철 마루야마 공원과 묶기",
+  "event": "",
+  "duration": "1~2시간",
+  "cost": "무료",
+  "walking": "보통",
+  "fit": "조건부",
+  "condition": "",
+  "caution": "하나미코지 사유 골목은 촬영 금지·벌금 안내가 있으니 표지판 확인. 게이코·마이코 무단 촬영 금지. 저녁엔 매우 혼잡",
+  "lat": 35.0036,
+  "lng": 135.7786,
+  "url": "https://www.yasaka-jinja.or.jp/",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/八坂神社",
+   "https://ja.wikipedia.org/wiki/祇園"
+  ],
+  "region": "간사이"
+ },
+ {
+  "id": "kyoto-toji",
+  "name_ko": "도지 (오층탑)",
+  "name_ja": "東寺（教王護国寺）",
+  "pref": "교토",
+  "area": "교토 미나미구",
+  "categories": [
+   "culture",
+   "night"
+  ],
+  "summary": "약 55m로 일본에서 가장 높은 목조탑인 오층탑의 세계유산 사찰. 강당의 입체 만다라 불상군이 압도적이고, 봄·가을엔 야간 라이트업이 열린다.",
+  "do": "강당 입체 만다라 보고 연못 너머 오층탑 감상, 매월 21일엔 고보 시장",
+  "station": "도지역 (東寺, 긴테쓰) / 교토역 (京都)",
+  "access": "긴테쓰 도지역에서 도보 약 10분, JR 교토역 하치조 출구에서 도보 약 15분",
+  "jr_pass": [],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "벚꽃 3월 말~4월 초, 단풍 11월 (각 시기 야간 라이트업)",
+  "event": "고보 시장(벼룩시장): 매월 21일",
+  "duration": "1~2시간",
+  "cost": "금당·강당 배관 유료 (시기별 상이)",
+  "walking": "적음",
+  "fit": "조건부",
+  "condition": "",
+  "caution": "",
+  "lat": 34.9804,
+  "lng": 135.7477,
+  "url": "https://toji.or.jp/",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/東寺"
+  ],
+  "region": "간사이"
+ },
+ {
+  "id": "kyoto-tofukuji",
+  "name_ko": "도후쿠지 (쓰텐교 단풍)",
+  "name_ja": "東福寺（通天橋）",
+  "pref": "교토",
+  "area": "교토 히가시야마 (도후쿠지)",
+  "categories": [
+   "culture",
+   "nature"
+  ],
+  "summary": "계곡을 덮은 단풍 바다를 목조 다리 쓰텐교에서 내려다보는 교토 최고의 단풍 명소 중 하나. 국보 삼문과 바둑판 무늬 정원도 볼거리.",
+  "do": "쓰텐교·가이운교에서 단풍 계곡 보고 방장 정원 관람",
+  "station": "도후쿠지역 (東福寺, JR 나라선·게이한)",
+  "access": "JR·게이한 도후쿠지역에서 도보 약 10분. 게이한 도바카이도역에서 도보 약 8분(단풍철 덜 붐빔)",
+  "jr_pass": [
+   "간사이 와이드 패스",
+   "간사이 히로시마 패스",
+   "JR간사이 미니 패스"
+  ],
+  "seasons": [
+   "가을"
+  ],
+  "best_time": "11월 중순~12월 초",
+  "event": "",
+  "duration": "1~2시간",
+  "cost": "경내 무료, 쓰텐교·정원 유료",
+  "walking": "보통",
+  "fit": "조건부",
+  "condition": "단풍 절정 한정 진가",
+  "caution": "단풍철엔 입장 대기 행렬이 길고, 최근 단풍철엔 쓰텐교 위 사진 촬영을 금지해 왔음(공식 확인). 아침 개문 직후 추천",
+  "lat": 34.9771,
+  "lng": 135.7741,
+  "url": "https://tofukuji.jp/",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/東福寺"
   ],
   "region": "간사이"
  },
@@ -8314,6 +24894,388 @@ window.SPOTS = [
   "sources": [
    "https://miyamanavi.com/event/detail/id=246",
    "https://miyamanavi.com/information/access-public"
+  ],
+  "region": "간사이"
+ },
+ {
+  "id": "kyoto-arashiyama-bamboo-togetsukyo",
+  "name_ko": "아라시야마 대나무숲 길 · 도게쓰교",
+  "name_ja": "嵐山 竹林の小径・渡月橋",
+  "pref": "교토",
+  "area": "아라시야마 · 사가노",
+  "categories": [
+   "nature",
+   "town"
+  ],
+  "summary": "하늘을 가리는 대나무 사이로 난 길과, 가쓰라강을 건너는 도게쓰교. 산이 강에 비치는 교토 서쪽 대표 풍경이다.",
+  "do": "이른 아침 대나무숲 길(노노미야 신사~오코치 산장 방향) 걷고 도게쓰교 건너 강변 산책",
+  "station": "사가아라시야마역 (嵯峨嵐山, JR 사가노선)",
+  "access": "JR 사가아라시야마역에서 대나무숲까지 도보 약 10분, 도게쓰교까지 약 15분. 란덴 아라시야마역·한큐 아라시야마역도 가까움",
+  "jr_pass": [
+   "간사이 와이드 패스",
+   "간사이 히로시마 패스",
+   "JR간사이 미니 패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "아침 8시 이전. 단풍 11월 하순, 벚꽃 4월 초",
+  "event": "",
+  "duration": "반나절",
+  "cost": "무료",
+  "walking": "보통",
+  "fit": "조건부",
+  "condition": "",
+  "caution": "낮엔 대나무숲 길이 인파로 꽉 차 사진 찍기 어려움. 단풍철 주말은 역·다리 주변 극심한 혼잡",
+  "lat": 35.0174,
+  "lng": 135.6704,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/渡月橋",
+   "https://ja.wikipedia.org/wiki/嵐山"
+  ],
+  "region": "간사이"
+ },
+ {
+  "id": "kyoto-ohara-sanzenin",
+  "name_ko": "오하라 산젠인",
+  "name_ja": "大原 三千院",
+  "pref": "교토",
+  "area": "오하라",
+  "categories": [
+   "culture",
+   "nature",
+   "town"
+  ],
+  "summary": "교토 북쪽 산골 마을 오하라의 천태종 사원. 이끼 정원 위 작은 동자 석불과 단풍이 유명하고, 시내보다 한결 조용하다.",
+  "do": "이끼 정원 유세이엔 산책, 오하라 마을에서 시바즈케 절임 맛보기",
+  "station": "고쿠사이카이칸역 (国際会館, 지하철 가라스마선)",
+  "access": "지하철 고쿠사이카이칸역에서 교토버스 약 25분 '오하라' 하차, 도보 약 10분. 교토역에서 교토버스 직행은 약 1시간",
+  "jr_pass": [],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "11월 단풍, 6~7월 수국, 겨울 설경",
+  "event": "",
+  "duration": "반나절",
+  "cost": "배관료 유료 (공식 확인)",
+  "walking": "보통",
+  "fit": "조건부",
+  "condition": "",
+  "caution": "버스 정류장에서 오르막 참배길. 단풍철 주말 버스 혼잡",
+  "lat": 35.1198,
+  "lng": 135.8344,
+  "url": "http://www.sanzenin.or.jp/",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/三千院"
+  ],
+  "region": "간사이"
+ },
+ {
+  "id": "kyoto-wazuka-tea-fields",
+  "name_ko": "와즈카 차밭 (우지차의 고향)",
+  "name_ja": "和束町の茶畑（石寺の茶畑）",
+  "pref": "교토",
+  "area": "와즈카",
+  "categories": [
+   "nature",
+   "town"
+  ],
+  "summary": "산비탈 전체가 줄무늬 차밭으로 덮인 우지차 주산지. 교토부 경관자산 1호이자 '일본에서 가장 아름다운 마을' 연합 가입 마을이다.",
+  "do": "이시데라 차밭 전망 지점에서 차밭 경치 보고 마을 찻집에서 차 시음",
+  "station": "가모역 (加茂, JR 간사이본선·야마토지선)",
+  "access": "JR 가모역에서 와즈카 방면 노선버스 (편수 적음). 마을 안에 철도역은 없음",
+  "jr_pass": [
+   "간사이 와이드 패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을"
+  ],
+  "best_time": "4월 말~5월 첫물 차 시기의 신록",
+  "event": "",
+  "duration": "반나절",
+  "cost": "무료 (시음·체험 별도)",
+  "walking": "많음",
+  "fit": "조건부",
+  "condition": "맑은 날 차밭 색이 선명",
+  "caution": "버스에서 내린 뒤 차밭 전망 지점까지 언덕길 도보. 차밭은 사유지라 안에 들어가지 말 것",
+  "lat": 34.7848,
+  "lng": 135.882,
+  "url": "https://www.town.wazuka.lg.jp/",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/和束町"
+  ],
+  "region": "간사이"
+ },
+ {
+  "id": "kyoto-kinkakuji",
+  "name_ko": "금각사 (로쿠온지)",
+  "name_ja": "金閣寺（鹿苑寺）",
+  "pref": "교토",
+  "area": "교토 기타구",
+  "categories": [
+   "culture"
+  ],
+  "summary": "금박을 입힌 사리전이 연못 '교코치'에 비치는 세계유산 사찰. 맑은 날과 눈 온 아침이 특히 아름답다.",
+  "do": "연못 건너편에서 금각 보고 정원 관람 동선 한 바퀴",
+  "station": "교토역 (京都)",
+  "access": "교토역에서 시버스 101·205번 약 40분 '긴카쿠지미치(金閣寺道)' 하차 도보 약 5분. 지하철 기타오지역에서 버스 약 10분",
+  "jr_pass": [],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "개문 직후. 눈 내린 겨울 아침이 명장면",
+  "event": "",
+  "duration": "1~2시간",
+  "cost": "배관료 약 500엔",
+  "walking": "적음",
+  "fit": "백업",
+  "condition": "맑은 날 반사 / 눈 오는 날 특별",
+  "caution": "단체 관광객으로 상시 혼잡, 관람 동선이 일방통행. 시버스는 만원이 잦아 지하철+버스 조합 추천",
+  "lat": 35.0394,
+  "lng": 135.7294,
+  "url": "https://www.shokoku-ji.jp/kinkakuji/",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/鹿苑寺"
+  ],
+  "region": "간사이"
+ },
+ {
+  "id": "kyoto-kiyomizudera",
+  "name_ko": "기요미즈데라 · 산넨자카",
+  "name_ja": "清水寺・三年坂",
+  "pref": "교토",
+  "area": "교토 히가시야마",
+  "categories": [
+   "culture",
+   "view",
+   "town"
+  ],
+  "summary": "절벽 위로 내민 '기요미즈 무대'에서 교토 시내를 내려다보는 세계유산 사찰. 아래 산넨자카·니넨자카 돌길이 이어진다.",
+  "do": "이른 아침 무대에서 시내 조망, 내려오며 산넨자카·니넨자카 돌길 산책",
+  "station": "기요미즈고조역 (清水五条, 게이한)",
+  "access": "게이한 기요미즈고조역에서 도보 약 25분. 교토역에서 시버스 약 15분 '고조자카'·'기요미즈미치' 하차 후 도보 약 10분",
+  "jr_pass": [],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "개문 직후 아침. 벚꽃 4월 초, 단풍 11월 하순(특별 야간 배관)",
+  "event": "",
+  "duration": "반나절",
+  "cost": "배관료 유료 (수백 엔)",
+  "walking": "많음",
+  "fit": "백업",
+  "condition": "",
+  "caution": "교토 최고 수준 혼잡. 낮엔 언덕길이 인파로 막히고 시버스도 만원 → 아침 일찍 또는 저녁 추천. 비탈길·계단 많음",
+  "lat": 34.9948,
+  "lng": 135.785,
+  "url": "https://www.kiyomizudera.or.jp/",
+  "sources": [
+   "https://www.kiyomizudera.or.jp/visit/",
+   "https://ja.wikipedia.org/wiki/清水寺"
+  ],
+  "region": "간사이"
+ },
+ {
+  "id": "kyoto-nishiki-market",
+  "name_ko": "니시키 시장",
+  "name_ja": "錦市場",
+  "pref": "교토",
+  "area": "교토 시내 (시조)",
+  "categories": [
+   "city"
+  ],
+  "summary": "약 400m 좁은 아케이드에 교토 채소절임·두부·생선·과자 가게가 늘어선 '교토의 부엌'.",
+  "do": "가게를 돌며 맛보기, 교토 반찬·절임 사기",
+  "station": "시조역 (四条, 지하철) / 교토카와라마치역 (한큐)",
+  "access": "지하철 시조역·한큐 가라스마역에서 도보 약 5분",
+  "jr_pass": [],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "오전~이른 오후 (오후 5~6시면 문 닫는 가게 많음)",
+  "event": "",
+  "duration": "1~2시간",
+  "cost": "먹거리 비용",
+  "walking": "적음",
+  "fit": "백업",
+  "condition": "아케이드라 비 와도 무난",
+  "caution": "통로가 좁아 낮엔 인파로 정체. 걸으며 먹기 자제 요청이 있으니 가게 앞에서 먹기",
+  "lat": 35.005,
+  "lng": 135.765,
+  "url": "https://www.kyoto-nishiki.or.jp/",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/錦市場"
+  ],
+  "region": "간사이"
+ },
+ {
+  "id": "kyoto-nijo-castle",
+  "name_ko": "니조성 (니노마루 어전)",
+  "name_ja": "元離宮二条城",
+  "pref": "교토",
+  "area": "교토 나카교구",
+  "categories": [
+   "culture"
+  ],
+  "summary": "도쿠가와 쇼군의 교토 거처이자 대정봉환의 무대. 걸으면 새 소리가 나는 '휘파람새 마루'와 화려한 장벽화가 남은 니노마루 어전이 국보다.",
+  "do": "니노마루 어전 내부 관람 후 정원과 혼마루 석벽 산책",
+  "station": "니조조마에역 (二条城前, 지하철 도자이선)",
+  "access": "지하철 도자이선 니조조마에역 바로 앞",
+  "jr_pass": [],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "연중. 벚꽃철 야간 라이트업 행사",
+  "event": "",
+  "duration": "1~2시간",
+  "cost": "입성료 + 니노마루 어전 관람료 (공식 확인)",
+  "walking": "보통",
+  "fit": "백업",
+  "condition": "",
+  "caution": "단체 관광객 많음, 어전 내부 촬영 금지",
+  "lat": 35.0142,
+  "lng": 135.7475,
+  "url": "https://nijo-jocastle.city.kyoto.lg.jp/",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/二条城"
+  ],
+  "region": "간사이"
+ },
+ {
+  "id": "kyoto-maizuru-akarenga-park",
+  "name_ko": "마이즈루 아카렌가 파크 (붉은 벽돌 창고군)",
+  "name_ja": "舞鶴赤れんがパーク",
+  "pref": "교토",
+  "area": "마이즈루",
+  "categories": [
+   "culture",
+   "town",
+   "boat"
+  ],
+  "summary": "옛 해군 군항 마이즈루에 남은 메이지·다이쇼 시대 붉은 벽돌 창고 12동. 박물관·이벤트 공간으로 쓰이며 군항 유람선과 묶기 좋다.",
+  "do": "붉은 벽돌 창고 거리 산책, 시기가 맞으면 해군 함정이 보이는 군항 유람선",
+  "station": "히가시마이즈루역 (東舞鶴, JR 마이즈루선)",
+  "access": "JR 히가시마이즈루역에서 도보 약 15분. 교토역에서 특급 '마이즈루'로 약 1시간 30분",
+  "jr_pass": [
+   "간사이 와이드 패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "연중. 아마노하시다테·이네와 같은 동선",
+  "event": "",
+  "duration": "반나절",
+  "cost": "산책 무료, 일부 시설·유람선 유료",
+  "walking": "보통",
+  "fit": "백업",
+  "condition": "",
+  "caution": "",
+  "lat": 35.4756,
+  "lng": 135.3829,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/舞鶴赤レンガ倉庫群"
+  ],
+  "region": "간사이"
+ },
+ {
+  "id": "kyoto-uji-byodoin",
+  "name_ko": "우지 뵤도인 (봉황당)",
+  "name_ja": "平等院（宇治）",
+  "pref": "교토",
+  "area": "우지",
+  "categories": [
+   "culture",
+   "town"
+  ],
+  "summary": "10엔 동전에 새겨진 봉황당이 연못에 비치는 세계유산 사찰. 참배길과 우지강변엔 우지 말차 가게가 이어진다.",
+  "do": "봉황당 감상(내부는 별도 관람), 뵤도인 참배길에서 말차 디저트",
+  "station": "우지역 (宇治, JR 나라선)",
+  "access": "JR 나라선 우지역에서 도보 약 10분. 게이한 우지역에서도 도보 약 10분",
+  "jr_pass": [
+   "간사이 와이드 패스",
+   "간사이 히로시마 패스",
+   "JR간사이 미니 패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "4월 말~5월 등나무꽃, 단풍 11월",
+  "event": "",
+  "duration": "반나절",
+  "cost": "정원·박물관 입장 + 봉황당 내부 별도 소액",
+  "walking": "보통",
+  "fit": "백업",
+  "condition": "",
+  "caution": "봉황당 내부 관람은 회차·인원 제한",
+  "lat": 34.8893,
+  "lng": 135.8077,
+  "url": "https://www.byodoin.or.jp/",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/平等院"
+  ],
+  "region": "간사이"
+ },
+ {
+  "id": "kyoto-ginkakuji-philosophers-path",
+  "name_ko": "은각사 · 철학의 길",
+  "name_ja": "銀閣寺（慈照寺）・哲学の道",
+  "pref": "교토",
+  "area": "교토 사쿄구",
+  "categories": [
+   "culture",
+   "nature"
+  ],
+  "summary": "모래 정원 '긴샤단'과 관음전이 있는 차분한 세계유산 사찰. 은각사에서 남쪽으로 수로 따라 약 2km 이어지는 철학의 길은 벚꽃 명소.",
+  "do": "은각사 정원 보고 철학의 길을 따라 남쪽 난젠지 방향으로 걷기",
+  "station": "교토역 (京都)",
+  "access": "교토역에서 시버스 약 35~40분 '긴카쿠지미치(銀閣寺道)' 하차, 도보 약 10분",
+  "jr_pass": [],
+  "seasons": [
+   "봄",
+   "가을"
+  ],
+  "best_time": "벚꽃 4월 초, 단풍 11월",
+  "event": "",
+  "duration": "반나절",
+  "cost": "은각사 배관료 약 500엔",
+  "walking": "보통",
+  "fit": "백업",
+  "condition": "",
+  "caution": "벚꽃철 철학의 길은 매우 혼잡",
+  "lat": 35.0269,
+  "lng": 135.7983,
+  "url": "https://www.shokoku-ji.jp/ginkakuji/",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/慈照寺",
+   "https://ja.wikipedia.org/wiki/哲学の道"
   ],
   "region": "간사이"
  },
@@ -8466,6 +25428,48 @@ window.SPOTS = [
   "region": "간사이"
  },
  {
+  "id": "osaka-abeno-harukas-300",
+  "name_ko": "아베노 하루카스 300 전망대",
+  "name_ja": "あべのハルカス ハルカス300",
+  "pref": "오사카",
+  "area": "덴노지",
+  "categories": [
+   "view",
+   "night",
+   "city"
+  ],
+  "summary": "높이 300m 빌딩 꼭대기의 유리벽 전망대. 맑은 날엔 아카시 해협 대교와 간사이 공항까지, 밤엔 오사카 전체 야경이 펼쳐진다.",
+  "do": "해 질 무렵 올라가 노을과 야경을 이어서 보기",
+  "station": "덴노지역 (天王寺, JR)",
+  "access": "JR 덴노지역 바로 앞. 긴테쓰 오사카아베노바시역과 직결",
+  "jr_pass": [
+   "간사이 와이드 패스",
+   "간사이 히로시마 패스",
+   "JR간사이 미니 패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "연중. 해 지기 30분 전 입장",
+  "event": "",
+  "duration": "1~2시간",
+  "cost": "입장 약 2,000엔 (날짜 지정권 등 변동)",
+  "walking": "적음",
+  "fit": "매우 잘 맞음",
+  "condition": "맑은 날 전망. 흐리면 야경 위주",
+  "caution": "",
+  "lat": 34.646,
+  "lng": 135.5134,
+  "url": "https://www.abenoharukas-300.jp/",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Abeno_Harukas"
+  ],
+  "region": "간사이"
+ },
+ {
   "id": "osaka-umeda-sky-building",
   "name_ko": "우메다 스카이 빌딩 공중정원 전망대",
   "name_ja": "梅田スカイビル 空中庭園展望台",
@@ -8509,6 +25513,162 @@ window.SPOTS = [
   "region": "간사이"
  },
  {
+  "id": "osaka-hoshida-hoshinoburanko",
+  "name_ko": "호시다 원지 '별의 그네' 현수교",
+  "name_ja": "ほしだ園地 星のブランコ",
+  "pref": "오사카",
+  "area": "가타노",
+  "categories": [
+   "nature",
+   "view"
+  ],
+  "summary": "오사카 근교 산속 계곡 위에 걸린 보행자 전용 대형 현수교. 숲 위를 걸으며 멀리 오사카 시가지까지 보인다.",
+  "do": "계곡 산길을 올라 현수교를 건너고 전망 좋은 능선 산책",
+  "station": "가와치이와후네역 (河内磐船, JR 가쿠엔토시선)",
+  "access": "JR 교바시에서 가쿠엔토시선 약 20분, 가와치이와후네역에서 걸어서 약 30~40분(오르막). 게이한 사카타역에서도 도보",
+  "jr_pass": [
+   "간사이 와이드 패스"
+  ],
+  "seasons": [
+   "봄",
+   "가을"
+  ],
+  "best_time": "4~5월 신록, 11월 단풍",
+  "event": "",
+  "duration": "반나절",
+  "cost": "무료",
+  "walking": "많음",
+  "fit": "매우 잘 맞음",
+  "condition": "비 온 뒤 산길 미끄러움. 강풍 시 통행 제한 가능",
+  "caution": "역에서 다리까지 산길 오르막 30분 이상. 운동화 필수",
+  "lat": 34.7528,
+  "lng": 135.6853,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/星のブランコ",
+   "https://ja.wikipedia.org/wiki/星田_(交野市)"
+  ],
+  "region": "간사이"
+ },
+ {
+  "id": "osaka-naniwa-yodogawa-fireworks",
+  "name_ko": "나니와 요도가와 불꽃대회",
+  "name_ja": "なにわ淀川花火大会",
+  "pref": "오사카",
+  "area": "주소·우메다 (요도가와 강변)",
+  "categories": [
+   "festival",
+   "night"
+  ],
+  "summary": "우메다 빌딩 숲을 배경으로 요도가와 강변에서 쏘는 오사카 최대급 불꽃대회. 음악에 맞춘 연출이 특징이다.",
+  "do": "강변 둑에 자리 잡고 도시 야경과 함께 불꽃 보기",
+  "station": "쓰카모토역 (塚本, JR) / 주소역 (十三, 한큐)",
+  "access": "JR 오사카에서 고베선 한 정거장 쓰카모토역, 한큐 주소역 등에서 걸어서 약 10~15분",
+  "jr_pass": [
+   "간사이 와이드 패스",
+   "간사이 히로시마 패스",
+   "JR간사이 미니 패스"
+  ],
+  "seasons": [
+   "여름",
+   "가을"
+  ],
+  "best_time": "개최일 저녁",
+  "event": "보통 8월 토요일 개최, 2025년은 엑스포 종료 후 10월 18일 개최. 날짜는 매년 공식 확인",
+  "duration": "반나절",
+  "cost": "무료 (유료 관람석 별도)",
+  "walking": "보통",
+  "fit": "조건부",
+  "condition": "우천·강풍 시 연기·중지",
+  "caution": "수십만 명이 몰려 귀가길 역 입장 통제. 좋은 자리는 오전부터 붐빔",
+  "lat": 34.7099,
+  "lng": 135.479,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/なにわ淀川花火大会"
+  ],
+  "region": "간사이"
+ },
+ {
+  "id": "osaka-nakanoshima-central-hall",
+  "name_ko": "나카노시마 (중앙공회당·장미정원)",
+  "name_ja": "中之島（大阪市中央公会堂・中之島公園）",
+  "pref": "오사카",
+  "area": "나카노시마",
+  "categories": [
+   "city",
+   "night",
+   "town"
+  ],
+  "summary": "두 강 사이 섬에 붉은 벽돌 중앙공회당과 근대 건축, 강변 장미정원이 이어지는 산책 구역. 겨울엔 빛 축제가 열린다.",
+  "do": "중앙공회당·도서관 건물을 보고 강변 장미정원을 걷다 해 진 뒤 라이트업 보기",
+  "station": "요도야바시역 (淀屋橋, 지하철·게이한) / 기타하마역 (北浜)",
+  "access": "요도야바시역·기타하마역에서 걸어서 약 5분. JR 오사카역에서는 걸어서 약 20분",
+  "jr_pass": [],
+  "seasons": [
+   "봄",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "5월·10월 장미, 12월 일루미네이션",
+  "event": "겨울 빛 축제 '오사카 히카리노 르네상스'는 매년 12월 (날짜는 매년 공식 확인)",
+  "duration": "1~2시간",
+  "cost": "무료 (공회당 내부 견학은 별도)",
+  "walking": "보통",
+  "fit": "조건부",
+  "condition": "장미철·겨울 조명 기간에 진가",
+  "caution": "",
+  "lat": 34.6935,
+  "lng": 135.504,
+  "url": "https://osaka-chuokokaido.jp/",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/大阪市中央公会堂",
+   "https://ja.wikipedia.org/wiki/中之島公園"
+  ],
+  "region": "간사이"
+ },
+ {
+  "id": "osaka-rinku-park-sunset",
+  "name_ko": "린쿠 공원 마블 비치 노을",
+  "name_ja": "りんくう公園（マーブルビーチ）",
+  "pref": "오사카",
+  "area": "이즈미사노",
+  "categories": [
+   "night",
+   "cape"
+  ],
+  "summary": "간사이 공항 앞바다로 해가 지는 인공 해변 공원. 흰 대리석 자갈 해변이 노을에 물들어 공항 가기 전후에 들르기 좋다.",
+  "do": "해 질 무렵 해변 산책로에서 바다 위로 지는 해와 공항 오가는 비행기 보기",
+  "station": "린쿠타운역 (りんくうタウン, JR·난카이)",
+  "access": "JR 덴노지에서 간사이 공항 쾌속 약 40분, 린쿠타운역에서 걸어서 약 10분. 간사이 공항에서 한 정거장",
+  "jr_pass": [
+   "간사이 와이드 패스",
+   "간사이 히로시마 패스",
+   "이세·구마노·와카야마 지역 투어리스트 패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "연중 해 질 무렵. 겨울엔 해가 바다 쪽으로 짐",
+  "event": "",
+  "duration": "1~2시간",
+  "cost": "무료",
+  "walking": "적음",
+  "fit": "조건부",
+  "condition": "맑은 날 노을",
+  "caution": "해변은 수영 금지",
+  "lat": 34.4125,
+  "lng": 135.2955,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/りんくう公園"
+  ],
+  "region": "간사이"
+ },
+ {
   "id": "osaka-minoo-falls",
   "name_ko": "미노오 폭포 (미노오 공원)",
   "name_ja": "箕面大滝（明治の森箕面国定公園）",
@@ -8541,6 +25701,384 @@ window.SPOTS = [
    "https://www.timeout.jp/osaka/ja/things-to-do/minoh-otaki",
    "https://ja.wikipedia.org/wiki/箕面滝",
    "https://www.mino-park.jp/"
+  ],
+  "region": "간사이"
+ },
+ {
+  "id": "osaka-mint-sakura-torinuke",
+  "name_ko": "조폐국 벚꽃길 (사쿠라 도리누케)",
+  "name_ja": "造幣局 桜の通り抜け",
+  "pref": "오사카",
+  "area": "덴마바시",
+  "categories": [
+   "festival",
+   "night",
+   "nature"
+  ],
+  "summary": "봄 일주일만 조폐국 강변 통로를 개방해 140여 품종, 330여 그루의 늦벚꽃 아래를 걷게 하는 행사. 저녁엔 조명이 켜진다.",
+  "do": "사전 신청한 시간대에 입장해 약 560m 벚꽃 통로를 한 방향으로 걷기",
+  "station": "덴마바시역 (天満橋, 지하철·게이한) / 오사카조키타즈메역 (大阪城北詰, JR 도자이선)",
+  "access": "덴마바시역·JR 오사카조키타즈메역에서 각각 걸어서 약 15분",
+  "jr_pass": [
+   "간사이 와이드 패스",
+   "간사이 히로시마 패스",
+   "JR간사이 미니 패스"
+  ],
+  "seasons": [
+   "봄"
+  ],
+  "best_time": "4월 중순 약 1주일",
+  "event": "매년 4월 중순 약 7일간. 2026년은 4/9~4/15였음. 2027년 날짜는 공식 확인",
+  "duration": "1~2시간",
+  "cost": "무료 (사전 신청 필요)",
+  "walking": "보통",
+  "fit": "조건부",
+  "condition": "개방 기간 일주일뿐. 비 와도 진행",
+  "caution": "2026년은 신청 완료 메일의 2차원 코드로 시간대 입장. 통로는 남→북 일방통행",
+  "lat": 34.6968,
+  "lng": 135.5212,
+  "url": "https://www.mint.go.jp/enjoy/toorinuke",
+  "sources": [
+   "https://www.mint.go.jp/enjoy/toorinuke/sakura_osaka_news_r8.html",
+   "https://ja.wikipedia.org/wiki/造幣局_(日本)"
+  ],
+  "region": "간사이"
+ },
+ {
+  "id": "osaka-katsuoji",
+  "name_ko": "가쓰오지 (다루마 절)",
+  "name_ja": "勝尾寺",
+  "pref": "오사카",
+  "area": "미노오",
+  "categories": [
+   "culture",
+   "nature"
+  ],
+  "summary": "'승리의 절'로 불리며 경내 곳곳에 소원 성취 다루마 인형이 빽빽이 놓인 산속 절. 가을 단풍과 수국이 아름답다.",
+  "do": "다루마를 하나 사서 소원 빌고 경내 계곡·단풍 산책",
+  "station": "센리추오역 (千里中央, 지하철·모노레일) / 미노오카야노역 (箕面萱野)",
+  "access": "센리추오역에서 한큐 버스 약 30분 (하루 편수 적음, 시간표 확인). 미노오 폭포와 같은 날 묶기 좋음",
+  "jr_pass": [],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을"
+  ],
+  "best_time": "11월 단풍, 6월 수국",
+  "event": "",
+  "duration": "반나절",
+  "cost": "입산료 약 500엔",
+  "walking": "보통",
+  "fit": "백업",
+  "condition": "",
+  "caution": "버스 편수가 적어 돌아오는 시간 먼저 확인",
+  "lat": 34.8658,
+  "lng": 135.4911,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/勝尾寺"
+  ],
+  "region": "간사이"
+ },
+ {
+  "id": "osaka-kaiyukan",
+  "name_ko": "가이유칸 (오사카 수족관)",
+  "name_ja": "海遊館",
+  "pref": "오사카",
+  "area": "오사카항 (덴포잔)",
+  "categories": [
+   "city"
+  ],
+  "summary": "태평양을 재현한 거대 수조에서 고래상어가 헤엄치는 대형 수족관. 나선형 통로를 내려가며 환태평양 바다를 차례로 본다.",
+  "do": "꼭대기 층부터 나선 통로를 따라 내려가며 고래상어 수조 관람",
+  "station": "오사카코역 (大阪港, Osaka Metro)",
+  "access": "Osaka Metro 주오선 오사카코역에서 걸어서 약 5분",
+  "jr_pass": [],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "연중. 비 오는 날 대안으로 좋음",
+  "event": "",
+  "duration": "반나절",
+  "cost": "입장 약 2,700엔~ (날짜별 변동, 온라인 예매 권장)",
+  "walking": "보통",
+  "fit": "백업",
+  "condition": "",
+  "caution": "주말·연휴는 입장 대기. 날짜 지정 예매 권장",
+  "lat": 34.6545,
+  "lng": 135.4289,
+  "url": "https://www.kaiyukan.com/",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/海遊館"
+  ],
+  "region": "간사이"
+ },
+ {
+  "id": "osaka-kuromon-market",
+  "name_ko": "구로몬 시장",
+  "name_ja": "黒門市場",
+  "pref": "오사카",
+  "area": "닛폰바시",
+  "categories": [
+   "city"
+  ],
+  "summary": "'오사카의 부엌'으로 불리는 약 600m 아케이드 시장. 해산물·와규 꼬치·과일을 사서 바로 먹을 수 있다.",
+  "do": "아침~점심에 해산물 꼬치·참치 회·과일 먹으며 시장 한 바퀴",
+  "station": "닛폰바시역 (日本橋, 지하철·긴테쓰)",
+  "access": "닛폰바시역에서 걸어서 약 2분. 난바에서도 걸어서 약 10분",
+  "jr_pass": [],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "연중. 오전~이른 오후 (저녁엔 일찍 닫는 가게 많음)",
+  "event": "",
+  "duration": "1~2시간",
+  "cost": "먹거리 1,000~5,000엔 안팎",
+  "walking": "적음",
+  "fit": "백업",
+  "condition": "",
+  "caution": "관광객 대상 가격이 비싼 편이니 가격표 확인 후 주문",
+  "lat": 34.6653,
+  "lng": 135.5069,
+  "url": "https://kuromon.com/",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/黒門市場"
+  ],
+  "region": "간사이"
+ },
+ {
+  "id": "osaka-namba-yasaka-shrine",
+  "name_ko": "난바 야사카 신사 (사자 얼굴 무대)",
+  "name_ja": "難波八阪神社",
+  "pref": "오사카",
+  "area": "난바",
+  "categories": [
+   "culture",
+   "city"
+  ],
+  "summary": "높이 약 12m의 커다란 사자 머리 모양 무대(시시덴)가 입을 벌리고 있는 작은 신사. 난바 번화가에서 가깝다.",
+  "do": "사자 머리 무대 앞에서 사진 찍고 난바 시내 구경과 묶기",
+  "station": "난바역 (なんば, 지하철·난카이) / 다이코쿠초역 (大国町)",
+  "access": "Osaka Metro 난바역에서 걸어서 약 6분, 다이코쿠초역에서 약 5분",
+  "jr_pass": [],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "연중",
+  "event": "",
+  "duration": "1~2시간",
+  "cost": "무료",
+  "walking": "적음",
+  "fit": "백업",
+  "condition": "",
+  "caution": "",
+  "lat": 34.6612,
+  "lng": 135.4967,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/難波八阪神社"
+  ],
+  "region": "간사이"
+ },
+ {
+  "id": "osaka-mozu-kofun-daisen",
+  "name_ko": "모즈 고분군 (다이센 고분)",
+  "name_ja": "百舌鳥古墳群（大仙陵古墳）",
+  "pref": "오사카",
+  "area": "사카이",
+  "categories": [
+   "culture"
+  ],
+  "summary": "세계유산 모즈·후루이치 고분군의 중심인 일본 최대 열쇠구멍 모양 무덤. 지상에선 숲으로만 보여 시청 전망 로비에서 내려다본다.",
+  "do": "고분 둘레 산책로를 걷고 사카이 시청 21층 무료 전망 로비에서 고분 보기",
+  "station": "모즈역 (百舌鳥, JR 한와선)",
+  "access": "JR 덴노지에서 한와선 약 20분, 모즈역에서 배례소까지 걸어서 약 10분. 사카이 시청은 난카이 사카이히가시역 근처",
+  "jr_pass": [
+   "간사이 와이드 패스",
+   "간사이 히로시마 패스"
+  ],
+  "seasons": [
+   "봄",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "봄·가을. 여름은 그늘이 적어 더움",
+  "event": "",
+  "duration": "반나절",
+  "cost": "무료",
+  "walking": "많음",
+  "fit": "백업",
+  "condition": "",
+  "caution": "고분 둘레가 약 2.8km라 한 바퀴 걸으면 약 1시간. 고분 내부는 출입 불가",
+  "lat": 34.5639,
+  "lng": 135.4873,
+  "url": "https://www.mozu-furuichi.jp/",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/大仙陵古墳"
+  ],
+  "region": "간사이"
+ },
+ {
+  "id": "osaka-expo70-park-tower-of-sun",
+  "name_ko": "반파쿠 기념공원 (태양의 탑)",
+  "name_ja": "万博記念公園（太陽の塔）",
+  "pref": "오사카",
+  "area": "스이타",
+  "categories": [
+   "culture",
+   "nature"
+  ],
+  "summary": "1970년 오사카 엑스포 부지를 넓은 공원으로 바꾼 곳. 오카모토 다로의 거대 조형물 '태양의 탑'이 서 있고 내부 관람도 된다.",
+  "do": "태양의 탑을 보고 자연문화원에서 계절 꽃(벚꽃·코스모스) 산책",
+  "station": "반파쿠키넨코엔역 (万博記念公園, 오사카 모노레일)",
+  "access": "지하철 미도스지선 센리추오역에서 오사카 모노레일 환승, 반파쿠키넨코엔역에서 걸어서 약 5분",
+  "jr_pass": [],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "3월 말~4월 초 벚꽃, 10월 코스모스",
+  "event": "",
+  "duration": "반나절",
+  "cost": "자연문화원 입장 약 260엔, 태양의 탑 내부는 별도·사전 예약",
+  "walking": "많음",
+  "fit": "백업",
+  "condition": "",
+  "caution": "공원이 매우 넓어 한 바퀴 돌면 1시간 이상 걷는다. 수요일 휴원(공휴일 예외)",
+  "lat": 34.8095,
+  "lng": 135.5324,
+  "url": "https://www.expo70-park.jp/",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/万博記念公園"
+  ],
+  "region": "간사이"
+ },
+ {
+  "id": "osaka-sumiyoshi-taisha",
+  "name_ko": "스미요시 대사",
+  "name_ja": "住吉大社",
+  "pref": "오사카",
+  "area": "스미요시",
+  "categories": [
+   "culture"
+  ],
+  "summary": "전국 스미요시 신사의 총본사. 가파르게 휜 붉은 아치 다리 '소리하시'와 독특한 고대 양식 본전(국보)이 볼거리다.",
+  "do": "소리하시 다리를 건너 본전 4채를 참배하고 난카이 노면전차 타기",
+  "station": "스미요시타이샤역 (住吉大社, 난카이)",
+  "access": "난바에서 난카이 본선 약 10분, 역에서 걸어서 약 3분. 한카이 전차(노면전차) 스미요시토리이마에역 바로 앞",
+  "jr_pass": [],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "연중. 정월 하쓰모데는 매우 붐빔",
+  "event": "",
+  "duration": "1~2시간",
+  "cost": "무료",
+  "walking": "적음",
+  "fit": "백업",
+  "condition": "",
+  "caution": "소리하시는 경사가 급해 비 오는 날 미끄러움",
+  "lat": 34.6124,
+  "lng": 135.4938,
+  "url": "https://www.sumiyoshitaisha.net/",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/住吉大社"
+  ],
+  "region": "간사이"
+ },
+ {
+  "id": "osaka-shitennoji",
+  "name_ko": "시텐노지",
+  "name_ja": "四天王寺",
+  "pref": "오사카",
+  "area": "덴노지",
+  "categories": [
+   "culture"
+  ],
+  "summary": "쇼토쿠 태자가 세웠다고 전하는 일본 최초의 관사(官寺) 가운데 하나. 중문·오층탑·금당이 일직선으로 놓인 옛 가람 배치가 특징이다.",
+  "do": "중심 가람과 정원 둘러보기, 매월 21·22일 경내 벼룩시장 구경",
+  "station": "덴노지역 (天王寺, JR) / 시텐노지마에유히가오카역 (四天王寺前夕陽ヶ丘, 지하철)",
+  "access": "지하철 시텐노지마에유히가오카역에서 걸어서 약 5분, JR 덴노지역에서 약 15분",
+  "jr_pass": [
+   "간사이 와이드 패스",
+   "간사이 히로시마 패스",
+   "JR간사이 미니 패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "연중. 춘분·추분 무렵 서문 너머 노을(일상관)",
+  "event": "",
+  "duration": "1~2시간",
+  "cost": "경내 무료, 중심 가람·정원 각 소액",
+  "walking": "적음",
+  "fit": "백업",
+  "condition": "",
+  "caution": "",
+  "lat": 34.6539,
+  "lng": 135.5165,
+  "url": "https://www.shitennoji.or.jp/",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/四天王寺"
+  ],
+  "region": "간사이"
+ },
+ {
+  "id": "osaka-tsutenkaku-shinsekai",
+  "name_ko": "쓰텐카쿠·신세카이",
+  "name_ja": "通天閣・新世界",
+  "pref": "오사카",
+  "area": "신세카이 (나니와)",
+  "categories": [
+   "city",
+   "view",
+   "night"
+  ],
+  "summary": "레트로한 네온 간판과 꼬치튀김(구시카쓰) 가게가 몰린 동네 한가운데 서 있는 전망탑. 밤에 탑 조명과 거리 간판이 함께 켜진다.",
+  "do": "쓰텐카쿠 전망대에 오른 뒤 신세카이 골목에서 구시카쓰 먹기",
+  "station": "신이마미야역 (新今宮, JR)",
+  "access": "JR 신이마미야역에서 걸어서 약 10분. 지하철 에비스초역에서 약 3분",
+  "jr_pass": [
+   "간사이 와이드 패스",
+   "간사이 히로시마 패스",
+   "JR간사이 미니 패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "연중. 해 진 뒤 네온이 켜질 때",
+  "event": "",
+  "duration": "1~2시간",
+  "cost": "전망대 약 1,000~1,200엔, 체험형 슬라이드 등 별도",
+  "walking": "적음",
+  "fit": "백업",
+  "condition": "",
+  "caution": "",
+  "lat": 34.6522,
+  "lng": 135.5061,
+  "url": "https://www.tsutenkaku.co.jp/",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Tsūtenkaku"
   ],
   "region": "간사이"
  },
@@ -8580,6 +26118,87 @@ window.SPOTS = [
   "url": "https://www.banpr.co.jp/%E5%A4%A7%E9%98%AA%E5%9F%8E%E5%BE%A1%E5%BA%A7%E8%88%B9/",
   "sources": [
    "https://osaka-info.jp/special/coolosaka/cool-spot/1206/"
+  ],
+  "region": "간사이"
+ },
+ {
+  "id": "osaka-osaka-castle-tenshukaku",
+  "name_ko": "오사카성 천수각",
+  "name_ja": "大阪城天守閣",
+  "pref": "오사카",
+  "area": "오사카성 공원",
+  "categories": [
+   "culture",
+   "view"
+  ],
+  "summary": "도요토미 히데요시가 쌓은 성을 복원한 오사카의 상징. 내부는 역사 전시관이고 꼭대기 층은 시내를 둘러보는 전망대다.",
+  "do": "8층 전망 회랑에서 시내를 보고, 공원 안 니시노마루 정원·매화림(2~3월)까지 산책",
+  "station": "오사카조코엔역 (大阪城公園, JR 오사카순환선)",
+  "access": "JR 오사카조코엔역에서 걸어서 약 20분. 지하철 다니마치욘초메역에서도 약 15분",
+  "jr_pass": [
+   "간사이 와이드 패스",
+   "간사이 히로시마 패스",
+   "JR간사이 미니 패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "3월 말~4월 초 벚꽃, 2~3월 매화림",
+  "event": "",
+  "duration": "반나절",
+  "cost": "천수각 입장 약 1,200엔",
+  "walking": "보통",
+  "fit": "백업",
+  "condition": "",
+  "caution": "주말·성수기에는 입장 대기 줄이 길다",
+  "lat": 34.6872,
+  "lng": 135.5258,
+  "url": "https://www.osakacastle.net/",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/大坂城"
+  ],
+  "region": "간사이"
+ },
+ {
+  "id": "hyogo-kobe-nunobiki-herb-ropeway",
+  "name_ko": "고베 누노비키 허브원·로프웨이",
+  "name_ja": "神戸布引ハーブ園／ロープウェイ",
+  "pref": "효고",
+  "area": "고베 (신고베)",
+  "categories": [
+   "view",
+   "nature",
+   "night"
+  ],
+  "summary": "신고베역 옆에서 로프웨이를 타고 오르는 산비탈 허브 정원. 곤돌라에서 고베 시가지와 바다가 내려다보이고 주말 등엔 야간 영업도 한다.",
+  "do": "로프웨이로 정상 전망 광장에 올라 허브 정원을 내려오며 산책",
+  "station": "신고베역 (新神戸, 산요 신칸센·지하철)",
+  "access": "신고베역에서 걸어서 약 5분 로프웨이 산로쿠역. 산노미야에서 지하철 한 정거장",
+  "jr_pass": [
+   "간사이 와이드 패스",
+   "간사이 히로시마 패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을"
+  ],
+  "best_time": "4~6월 꽃, 여름·가을 야간 영업",
+  "event": "",
+  "duration": "반나절",
+  "cost": "로프웨이 왕복+입원 약 2,000엔 안팎",
+  "walking": "보통",
+  "fit": "매우 잘 맞음",
+  "condition": "강풍 시 로프웨이 운휴",
+  "caution": "야간 영업일은 시즌별로 다르니 공식 확인",
+  "lat": 34.7144,
+  "lng": 135.1919,
+  "url": "https://www.kobeherb.com/",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/布引ハーブ園"
   ],
   "region": "간사이"
  },
@@ -8665,6 +26284,44 @@ window.SPOTS = [
   "region": "간사이"
  },
  {
+  "id": "hyogo-rokko-tenrandai",
+  "name_ko": "롯코산 덴란다이 야경 (롯코 케이블)",
+  "name_ja": "六甲山 天覧台（六甲ケーブル）",
+  "pref": "효고",
+  "area": "고베 (롯코산)",
+  "categories": [
+   "view",
+   "night"
+  ],
+  "summary": "레트로한 롯코 케이블카 산 위 역 바로 앞 전망대. 고베~오사카만으로 이어지는 '천만 달러 야경'을 정면으로 본다.",
+  "do": "케이블카로 올라가 해 질 무렵부터 야경 보기, 시간 되면 롯코 가든 테라스까지 버스 이동",
+  "station": "롯코케이블시타역 (六甲ケーブル下, 롯코 케이블)",
+  "access": "JR 롯코미치역 또는 한큐 롯코역에서 시영버스 16번 약 10~20분 → 롯코 케이블 약 10분 → 롯코산조역 앞",
+  "jr_pass": [],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "연중 해 진 뒤. 겨울 공기가 맑을 때",
+  "event": "",
+  "duration": "반나절",
+  "cost": "케이블 왕복 요금 별도 (공식 확인), 전망대 무료",
+  "walking": "적음",
+  "fit": "매우 잘 맞음",
+  "condition": "맑은 날 야경. 산 위는 시내보다 5~6도 낮음",
+  "caution": "케이블·버스 막차 시간 확인. 겨울엔 산 위가 매우 추움",
+  "lat": 34.752,
+  "lng": 135.2369,
+  "url": "https://www.rokkosan.com/",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/六甲山上駅",
+   "https://ja.wikipedia.org/wiki/六甲山"
+  ],
+  "region": "간사이"
+ },
+ {
   "id": "hyogo-maya-kikuseidai",
   "name_ko": "마야산 기쿠세이다이 야경",
   "name_ja": "摩耶山 掬星台",
@@ -8703,6 +26360,168 @@ window.SPOTS = [
   "region": "간사이"
  },
  {
+  "id": "hyogo-maiko-marine-promenade",
+  "name_ko": "마이코 해상 프롬나드 (아카시 해협 대교)",
+  "name_ja": "舞子海上プロムナード（明石海峡大橋）",
+  "pref": "효고",
+  "area": "고베 (마이코)",
+  "categories": [
+   "view",
+   "cape",
+   "night"
+  ],
+  "summary": "세계 최대급 현수교인 아카시 해협 대교 교각 안에 만든 바다 위 산책로. 유리 바닥 아래로 해협이 보이고, 밤에 다리 조명이 켜진다.",
+  "do": "다리 아래 해상 회랑을 걷고 마이코 공원에서 노을·다리 라이트업 보기",
+  "station": "마이코역 (舞子, JR)",
+  "access": "JR 산노미야에서 쾌속 약 20분, 마이코역에서 걸어서 약 5분",
+  "jr_pass": [
+   "간사이 와이드 패스",
+   "간사이 히로시마 패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "연중. 해 질 무렵 노을과 다리 조명",
+  "event": "",
+  "duration": "1~2시간",
+  "cost": "프롬나드 입장 소액 (공식 확인), 공원 무료",
+  "walking": "적음",
+  "fit": "매우 잘 맞음",
+  "condition": "맑은 날 아와지섬까지 보임",
+  "caution": "",
+  "lat": 34.6313,
+  "lng": 135.0357,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/舞子公園",
+   "https://en.wikipedia.org/wiki/Akashi_Kaikyo_Bridge"
+  ],
+  "region": "간사이"
+ },
+ {
+  "id": "hyogo-kobe-meriken-park-port-tower",
+  "name_ko": "메리켄 파크·고베 포트 타워 야경",
+  "name_ja": "メリケンパーク・神戸ポートタワー",
+  "pref": "효고",
+  "area": "고베 (하버랜드)",
+  "categories": [
+   "night",
+   "view",
+   "city"
+  ],
+  "summary": "붉은 철골 포트 타워와 하얀 해양박물관 지붕이 서 있는 항구 공원. 밤에 타워와 하버랜드 관람차 조명이 바다에 비친다.",
+  "do": "포트 타워 전망대에 오르고 해 진 뒤 메리켄 파크~하버랜드 해변 산책",
+  "station": "모토마치역 (元町, JR)",
+  "access": "JR 모토마치역에서 걸어서 약 10~15분. 하버랜드는 JR 고베역 바로 앞",
+  "jr_pass": [
+   "간사이 와이드 패스",
+   "간사이 히로시마 패스",
+   "JR간사이 미니 패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "연중 해 진 뒤",
+  "event": "",
+  "duration": "1~2시간",
+  "cost": "공원 무료, 포트 타워 전망대 약 1,000엔 안팎 (옥상 데크 포함권 별도)",
+  "walking": "보통",
+  "fit": "매우 잘 맞음",
+  "condition": "",
+  "caution": "포트 타워는 2024년 리뉴얼 재개장. 요금은 공식 확인",
+  "lat": 34.6826,
+  "lng": 135.1867,
+  "url": "https://kobe-port-tower.com/",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/メリケンパーク",
+   "https://ja.wikipedia.org/wiki/神戸ポートタワー"
+  ],
+  "region": "간사이"
+ },
+ {
+  "id": "hyogo-himeji-shosha-engyoji",
+  "name_ko": "쇼샤잔 엔교지 (로프웨이 산사)",
+  "name_ja": "書寫山圓教寺",
+  "pref": "효고",
+  "area": "히메지",
+  "categories": [
+   "culture",
+   "view",
+   "nature"
+  ],
+  "summary": "로프웨이로 오르는 산속 천년 고찰. 숲속에 거대한 목조 강당 세 채가 'ㄷ'자로 서 있어 영화 『라스트 사무라이』 촬영지로도 알려졌다.",
+  "do": "로프웨이로 올라 숲길을 걸어 마니전·삼지당까지 둘러보기",
+  "station": "히메지역 (姫路, JR)",
+  "access": "JR 히메지역에서 신키 버스 약 30분 쇼샤잔 로프웨이 → 로프웨이 약 4분 → 산 위에서 걸어서 약 20~30분(셔틀 마이크로버스 있음)",
+  "jr_pass": [
+   "간사이 와이드 패스",
+   "간사이 히로시마 패스"
+  ],
+  "seasons": [
+   "봄",
+   "가을"
+  ],
+  "best_time": "11월 단풍, 4월 신록",
+  "event": "",
+  "duration": "반나절",
+  "cost": "로프웨이 왕복 약 1,000엔 + 입산료 약 500엔",
+  "walking": "많음",
+  "fit": "매우 잘 맞음",
+  "condition": "강풍 시 로프웨이 운휴",
+  "caution": "산 위 경내가 넓고 돌계단이 있어 걷는 시간이 30분 이상",
+  "lat": 34.8911,
+  "lng": 134.6581,
+  "url": "https://www.shosha.or.jp/",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Engyō-ji"
+  ],
+  "region": "간사이"
+ },
+ {
+  "id": "hyogo-sumaura-sanjo-yuen",
+  "name_ko": "스마우라 산조 유원 (로프웨이·카레이터)",
+  "name_ja": "須磨浦山上遊園",
+  "pref": "효고",
+  "area": "고베 (스마)",
+  "categories": [
+   "view",
+   "train"
+  ],
+  "summary": "바닷가에서 로프웨이와 덜컹거리는 벨트식 탈것 '카레이터', 리프트를 갈아타며 오르는 레트로 산상 유원지. 아카시 해협과 오사카만이 한눈에 보인다.",
+  "do": "로프웨이·카레이터를 타고 회전 전망각에서 바다 보기",
+  "station": "스마우라코엔역 (須磨浦公園, 산요전철)",
+  "access": "산요전철 스마우라코엔역 바로 앞 로프웨이. JR 스마역에서 걸어서 약 15분",
+  "jr_pass": [],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "봄 벚꽃(스마우라 공원), 맑은 날",
+  "event": "",
+  "duration": "1~2시간",
+  "cost": "탈것 코스권 (공식 확인)",
+  "walking": "적음",
+  "fit": "매우 잘 맞음",
+  "condition": "강풍 시 운휴",
+  "caution": "휴원일·영업시간은 공식 사이트에서 확인",
+  "lat": 34.6418,
+  "lng": 135.0928,
+  "url": "https://www.sumaura-yuen.jp/",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/須磨浦山上遊園",
+   "https://www.sumaura-yuen.jp/"
+  ],
+  "region": "간사이"
+ },
+ {
   "id": "hyogo-arima-onsen",
   "name_ko": "아리마 온천",
   "name_ja": "有馬温泉",
@@ -8737,6 +26556,87 @@ window.SPOTS = [
   "sources": [
    "https://www.arima-onsen.com/access/osaka",
    "https://www.arima-onsen.com/pickup/54/3529/"
+  ],
+  "region": "간사이"
+ },
+ {
+  "id": "hyogo-amarube-sora-no-eki",
+  "name_ko": "아마루베 철교 '하늘 역' 전망대",
+  "name_ja": "余部橋梁・余部鉄橋「空の駅」",
+  "pref": "효고",
+  "area": "가미 (아마루베)",
+  "categories": [
+   "train",
+   "view",
+   "cape"
+  ],
+  "summary": "동해 바닷가 마을 위 높이 약 40m에 걸린 철도 다리. 옛 철교 일부를 남긴 전망 시설 '하늘 역'에서 다리와 바다, 지나가는 열차를 본다.",
+  "do": "아마루베역에서 하늘 역 전망대에 올라 바다를 보고 열차가 다리 건너는 모습 촬영",
+  "station": "아마루베역 (餘部, JR 산인선)",
+  "access": "JR 기노사키온센역에서 산인선 보통열차 약 40분 아마루베역 하차, 역 바로 옆. 보통열차는 1~2시간에 1편",
+  "jr_pass": [
+   "간사이 와이드 패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "연중. 맑은 날 바다색, 겨울 설경",
+  "event": "",
+  "duration": "1~2시간",
+  "cost": "무료",
+  "walking": "보통",
+  "fit": "매우 잘 맞음",
+  "condition": "맑은 날 바다 전망",
+  "caution": "열차 간격이 길어 왕복 시간표 먼저 확인. 역에서 지상 마을까지는 언덕길(엘리베이터 있음)",
+  "lat": 35.6497,
+  "lng": 134.5603,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/余部橋梁",
+   "https://ja.wikipedia.org/wiki/餘部駅"
+  ],
+  "region": "간사이"
+ },
+ {
+  "id": "hyogo-ako-misaki-onsen",
+  "name_ko": "아코 미사키 온천 (세토 내해 노을)",
+  "name_ja": "赤穂御崎温泉",
+  "pref": "효고",
+  "area": "아코",
+  "categories": [
+   "onsen",
+   "night",
+   "cape"
+  ],
+  "summary": "세토 내해로 튀어나온 곶 위 온천 마을. 바다를 내려다보는 노천탕에서 섬 사이로 지는 노을을 본다.",
+  "do": "미사키 곶 산책로에서 바다를 보고 온천 숙소 노천탕에서 노을 감상",
+  "station": "반슈아코역 (播州赤穂, JR 아코선)",
+  "access": "JR 히메지에서 아코선 약 30분 반슈아코역, 신키 버스 약 15분 미사키 방면",
+  "jr_pass": [
+   "간사이 와이드 패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "연중 해 질 무렵. 겨울 굴 철",
+  "event": "아코 의사 마쓰리 매년 12월 14일 (시내)",
+  "duration": "1박 추천",
+  "cost": "숙박·당일 입욕은 숙소별",
+  "walking": "적음",
+  "fit": "매우 잘 맞음",
+  "condition": "맑은 날 노을",
+  "caution": "당일 입욕 가능한 숙소는 공식 확인",
+  "lat": 34.727,
+  "lng": 134.4068,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/赤穂御崎温泉"
   ],
   "region": "간사이"
  },
@@ -8781,6 +26681,44 @@ window.SPOTS = [
   "region": "간사이"
  },
  {
+  "id": "hyogo-yumura-onsen",
+  "name_ko": "유무라 온천 (아라유)",
+  "name_ja": "湯村温泉（荒湯）",
+  "pref": "효고",
+  "area": "신온센 (유무라)",
+  "categories": [
+   "onsen",
+   "town"
+  ],
+  "summary": "약 98도 원천이 솟는 '아라유'에서 달걀을 삶아 먹는 산골 온천 마을. 강가에 족욕장이 있고 강물 위로 김이 오른다.",
+  "do": "아라유에서 온천 달걀 삶고 강변 족욕 뒤 공중탕 '야쿠시유' 입욕",
+  "station": "하마사카역 (浜坂, JR 산인선)",
+  "access": "JR 하마사카역에서 젠탄 버스 약 25분 유무라 온천 하차. 오사카·고베에서 고속버스도 있음",
+  "jr_pass": [
+   "간사이 와이드 패스"
+  ],
+  "seasons": [
+   "가을",
+   "겨울"
+  ],
+  "best_time": "11~3월 대게 철, 눈 오는 날",
+  "event": "",
+  "duration": "1박 추천",
+  "cost": "공중탕 약 500엔 안팎, 숙박 별도",
+  "walking": "적음",
+  "fit": "매우 잘 맞음",
+  "condition": "",
+  "caution": "버스 편수 적음. 아라유 물은 매우 뜨거워 손 넣기 금지",
+  "lat": 35.5549,
+  "lng": 134.488,
+  "url": "",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Yumura_Onsen",
+   "https://www.wikidata.org/wiki/Q8061163"
+  ],
+  "region": "간사이"
+ },
+ {
   "id": "hyogo-takeda-castle",
   "name_ko": "다케다성 터 (천공의 성)",
   "name_ja": "竹田城跡",
@@ -8816,6 +26754,279 @@ window.SPOTS = [
    "https://www.city.asago.hyogo.jp/site/takeda/",
    "https://www.city.asago.hyogo.jp/site/takeda/3090.html",
    "https://www.city.asago.hyogo.jp/site/takeda/3102.html"
+  ],
+  "region": "간사이"
+ },
+ {
+  "id": "hyogo-tamba-sasayama",
+  "name_ko": "단바사사야마 성하마을",
+  "name_ja": "丹波篠山 城下町（篠山城跡）",
+  "pref": "효고",
+  "area": "단바사사야마",
+  "categories": [
+   "town",
+   "culture"
+  ],
+  "summary": "사사야마성 터 주변에 무가 저택과 상가 거리가 남은 산간 분지 마을. 가을엔 검은콩·밤·멧돼지 전골이 명물이다.",
+  "do": "성터 오쇼인 복원 건물과 가와라마치 상가 거리 걷고 검은콩 간식 맛보기",
+  "station": "사사야마구치역 (篠山口, JR 후쿠치야마선)",
+  "access": "JR 오사카역에서 후쿠치야마선 쾌속 약 1시간 10분, 사사야마구치역에서 신키 버스 약 15분",
+  "jr_pass": [
+   "간사이 와이드 패스"
+  ],
+  "seasons": [
+   "봄",
+   "가을"
+  ],
+  "best_time": "4월 벚꽃, 10월 검은콩 철",
+  "event": "단바사사야마 데칸쇼 마쓰리 매년 8월 중순 (날짜는 매년 공식 확인)",
+  "duration": "반나절",
+  "cost": "오쇼인 입장 약 400엔",
+  "walking": "보통",
+  "fit": "조건부",
+  "condition": "",
+  "caution": "",
+  "lat": 35.0728,
+  "lng": 135.2183,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/篠山城"
+  ],
+  "region": "간사이"
+ },
+ {
+  "id": "hyogo-ieshima-islands",
+  "name_ko": "이에시마 제도",
+  "name_ja": "家島諸島",
+  "pref": "효고",
+  "area": "히메지 (이에시마)",
+  "categories": [
+   "cape",
+   "boat",
+   "town"
+  ],
+  "summary": "히메지 앞바다 하리마나다에 떠 있는 섬들. 관광지화가 덜 된 어촌 골목과 섬 언덕 전망을 고속선으로 당일 오갈 수 있다.",
+  "do": "고속선으로 이에시마 본섬에 건너가 항구 골목과 언덕 신사 전망 산책, 해산물 점심",
+  "station": "히메지역 (姫路, JR)",
+  "access": "JR 히메지역에서 신키 버스 약 20분 히메지항 → 고속선 약 30분 이에시마",
+  "jr_pass": [
+   "간사이 와이드 패스",
+   "간사이 히로시마 패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을"
+  ],
+  "best_time": "봄~가을 맑은 날",
+  "event": "",
+  "duration": "하루",
+  "cost": "고속선 편도 약 1,000엔 안팎 (공식 확인)",
+  "walking": "보통",
+  "fit": "조건부",
+  "condition": "강풍·높은 파도 시 결항",
+  "caution": "섬 안 식당·상점이 적고 일찍 닫음",
+  "lat": 34.6681,
+  "lng": 134.5292,
+  "url": "",
+  "sources": [
+   "https://www.wikidata.org/wiki/Q11455415",
+   "https://ja.wikipedia.org/wiki/姫路港"
+  ],
+  "region": "간사이"
+ },
+ {
+  "id": "hyogo-izushi-castle-town",
+  "name_ko": "이즈시 성하마을 (사라소바)",
+  "name_ja": "出石城下町",
+  "pref": "효고",
+  "area": "도요오카 (이즈시)",
+  "categories": [
+   "town"
+  ],
+  "summary": "'단마의 작은 교토'로 불리는 옛 성하마을. 시계탑 신코로와 성터 돌담이 남아 있고, 작은 접시 여러 장에 나눠 담는 '사라소바'가 명물이다.",
+  "do": "신코로 시계탑·성터를 둘러보고 사라소바 먹기",
+  "station": "도요오카역 (豊岡, JR)",
+  "access": "JR 도요오카역에서 젠탄 버스 약 30분 이즈시 하차. 기노사키 온천과 묶기 좋음",
+  "jr_pass": [
+   "간사이 와이드 패스",
+   "간사이 히로시마 패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "4월 벚꽃, 11월 단풍",
+  "event": "",
+  "duration": "반나절",
+  "cost": "사라소바 약 1,000~1,500엔",
+  "walking": "보통",
+  "fit": "조건부",
+  "condition": "",
+  "caution": "버스는 1시간에 1~2편 수준",
+  "lat": 35.4614,
+  "lng": 134.875,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/出石町"
+  ],
+  "region": "간사이"
+ },
+ {
+  "id": "hyogo-kobe-kitano-ijinkan",
+  "name_ko": "고베 기타노 이진칸 거리",
+  "name_ja": "北野異人館街（北野町山本通）",
+  "pref": "효고",
+  "area": "고베 (기타노)",
+  "categories": [
+   "town",
+   "culture"
+  ],
+  "summary": "개항 때 외국인들이 지은 서양식 주택이 언덕 비탈에 남아 있는 거리. 풍향계의 집·비늘의 집 등을 둘러본다.",
+  "do": "언덕길을 오르며 이진칸 몇 곳 관람하고 카페에서 쉬기",
+  "station": "산노미야역 (三ノ宮, JR) / 신고베역 (新神戸)",
+  "access": "JR 산노미야역에서 기타노자카를 걸어 올라 약 15분. 시티루프 버스도 있음",
+  "jr_pass": [
+   "간사이 와이드 패스",
+   "간사이 히로시마 패스",
+   "JR간사이 미니 패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "연중. 크리스마스 시즌 장식",
+  "event": "",
+  "duration": "반나절",
+  "cost": "관 1곳 약 500~1,000엔, 여러 관 공통권 있음",
+  "walking": "보통",
+  "fit": "백업",
+  "condition": "",
+  "caution": "언덕길이라 오르막이 꽤 있다",
+  "lat": 34.7013,
+  "lng": 135.1897,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/北野町山本通"
+  ],
+  "region": "간사이"
+ },
+ {
+  "id": "hyogo-kobe-nankinmachi",
+  "name_ko": "고베 난킨마치 (차이나타운)",
+  "name_ja": "南京町",
+  "pref": "효고",
+  "area": "고베 (모토마치)",
+  "categories": [
+   "city"
+  ],
+  "summary": "일본 3대 차이나타운 중 하나. 짧은 거리에 만두·고기만두 노점이 빽빽하다.",
+  "do": "고기만두와 길거리 음식 먹으며 걷고 모토마치 상점가로 이어 가기",
+  "station": "모토마치역 (元町, JR·한신)",
+  "access": "JR 모토마치역에서 걸어서 약 5분",
+  "jr_pass": [
+   "간사이 와이드 패스",
+   "간사이 히로시마 패스",
+   "JR간사이 미니 패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "연중. 음력 설 춘절제",
+  "event": "춘절제는 매년 음력 설 무렵 (날짜는 매년 공식 확인)",
+  "duration": "1~2시간",
+  "cost": "먹거리 500~2,000엔",
+  "walking": "적음",
+  "fit": "백업",
+  "condition": "",
+  "caution": "",
+  "lat": 34.6881,
+  "lng": 135.1881,
+  "url": "https://www.nankinmachi.or.jp/",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/南京町_(神戸市)"
+  ],
+  "region": "간사이"
+ },
+ {
+  "id": "hyogo-takarazuka-grand-theater",
+  "name_ko": "다카라즈카 대극장",
+  "name_ja": "宝塚大劇場",
+  "pref": "효고",
+  "area": "다카라즈카",
+  "categories": [
+   "city",
+   "culture"
+  ],
+  "summary": "여성만으로 무대를 꾸미는 다카라즈카 가극단의 본거지 극장. 화려한 레뷰 공연을 보고 '꽃길' 산책로를 걷는다.",
+  "do": "공연 관람 (당일권·외국인용 예매 확인), 데즈카 오사무 기념관과 묶기",
+  "station": "다카라즈카역 (宝塚, JR·한큐)",
+  "access": "JR 오사카역에서 다카라즈카선 쾌속 약 30분, 역에서 꽃길 따라 걸어서 약 10분",
+  "jr_pass": [
+   "간사이 와이드 패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "연중 (공연 일정 확인)",
+  "event": "",
+  "duration": "반나절",
+  "cost": "공연 약 3,500~12,500엔 (좌석별)",
+  "walking": "적음",
+  "fit": "백업",
+  "condition": "",
+  "caution": "인기 공연은 매진이 빠름. 공연 사이 휴연 기간 있음",
+  "lat": 34.8072,
+  "lng": 135.3464,
+  "url": "https://kageki.hankyu.co.jp/",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/宝塚大劇場"
+  ],
+  "region": "간사이"
+ },
+ {
+  "id": "hyogo-awaji-yumebutai",
+  "name_ko": "아와지 유메부타이 (백단원)",
+  "name_ja": "淡路夢舞台（百段苑）",
+  "pref": "효고",
+  "area": "아와지",
+  "categories": [
+   "culture",
+   "view"
+  ],
+  "summary": "안도 다다오가 설계한 아와지섬 북부의 복합 시설. 언덕 비탈 100개 화단 '백단원'과 물·콘크리트 공간이 바다를 향해 펼쳐진다.",
+  "do": "백단원 계단 화단을 올라 오사카만 전망 보고, 옆 기적의 별 식물관 관람",
+  "station": "고속마이코 정류장 (高速舞子, JR 마이코역 연결) → 아와지 유메부타이 버스 정류장",
+  "access": "JR 마이코역 옆 고속마이코 정류장 또는 산노미야에서 고속버스 약 20~50분 → 유메부타이 앞 하차",
+  "jr_pass": [],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을"
+  ],
+  "best_time": "4~5월 꽃",
+  "event": "",
+  "duration": "반나절",
+  "cost": "백단원 산책 무료, 식물관 입장 약 750엔 (공식 확인)",
+  "walking": "보통",
+  "fit": "백업",
+  "condition": "",
+  "caution": "고속버스 노선·편수 사전 확인",
+  "lat": 34.5609,
+  "lng": 135.0069,
+  "url": "https://www.yumebutai.co.jp/",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/淡路夢舞台"
   ],
   "region": "간사이"
  },
@@ -8974,6 +27185,83 @@ window.SPOTS = [
   "region": "간사이"
  },
  {
+  "id": "nara-kasuga-taisha",
+  "name_ko": "가스가 대사 (만등롱)",
+  "name_ja": "春日大社（万燈籠）",
+  "pref": "나라",
+  "area": "나라",
+  "categories": [
+   "culture",
+   "festival",
+   "night"
+  ],
+  "summary": "주홍색 회랑과 약 3,000개의 돌·청동 등롱으로 유명한 신사. 1년에 두 번 모든 등롱에 불을 켜는 만등롱 행사가 있다.",
+  "do": "이끼 낀 돌등롱 참배길을 걷고, 회랑의 매달린 청동 등롱 보기",
+  "station": "나라역 (奈良, JR) / 긴테쓰나라역",
+  "access": "JR 나라역에서 시내 순환버스 약 10분 가스가타이샤 혼덴 하차. 긴테쓰나라역에서 걸어서 약 25분",
+  "jr_pass": [
+   "간사이 와이드 패스",
+   "간사이 히로시마 패스",
+   "JR간사이 미니 패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "4월 말~5월 등나무, 만등롱 날 밤",
+  "event": "만등롱: 매년 2월 절분, 8월 14~15일 (시간은 매년 공식 확인)",
+  "duration": "1~2시간",
+  "cost": "경내 무료, 본전 특별 참배 약 700엔",
+  "walking": "보통",
+  "fit": "조건부",
+  "condition": "만등롱 날에 진가",
+  "caution": "",
+  "lat": 34.6814,
+  "lng": 135.8483,
+  "url": "https://www.kasugataisha.or.jp/",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/春日大社"
+  ],
+  "region": "간사이"
+ },
+ {
+  "id": "nara-muroji",
+  "name_ko": "무로지 (여인 고야)",
+  "name_ja": "室生寺",
+  "pref": "나라",
+  "area": "우다 (무로)",
+  "categories": [
+   "culture",
+   "nature"
+  ],
+  "summary": "여성 참배를 허락해 '여인 고야'로 불린 깊은 산속 절. 숲속에 서 있는 일본에서 가장 작은 국보 오층탑이 아름답다.",
+  "do": "붉은 다리를 건너 계단을 올라 오층탑과 금당 보고, 오쿠노인까지 돌계단 오르기",
+  "station": "무로구치오노역 (室生口大野, 긴테쓰 오사카선)",
+  "access": "긴테쓰 무로구치오노역에서 나라교통 버스 약 15분 무로지 하차 (1시간 1편 정도)",
+  "jr_pass": [],
+  "seasons": [
+   "봄",
+   "가을"
+  ],
+  "best_time": "4월 말 석남화, 11월 단풍",
+  "event": "",
+  "duration": "반나절",
+  "cost": "입산료 약 600엔",
+  "walking": "많음",
+  "fit": "조건부",
+  "condition": "꽃·단풍철에 진가",
+  "caution": "오쿠노인까지 가파른 돌계단 약 400단",
+  "lat": 34.5379,
+  "lng": 136.0406,
+  "url": "http://www.murouji.or.jp/",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/室生寺"
+  ],
+  "region": "간사이"
+ },
+ {
   "id": "nara-soni-plateau",
   "name_ko": "소니 고원 (억새 평원)",
   "name_ja": "曽爾高原",
@@ -9006,6 +27294,79 @@ window.SPOTS = [
   "sources": [
    "https://ja.wikipedia.org/wiki/曽爾高原",
    "https://www.vill.soni.nara.jp/"
+  ],
+  "region": "간사이"
+ },
+ {
+  "id": "nara-tsukigase-plum",
+  "name_ko": "쓰키가세 매화 계곡",
+  "name_ja": "月ヶ瀬梅林",
+  "pref": "나라",
+  "area": "나라 (쓰키가세)",
+  "categories": [
+   "nature"
+  ],
+  "summary": "나바리강 협곡 비탈에 약 1만 그루 매화가 피는 명승. 댐 호수와 매화가 함께 보이는 산골 풍경이다.",
+  "do": "매화철 계곡 산책로를 걸으며 호수 전망 포인트 돌기",
+  "station": "쓰키가세구치역 (月ヶ瀬口, JR 간사이 본선)",
+  "access": "JR 가모역에서 간사이 본선 약 30분 쓰키가세구치역, 버스 약 10분 (매화철 임시 버스 확인)",
+  "jr_pass": [
+   "간사이 와이드 패스"
+  ],
+  "seasons": [
+   "겨울",
+   "봄"
+  ],
+  "best_time": "2월 말~3월 중순",
+  "event": "매화 축제 매년 2월 말~3월 (날짜는 매년 공식 확인)",
+  "duration": "반나절",
+  "cost": "무료",
+  "walking": "보통",
+  "fit": "조건부",
+  "condition": "매화철에만 진가",
+  "caution": "간사이 본선 가모~가메야마 구간은 1시간 1편 수준",
+  "lat": 34.7075,
+  "lng": 136.0392,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/月ヶ瀬梅林"
+  ],
+  "region": "간사이"
+ },
+ {
+  "id": "nara-omiwa-shrine-yamanobe",
+  "name_ko": "오미와 신사·야마노베노미치",
+  "name_ja": "大神神社・山の辺の道",
+  "pref": "나라",
+  "area": "사쿠라이 (미와)",
+  "categories": [
+   "culture",
+   "nature"
+  ],
+  "summary": "본전 없이 미와산 자체를 신으로 모시는 일본에서 가장 오래된 신사 중 하나. 일본 최고(最古)의 길로 불리는 산자락 옛길이 이어진다.",
+  "do": "거대한 도리이를 지나 참배하고, 야마노베노미치를 따라 덴리 방향으로 산책 (명물 미와 소면)",
+  "station": "미와역 (三輪, JR 사쿠라이선)",
+  "access": "JR 나라역에서 사쿠라이선(만요 마호로바선) 약 30분, 미와역에서 걸어서 약 5분",
+  "jr_pass": [
+   "간사이 와이드 패스"
+  ],
+  "seasons": [
+   "봄",
+   "가을"
+  ],
+  "best_time": "봄·가을 산책 철",
+  "event": "",
+  "duration": "반나절",
+  "cost": "무료",
+  "walking": "많음",
+  "fit": "조건부",
+  "condition": "맑은 날 걷기",
+  "caution": "야마노베노미치를 덴리까지 걸으면 약 15km. 일부 구간만 걸어도 됨. 미와산 입산은 별도 규칙",
+  "lat": 34.5288,
+  "lng": 135.853,
+  "url": "https://oomiwa.or.jp/",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/大神神社"
   ],
   "region": "간사이"
  },
@@ -9044,6 +27405,262 @@ window.SPOTS = [
    "https://ja.wikipedia.org/wiki/吉野山",
    "https://ja.wikipedia.org/wiki/吉野ロープウェイ",
    "https://www.kintetsu.co.jp/foreign/english/ticket/"
+  ],
+  "region": "간사이"
+ },
+ {
+  "id": "nara-uda-matsuyama",
+  "name_ko": "우다 마쓰야마 옛 거리",
+  "name_ja": "宇陀松山（重要伝統的建造物群保存地区）",
+  "pref": "나라",
+  "area": "우다 (오우다)",
+  "categories": [
+   "town"
+  ],
+  "summary": "약재·칡 상인으로 번성한 산골 상가 마을. 옛 약방과 칡 가루 가게, 격자창 상가가 1km 남짓 이어진다.",
+  "do": "옛 약방 자료관을 보고 요시노쿠즈(칡) 디저트 맛보며 거리 산책",
+  "station": "하이바라역 (榛原, 긴테쓰 오사카선)",
+  "access": "긴테쓰 하이바라역에서 나라교통 버스 약 20분 오우다 하차",
+  "jr_pass": [],
+  "seasons": [
+   "봄",
+   "가을"
+  ],
+  "best_time": "봄·가을, 3월 초 히나 인형 장식 시기",
+  "event": "",
+  "duration": "반나절",
+  "cost": "무료 (자료관 소액)",
+  "walking": "보통",
+  "fit": "조건부",
+  "condition": "",
+  "caution": "버스 편수가 많지 않음",
+  "lat": 34.48,
+  "lng": 135.9323,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/松山_(宇陀市)"
+  ],
+  "region": "간사이"
+ },
+ {
+  "id": "nara-imaicho",
+  "name_ko": "이마이초 (전통 건물 지구)",
+  "name_ja": "今井町",
+  "pref": "나라",
+  "area": "가시하라",
+  "categories": [
+   "town"
+  ],
+  "summary": "에도 시대 상인 자치 마을 전체가 남아 500채 넘는 옛 민가가 줄지어 선 전통 건물 보존 지구. 관광객이 적어 조용하다.",
+  "do": "격자창 골목을 걷고 공개 민가(이마니시가 주택 등) 둘러보기",
+  "station": "야기니시구치역 (八木西口, 긴테쓰 가시하라선)",
+  "access": "긴테쓰 야마토야기역에서 한 정거장 야기니시구치역, 걸어서 약 5분. JR 우네비역에서도 도보권",
+  "jr_pass": [],
+  "seasons": [
+   "봄",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "봄·가을",
+  "event": "",
+  "duration": "1~2시간",
+  "cost": "골목 무료, 공개 민가 소액",
+  "walking": "보통",
+  "fit": "조건부",
+  "condition": "",
+  "caution": "주민이 사는 마을이니 조용히",
+  "lat": 34.5069,
+  "lng": 135.7867,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/今井町"
+  ],
+  "region": "간사이"
+ },
+ {
+  "id": "nara-ikoma-sanjo",
+  "name_ko": "이코마 산상 유원지·케이블카",
+  "name_ja": "生駒山上遊園地・生駒ケーブル",
+  "pref": "나라",
+  "area": "이코마",
+  "categories": [
+   "view",
+   "night",
+   "train"
+  ],
+  "summary": "강아지·고양이 모양 케이블카를 타고 오르는 산 위 레트로 유원지. 정상에선 서쪽으로 오사카 평야 전체 야경이 펼쳐진다.",
+  "do": "케이블카로 올라 비행탑 등 옛 놀이기구를 타고 오사카 쪽 노을·야경 보기",
+  "station": "이코마역 (生駒, 긴테쓰 나라선)",
+  "access": "긴테쓰 난바에서 쾌속급행 약 20분 이코마역 → 도리이마에역에서 이코마 케이블 환승 약 20분",
+  "jr_pass": [],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을"
+  ],
+  "best_time": "여름 야간 영업일, 맑은 날 노을",
+  "event": "",
+  "duration": "반나절",
+  "cost": "입원 무료, 놀이기구·케이블 별도",
+  "walking": "적음",
+  "fit": "조건부",
+  "condition": "맑은 날 전망",
+  "caution": "겨울(대략 12월~3월 중순) 휴원. 2026년 10월 기준 공식 사이트가 일시 중단 상태라 운영 정보는 공식 X 계정에서 확인",
+  "lat": 34.6796,
+  "lng": 135.6789,
+  "url": "https://www.ikomasanjou.com/",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/生駒山上遊園地",
+   "https://www.ikomasanjou.com/"
+  ],
+  "region": "간사이"
+ },
+ {
+  "id": "nara-hasedera",
+  "name_ko": "하세데라 (꽃의 절)",
+  "name_ja": "長谷寺",
+  "pref": "나라",
+  "area": "사쿠라이 (하쓰세)",
+  "categories": [
+   "culture",
+   "nature"
+  ],
+  "summary": "399단 지붕 덮인 회랑 계단을 올라 절벽 위 본당(무대)에 닿는 '꽃의 절'. 모란·수국·단풍이 계절마다 경내를 덮는다.",
+  "do": "등랑 계단을 올라 본당 무대에서 산골 풍경 보고, 문전 거리에서 구사모치 먹기",
+  "station": "하세데라역 (長谷寺, 긴테쓰 오사카선)",
+  "access": "긴테쓰 오사카우에혼마치에서 급행 약 1시간, 하세데라역에서 걸어서 약 20분",
+  "jr_pass": [],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을"
+  ],
+  "best_time": "4월 말~5월 초 모란, 6월 수국, 11월 단풍",
+  "event": "",
+  "duration": "반나절",
+  "cost": "입산료 약 1,000엔",
+  "walking": "많음",
+  "fit": "조건부",
+  "condition": "꽃·단풍철에 진가",
+  "caution": "역에서 내리막·오르막 20분, 경내 계단 399단",
+  "lat": 34.5359,
+  "lng": 135.9068,
+  "url": "https://www.hasedera.or.jp/",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/長谷寺"
+  ],
+  "region": "간사이"
+ },
+ {
+  "id": "nara-heijo-palace-site",
+  "name_ko": "헤이조큐 터 (주작문·대극전)",
+  "name_ja": "平城宮跡",
+  "pref": "나라",
+  "area": "나라",
+  "categories": [
+   "culture",
+   "night"
+  ],
+  "summary": "나라 시대 궁궐 터가 넓은 초원으로 남은 세계유산. 복원된 주작문과 대극전이 서 있고 탁 트인 들판 너머로 노을이 진다.",
+  "do": "복원 건물을 둘러보고 해 질 무렵 주작문 앞 초원에서 노을 보기",
+  "station": "야마토사이다이지역 (大和西大寺, 긴테쓰)",
+  "access": "긴테쓰 야마토사이다이지역에서 걸어서 약 10~20분 (긴테쓰 선로가 유적 안을 지나감)",
+  "jr_pass": [],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "연중 해 질 무렵",
+  "event": "",
+  "duration": "1~2시간",
+  "cost": "무료",
+  "walking": "많음",
+  "fit": "조건부",
+  "condition": "맑은 날 노을",
+  "caution": "유적이 매우 넓어 주작문~대극전 사이만 걸어도 약 15분, 그늘 적음",
+  "lat": 34.6911,
+  "lng": 135.7956,
+  "url": "https://www.heijo-park.jp/",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/平城宮"
+  ],
+  "region": "간사이"
+ },
+ {
+  "id": "nara-kashihara-jingu",
+  "name_ko": "가시하라 신궁",
+  "name_ja": "橿原神宮",
+  "pref": "나라",
+  "area": "가시하라",
+  "categories": [
+   "culture"
+  ],
+  "summary": "초대 진무 천황을 모신 넓은 신궁. 우네비산 자락의 탁 트인 자갈 광장과 거대한 경내가 특징이다.",
+  "do": "외배전 앞 광장 참배 후 이마이초·아스카와 묶어 돌기",
+  "station": "가시하라진구마에역 (橿原神宮前, 긴테쓰)",
+  "access": "긴테쓰 가시하라진구마에역에서 걸어서 약 10분",
+  "jr_pass": [],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "연중. 정월",
+  "event": "",
+  "duration": "1~2시간",
+  "cost": "무료",
+  "walking": "보통",
+  "fit": "백업",
+  "condition": "",
+  "caution": "",
+  "lat": 34.4883,
+  "lng": 135.7861,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/橿原神宮"
+  ],
+  "region": "간사이"
+ },
+ {
+  "id": "nara-kofukuji",
+  "name_ko": "고후쿠지 (국보관·오층탑)",
+  "name_ja": "興福寺",
+  "pref": "나라",
+  "area": "나라",
+  "categories": [
+   "culture"
+  ],
+  "summary": "나라 공원 입구에 있는 후지와라 가문의 절. 국보관의 아수라상 등 불상 컬렉션이 일본 최고 수준이다.",
+  "do": "국보관에서 아수라상 보고 중금당·동금당 관람",
+  "station": "긴테쓰나라역 (近鉄奈良) / 나라역 (奈良, JR)",
+  "access": "긴테쓰나라역에서 걸어서 약 5분, JR 나라역에서 약 15분",
+  "jr_pass": [
+   "간사이 와이드 패스",
+   "간사이 히로시마 패스",
+   "JR간사이 미니 패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "연중",
+  "event": "",
+  "duration": "1~2시간",
+  "cost": "국보관 약 900엔, 동금당 별도",
+  "walking": "적음",
+  "fit": "백업",
+  "condition": "",
+  "caution": "오층탑은 대규모 수리 중으로 장기간 가림막에 덮여 있음 (공식 확인)",
+  "lat": 34.6833,
+  "lng": 135.8312,
+  "url": "https://www.kohfukuji.com/",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/興福寺"
   ],
   "region": "간사이"
  },
@@ -9091,6 +27708,128 @@ window.SPOTS = [
   "region": "간사이"
  },
  {
+  "id": "nara-national-museum",
+  "name_ko": "나라 국립박물관 (쇼소인전)",
+  "name_ja": "奈良国立博物館（正倉院展）",
+  "pref": "나라",
+  "area": "나라",
+  "categories": [
+   "culture"
+  ],
+  "summary": "불교 미술 중심의 국립박물관. 매년 가을 도다이지 쇼소인 보물을 공개하는 '쇼소인전' 때는 긴 줄이 선다.",
+  "do": "불상 전시관(나라불상관) 관람, 가을엔 쇼소인전",
+  "station": "긴테쓰나라역 (近鉄奈良) / 나라역 (奈良, JR)",
+  "access": "긴테쓰나라역에서 걸어서 약 15분, JR 나라역에서 시내 순환버스 약 10분",
+  "jr_pass": [
+   "간사이 와이드 패스",
+   "간사이 히로시마 패스",
+   "JR간사이 미니 패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "10월 말~11월 중순 쇼소인전",
+  "event": "쇼소인전 매년 10월 말~11월 중순 (날짜는 매년 공식 확인)",
+  "duration": "1~2시간",
+  "cost": "명품전 약 700엔, 쇼소인전은 별도 요금·예약제",
+  "walking": "적음",
+  "fit": "백업",
+  "condition": "",
+  "caution": "월요일 휴관(공휴일 예외)",
+  "lat": 34.6837,
+  "lng": 135.8364,
+  "url": "https://www.narahaku.go.jp/",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/奈良国立博物館"
+  ],
+  "region": "간사이"
+ },
+ {
+  "id": "nara-naramachi",
+  "name_ko": "나라마치 (옛 상가 거리)",
+  "name_ja": "ならまち",
+  "pref": "나라",
+  "area": "나라",
+  "categories": [
+   "town"
+  ],
+  "summary": "세계유산 간고지 주변에 에도~메이지 시대 격자창 상가가 남은 골목 동네. 작은 카페·잡화점·전통 공예 가게가 많다.",
+  "do": "격자 상가 '나라마치 고시노이에'와 간고지를 보고 골목 카페에서 쉬기",
+  "station": "긴테쓰나라역 (近鉄奈良) / 나라역 (奈良, JR)",
+  "access": "긴테쓰나라역에서 걸어서 약 15분, JR 나라역에서 약 20분",
+  "jr_pass": [
+   "간사이 와이드 패스",
+   "간사이 히로시마 패스",
+   "JR간사이 미니 패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "연중. 저녁엔 상점이 일찍 닫음",
+  "event": "",
+  "duration": "반나절",
+  "cost": "골목 무료, 간고지 약 700엔",
+  "walking": "보통",
+  "fit": "백업",
+  "condition": "",
+  "caution": "",
+  "lat": 34.6758,
+  "lng": 135.83,
+  "url": "",
+  "sources": [
+   "https://www.wikidata.org/wiki/Q11274524",
+   "https://ja.wikipedia.org/wiki/元興寺"
+  ],
+  "region": "간사이"
+ },
+ {
+  "id": "nara-shigisan-chogosonshiji",
+  "name_ko": "시기산 조고손시지 (거대 호랑이)",
+  "name_ja": "信貴山朝護孫子寺",
+  "pref": "나라",
+  "area": "헤구리 (시기산)",
+  "categories": [
+   "culture",
+   "view"
+  ],
+  "summary": "쇼토쿠 태자가 호랑이의 해·날·시에 비사문천을 만났다는 전설의 산사. 입구의 거대한 '세계 제일 복호랑이' 조형물이 명물이다.",
+  "do": "거대 호랑이와 사진 찍고 본당 무대에서 나라 분지 전망, 계단 가람 둘러보기",
+  "station": "오지역 (王寺, JR 야마토지선)",
+  "access": "JR 오지역에서 나라교통 버스 약 20분 신기산몬 하차, 걸어서 약 5분. 긴테쓰 시기산시타역에서도 버스",
+  "jr_pass": [
+   "간사이 와이드 패스",
+   "간사이 히로시마 패스",
+   "JR간사이 미니 패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "연중. 정월, 가을",
+  "event": "",
+  "duration": "반나절",
+  "cost": "경내 무료 (계단 지하 순례 등 소액)",
+  "walking": "보통",
+  "fit": "백업",
+  "condition": "",
+  "caution": "버스 편수 확인",
+  "lat": 34.6094,
+  "lng": 135.6713,
+  "url": "https://www.sigisan.or.jp/",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/朝護孫子寺"
+  ],
+  "region": "간사이"
+ },
+ {
   "id": "nara-asuka-ishibutai",
   "name_ko": "아스카 (이시부타이 고분·자전거 유적 순례)",
   "name_ja": "明日香村（石舞台古墳）",
@@ -9124,6 +27863,123 @@ window.SPOTS = [
   "sources": [
    "https://ja.wikipedia.org/wiki/石舞台古墳",
    "https://asukamura.com/sightseeing/ishibutai-kofun/"
+  ],
+  "region": "간사이"
+ },
+ {
+  "id": "nara-yakushiji-toshodaiji",
+  "name_ko": "야쿠시지·도쇼다이지 (니시노쿄)",
+  "name_ja": "薬師寺・唐招提寺",
+  "pref": "나라",
+  "area": "나라 (니시노쿄)",
+  "categories": [
+   "culture"
+  ],
+  "summary": "걸어서 10분 거리에 있는 두 세계유산 절. 야쿠시지는 붉은 가람과 쌍탑, 도쇼다이지는 간진 화상이 세운 장중한 금당이 볼거리다.",
+  "do": "야쿠시지 동탑·서탑을 보고 소나무길 따라 도쇼다이지까지 걷기",
+  "station": "니시노쿄역 (西ノ京, 긴테쓰 가시하라선)",
+  "access": "긴테쓰 야마토사이다이지역에서 가시하라선 한 정거장 니시노쿄역, 야쿠시지는 바로 앞, 도쇼다이지는 걸어서 약 10분",
+  "jr_pass": [],
+  "seasons": [
+   "봄",
+   "가을"
+  ],
+  "best_time": "봄·가을",
+  "event": "",
+  "duration": "반나절",
+  "cost": "야쿠시지 약 1,000~1,600엔(공개 범위별), 도쇼다이지 약 1,000엔",
+  "walking": "보통",
+  "fit": "백업",
+  "condition": "",
+  "caution": "",
+  "lat": 34.6684,
+  "lng": 135.7843,
+  "url": "https://yakushiji.or.jp/",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/薬師寺",
+   "https://ja.wikipedia.org/wiki/唐招提寺"
+  ],
+  "region": "간사이"
+ },
+ {
+  "id": "nara-horyuji",
+  "name_ko": "호류지",
+  "name_ja": "法隆寺",
+  "pref": "나라",
+  "area": "이카루가",
+  "categories": [
+   "culture"
+  ],
+  "summary": "세계에서 가장 오래된 목조 건축군으로 꼽히는 절. 일본 최초 세계유산 가운데 하나다.",
+  "do": "서원 가람의 금당·오층탑과 대보장원, 동원 몽전까지 둘러보기",
+  "station": "호류지역 (法隆寺, JR 야마토지선)",
+  "access": "JR 오사카 덴노지·나라에서 야마토지선, 호류지역에서 버스 약 5분 또는 걸어서 약 20분",
+  "jr_pass": [
+   "간사이 와이드 패스",
+   "간사이 히로시마 패스",
+   "JR간사이 미니 패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "연중. 봄·가을",
+  "event": "",
+  "duration": "반나절",
+  "cost": "공통 관람권 약 2,000엔",
+  "walking": "보통",
+  "fit": "백업",
+  "condition": "",
+  "caution": "",
+  "lat": 34.6147,
+  "lng": 135.7342,
+  "url": "https://www.horyuji.or.jp/",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/法隆寺"
+  ],
+  "region": "간사이"
+ },
+ {
+  "id": "wakayama-kashinozaki-lighthouse",
+  "name_ko": "가시노자키 등대 (기이오시마)",
+  "name_ja": "樫野埼灯台（紀伊大島）",
+  "pref": "와카야마",
+  "area": "구시모토 (기이오시마)",
+  "categories": [
+   "cape",
+   "view"
+  ],
+  "summary": "다리로 이어진 기이오시마 동쪽 끝, 일본 최초의 석조 등대. 나선 계단 전망대에서 태평양 수평선을 보고, 근처 튀르크 기념관도 들른다.",
+  "do": "등대 전망대에 올라 바다 보고, 에르투룰호 조난 이야기를 담은 튀르크 기념관 관람",
+  "station": "구시모토역 (串本, JR 기세이선)",
+  "access": "JR 구시모토역에서 구시모토 정영 버스 약 30~40분 가시노 등대 쪽 하차 (편수 적음)",
+  "jr_pass": [
+   "간사이 와이드 패스",
+   "간사이 히로시마 패스",
+   "이세·구마노·와카야마 지역 투어리스트 패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "맑은 날. 1~2월 수선화",
+  "event": "",
+  "duration": "반나절",
+  "cost": "등대 전망 소액, 튀르크 기념관 약 500엔",
+  "walking": "보통",
+  "fit": "매우 잘 맞음",
+  "condition": "맑은 날 수평선",
+  "caution": "버스 편수가 적어 시오노미사키와 묶을 땐 시간표 확인",
+  "lat": 33.4714,
+  "lng": 135.8619,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/樫野埼灯台",
+   "https://ja.wikipedia.org/wiki/紀伊大島"
   ],
   "region": "간사이"
  },
@@ -9164,6 +28020,132 @@ window.SPOTS = [
   "sources": [
    "https://www.hongu.jp/onsen/kawayu/",
    "https://ja.wikipedia.org/wiki/川湯温泉_(和歌山県)"
+  ],
+  "region": "간사이"
+ },
+ {
+  "id": "wakayama-kumano-hayatama-oto-matsuri",
+  "name_ko": "구마노 하야타마 대사·가미쿠라 신사 (오토 마쓰리)",
+  "name_ja": "熊野速玉大社・神倉神社（御燈祭り）",
+  "pref": "와카야마",
+  "area": "신구",
+  "categories": [
+   "culture",
+   "festival",
+   "night"
+  ],
+  "summary": "구마노 삼산 중 하나인 붉은 신사와, 거대한 바위를 모신 산 위 가미쿠라 신사. 매년 2월 횃불 든 남자들이 가파른 돌계단을 뛰어 내려오는 불축제가 열린다.",
+  "do": "하야타마 대사 참배 후 538단 돌계단을 올라 고토비키 바위와 신구 시내·바다 전망 보기",
+  "station": "신구역 (新宮, JR 기세이선)",
+  "access": "JR 신구역에서 하야타마 대사까지 걸어서 약 15분, 가미쿠라 신사 계단 입구까지 약 15분",
+  "jr_pass": [
+   "간사이 와이드 패스",
+   "간사이 히로시마 패스",
+   "이세·구마노·와카야마 지역 투어리스트 패스"
+  ],
+  "seasons": [
+   "봄",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "2월 6일 오토 마쓰리, 맑은 날",
+  "event": "오토 마쓰리 매년 2월 6일 밤 (여성은 참가 불가, 관람만)",
+  "duration": "반나절",
+  "cost": "무료",
+  "walking": "많음",
+  "fit": "매우 잘 맞음",
+  "condition": "",
+  "caution": "가미쿠라 신사 돌계단은 매우 가파르고 고르지 않아 운동화 필수",
+  "lat": 33.7321,
+  "lng": 135.9836,
+  "url": "https://kumanohayatama.jp/",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/熊野速玉大社",
+   "https://ja.wikipedia.org/wiki/神倉神社"
+  ],
+  "region": "간사이"
+ },
+ {
+  "id": "wakayama-kumano-hongu-taisha-oyunohara",
+  "name_ko": "구마노 혼구 대사·오유노하라",
+  "name_ja": "熊野本宮大社・大斎原",
+  "pref": "와카야마",
+  "area": "다나베 (구마노 혼구)",
+  "categories": [
+   "culture",
+   "nature"
+  ],
+  "summary": "구마노 삼산의 중심 신사. 홍수 전 본래 터인 강변 숲 오유노하라 입구에 높이 약 34m의 일본 최대급 도리이가 서 있다.",
+  "do": "158단 돌계단 위 본전 참배 후 논길 따라 오유노하라 대도리이까지 걷기, 구마노 고도 일부 걷기",
+  "station": "신구역 (新宮, JR) / 기이타나베역 (紀伊田辺, JR)",
+  "access": "JR 신구역에서 구마노 교통 버스 약 1시간 20분, 또는 기이타나베역에서 류진 버스·메이코 버스 약 2시간. 혼구타이샤마에 하차",
+  "jr_pass": [
+   "간사이 와이드 패스",
+   "간사이 히로시마 패스",
+   "이세·구마노·와카야마 지역 투어리스트 패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "연중. 봄·가을 고도 걷기 철",
+  "event": "",
+  "duration": "하루",
+  "cost": "무료 (버스 운임 별도)",
+  "walking": "보통",
+  "fit": "매우 잘 맞음",
+  "condition": "",
+  "caution": "버스가 2~3시간에 1편 수준. 근처 가와유·유노미네 온천에 묵는 일정 추천. 이세·구마노·와카야마 패스는 신구역~혼구타이샤마에 버스도 포함",
+  "lat": 33.8404,
+  "lng": 135.7736,
+  "url": "https://www.hongutaisha.jp/",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/熊野本宮大社",
+   "https://www.jrpass.com/regional-passes/ise-kumano-wakayama-area-tourist-pass"
+  ],
+  "region": "간사이"
+ },
+ {
+  "id": "wakayama-kumanogawa-kawabune",
+  "name_ko": "구마노강 가와부네 (강의 참배길 배 여행)",
+  "name_ja": "熊野川川舟下り",
+  "pref": "와카야마",
+  "area": "신구 (구마노가와)",
+  "categories": [
+   "boat",
+   "nature",
+   "culture"
+  ],
+  "summary": "세계유산 '강의 참배길' 구마노강을 나무배로 약 16km 내려가 하야타마 대사 뒤편 강변에 닿는 뱃길. 옛 순례자의 길을 그대로 따른다.",
+  "do": "약 1시간 반 동안 배를 타고 바위 절벽과 강변 숲을 보며 하야타마 대사까지 내려가기",
+  "station": "신구역 (新宮, JR 기세이선)",
+  "access": "JR 신구역에서 구마노 교통 버스로 구마노가와 지역(다나가) 출발지까지 이동, 배로 하야타마 대사 쪽 강변 도착",
+  "jr_pass": [
+   "간사이 와이드 패스",
+   "간사이 히로시마 패스",
+   "이세·구마노·와카야마 지역 투어리스트 패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을"
+  ],
+  "best_time": "봄~가을",
+  "event": "",
+  "duration": "반나절",
+  "cost": "약 5,000엔 (구 정보 기준, 공식 확인)",
+  "walking": "적음",
+  "fit": "매우 잘 맞음",
+  "condition": "증수·강풍 시 결항",
+  "caution": "전날까지 예약 필수, 최소 3명 출항 기준으로 소개됨 (2명이면 문의). 하루 2편 수준, 12~2월은 단체 상담",
+  "lat": 33.8062,
+  "lng": 135.8724,
+  "url": "",
+  "sources": [
+   "https://www.pref.wakayama.lg.jp/prefg/081300/d00214779.html",
+   "https://ja.wikipedia.org/wiki/熊野川町"
   ],
   "region": "간사이"
  },
@@ -9290,6 +28272,90 @@ window.SPOTS = [
   "region": "간사이"
  },
  {
+  "id": "wakayama-ryujin-onsen",
+  "name_ko": "류진 온천",
+  "name_ja": "龍神温泉",
+  "pref": "와카야마",
+  "area": "다나베 (류진)",
+  "categories": [
+   "onsen",
+   "nature"
+  ],
+  "summary": "히다카강 상류 깊은 계곡에 있는 '일본 3대 미인탕' 중 하나. 강을 내려다보는 노천탕이 있는 산골 온천이다.",
+  "do": "공중탕 '모토유'의 강변 노천탕에 몸 담그고 계곡 산책",
+  "station": "기이타나베역 (紀伊田辺, JR 기세이선)",
+  "access": "JR 기이타나베역에서 류진 버스 약 1시간 20분~1시간 30분 (하루 몇 편 수준)",
+  "jr_pass": [
+   "간사이 와이드 패스",
+   "간사이 히로시마 패스",
+   "이세·구마노·와카야마 지역 투어리스트 패스"
+  ],
+  "seasons": [
+   "봄",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "11월 단풍, 겨울",
+  "event": "",
+  "duration": "1박 추천",
+  "cost": "공중탕 약 700엔 안팎, 숙박 별도",
+  "walking": "적음",
+  "fit": "매우 잘 맞음",
+  "condition": "",
+  "caution": "버스가 하루 몇 편뿐이라 당일치기보다 숙박 권장. 고야산~류진 구간 버스는 계절 운행",
+  "lat": 33.9561,
+  "lng": 135.5621,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/龍神温泉"
+  ],
+  "region": "간사이"
+ },
+ {
+  "id": "wakayama-shirahama-sandanbeki-senjojiki",
+  "name_ko": "산단베키·센조지키 (시라하마 해식 절벽)",
+  "name_ja": "三段壁・千畳敷",
+  "pref": "와카야마",
+  "area": "시라하마",
+  "categories": [
+   "cape",
+   "volcano",
+   "night"
+  ],
+  "summary": "높이 약 50m 절벽에 태평양 파도가 부딪치는 산단베키와, 사암이 층층이 깎인 넓은 바위 평원 센조지키. 엘리베이터로 절벽 아래 해식 동굴까지 내려간다.",
+  "do": "산단베키 동굴로 내려가 파도 소리 듣고, 센조지키 바위 위에서 노을 보기",
+  "station": "시라하마역 (白浜, JR 기세이선)",
+  "access": "JR 시라하마역에서 메이코 버스 약 20~25분 산단베키 하차, 센조지키까지 걸어서 약 20분",
+  "jr_pass": [
+   "간사이 와이드 패스",
+   "간사이 히로시마 패스",
+   "이세·구마노·와카야마 지역 투어리스트 패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "연중. 센조지키는 해 질 무렵",
+  "event": "",
+  "duration": "반나절",
+  "cost": "절벽 위·센조지키 무료, 산단베키 동굴 입장 별도 (공식 확인)",
+  "walking": "보통",
+  "fit": "매우 잘 맞음",
+  "condition": "맑은 날 노을. 높은 파도 때 바위 끝 접근 금지",
+  "caution": "센조지키 바위는 젖으면 미끄럽고 난간이 없다. 동굴 영업 8:00~17:00",
+  "lat": 33.6659,
+  "lng": 135.3354,
+  "url": "https://sandanbeki.com/",
+  "sources": [
+   "https://sandanbeki.com/",
+   "https://ja.wikipedia.org/wiki/三段壁",
+   "https://ja.wikipedia.org/wiki/千畳敷_(和歌山県)"
+  ],
+  "region": "간사이"
+ },
+ {
   "id": "wakayama-shirahama-onsen",
   "name_ko": "시라하마 온천 (사키노유·엔게쓰섬)",
   "name_ja": "南紀白浜温泉（崎の湯・円月島）",
@@ -9375,6 +28441,282 @@ window.SPOTS = [
   "region": "간사이"
  },
  {
+  "id": "wakayama-yunomine-tsuboyu",
+  "name_ko": "유노미네 온천 쓰보유",
+  "name_ja": "湯の峰温泉 つぼ湯",
+  "pref": "와카야마",
+  "area": "다나베 (구마노 혼구)",
+  "categories": [
+   "onsen",
+   "town"
+  ],
+  "summary": "개울가 작은 오두막 안 바위 욕조 한 곳뿐인 세계유산 온천탕. 하루에도 물빛이 바뀐다고 하며, 순례자가 몸을 씻던 오래된 온천 마을이다.",
+  "do": "번호표를 받아 쓰보유에 30분 전세 입욕, 마을 온천수 솥에서 달걀 삶기",
+  "station": "신구역 (新宮, JR) / 기이타나베역 (紀伊田辺, JR)",
+  "access": "JR 신구역 또는 기이타나베역에서 구마노 혼구행 버스, 유노미네온센 하차 (혼구 대사에서 버스 약 15분)",
+  "jr_pass": [
+   "간사이 와이드 패스",
+   "간사이 히로시마 패스",
+   "이세·구마노·와카야마 지역 투어리스트 패스"
+  ],
+  "seasons": [
+   "봄",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "가을~겨울",
+  "event": "",
+  "duration": "1박 추천",
+  "cost": "쓰보유 약 800엔",
+  "walking": "적음",
+  "fit": "매우 잘 맞음",
+  "condition": "",
+  "caution": "한 번에 한 팀 30분씩이라 주말엔 대기 길다. 비누·샴푸 사용 불가",
+  "lat": 33.8289,
+  "lng": 135.7574,
+  "url": "https://www.hongu.jp/",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/湯の峰温泉"
+  ],
+  "region": "간사이"
+ },
+ {
+  "id": "wakayama-kada-awashima-shrine",
+  "name_ko": "가다 아와시마 신사 (인형 신사)",
+  "name_ja": "淡嶋神社",
+  "pref": "와카야마",
+  "area": "와카야마 (가다)",
+  "categories": [
+   "culture",
+   "festival",
+   "cape"
+  ],
+  "summary": "전국에서 봉납된 수만 개의 인형이 경내를 빽빽이 채운 바닷가 신사. 3월 3일엔 히나 인형을 배에 실어 바다로 띄워 보낸다.",
+  "do": "인형으로 가득한 본전 주변을 둘러보고 가다 항구에서 해산물 먹기 (도모가시마와 묶기)",
+  "station": "가다역 (加太, 난카이 가다선)",
+  "access": "난카이 와카야마시역에서 가다선 약 25분, 가다역에서 걸어서 약 20분",
+  "jr_pass": [],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "3월 3일 히나나가시",
+  "event": "히나나가시 매년 3월 3일",
+  "duration": "1~2시간",
+  "cost": "무료",
+  "walking": "보통",
+  "fit": "조건부",
+  "condition": "",
+  "caution": "인형이 빽빽해 분위기가 기묘하게 느껴질 수 있음. 경내 인형 촬영 매너 지키기",
+  "lat": 34.2737,
+  "lng": 135.0665,
+  "url": "https://www.kada.jp/awashima/",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/淡嶋神社"
+  ],
+  "region": "간사이"
+ },
+ {
+  "id": "wakayama-kushimoto-marine-park",
+  "name_ko": "구시모토 해중공원 (해중 전망탑)",
+  "name_ja": "串本海中公園",
+  "pref": "와카야마",
+  "area": "구시모토",
+  "categories": [
+   "cape",
+   "boat",
+   "nature"
+  ],
+  "summary": "혼슈 최남단 바다에 세운 해중 전망탑에서 창 너머 산호와 열대어를 보는 곳. 반잠수식 유리 바닥 배도 탄다.",
+  "do": "해중 전망탑 계단을 내려가 바닷속 보기, 반잠수선으로 산호 군락 관찰",
+  "station": "구시모토역 (串本, JR 기세이선)",
+  "access": "JR 구시모토역에서 무료 셔틀 또는 노선버스 약 15분 (셔틀 시간표 공식 확인)",
+  "jr_pass": [
+   "간사이 와이드 패스",
+   "간사이 히로시마 패스",
+   "이세·구마노·와카야마 지역 투어리스트 패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을"
+  ],
+  "best_time": "여름~가을 바다가 맑을 때",
+  "event": "",
+  "duration": "반나절",
+  "cost": "수족관+전망탑 약 2,000엔, 반잠수선 약 2,300엔, 세트권 약 3,200엔",
+  "walking": "적음",
+  "fit": "조건부",
+  "condition": "파도 높으면 반잠수선 결항, 물이 탁하면 시야 나쁨",
+  "caution": "",
+  "lat": 33.4809,
+  "lng": 135.745,
+  "url": "https://www.kushimoto.co.jp/",
+  "sources": [
+   "https://www.kushimoto.co.jp/",
+   "https://ja.wikipedia.org/wiki/串本海中公園"
+  ],
+  "region": "간사이"
+ },
+ {
+  "id": "wakayama-kimiidera-wakaura",
+  "name_ko": "기미이데라·와카우라",
+  "name_ja": "紀三井寺・和歌浦",
+  "pref": "와카야마",
+  "area": "와카야마 (와카우라)",
+  "categories": [
+   "culture",
+   "view",
+   "nature"
+  ],
+  "summary": "간사이에서 벚꽃이 가장 일찍 피는 곳으로 알려진 언덕 위 절. 231단 돌계단을 오르면 와카우라 만이 내려다보인다.",
+  "do": "돌계단을 올라 본당·전망 테라스에서 와카우라 만 보기, 벚꽃철엔 경내 꽃구경",
+  "station": "기미이데라역 (紀三井寺, JR 기세이선)",
+  "access": "JR 와카야마역에서 기세이선 약 5분, 역에서 걸어서 약 10분",
+  "jr_pass": [
+   "간사이 와이드 패스",
+   "간사이 히로시마 패스",
+   "이세·구마노·와카야마 지역 투어리스트 패스"
+  ],
+  "seasons": [
+   "봄",
+   "가을"
+  ],
+  "best_time": "3월 하순 벚꽃",
+  "event": "",
+  "duration": "1~2시간",
+  "cost": "입산료 약 200엔",
+  "walking": "보통",
+  "fit": "조건부",
+  "condition": "벚꽃철에 진가",
+  "caution": "본당까지 계단 231단",
+  "lat": 34.1852,
+  "lng": 135.19,
+  "url": "https://www.kimiidera.com/",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/紀三井寺"
+  ],
+  "region": "간사이"
+ },
+ {
+  "id": "wakayama-kishi-station-cat",
+  "name_ko": "기시역 고양이 역장 (와카야마 전철 기시가와선)",
+  "name_ja": "貴志駅（和歌山電鐵貴志川線）",
+  "pref": "와카야마",
+  "area": "기노카와 (기시)",
+  "categories": [
+   "train"
+  ],
+  "summary": "고양이 역장 '다마'로 유명해진 시골 종점역. 고양이 얼굴 모양 역사와 '다마 전차'·'딸기 전차' 같은 테마 열차를 타고 간다.",
+  "do": "테마 전차를 타고 종점까지 가서 고양이 역장 만나기 (근무일 확인)",
+  "station": "기시역 (貴志, 와카야마 전철)",
+  "access": "JR 와카야마역 9번 승강장에서 와카야마 전철 기시가와선 약 30분, 종점",
+  "jr_pass": [],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "연중",
+  "event": "",
+  "duration": "반나절",
+  "cost": "1일 승차권 약 800엔",
+  "walking": "적음",
+  "fit": "조건부",
+  "condition": "",
+  "caution": "고양이 역장은 근무 요일·시간이 정해져 있어 공식 근무표 확인",
+  "lat": 34.2094,
+  "lng": 135.312,
+  "url": "https://wakayama-dentetsu.co.jp/",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/貴志駅"
+  ],
+  "region": "간사이"
+ },
+ {
+  "id": "wakayama-minabe-bairin",
+  "name_ko": "미나베 매화원 (미나베 바이린)",
+  "name_ja": "南部梅林",
+  "pref": "와카야마",
+  "area": "미나베",
+  "categories": [
+   "nature",
+   "festival"
+  ],
+  "summary": "일본 최대 매실 산지의 산비탈 매화밭. 2월이면 '한눈에 백만 그루'라 불리는 흰 매화가 골짜기를 덮는다.",
+  "do": "매화철 산책로를 걸으며 꽃구경하고 우메보시(매실절임) 시식",
+  "station": "미나베역 (南部, JR 기세이선)",
+  "access": "JR 미나베역에서 매화철 임시 버스·택시 약 15분",
+  "jr_pass": [
+   "간사이 와이드 패스",
+   "간사이 히로시마 패스",
+   "이세·구마노·와카야마 지역 투어리스트 패스"
+  ],
+  "seasons": [
+   "겨울",
+   "봄"
+  ],
+  "best_time": "2월 초~하순",
+  "event": "매화 축제(관매 기간) 매년 2월 (날짜는 매년 공식 확인)",
+  "duration": "반나절",
+  "cost": "관매 협력금 소액",
+  "walking": "보통",
+  "fit": "조건부",
+  "condition": "매화철에만 진가",
+  "caution": "평소엔 노선버스가 거의 없어 매화철 임시 버스 운행 여부 확인",
+  "lat": 33.7832,
+  "lng": 135.344,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/南部梅林"
+  ],
+  "region": "간사이"
+ },
+ {
+  "id": "wakayama-yuasa-soy-sauce-town",
+  "name_ko": "유아사 간장 거리 (전통 건물 지구)",
+  "name_ja": "湯浅（湯浅伝統的建造物群保存地区）",
+  "pref": "와카야마",
+  "area": "유아사",
+  "categories": [
+   "town",
+   "city"
+  ],
+  "summary": "일본 간장의 발상지로 불리는 바닷가 마을. 간장 양조장과 격자창 상가가 남은 골목에 지금도 간장 냄새가 난다.",
+  "do": "오래된 간장 양조장 견학·직판장 들르기, 골목 산책 후 시라스(잔멸치) 덮밥",
+  "station": "유아사역 (湯浅, JR 기세이선)",
+  "access": "JR 와카야마역에서 기세이선 약 40분~1시간, 유아사역에서 걸어서 약 10분",
+  "jr_pass": [
+   "간사이 와이드 패스",
+   "간사이 히로시마 패스",
+   "이세·구마노·와카야마 지역 투어리스트 패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "연중",
+  "event": "",
+  "duration": "반나절",
+  "cost": "골목 무료, 양조장 견학 무료~소액",
+  "walking": "보통",
+  "fit": "조건부",
+  "condition": "",
+  "caution": "",
+  "lat": 34.0371,
+  "lng": 135.1743,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/湯浅町湯浅伝統的建造物群保存地区"
+  ],
+  "region": "간사이"
+ },
+ {
   "id": "wakayama-koyasan",
   "name_ko": "고야산 (오쿠노인·사찰 숙박)",
   "name_ja": "高野山（奥之院・宿坊）",
@@ -9408,6 +28750,87 @@ window.SPOTS = [
   "sources": [
    "https://ja.wikipedia.org/wiki/高野山ケーブル",
    "http://www.nankai.co.jp/traffic/otoku"
+  ],
+  "region": "간사이"
+ },
+ {
+  "id": "wakayama-kuroshio-market",
+  "name_ko": "구로시오 시장 (참치 해체 쇼)",
+  "name_ja": "黒潮市場（和歌山マリーナシティ）",
+  "pref": "와카야마",
+  "area": "와카야마 (마리나 시티)",
+  "categories": [
+   "city"
+  ],
+  "summary": "바다 위 인공섬 마리나 시티의 수산 시장. 매일 열리는 생참치 해체 쇼를 보고 바로 회·덮밥이나 해변 바비큐로 먹는다.",
+  "do": "참치 해체 쇼 관람 후 참치 회 사 먹기 또는 해산물 바비큐",
+  "station": "가이난역 (海南, JR 기세이선)",
+  "access": "JR 가이난역 또는 와카야마역에서 버스로 마리나 시티 이동 (편수 공식 확인)",
+  "jr_pass": [
+   "간사이 와이드 패스",
+   "간사이 히로시마 패스",
+   "이세·구마노·와카야마 지역 투어리스트 패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "연중. 해체 쇼 시간에 맞춰",
+  "event": "",
+  "duration": "반나절",
+  "cost": "먹거리 1,500~4,000엔",
+  "walking": "적음",
+  "fit": "백업",
+  "condition": "",
+  "caution": "영업시간이 시즌별로 다르고 해체 쇼 시각은 공식 확인",
+  "lat": 34.1542,
+  "lng": 135.1768,
+  "url": "https://www.kuroshioichiba.co.jp/",
+  "sources": [
+   "https://www.kuroshioichiba.co.jp/",
+   "https://ja.wikipedia.org/wiki/和歌山マリーナシティ"
+  ],
+  "region": "간사이"
+ },
+ {
+  "id": "wakayama-wakayama-castle",
+  "name_ko": "와카야마성",
+  "name_ja": "和歌山城",
+  "pref": "와카야마",
+  "area": "와카야마",
+  "categories": [
+   "culture",
+   "view"
+  ],
+  "summary": "도쿠가와 고산케 기슈 가문의 성. 시내 한가운데 언덕 위 하얀 천수각에서 와카야마 시내와 기노강 하구가 보인다.",
+  "do": "천수각 전망 후 정원 '니시노마루 정원(모미지다니 정원)' 산책",
+  "station": "와카야마역 (和歌山, JR) / 와카야마시역 (和歌山市, 난카이)",
+  "access": "JR 와카야마역에서 버스 약 10분 고엔마에 하차. 난카이 와카야마시역에서 걸어서 약 10분",
+  "jr_pass": [
+   "간사이 와이드 패스",
+   "간사이 히로시마 패스",
+   "이세·구마노·와카야마 지역 투어리스트 패스"
+  ],
+  "seasons": [
+   "봄",
+   "가을"
+  ],
+  "best_time": "3월 말~4월 초 벚꽃, 11월 단풍",
+  "event": "",
+  "duration": "1~2시간",
+  "cost": "천수각 약 410엔",
+  "walking": "보통",
+  "fit": "백업",
+  "condition": "",
+  "caution": "천수각까지 돌계단 오르막",
+  "lat": 34.2276,
+  "lng": 135.172,
+  "url": "https://wakayamajo.jp/",
+  "sources": [
+   "https://www.wikidata.org/wiki/Q1151269",
+   "https://ja.wikipedia.org/wiki/和歌山城"
   ],
   "region": "간사이"
  },
@@ -9587,6 +29010,131 @@ window.SPOTS = [
   "region": "주고쿠"
  },
  {
+  "id": "tottori-iwai-onsen",
+  "name_ko": "이와이 온천",
+  "name_ja": "岩井温泉",
+  "pref": "돗토리",
+  "area": "이와미",
+  "categories": [
+   "onsen",
+   "town"
+  ],
+  "summary": "산인 지방에서 가장 오래된 축에 드는 작은 온천 마을. 머리에 수건을 얹고 국자로 물을 끼얹는 '유카무리' 풍습이 남아 있다.",
+  "do": "소박한 공동탕에서 원천 온천, 우라도메 해안 유람선과 묶어 하루",
+  "station": "이와미역 (岩美)",
+  "access": "이와미역에서 노선버스 약 10분",
+  "jr_pass": [
+   "돗토리・마쓰에 패스",
+   "간사이 산인 패스",
+   "산요 산인 패스",
+   "JR서일본 전지역 패스"
+  ],
+  "seasons": [
+   "봄",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "겨울 대게철",
+  "event": "",
+  "duration": "반나절",
+  "cost": "공동탕 약 수백 엔",
+  "walking": "적음",
+  "fit": "매우 잘 맞음",
+  "condition": "",
+  "caution": "",
+  "lat": 35.5552,
+  "lng": 134.3629,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/岩井温泉"
+  ],
+  "region": "주고쿠"
+ },
+ {
+  "id": "tottori-hamamura-onsen",
+  "name_ko": "하마무라 온천",
+  "name_ja": "浜村温泉",
+  "pref": "돗토리",
+  "area": "돗토리시",
+  "categories": [
+   "onsen"
+  ],
+  "summary": "역 바로 앞에 있는 작은 온천가. 민요 '가이가라부시' 발상지로, 족욕탕과 노천탕 딸린 당일 온천 '게타노유'가 있다.",
+  "do": "역 족욕 후 당일 온천 노천탕",
+  "station": "하마무라역 (浜村)",
+  "access": "하마무라역 바로 앞",
+  "jr_pass": [
+   "돗토리・마쓰에 패스",
+   "간사이 와이드 패스",
+   "간사이 산인 패스",
+   "산요 산인 패스",
+   "JR서일본 전지역 패스"
+  ],
+  "seasons": [
+   "봄",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "연중",
+  "event": "",
+  "duration": "1~2시간",
+  "cost": "당일 온천 약 수백 엔",
+  "walking": "적음",
+  "fit": "매우 잘 맞음",
+  "condition": "",
+  "caution": "",
+  "lat": 35.5095,
+  "lng": 134.0507,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/浜村温泉"
+  ],
+  "region": "주고쿠"
+ },
+ {
+  "id": "tottori-hawai-onsen",
+  "name_ko": "하와이 온천 (도고호)",
+  "name_ja": "はわい温泉（東郷湖）",
+  "pref": "돗토리",
+  "area": "유리하마",
+  "categories": [
+   "onsen",
+   "night"
+  ],
+  "summary": "도고호 호수 위에 여관이 줄지어 선 온천. 이름 때문에 유명하지만 실제론 호수 노을과 호반 노천탕이 핵심.",
+  "do": "호수에 면한 노천탕에서 저녁 노을 보며 온천, 호숫가 산책",
+  "station": "구라요시역 (倉吉)",
+  "access": "구라요시역에서 노선버스 약 20분",
+  "jr_pass": [
+   "돗토리・마쓰에 패스",
+   "간사이 와이드 패스",
+   "간사이 산인 패스",
+   "산요 산인 패스",
+   "JR서일본 전지역 패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "맑은 날 해 질 녘",
+  "event": "",
+  "duration": "1박 추천",
+  "cost": "숙박 1박 약 1만~2만엔대",
+  "walking": "적음",
+  "fit": "매우 잘 맞음",
+  "condition": "맑은 날 호수 노을",
+  "caution": "",
+  "lat": 35.4781,
+  "lng": 133.8827,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/はわい温泉"
+  ],
+  "region": "주고쿠"
+ },
+ {
   "id": "tottori-daisen",
   "name_ko": "다이센 (다이센지 지구)",
   "name_ja": "大山・大山寺",
@@ -9626,6 +29174,48 @@ window.SPOTS = [
   "sources": [
    "https://rurubu.jp/andmore/spot/80033020/koyo",
    "https://www.daisenji.jp/"
+  ],
+  "region": "주고쿠"
+ },
+ {
+  "id": "tottori-hanakairo",
+  "name_ko": "돗토리 하나카이로 (꽃 회랑)",
+  "name_ja": "とっとり花回廊",
+  "pref": "돗토리",
+  "area": "난부",
+  "categories": [
+   "nature",
+   "night"
+  ],
+  "summary": "약 50ha의 일본 최대급 꽃 공원. 약 1km 지붕 회랑이 있고 다이센이 배경으로 보이며, 12~1월엔 야간 일루미네이션 영업.",
+  "do": "회랑 따라 꽃 구경, 겨울엔 저녁 일루미네이션",
+  "station": "요나고역 (米子)",
+  "access": "요나고역에서 무료 셔틀버스 약 25분",
+  "jr_pass": [
+   "돗토리・마쓰에 패스",
+   "간사이 산인 패스",
+   "산요 산인 패스",
+   "JR서일본 전지역 패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "봄 꽃철, 12~1월 일루미네이션",
+  "event": "겨울 일루미네이션(12~1월, 13~21시 영업)",
+  "duration": "반나절",
+  "cost": "약 700~1,000엔(계절별)",
+  "walking": "보통",
+  "fit": "조건부",
+  "condition": "맑은 날 다이센 배경",
+  "caution": "화요일 휴원 시기 있음",
+  "lat": 35.3481,
+  "lng": 133.4235,
+  "url": "https://www.tottorihanakairou.or.jp/",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/とっとり花回廊"
   ],
   "region": "주고쿠"
  },
@@ -9674,6 +29264,303 @@ window.SPOTS = [
   "region": "주고쿠"
  },
  {
+  "id": "tottori-saji-astropark",
+  "name_ko": "사지 아스트로파크 (별 관측)",
+  "name_ja": "鳥取市さじアストロパーク",
+  "pref": "돗토리",
+  "area": "돗토리시 사지",
+  "categories": [
+   "night"
+  ],
+  "summary": "103cm 망원경으로 밤하늘을 보는 산간 공공 천문대. 숙박 코티지가 있어 묵으며 관측할 수 있다.",
+  "do": "야간 관측회에서 대형 망원경으로 행성·성운 보기",
+  "station": "모치가세역 (用瀬)",
+  "access": "모치가세역에서 버스 약 20분(편수 적음). 밤 관측 후 돌아올 교통 없음 → 숙박 전제",
+  "jr_pass": [
+   "돗토리・마쓰에 패스",
+   "간사이 와이드 패스",
+   "간사이 산인 패스",
+   "산요 산인 패스",
+   "JR서일본 전지역 패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "맑고 달 없는 밤",
+  "event": "",
+  "duration": "1박 추천",
+  "cost": "야간 관측 약 300엔",
+  "walking": "적음",
+  "fit": "조건부",
+  "condition": "흐리면 관측 대신 플라네타리움",
+  "caution": "교통 불편, 관측회 일정·예약 공식 확인",
+  "lat": 35.3419,
+  "lng": 134.1196,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/鳥取市さじアストロパーク",
+   "https://www.pref.tottori.lg.jp/318191.htm"
+  ],
+  "region": "주고쿠"
+ },
+ {
+  "id": "tottori-wakasa-railway-town",
+  "name_ko": "와카사 철도와 와카사 마을",
+  "name_ja": "若桜鉄道・若桜駅",
+  "pref": "돗토리",
+  "area": "와카사",
+  "categories": [
+   "train",
+   "town"
+  ],
+  "summary": "산골 종착역까지 달리는 작은 사철. 종착 와카사역에는 옛 증기기관차와 전차대가 남아 있고 역 앞에 창고 거리가 있다.",
+  "do": "단선 로컬선을 타고 종착역까지 가서 역 구내 SL과 옛 거리 구경",
+  "station": "와카사역 (若桜)",
+  "access": "JR 고게역(郡家)에서 와카사 철도 약 30~40분 (사철, JR 패스 불가)",
+  "jr_pass": [
+   "돗토리・마쓰에 패스",
+   "간사이 와이드 패스",
+   "간사이 산인 패스",
+   "산요 산인 패스",
+   "JR서일본 전지역 패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을"
+  ],
+  "best_time": "가을 단풍",
+  "event": "",
+  "duration": "반나절",
+  "cost": "와카사 철도 운임 별도",
+  "walking": "적음",
+  "fit": "조건부",
+  "condition": "열차 편수 적음 → 시간표 확인",
+  "caution": "JR 패스는 고게역까지만",
+  "lat": 35.3452,
+  "lng": 134.3983,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/若桜駅"
+  ],
+  "region": "주고쿠"
+ },
+ {
+  "id": "tottori-yonago-castle-ruins",
+  "name_ko": "요나고성터 천수대 전망",
+  "name_ja": "米子城跡",
+  "pref": "돗토리",
+  "area": "요나고",
+  "categories": [
+   "culture",
+   "view"
+  ],
+  "summary": "석축과 대·소 천수대 기단이 남은 산성터. 천수대 위에서 다이센, 나카우미, 시내가 한눈에 보인다.",
+  "do": "성터 계단을 올라 천수대에서 다이센과 바다 조망",
+  "station": "요나고역 (米子)",
+  "access": "요나고역에서 걸어서 약 20분 또는 노선버스",
+  "jr_pass": [
+   "돗토리・마쓰에 패스",
+   "간사이 산인 패스",
+   "산요 산인 패스",
+   "JR서일본 전지역 패스"
+  ],
+  "seasons": [
+   "봄",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "맑은 날 해 질 녘",
+  "event": "",
+  "duration": "1~2시간",
+  "cost": "무료",
+  "walking": "보통",
+  "fit": "조건부",
+  "condition": "맑은 날 다이센 조망",
+  "caution": "",
+  "lat": 35.4253,
+  "lng": 133.324,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/米子城"
+  ],
+  "region": "주고쿠"
+ },
+ {
+  "id": "tottori-ueda-shoji-museum",
+  "name_ko": "우에다 쇼지 사진미술관 (거꾸로 다이센)",
+  "name_ja": "植田正治写真美術館",
+  "pref": "돗토리",
+  "area": "호키",
+  "categories": [
+   "culture",
+   "view"
+  ],
+  "summary": "다이센 기슭에 다카마쓰 신이 설계한 사진 미술관. 건물 틈과 수면 너머로 '거꾸로 비친 다이센'이 보인다.",
+  "do": "사진전 관람 후 수면에 비친 다이센 감상",
+  "station": "기시모토역 (岸本)",
+  "access": "기시모토역에서 택시 약 10분 (요나고역에서 택시 약 20분)",
+  "jr_pass": [
+   "돗토리・마쓰에 패스",
+   "간사이 산인 패스",
+   "산요 산인 패스",
+   "JR서일본 전지역 패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을"
+  ],
+  "best_time": "맑고 바람 없는 날",
+  "event": "",
+  "duration": "1~2시간",
+  "cost": "입장료 있음(공식 확인)",
+  "walking": "적음",
+  "fit": "조건부",
+  "condition": "맑은 날 다이센 조망",
+  "caution": "12~2월 겨울 휴관, 화요일 휴관",
+  "lat": 35.3899,
+  "lng": 133.4358,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/植田正治写真美術館"
+  ],
+  "region": "주고쿠"
+ },
+ {
+  "id": "tottori-kurayoshi-shirakabe-dozo",
+  "name_ko": "구라요시 시라카베 도조군·아카가와라",
+  "name_ja": "倉吉白壁土蔵群・赤瓦（打吹玉川）",
+  "pref": "돗토리",
+  "area": "구라요시",
+  "categories": [
+   "town"
+  ],
+  "summary": "흰 회벽 창고와 붉은 기와 지붕이 다마가와 수로를 따라 늘어선 중요전통적건조물군보존지구.",
+  "do": "수로 위 돌다리를 건너며 붉은 기와 창고 가게 구경, 우쓰부키 공원까지 산책",
+  "station": "구라요시역 (倉吉)",
+  "access": "구라요시역에서 노선버스 약 15분 → 아카가와라·시라카베 도조군 부근",
+  "jr_pass": [
+   "돗토리・마쓰에 패스",
+   "간사이 와이드 패스",
+   "간사이 산인 패스",
+   "산요 산인 패스",
+   "JR서일본 전지역 패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "봄 벚꽃기(우쓰부키 공원)",
+  "event": "",
+  "duration": "반나절",
+  "cost": "무료(가게·시설 별도)",
+  "walking": "보통",
+  "fit": "백업",
+  "condition": "",
+  "caution": "",
+  "lat": 35.4321,
+  "lng": 133.825,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/打吹玉川"
+  ],
+  "region": "주고쿠"
+ },
+ {
+  "id": "tottori-sand-museum",
+  "name_ko": "돗토리 사구 모래 미술관",
+  "name_ja": "鳥取砂丘 砂の美術館",
+  "pref": "돗토리",
+  "area": "돗토리시",
+  "categories": [
+   "culture",
+   "volcano"
+  ],
+  "summary": "모래만으로 만든 거대한 조각을 매년 다른 나라 테마로 전시하는 세계 유일급 모래 조각 미술관. 2026년 제17기 주제는 스페인.",
+  "do": "실내 전시장에서 모래 조각을 보고 바로 옆 사구 전망까지 묶어 걷기",
+  "station": "돗토리역 (鳥取)",
+  "access": "돗토리역에서 사구 방면 노선버스 약 20분, 사구 입구 근처",
+  "jr_pass": [
+   "돗토리・마쓰에 패스",
+   "간사이 와이드 패스",
+   "간사이 히로시마 패스",
+   "간사이 산인 패스",
+   "산요 산인 패스",
+   "JR서일본 전지역 패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "전시 기간 중(제17기 2026/4/24~2027/1/3). 전시 교체기 휴관",
+  "event": "",
+  "duration": "1~2시간",
+  "cost": "입장료 약 800엔 안팎(공식 확인)",
+  "walking": "적음",
+  "fit": "백업",
+  "condition": "비 오는 날 사구 대신 실내 대안",
+  "caution": "전시 사이 교체 기간(대략 1~4월)은 휴관",
+  "lat": 35.5397,
+  "lng": 134.2383,
+  "url": "https://www.sand-museum.jp/",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/砂の美術館",
+   "https://summer.walkerplus.com/odekake/detail_e/ar0831e594573/"
+  ],
+  "region": "주고쿠"
+ },
+ {
+  "id": "tottori-castle-ruins-kyushozan",
+  "name_ko": "돗토리성터·규쇼잔",
+  "name_ja": "鳥取城跡・久松山",
+  "pref": "돗토리",
+  "area": "돗토리시",
+  "categories": [
+   "culture",
+   "view"
+  ],
+  "summary": "규쇼잔 산 위아래로 펼쳐진 성터. 산기슭 서양관 진푸카쿠는 대수리로 휴관 중이지만 석축과 정원은 볼 수 있다.",
+  "do": "석축 따라 성터 산책, 체력 되면 규쇼잔 정상까지 올라 시내·바다 조망",
+  "station": "돗토리역 (鳥取)",
+  "access": "돗토리역에서 루프 버스 등 약 10분",
+  "jr_pass": [
+   "돗토리・마쓰에 패스",
+   "간사이 와이드 패스",
+   "간사이 히로시마 패스",
+   "간사이 산인 패스",
+   "산요 산인 패스",
+   "JR서일본 전지역 패스"
+  ],
+  "seasons": [
+   "봄",
+   "가을"
+  ],
+  "best_time": "봄 벚꽃",
+  "event": "",
+  "duration": "1~2시간",
+  "cost": "성터 무료",
+  "walking": "보통",
+  "fit": "백업",
+  "condition": "",
+  "caution": "진푸카쿠(仁風閣)는 보존수리로 휴관, 재개관은 2028년도 이후 예정(공식 확인)",
+  "lat": 35.5072,
+  "lng": 134.2375,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/仁風閣",
+   "https://www.pref.tottori.lg.jp/304420.htm"
+  ],
+  "region": "주고쿠"
+ },
+ {
   "id": "tottori-mizuki-shigeru-road",
   "name_ko": "미즈키 시게루 로드",
   "name_ja": "水木しげるロード",
@@ -9717,6 +29604,177 @@ window.SPOTS = [
   "region": "주고쿠"
  },
  {
+  "id": "tottori-shikano",
+  "name_ko": "시카노 성하마을과 온천",
+  "name_ja": "鹿野町・鹿野城跡・鹿野温泉",
+  "pref": "돗토리",
+  "area": "돗토리시 시카노",
+  "categories": [
+   "town",
+   "onsen"
+  ],
+  "summary": "작은 성터(시로야마 공원)와 조용한 거리, 시카노 온천이 함께 있는 옛 성하마을.",
+  "do": "성터 벚꽃과 해자 산책 후 온천",
+  "station": "하마무라역 (浜村)",
+  "access": "하마무라역에서 히노마루 버스(편수 공식 확인)",
+  "jr_pass": [
+   "돗토리・마쓰에 패스",
+   "간사이 와이드 패스",
+   "간사이 산인 패스",
+   "산요 산인 패스",
+   "JR서일본 전지역 패스"
+  ],
+  "seasons": [
+   "봄",
+   "가을"
+  ],
+  "best_time": "봄 벚꽃",
+  "event": "",
+  "duration": "반나절",
+  "cost": "",
+  "walking": "보통",
+  "fit": "백업",
+  "condition": "",
+  "caution": "버스 편수 적음",
+  "lat": 35.4587,
+  "lng": 134.0639,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/鹿野町_(鳥取県)",
+   "https://ja.wikipedia.org/wiki/鹿野城"
+  ],
+  "region": "주고쿠"
+ },
+ {
+  "id": "tottori-aoyama-gosho-museum",
+  "name_ko": "아오야마 고쇼 고향관 (코난 마을)",
+  "name_ja": "青山剛昌ふるさと館",
+  "pref": "돗토리",
+  "area": "호쿠에이",
+  "categories": [
+   "culture",
+   "city"
+  ],
+  "summary": "'명탐정 코난' 작가의 고향에 있는 기념관. 작업실 재현, 원화, 영화 자료가 있고 역에서 가는 길도 코난 조형물로 꾸며져 있다.",
+  "do": "'코난역'에서 코난 거리 따라 걸어 기념관 관람",
+  "station": "유라역 (由良)",
+  "access": "유라역에서 걸어서 약 20분",
+  "jr_pass": [
+   "돗토리・마쓰에 패스",
+   "간사이 와이드 패스",
+   "간사이 산인 패스",
+   "산요 산인 패스",
+   "JR서일본 전지역 패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "연중",
+  "event": "",
+  "duration": "1~2시간",
+  "cost": "약 700엔",
+  "walking": "보통",
+  "fit": "백업",
+  "condition": "",
+  "caution": "",
+  "lat": 35.498,
+  "lng": 133.7618,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/青山剛昌ふるさと館"
+  ],
+  "region": "주고쿠"
+ },
+ {
+  "id": "tottori-chizu-juku",
+  "name_ko": "지즈 숙장 (이시타니가 주택)",
+  "name_ja": "智頭宿・石谷家住宅",
+  "pref": "돗토리",
+  "area": "지즈",
+  "categories": [
+   "town",
+   "culture"
+  ],
+  "summary": "삼나무 숲 산골에 남은 옛 역참 마을. 중심의 이시타니가 주택은 거대한 흙마루와 정원이 있는 중요문화재.",
+  "do": "옛 역참 거리 산책 후 이시타니가 주택 내부와 정원 관람",
+  "station": "지즈역 (智頭)",
+  "access": "지즈역에서 걸어서 약 10~15분",
+  "jr_pass": [
+   "돗토리・마쓰에 패스",
+   "간사이 와이드 패스",
+   "간사이 산인 패스",
+   "산요 산인 패스",
+   "JR서일본 전지역 패스"
+  ],
+  "seasons": [
+   "봄",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "가을 단풍",
+  "event": "",
+  "duration": "반나절",
+  "cost": "이시타니가 주택 입장료 있음(공식 확인)",
+  "walking": "보통",
+  "fit": "백업",
+  "condition": "",
+  "caution": "",
+  "lat": 35.2704,
+  "lng": 134.23,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/石谷家住宅",
+   "https://ja.wikipedia.org/wiki/智頭駅"
+  ],
+  "region": "주고쿠"
+ },
+ {
+  "id": "tottori-hakuto-shrine-coast",
+  "name_ko": "하쿠토 신사와 하쿠토 해안",
+  "name_ja": "白兎神社・白兎海岸",
+  "pref": "돗토리",
+  "area": "돗토리시",
+  "categories": [
+   "culture",
+   "cape"
+  ],
+  "summary": "고사기 '이나바의 흰 토끼' 신화의 무대. 신사 맞은편 해안 앞에 토끼가 살았다는 작은 섬이 떠 있다.",
+  "do": "신사 참배 후 국도 건너 해안에서 섬과 동해 바라보기",
+  "station": "돗토리역 (鳥取)",
+  "access": "돗토리역에서 서쪽 방면 노선버스 약 40분 '하쿠토진자마에'",
+  "jr_pass": [
+   "돗토리・마쓰에 패스",
+   "간사이 와이드 패스",
+   "간사이 히로시마 패스",
+   "간사이 산인 패스",
+   "산요 산인 패스",
+   "JR서일본 전지역 패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을"
+  ],
+  "best_time": "맑은 날 해 질 녘",
+  "event": "",
+  "duration": "1~2시간",
+  "cost": "무료",
+  "walking": "적음",
+  "fit": "백업",
+  "condition": "",
+  "caution": "",
+  "lat": 35.5242,
+  "lng": 134.1154,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/白兎神社"
+  ],
+  "region": "주고쿠"
+ },
+ {
   "id": "shimane-tamatsukuri-onsen",
   "name_ko": "다마쓰쿠리 온천",
   "name_ja": "玉造温泉",
@@ -9756,6 +29814,48 @@ window.SPOTS = [
   "sources": [
    "https://rurubu.jp/andmore/spot/80033173",
    "https://www.tamayado.com/"
+  ],
+  "region": "주고쿠"
+ },
+ {
+  "id": "shimane-matsue-shinjiko-onsen",
+  "name_ko": "마쓰에 신지코 온천",
+  "name_ja": "松江しんじ湖温泉",
+  "pref": "시마네",
+  "area": "마쓰에",
+  "categories": [
+   "onsen",
+   "night"
+  ],
+  "summary": "신지호 물가에 선 도심 온천. 역 앞 무료 족욕이 있고 호수 쪽 객실·노천탕에서 신지호 노을을 볼 수 있다.",
+  "do": "족욕 후 호수 쪽 숙소에서 노을 보며 온천",
+  "station": "마쓰에역 (松江)",
+  "access": "마쓰에역에서 버스 약 10분, 또는 이치바타 전철 마쓰에신지코온센역 바로 앞",
+  "jr_pass": [
+   "돗토리・마쓰에 패스",
+   "간사이 산인 패스",
+   "산요 산인 패스",
+   "JR서일본 전지역 패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "맑은 날 해 질 녘",
+  "event": "",
+  "duration": "1박 추천",
+  "cost": "숙박 1박 약 1만엔대~",
+  "walking": "적음",
+  "fit": "매우 잘 맞음",
+  "condition": "맑은 날 노을",
+  "caution": "",
+  "lat": 35.4674,
+  "lng": 133.0459,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/松江しんじ湖温泉"
   ],
   "region": "주고쿠"
  },
@@ -9890,6 +29990,46 @@ window.SPOTS = [
   "region": "주고쿠"
  },
  {
+  "id": "shimane-yunokawa-onsen",
+  "name_ko": "유노카와 온천",
+  "name_ja": "湯の川温泉",
+  "pref": "시마네",
+  "area": "이즈모 (히카와)",
+  "categories": [
+   "onsen"
+  ],
+  "summary": "'일본 3대 미인의 탕' 중 하나로 꼽히는 조용한 온천. 야가미히메 전설이 있고 여관 6곳 정도의 작은 규모.",
+  "do": "작은 여관에서 묵으며 온천, 이즈모 공항 전후 일정에 끼우기",
+  "station": "쇼바라역 (荘原)",
+  "access": "쇼바라역에서 걸어서 약 10분 (이즈모 공항에서 차로 약 5분)",
+  "jr_pass": [
+   "돗토리・마쓰에 패스",
+   "간사이 산인 패스",
+   "산요 산인 패스",
+   "JR서일본 전지역 패스"
+  ],
+  "seasons": [
+   "봄",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "연중",
+  "event": "",
+  "duration": "1박 추천",
+  "cost": "숙박 1박 약 1만~2만엔대",
+  "walking": "적음",
+  "fit": "매우 잘 맞음",
+  "condition": "",
+  "caution": "",
+  "lat": 35.3902,
+  "lng": 132.8719,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/湯の川温泉_(島根県)"
+  ],
+  "region": "주고쿠"
+ },
+ {
   "id": "shimane-inasa-beach-izumo-taisha",
   "name_ko": "이나사 해변 노을과 이즈모타이샤",
   "name_ja": "稲佐の浜・出雲大社",
@@ -9978,6 +30118,168 @@ window.SPOTS = [
   "region": "주고쿠"
  },
  {
+  "id": "shimane-gesshoji",
+  "name_ko": "겟쇼지 (수국 절)",
+  "name_ja": "月照寺",
+  "pref": "시마네",
+  "area": "마쓰에",
+  "categories": [
+   "culture",
+   "nature"
+  ],
+  "summary": "마쓰에 번주 마쓰다이라 가문의 묘소 사찰. 6월이면 경내가 수국으로 덮이고 고이즈미 야쿠모가 쓴 큰 거북 비석이 있다.",
+  "do": "6월 수국 사이로 번주 묘소 산책",
+  "station": "마쓰에역 (松江)",
+  "access": "마쓰에역에서 레이크라인 버스 약 15~20분 또는 이치바타 전철 마쓰에신지코온센역에서 걸어서",
+  "jr_pass": [
+   "돗토리・마쓰에 패스",
+   "간사이 산인 패스",
+   "산요 산인 패스",
+   "JR서일본 전지역 패스"
+  ],
+  "seasons": [
+   "여름"
+  ],
+  "best_time": "6월 수국철",
+  "event": "",
+  "duration": "1~2시간",
+  "cost": "배관료 약 500엔",
+  "walking": "보통",
+  "fit": "조건부",
+  "condition": "수국철에만 진가",
+  "caution": "",
+  "lat": 35.4714,
+  "lng": 133.0399,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/月照寺_(松江市)"
+  ],
+  "region": "주고쿠"
+ },
+ {
+  "id": "shimane-tachikue-kyo",
+  "name_ko": "다치쿠에쿄 협곡",
+  "name_ja": "立久恵峡",
+  "pref": "시마네",
+  "area": "이즈모",
+  "categories": [
+   "nature"
+  ],
+  "summary": "간도강 상류에 기암 석주가 약 1km 이어지는 협곡. '산인의 야바케이'로 불리며 국가 명승·천연기념물.",
+  "do": "강가 산책로를 걸으며 기암 절벽 감상",
+  "station": "이즈모시역 (出雲市)",
+  "access": "이즈모시역에서 이치바타 버스 약 30분 '다치쿠에쿄' 하차",
+  "jr_pass": [
+   "돗토리・마쓰에 패스",
+   "간사이 산인 패스",
+   "산요 산인 패스",
+   "JR서일본 전지역 패스"
+  ],
+  "seasons": [
+   "봄",
+   "가을"
+  ],
+  "best_time": "가을 단풍",
+  "event": "",
+  "duration": "반나절",
+  "cost": "무료",
+  "walking": "보통",
+  "fit": "조건부",
+  "condition": "큰비 뒤 산책로 통제 가능",
+  "caution": "버스 편수 공식 확인",
+  "lat": 35.2963,
+  "lng": 132.737,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/立久恵峡"
+  ],
+  "region": "주고쿠"
+ },
+ {
+  "id": "shimane-mihonoseki",
+  "name_ko": "미호노세키 (미호 신사·지조자키 등대)",
+  "name_ja": "美保関（美保神社・美保関灯台）",
+  "pref": "시마네",
+  "area": "마쓰에 미호노세키",
+  "categories": [
+   "cape",
+   "town",
+   "culture"
+  ],
+  "summary": "시마네 반도 동쪽 끝 항구 마을. 에비스 신앙 총본사 미호 신사, 비 오면 푸르게 빛나는 돌길 '아오이시다타미도리', 반도 끝 등대가 있다.",
+  "do": "신사 참배 후 돌길 골목 걷고 등대까지 가서 바다 조망",
+  "station": "마쓰에역 (松江)",
+  "access": "JR 마쓰에역 또는 사카이미나토역에서 버스 환승(미호노세키 터미널 경유), 편수 공식 확인",
+  "jr_pass": [
+   "돗토리・마쓰에 패스",
+   "간사이 산인 패스",
+   "산요 산인 패스",
+   "JR서일본 전지역 패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을"
+  ],
+  "best_time": "맑은 날 오후",
+  "event": "",
+  "duration": "반나절",
+  "cost": "무료",
+  "walking": "보통",
+  "fit": "조건부",
+  "condition": "맑은 날 등대 조망",
+  "caution": "버스 환승 필요",
+  "lat": 35.5623,
+  "lng": 133.306,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/美保神社",
+   "https://ja.wikipedia.org/wiki/美保関灯台"
+  ],
+  "region": "주고쿠"
+ },
+ {
+  "id": "shimane-sanbesan",
+  "name_ko": "산베산 (리프트·고원)",
+  "name_ja": "三瓶山",
+  "pref": "시마네",
+  "area": "오다",
+  "categories": [
+   "volcano",
+   "view",
+   "nature"
+  ],
+  "summary": "초원 둘레로 봉우리가 둘러선 화산. 산기슭 고원에서 리프트를 타고 오를 수 있고 산베 온천도 있다.",
+  "do": "동쪽 고원 리프트로 올라 초원과 화구 지형 조망, 하산 후 온천",
+  "station": "오다시역 (大田市)",
+  "access": "오다시역에서 노선버스로 산베 온천·고원 방면(편수 적음, 공식 확인)",
+  "jr_pass": [
+   "간사이 산인 패스",
+   "산요 산인 패스",
+   "JR서일본 전지역 패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을"
+  ],
+  "best_time": "5~11월",
+  "event": "",
+  "duration": "하루",
+  "cost": "리프트 왕복 약 수백 엔",
+  "walking": "보통",
+  "fit": "조건부",
+  "condition": "맑은 날 조망 / 강풍·겨울은 리프트 운휴",
+  "caution": "버스 편수 적음",
+  "lat": 35.1405,
+  "lng": 132.6215,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/三瓶山"
+  ],
+  "region": "주고쿠"
+ },
+ {
   "id": "shimane-shinjiko-sunset",
   "name_ko": "신지호 석양 (요메가시마)",
   "name_ja": "宍道湖夕日スポット",
@@ -10017,6 +30319,297 @@ window.SPOTS = [
   "sources": [
    "https://rurubu.jp/andmore/spot/80033154",
    "https://www.kankou-matsue.jp/omoshiro/sunset/sunset_information"
+  ],
+  "region": "주고쿠"
+ },
+ {
+  "id": "shimane-adachi-museum",
+  "name_ko": "아다치 미술관 (일본 정원)",
+  "name_ja": "足立美術館",
+  "pref": "시마네",
+  "area": "야스기",
+  "categories": [
+   "culture",
+   "nature"
+  ],
+  "summary": "해외 정원 평가에서 오랫동안 일본 1위로 꼽힌 정원으로 유명한 미술관. 창틀을 액자 삼아 정원을 보는 연출이 유명.",
+  "do": "창을 액자 삼은 정원 감상과 요코야마 다이칸 컬렉션 관람",
+  "station": "야스기역 (安来)",
+  "access": "야스기역에서 무료 셔틀버스 약 20분",
+  "jr_pass": [
+   "돗토리・마쓰에 패스",
+   "간사이 산인 패스",
+   "산요 산인 패스",
+   "JR서일본 전지역 패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "가을 단풍, 겨울 설경",
+  "event": "",
+  "duration": "반나절",
+  "cost": "입장료 약 2,000엔대(공식 확인)",
+  "walking": "적음",
+  "fit": "조건부",
+  "condition": "",
+  "caution": "",
+  "lat": 35.38,
+  "lng": 133.1941,
+  "url": "https://www.adachi-museum.or.jp/",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/足立美術館"
+  ],
+  "region": "주고쿠"
+ },
+ {
+  "id": "shimane-oki-rosokujima",
+  "name_ko": "오키 로소쿠지마 노을 유람선",
+  "name_ja": "隠岐 ローソク島遊覧船",
+  "pref": "시마네",
+  "area": "오키 (오키노시마)",
+  "categories": [
+   "boat",
+   "night",
+   "cape"
+  ],
+  "summary": "촛대처럼 솟은 바위섬 꼭대기에 지는 해가 걸리면 촛불이 켜진 듯 보이는 오키 제도의 명장면. 해 질 녘 작은 배를 타고 위치를 맞춰 본다.",
+  "do": "해 질 녘 소형 유람선으로 바위 끝에 해가 걸리는 순간 감상",
+  "station": "마쓰에역 (松江)",
+  "access": "시치루이항·사카이항에서 페리·고속선으로 오키 사이고항 → 차·택시로 후쿠우라항 약 30분",
+  "jr_pass": [
+   "돗토리・마쓰에 패스",
+   "간사이 산인 패스",
+   "산요 산인 패스",
+   "JR서일본 전지역 패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을"
+  ],
+  "best_time": "4~10월 맑은 날 일몰",
+  "event": "",
+  "duration": "1박 추천",
+  "cost": "유람선 약 3,000~4,000엔(공식 확인)",
+  "walking": "적음",
+  "fit": "조건부",
+  "condition": "파도·흐림이면 결항·노을 불가, 출항률 낮음",
+  "caution": "예약 필수(오키노시마초 관광협회), 섬 숙박 필요",
+  "lat": 36.3124,
+  "lng": 133.2106,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/ローソク島",
+   "https://tabi-mag.jp/sm0134/"
+  ],
+  "region": "주고쿠"
+ },
+ {
+  "id": "shimane-yuushien",
+  "name_ko": "유시엔 (다이콘섬 모란 정원)",
+  "name_ja": "由志園",
+  "pref": "시마네",
+  "area": "마쓰에 (다이콘섬)",
+  "categories": [
+   "nature",
+   "night"
+  ],
+  "summary": "나카우미의 다이콘섬에 있는 일본 정원. 연중 모란을 볼 수 있고 연못에 모란을 띄우는 '이케이즈미 모란'과 야간 라이트업 행사가 유명.",
+  "do": "모란 정원 산책, 행사 기간엔 야간 라이트업",
+  "station": "마쓰에역 (松江)",
+  "access": "마쓰에역에서 노선버스 약 50분 (편수 공식 확인)",
+  "jr_pass": [
+   "돗토리・마쓰에 패스",
+   "간사이 산인 패스",
+   "산요 산인 패스",
+   "JR서일본 전지역 패스"
+  ],
+  "seasons": [
+   "봄",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "4~5월 모란철",
+  "event": "야간 라이트업은 시기별 개최(날짜는 매년 공식 확인)",
+  "duration": "1~2시간",
+  "cost": "입장료 시기별 상이",
+  "walking": "적음",
+  "fit": "조건부",
+  "condition": "",
+  "caution": "버스 편수 적음",
+  "lat": 35.4906,
+  "lng": 133.1753,
+  "url": "https://www.yuushien.com/",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/由志園"
+  ],
+  "region": "주고쿠"
+ },
+ {
+  "id": "shimane-ichibata-railway",
+  "name_ko": "이치바타 전철 (신지호 북안 로컬선)",
+  "name_ja": "一畑電車",
+  "pref": "시마네",
+  "area": "이즈모·마쓰에",
+  "categories": [
+   "train"
+  ],
+  "summary": "마쓰에와 이즈모 사이를 신지호 북쪽 물가로 달리는 작은 사철. 종점 이즈모타이샤마에역은 등록문화재 역사.",
+  "do": "마쓰에신지코온센역에서 호수 풍경 보며 이즈모타이샤마에역까지 이동",
+  "station": "마쓰에신지코온센역 (松江しんじ湖温泉) / 덴테쓰이즈모시역",
+  "access": "JR 이즈모시역 옆 덴테쓰이즈모시역 또는 마쓰에 온천가에서 출발, 가와토역 환승 (사철, JR 패스 불가)",
+  "jr_pass": [
+   "돗토리・마쓰에 패스",
+   "간사이 산인 패스",
+   "산요 산인 패스",
+   "JR서일본 전지역 패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "맑은 날 오후(호수 반사)",
+  "event": "",
+  "duration": "1~2시간",
+  "cost": "운임 약 수백~1,000엔대, 1일 승차권 있음",
+  "walking": "적음",
+  "fit": "조건부",
+  "condition": "",
+  "caution": "JR 패스 적용 안 됨",
+  "lat": 35.3936,
+  "lng": 132.6871,
+  "url": "https://www.ichibata.co.jp/railway/",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/出雲大社前駅"
+  ],
+  "region": "주고쿠"
+ },
+ {
+  "id": "shimane-matsue-castle",
+  "name_ko": "마쓰에성",
+  "name_ja": "松江城",
+  "pref": "시마네",
+  "area": "마쓰에",
+  "categories": [
+   "culture",
+   "view"
+  ],
+  "summary": "현존 12천수 중 하나이자 국보 천수. 꼭대기 망루에서 신지호와 시내가 내려다보인다.",
+  "do": "목조 천수 내부를 올라 최상층에서 신지호 조망, 호리카와 유람선과 연계",
+  "station": "마쓰에역 (松江)",
+  "access": "마쓰에역에서 레이크라인 버스 약 10분",
+  "jr_pass": [
+   "돗토리・마쓰에 패스",
+   "간사이 산인 패스",
+   "산요 산인 패스",
+   "JR서일본 전지역 패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "봄 벚꽃",
+  "event": "",
+  "duration": "1~2시간",
+  "cost": "천수 입장 약 800엔대",
+  "walking": "보통",
+  "fit": "백업",
+  "condition": "",
+  "caution": "천수 내부 계단 가파름",
+  "lat": 35.4751,
+  "lng": 133.0507,
+  "url": "https://www.matsue-castle.jp/",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/松江城"
+  ],
+  "region": "주고쿠"
+ },
+ {
+  "id": "shimane-kodai-izumo-museum",
+  "name_ko": "시마네현립 고대이즈모역사박물관",
+  "name_ja": "島根県立古代出雲歴史博物館",
+  "pref": "시마네",
+  "area": "이즈모",
+  "categories": [
+   "culture"
+  ],
+  "summary": "이즈모타이샤 바로 옆 박물관. 고진다니 유적에서 나온 대량의 청동검과 옛 거대 신전 기둥 복원 모형이 볼거리.",
+  "do": "이즈모타이샤 참배 후 청동기 전시와 고대 신전 모형 관람",
+  "station": "이즈모타이샤마에역 (出雲大社前)",
+  "access": "JR 이즈모시역에서 버스 약 25분, 또는 이치바타 전철 이즈모타이샤마에역에서 걸어서 약 10분",
+  "jr_pass": [
+   "돗토리・마쓰에 패스",
+   "간사이 산인 패스",
+   "산요 산인 패스",
+   "JR서일본 전지역 패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "연중",
+  "event": "",
+  "duration": "1~2시간",
+  "cost": "입장료 약 600엔대",
+  "walking": "적음",
+  "fit": "백업",
+  "condition": "비 오는 날 대안",
+  "caution": "",
+  "lat": 35.3988,
+  "lng": 132.6888,
+  "url": "https://www.izm.ed.jp/",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/島根県立古代出雲歴史博物館"
+  ],
+  "region": "주고쿠"
+ },
+ {
+  "id": "shimane-aquas",
+  "name_ko": "시마네현립 해양관 아쿠아스",
+  "name_ja": "島根県立しまね海洋館アクアス",
+  "pref": "시마네",
+  "area": "하마다",
+  "categories": [
+   "city",
+   "cape"
+  ],
+  "summary": "서일본에서 드물게 흰고래(벨루가)를 볼 수 있는 수족관. 벨루가가 입으로 고리 모양 물방울을 만드는 '버블 링'이 명물.",
+  "do": "벨루가 버블 링 퍼포먼스 보기",
+  "station": "하시코역 (波子)",
+  "access": "하시코역에서 걸어서 약 10분",
+  "jr_pass": [
+   "간사이 산인 패스",
+   "산요 산인 패스",
+   "JR서일본 전지역 패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "연중",
+  "event": "",
+  "duration": "반나절",
+  "cost": "입장료 있음(공식 확인)",
+  "walking": "적음",
+  "fit": "백업",
+  "condition": "비 오는 날 대안",
+  "caution": "산인 본선 열차 편수 적음",
+  "lat": 34.9594,
+  "lng": 132.1446,
+  "url": "https://www.aquas.or.jp/",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/島根県立しまね海洋館"
   ],
   "region": "주고쿠"
  },
@@ -10061,6 +30654,86 @@ window.SPOTS = [
    "https://ja.wikipedia.org/wiki/津和野町",
    "https://yamaguchi-tourism.jp/feature/slyamaguchigo",
    "https://tsuwano-kanko.net/"
+  ],
+  "region": "주고쿠"
+ },
+ {
+  "id": "shimane-yaegaki-shrine",
+  "name_ko": "야에가키 신사 (가가미노이케 점)",
+  "name_ja": "八重垣神社",
+  "pref": "시마네",
+  "area": "마쓰에",
+  "categories": [
+   "culture"
+  ],
+  "summary": "스사노오와 구시나다히메를 모신 인연 맺기 신사. 숲속 '거울 연못'에 점 종이를 띄우고 동전을 올려 가라앉는 시간으로 인연을 점친다.",
+  "do": "숲속 연못에서 종이 점 치기",
+  "station": "마쓰에역 (松江)",
+  "access": "마쓰에역에서 노선버스 약 20분",
+  "jr_pass": [
+   "돗토리・마쓰에 패스",
+   "간사이 산인 패스",
+   "산요 산인 패스",
+   "JR서일본 전지역 패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "연중",
+  "event": "",
+  "duration": "1~2시간",
+  "cost": "점 종이 약 100엔",
+  "walking": "적음",
+  "fit": "백업",
+  "condition": "",
+  "caution": "",
+  "lat": 35.429,
+  "lng": 133.0737,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/八重垣神社"
+  ],
+  "region": "주고쿠"
+ },
+ {
+  "id": "shimane-iwami-ginzan",
+  "name_ko": "이와미 은광 (오모리 거리·류겐지 갱도)",
+  "name_ja": "石見銀山（大森の町並み・龍源寺間歩）",
+  "pref": "시마네",
+  "area": "오다",
+  "categories": [
+   "culture",
+   "town"
+  ],
+  "summary": "세계유산 은광 유적. 계곡을 따라 옛 광산 마을 오모리 거리가 이어지고, 실제 갱도 류겐지 마부 안을 걸을 수 있다.",
+  "do": "오모리 거리에서 자전거나 도보로 계곡을 올라 갱도 내부 걷기",
+  "station": "오다시역 (大田市)",
+  "access": "오다시역에서 노선버스 약 25~30분 → 오모리",
+  "jr_pass": [
+   "간사이 산인 패스",
+   "산요 산인 패스",
+   "JR서일본 전지역 패스"
+  ],
+  "seasons": [
+   "봄",
+   "가을"
+  ],
+  "best_time": "봄·가을",
+  "event": "",
+  "duration": "하루",
+  "cost": "갱도 입장 약 400~500엔",
+  "walking": "많음",
+  "fit": "백업",
+  "condition": "",
+  "caution": "오모리에서 류겐지 갱도까지 편도 약 2km 오르막 산책로",
+  "lat": 35.1128,
+  "lng": 132.435,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/石見銀山"
   ],
   "region": "주고쿠"
  },
@@ -10155,6 +30828,47 @@ window.SPOTS = [
   "region": "주고쿠"
  },
  {
+  "id": "okayama-okutsu-onsen",
+  "name_ko": "오쿠쓰 온천 (강변 노천탕·발로 빨래)",
+  "name_ja": "奥津温泉",
+  "pref": "오카야마",
+  "area": "가가미노",
+  "categories": [
+   "onsen",
+   "nature"
+  ],
+  "summary": "요시이강 강변 노천탕이 있는 미마사카 3탕의 하나. 온천물로 발을 굴려 빨래하는 옛 풍습을 3~11월 휴일에 시연한다. 근처 오쿠쓰케이 계곡은 단풍 명소.",
+  "do": "강변 노천탕과 발빨래 시연 보기, 가을엔 오쿠쓰케이 계곡 단풍",
+  "station": "쓰야마역 (津山)",
+  "access": "쓰야마역 5번 승강장에서 주테쓰 호쿠부 버스 약 50분 (평일 4왕복, 주말 2왕복)",
+  "jr_pass": [
+   "간사이 와이드 패스",
+   "산요 산인 패스",
+   "JR서일본 전지역 패스"
+  ],
+  "seasons": [
+   "봄",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "가을 단풍",
+  "event": "",
+  "duration": "1박 추천",
+  "cost": "숙박 1박 약 1만엔대~",
+  "walking": "적음",
+  "fit": "매우 잘 맞음",
+  "condition": "",
+  "caution": "버스 하루 2~4왕복",
+  "lat": 35.223,
+  "lng": 133.9202,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/奥津温泉",
+   "https://ja.wikipedia.org/wiki/奥津渓"
+  ],
+  "region": "주고쿠"
+ },
+ {
   "id": "okayama-washuzan",
   "name_ko": "와슈잔 전망대",
   "name_ja": "鷲羽山",
@@ -10244,6 +30958,45 @@ window.SPOTS = [
   "region": "주고쿠"
  },
  {
+  "id": "okayama-yunogo-onsen",
+  "name_ko": "유노고 온천",
+  "name_ja": "湯郷温泉",
+  "pref": "오카야마",
+  "area": "미마사카",
+  "categories": [
+   "onsen"
+  ],
+  "summary": "미마사카 3탕 중 하나로, 백로가 상처를 치료했다는 전설이 있는 온천 마을.",
+  "do": "온천가 숙소에서 온천, 쓰야마와 묶어 1박",
+  "station": "하야시노역 (林野)",
+  "access": "하야시노역에서 버스·택시 약 5분",
+  "jr_pass": [
+   "간사이 와이드 패스",
+   "산요 산인 패스",
+   "JR서일본 전지역 패스"
+  ],
+  "seasons": [
+   "봄",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "연중",
+  "event": "",
+  "duration": "1박 추천",
+  "cost": "숙박 1박 약 1만엔대~",
+  "walking": "적음",
+  "fit": "매우 잘 맞음",
+  "condition": "",
+  "caution": "기신선 열차 편수 적음",
+  "lat": 34.9931,
+  "lng": 134.135,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/湯郷温泉"
+  ],
+  "region": "주고쿠"
+ },
+ {
   "id": "okayama-yubara-onsen",
   "name_ko": "유바라 온천 (스나유)",
   "name_ja": "湯原温泉 砂湯",
@@ -10286,6 +31039,130 @@ window.SPOTS = [
   "region": "주고쿠"
  },
  {
+  "id": "okayama-shizutani-school",
+  "name_ko": "구 시즈타니 학교",
+  "name_ja": "旧閑谷学校",
+  "pref": "오카야마",
+  "area": "비젠",
+  "categories": [
+   "culture",
+   "nature"
+  ],
+  "summary": "에도 시대 서민을 위한 학교. 국보 강당의 붉은 기와와 거대한 '해목(楷の木)' 두 그루 단풍이 유명.",
+  "do": "국보 강당과 석담 보기, 11월엔 해목 단풍",
+  "station": "요시나가역 (吉永)",
+  "access": "요시나가역에서 택시 약 10분 (시영 버스는 편수 적음)",
+  "jr_pass": [
+   "간사이 와이드 패스",
+   "간사이 히로시마 패스",
+   "산요 산인 패스",
+   "JR서일본 전지역 패스"
+  ],
+  "seasons": [
+   "가을"
+  ],
+  "best_time": "11월 해목 단풍",
+  "event": "",
+  "duration": "1~2시간",
+  "cost": "약 400엔",
+  "walking": "적음",
+  "fit": "조건부",
+  "condition": "단풍철에 진가",
+  "caution": "",
+  "lat": 34.7964,
+  "lng": 134.2195,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/閑谷学校"
+  ],
+  "region": "주고쿠"
+ },
+ {
+  "id": "okayama-bisei-observatory",
+  "name_ko": "비세이 천문대 (다크 스카이 마을)",
+  "name_ja": "美星天文台",
+  "pref": "오카야마",
+  "area": "이바라 비세이",
+  "categories": [
+   "night"
+  ],
+  "summary": "2021년 국제 다크 스카이 커뮤니티 인증을 받은 비세이 마을의 공공 천문대. 101cm 망원경으로 밤하늘을 본다.",
+  "do": "금~월 야간 공개(18~22시)에 대형 망원경 관측",
+  "station": "야카게역 (矢掛)",
+  "access": "이바라 철도 야카게역에서 호쿠신 버스 '비세이 진료소 앞' 하차 후 걸어서 약 30분(약 2km). 밤엔 대중교통 귀가 어려움 → 숙박·택시",
+  "jr_pass": [
+   "간사이 와이드 패스",
+   "간사이 히로시마 패스",
+   "간사이 산인 패스",
+   "산요 산인 패스",
+   "오카야마·히로시마·야마구치 패스",
+   "JR서일본 전지역 패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "맑고 달 없는 밤",
+  "event": "",
+  "duration": "1박 추천",
+  "cost": "약 300엔",
+  "walking": "많음",
+  "fit": "조건부",
+  "condition": "흐리면 관측 불가",
+  "caution": "버스 정류장에서 오르막 약 2km, 목요일 휴관, 이바라 철도는 JR 패스 불가",
+  "lat": 34.672,
+  "lng": 133.5454,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/美星天文台"
+  ],
+  "region": "주고쿠"
+ },
+ {
+  "id": "okayama-bitchu-kokubunji",
+  "name_ko": "비추 고쿠분지 오층탑 (기비지)",
+  "name_ja": "備中国分寺",
+  "pref": "오카야마",
+  "area": "소자",
+  "categories": [
+   "culture",
+   "nature"
+  ],
+  "summary": "논과 꽃밭 너머로 오층탑이 서 있는 기비지의 상징 풍경. 기비지 자전거 길의 대표 지점.",
+  "do": "기비지 자전거 길을 달려 들판 속 오층탑 보기",
+  "station": "소자역 (総社)",
+  "access": "소자역에서 렌터사이클 약 20~30분 또는 택시 약 10분",
+  "jr_pass": [
+   "간사이 와이드 패스",
+   "간사이 히로시마 패스",
+   "간사이 산인 패스",
+   "산요 산인 패스",
+   "오카야마·히로시마·야마구치 패스",
+   "JR서일본 전지역 패스"
+  ],
+  "seasons": [
+   "봄",
+   "가을"
+  ],
+  "best_time": "봄 연꽃·유채, 가을 코스모스(시기 확인)",
+  "event": "",
+  "duration": "반나절",
+  "cost": "무료",
+  "walking": "보통",
+  "fit": "조건부",
+  "condition": "맑은 날 자전거",
+  "caution": "",
+  "lat": 34.6664,
+  "lng": 133.7822,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/備中国分寺"
+  ],
+  "region": "주고쿠"
+ },
+ {
   "id": "okayama-bitchu-matsuyama-unkai",
   "name_ko": "비추마쓰야마성 운해",
   "name_ja": "備中松山城・雲海",
@@ -10323,6 +31200,329 @@ window.SPOTS = [
   "sources": [
    "https://ja.wikipedia.org/wiki/備中松山城",
    "https://www.okayama-kanko.jp/feature/matsuyamacastle/top"
+  ],
+  "region": "주고쿠"
+ },
+ {
+  "id": "okayama-saidaiji-eyo",
+  "name_ko": "사이다이지 에요 (알몸 축제)",
+  "name_ja": "西大寺会陽",
+  "pref": "오카야마",
+  "area": "오카야마시",
+  "categories": [
+   "festival",
+   "culture"
+  ],
+  "summary": "훈도시 차림 남성 수천 명이 한겨울 밤 경내에 던져진 '보물 나무'를 쟁탈하는 일본 3대 기이한 축제. 국가 중요무형민속문화재.",
+  "do": "밤 22시 보물 나무 던지기 순간을 관람석에서 보기",
+  "station": "사이다이지역 (西大寺)",
+  "access": "사이다이지역에서 걸어서 약 10분",
+  "jr_pass": [
+   "간사이 와이드 패스",
+   "간사이 히로시마 패스",
+   "간사이 산인 패스",
+   "산요 산인 패스",
+   "JR서일본 전지역 패스"
+  ],
+  "seasons": [
+   "겨울"
+  ],
+  "best_time": "2월 셋째 토요일 밤",
+  "event": "매년 2월 셋째 토요일, 보물 나무 투하 22시(날짜는 매년 공식 확인)",
+  "duration": "반나절",
+  "cost": "관람석 별도",
+  "walking": "적음",
+  "fit": "조건부",
+  "condition": "축제 당일만",
+  "caution": "2026년 사고로 2027년 보물 나무 쟁탈 중지 발표(위키 기준) → 개최 형태 공식 확인. 매우 혼잡",
+  "lat": 34.6536,
+  "lng": 134.038,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/西大寺会陽",
+   "https://ja.wikipedia.org/wiki/西大寺_(岡山市)"
+  ],
+  "region": "주고쿠"
+ },
+ {
+  "id": "okayama-tsuyama-castle",
+  "name_ko": "쓰야마성 (가쿠잔 공원)",
+  "name_ja": "津山城（鶴山公園）",
+  "pref": "오카야마",
+  "area": "쓰야마",
+  "categories": [
+   "culture",
+   "nature"
+  ],
+  "summary": "층층이 쌓인 웅장한 석축이 남은 성터. 봄이면 석축 위로 벚꽃이 가득해 서일본 대표 벚꽃 명소로 꼽힌다.",
+  "do": "벚꽃철 석축 따라 올라 복원된 비추 망루와 시내 조망",
+  "station": "쓰야마역 (津山)",
+  "access": "쓰야마역에서 걸어서 약 10~15분",
+  "jr_pass": [
+   "간사이 와이드 패스",
+   "산요 산인 패스",
+   "JR서일본 전지역 패스"
+  ],
+  "seasons": [
+   "봄",
+   "가을"
+  ],
+  "best_time": "4월 초 벚꽃",
+  "event": "",
+  "duration": "1~2시간",
+  "cost": "약 300엔",
+  "walking": "보통",
+  "fit": "조건부",
+  "condition": "벚꽃철에 진가",
+  "caution": "",
+  "lat": 35.0628,
+  "lng": 134.005,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/津山城"
+  ],
+  "region": "주고쿠"
+ },
+ {
+  "id": "okayama-inujima",
+  "name_ko": "이누지마 (아트 섬)",
+  "name_ja": "犬島",
+  "pref": "오카야마",
+  "area": "오카야마시",
+  "categories": [
+   "cape",
+   "culture"
+  ],
+  "summary": "옛 구리 제련소 폐허를 미술관으로 바꾼 세토내해의 작은 섬. 세토우치 국제예술제 무대 중 하나.",
+  "do": "제련소 미술관과 마을 곳곳 집 프로젝트 관람",
+  "station": "오카야마역 (岡山)",
+  "access": "오카야마역·사이다이지에서 버스로 호덴항 → 배 약 10분",
+  "jr_pass": [
+   "간사이 와이드 패스",
+   "간사이 히로시마 패스",
+   "간사이 산인 패스",
+   "산요 산인 패스",
+   "오카야마·히로시마·야마구치 패스",
+   "JR서일본 전지역 패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을"
+  ],
+  "best_time": "봄·가을",
+  "event": "",
+  "duration": "하루",
+  "cost": "미술관 입장료 별도(공식 확인)",
+  "walking": "보통",
+  "fit": "조건부",
+  "condition": "파도 높으면 배 결항",
+  "caution": "미술관 휴관일(화요일 등)·겨울 휴관 확인",
+  "lat": 34.5627,
+  "lng": 134.1018,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/犬島"
+  ],
+  "region": "주고쿠"
+ },
+ {
+  "id": "okayama-fukiya",
+  "name_ko": "후키야 벵갈라 마을",
+  "name_ja": "吹屋（吹屋ふるさと村）",
+  "pref": "오카야마",
+  "area": "다카하시",
+  "categories": [
+   "town"
+  ],
+  "summary": "해발 약 550m 산 위 옛 구리광산·벵갈라 마을. 붉은 기와와 붉은 벽이 이어지는 중요전통적건조물군보존지구.",
+  "do": "붉은 거리 산책, 옛 가타야마가 주택 등 견학",
+  "station": "비추타카하시역 (備中高梁)",
+  "access": "비추타카하시역에서 비호쿠 버스 약 60분(편수 적음)",
+  "jr_pass": [
+   "간사이 산인 패스",
+   "산요 산인 패스",
+   "JR서일본 전지역 패스"
+  ],
+  "seasons": [
+   "봄",
+   "가을"
+  ],
+  "best_time": "가을",
+  "event": "",
+  "duration": "하루",
+  "cost": "견학 시설 공통권 있음",
+  "walking": "보통",
+  "fit": "조건부",
+  "condition": "",
+  "caution": "가게는 15시 반쯤 닫고 마지막 버스도 그 무렵 → 시간표 필수",
+  "lat": 34.8618,
+  "lng": 133.4689,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/吹屋",
+   "https://ja.wikipedia.org/wiki/旧片山家住宅"
+  ],
+  "region": "주고쿠"
+ },
+ {
+  "id": "okayama-hiruzen-kogen",
+  "name_ko": "히루젠 고원",
+  "name_ja": "蒜山高原",
+  "pref": "오카야마",
+  "area": "마니와",
+  "categories": [
+   "nature",
+   "view"
+  ],
+  "summary": "화산 활동으로 생긴 히루젠 3산 아래 펼쳐진 고원. 저지종 젖소 목장과 고원 자전거길, B-1 그랑프리 금상의 히루젠 야키소바가 명물.",
+  "do": "고원 자전거길 달리기, 유제품과 히루젠 야키소바 맛보기",
+  "station": "주고쿠카쓰야마역 (中国勝山)",
+  "access": "주고쿠카쓰야마역에서 마니와 시영 버스 '마니와쿤'으로 히루젠 고원(규카무라 앞)",
+  "jr_pass": [
+   "간사이 산인 패스",
+   "산요 산인 패스",
+   "JR서일본 전지역 패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을"
+  ],
+  "best_time": "5~10월",
+  "event": "",
+  "duration": "하루",
+  "cost": "자전거 대여 별도",
+  "walking": "적음",
+  "fit": "조건부",
+  "condition": "맑은 날 고원 자전거",
+  "caution": "버스 편수 공식 확인",
+  "lat": 35.3032,
+  "lng": 133.664,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/蒜山高原"
+  ],
+  "region": "주고쿠"
+ },
+ {
+  "id": "okayama-katsuyama-townscape",
+  "name_ko": "가쓰야마 노렌 거리",
+  "name_ja": "勝山町並み保存地区",
+  "pref": "오카야마",
+  "area": "마니와",
+  "categories": [
+   "town"
+  ],
+  "summary": "옛 성하마을 집집마다 장인이 염색한 노렌(포렴)을 걸어 둔 거리. 유바라 온천·히루젠 가는 길에 들르기 좋다.",
+  "do": "노렌 거리와 양조장 산책",
+  "station": "주고쿠카쓰야마역 (中国勝山)",
+  "access": "주고쿠카쓰야마역에서 걸어서 약 10분",
+  "jr_pass": [
+   "간사이 산인 패스",
+   "산요 산인 패스",
+   "JR서일본 전지역 패스"
+  ],
+  "seasons": [
+   "봄",
+   "가을"
+  ],
+  "best_time": "연중",
+  "event": "",
+  "duration": "1~2시간",
+  "cost": "무료",
+  "walking": "적음",
+  "fit": "백업",
+  "condition": "",
+  "caution": "",
+  "lat": 35.0876,
+  "lng": 133.6913,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/勝山町_(岡山県)"
+  ],
+  "region": "주고쿠"
+ },
+ {
+  "id": "okayama-kibitsu-shrine",
+  "name_ko": "기비쓰 신사 (회랑)",
+  "name_ja": "吉備津神社",
+  "pref": "오카야마",
+  "area": "오카야마시",
+  "categories": [
+   "culture"
+  ],
+  "summary": "모모타로 전설의 모델로 전해지는 신을 모신 신사. 독특한 국보 본전과 산기슭을 따라 곧게 뻗은 약 360m의 긴 회랑이 볼거리.",
+  "do": "긴 회랑 걷기, 기비지 자전거 길과 연결",
+  "station": "기비쓰역 (吉備津)",
+  "access": "기비선(모모타로선) 기비쓰역에서 걸어서 약 10분",
+  "jr_pass": [
+   "간사이 와이드 패스",
+   "간사이 히로시마 패스",
+   "간사이 산인 패스",
+   "산요 산인 패스",
+   "오카야마·히로시마·야마구치 패스",
+   "JR서일본 전지역 패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을"
+  ],
+  "best_time": "6월 수국(회랑 옆)",
+  "event": "",
+  "duration": "1~2시간",
+  "cost": "무료",
+  "walking": "보통",
+  "fit": "백업",
+  "condition": "",
+  "caution": "",
+  "lat": 34.6707,
+  "lng": 133.8506,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/吉備津神社"
+  ],
+  "region": "주고쿠"
+ },
+ {
+  "id": "okayama-bizen-imbe",
+  "name_ko": "비젠 인베 (비젠야키 마을)",
+  "name_ja": "備前焼の里・伊部",
+  "pref": "오카야마",
+  "area": "비젠",
+  "categories": [
+   "town",
+   "culture"
+  ],
+  "summary": "유약 없이 장작가마로 굽는 비젠야키의 본고장. 역 주변에 가마와 굴뚝, 도자기 가게가 모여 있다.",
+  "do": "가마 거리 산책, 도예 체험이나 도자기 쇼핑",
+  "station": "인베역 (伊部)",
+  "access": "인베역 바로 앞",
+  "jr_pass": [
+   "간사이 와이드 패스",
+   "간사이 히로시마 패스",
+   "간사이 산인 패스",
+   "산요 산인 패스",
+   "JR서일본 전지역 패스"
+  ],
+  "seasons": [
+   "봄",
+   "가을"
+  ],
+  "best_time": "10월 비젠야키 축제",
+  "event": "비젠야키 축제 매년 10월 셋째 토·일 무렵(날짜는 매년 공식 확인)",
+  "duration": "반나절",
+  "cost": "도예 체험 별도",
+  "walking": "적음",
+  "fit": "백업",
+  "condition": "",
+  "caution": "",
+  "lat": 34.7388,
+  "lng": 134.1606,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/伊部駅"
   ],
   "region": "주고쿠"
  },
@@ -10369,6 +31569,93 @@ window.SPOTS = [
    "https://okayama-korakuen.jp/",
    "https://ja.wikipedia.org/wiki/岡山後楽園",
    "https://okayama-kanko.jp/spot/10001"
+  ],
+  "region": "주고쿠"
+ },
+ {
+  "id": "okayama-okayama-castle",
+  "name_ko": "오카야마성 (까마귀성)",
+  "name_ja": "岡山城",
+  "pref": "오카야마",
+  "area": "오카야마시",
+  "categories": [
+   "culture",
+   "night"
+  ],
+  "summary": "검은 외벽 때문에 '까마귀 성'으로 불리는 성. 2022년 리뉴얼했고 강 건너 고라쿠엔과 함께 돈다.",
+  "do": "천수 전시 관람 후 아사히강 건너 고라쿠엔으로 이동",
+  "station": "오카야마역 (岡山)",
+  "access": "오카야마역에서 노면전차 '시로시타' 하차 후 걸어서 약 10분",
+  "jr_pass": [
+   "간사이 와이드 패스",
+   "간사이 히로시마 패스",
+   "간사이 산인 패스",
+   "산요 산인 패스",
+   "오카야마·히로시마·야마구치 패스",
+   "JR서일본 전지역 패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "봄 벚꽃, 야간 라이트업 시기",
+  "event": "",
+  "duration": "1~2시간",
+  "cost": "천수 입장 약 400엔",
+  "walking": "적음",
+  "fit": "백업",
+  "condition": "",
+  "caution": "",
+  "lat": 34.6653,
+  "lng": 133.9361,
+  "url": "https://okayama-castle.jp/",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/岡山城"
+  ],
+  "region": "주고쿠"
+ },
+ {
+  "id": "okayama-ohara-museum",
+  "name_ko": "오하라 미술관",
+  "name_ja": "大原美術館",
+  "pref": "오카야마",
+  "area": "구라시키",
+  "categories": [
+   "culture"
+  ],
+  "summary": "1930년 문을 연 일본 최초의 서양 미술 중심 사립 미술관. 구라시키 미관지구 강변에 그리스 신전풍 본관이 있다.",
+  "do": "엘 그레코 등 서양 명화와 공예관 관람",
+  "station": "구라시키역 (倉敷)",
+  "access": "구라시키역에서 걸어서 약 15분",
+  "jr_pass": [
+   "간사이 와이드 패스",
+   "간사이 히로시마 패스",
+   "간사이 산인 패스",
+   "산요 산인 패스",
+   "오카야마·히로시마·야마구치 패스",
+   "JR서일본 전지역 패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "연중",
+  "event": "",
+  "duration": "1~2시간",
+  "cost": "입장료 약 2,000엔 안팎(공식 확인)",
+  "walking": "적음",
+  "fit": "백업",
+  "condition": "비 오는 날 대안",
+  "caution": "",
+  "lat": 34.5961,
+  "lng": 133.7706,
+  "url": "https://www.ohara.or.jp/",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/大原美術館"
   ],
   "region": "주고쿠"
  },
@@ -10500,6 +31787,48 @@ window.SPOTS = [
    "https://www.miyajima-ropeway.info/",
    "https://miyajima-ropeway.info/fare",
    "https://ja.wikipedia.org/wiki/宮島ロープウエー"
+  ],
+  "region": "주고쿠"
+ },
+ {
+  "id": "hiroshima-miyahama-onsen",
+  "name_ko": "미야하마 온천",
+  "name_ja": "宮浜温泉",
+  "pref": "히로시마",
+  "area": "하쓰카이치",
+  "categories": [
+   "onsen",
+   "night"
+  ],
+  "summary": "미야지마를 바다 건너 정면으로 보는 언덕 위 온천. 미야지마 관광 전후 묵기 좋다.",
+  "do": "미야지마와 세토내해가 보이는 탕에서 노을",
+  "station": "오노우라역 (大野浦)",
+  "access": "오노우라역에서 버스·택시 약 5~10분",
+  "jr_pass": [
+   "간사이 히로시마 패스",
+   "산요 산인 패스",
+   "히로시마 야마구치 패스",
+   "오카야마·히로시마·야마구치 패스",
+   "JR서일본 전지역 패스"
+  ],
+  "seasons": [
+   "봄",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "맑은 날 저녁",
+  "event": "",
+  "duration": "1박 추천",
+  "cost": "숙박 1박 약 1만엔대~",
+  "walking": "적음",
+  "fit": "매우 잘 맞음",
+  "condition": "맑은 날 노을",
+  "caution": "",
+  "lat": 34.2736,
+  "lng": 132.2554,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/宮浜温泉"
   ],
   "region": "주고쿠"
  },
@@ -10675,6 +32004,293 @@ window.SPOTS = [
   "region": "주고쿠"
  },
  {
+  "id": "hiroshima-kosanji-ikuchijima",
+  "name_ko": "고산지와 미래심의 언덕 (이쿠치섬)",
+  "name_ja": "耕三寺・未来心の丘（生口島）",
+  "pref": "히로시마",
+  "area": "오노미치 세토다",
+  "categories": [
+   "culture",
+   "cape",
+   "view"
+  ],
+  "summary": "시마나미 해도 이쿠치섬의 화려한 사찰. 뒤편 '미래심의 언덕'은 하얀 대리석 조형이 바다 위 하늘과 이어지는 풍경.",
+  "do": "사찰과 하얀 대리석 언덕 산책, 레몬 특산 거리 구경",
+  "station": "오노미치역 (尾道)",
+  "access": "오노미치항에서 고속선 약 40분 → 세토다항, 걸어서 약 10분 (자전거로 시마나미 해도 이동도 가능)",
+  "jr_pass": [
+   "간사이 히로시마 패스",
+   "산요 산인 패스",
+   "히로시마 야마구치 패스",
+   "오카야마·히로시마·야마구치 패스",
+   "JR서일본 전지역 패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을"
+  ],
+  "best_time": "맑은 날",
+  "event": "",
+  "duration": "반나절",
+  "cost": "입장료 약 1,400엔대(공식 확인)",
+  "walking": "보통",
+  "fit": "조건부",
+  "condition": "맑은 날 흰 대리석과 하늘",
+  "caution": "",
+  "lat": 34.3038,
+  "lng": 133.0903,
+  "url": "https://www.kousanji.or.jp/",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/耕三寺"
+  ],
+  "region": "주고쿠"
+ },
+ {
+  "id": "hiroshima-taishakukyo",
+  "name_ko": "다이샤쿠쿄 협곡 (오바시·신류호 유람선)",
+  "name_ja": "帝釈峡",
+  "pref": "히로시마",
+  "area": "쇼바라·진세키",
+  "categories": [
+   "nature",
+   "boat"
+  ],
+  "summary": "석회암 협곡으로, 자연이 만든 거대한 돌다리 '오바시(雄橋)'와 협곡 호수 신류호 유람선이 볼거리.",
+  "do": "협곡 산책로로 돌다리까지 걷고 신류호 유람선 타기",
+  "station": "도조역 (東城)",
+  "access": "도조역에서 버스·택시(버스 편수 매우 적음, 공식 확인)",
+  "jr_pass": [
+   "산요 산인 패스",
+   "JR서일본 전지역 패스"
+  ],
+  "seasons": [
+   "봄",
+   "가을"
+  ],
+  "best_time": "가을 단풍",
+  "event": "",
+  "duration": "하루",
+  "cost": "유람선 약 1,000엔대",
+  "walking": "많음",
+  "fit": "조건부",
+  "condition": "",
+  "caution": "산책로 왕복 길고, 게이비선 열차·버스 모두 편수 적음",
+  "lat": 34.8461,
+  "lng": 133.2261,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/帝釈峡"
+  ],
+  "region": "주고쿠"
+ },
+ {
+  "id": "hiroshima-tokasan-festival",
+  "name_ko": "도카산 대제 (유카타 첫 착용 축제)",
+  "name_ja": "とうかさん大祭（圓隆寺）",
+  "pref": "히로시마",
+  "area": "히로시마시",
+  "categories": [
+   "festival",
+   "night"
+  ],
+  "summary": "히로시마 사람들이 그해 처음 유카타를 입는 날로 여기는 초여름 축제. 사흘간 약 45만 명이 찾고 주오도리에 노점이 늘어선다.",
+  "do": "유카타 입고 노점 거리와 절 경내 밤 산책",
+  "station": "히로시마역 (広島)",
+  "access": "노면전차 '핫초보리' 부근에서 걸어서 약 5분",
+  "jr_pass": [
+   "간사이 히로시마 패스",
+   "산요 산인 패스",
+   "히로시마 야마구치 패스",
+   "오카야마·히로시마·야마구치 패스",
+   "JR서일본 전지역 패스"
+  ],
+  "seasons": [
+   "여름"
+  ],
+  "best_time": "6월 초 저녁",
+  "event": "매년 6월 첫째 금요일부터 3일간(날짜는 매년 공식 확인)",
+  "duration": "1~2시간",
+  "cost": "무료",
+  "walking": "적음",
+  "fit": "조건부",
+  "condition": "축제 기간만",
+  "caution": "매우 혼잡",
+  "lat": 34.3892,
+  "lng": 132.4626,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/とうかさん"
+  ],
+  "region": "주고쿠"
+ },
+ {
+  "id": "hiroshima-mitarai-osakishimojima",
+  "name_ko": "미타라이 옛 항구 마을 (오사키시모지마)",
+  "name_ja": "御手洗（大崎下島）",
+  "pref": "히로시마",
+  "area": "구레",
+  "categories": [
+   "town",
+   "cape"
+  ],
+  "summary": "에도 시대 바람과 조류를 기다리던 배들의 기항지로 번성한 섬마을. 중요전통적건조물군보존지구로 옛 집과 등대가 남아 있다.",
+  "do": "섬 항구 골목과 옛 상가 산책, 도비시마 해도 다리 건너기",
+  "station": "히로역 (広)",
+  "access": "히로역 또는 구레역에서 도비시마 해도 경유 노선버스 약 1시간 이상(편수 공식 확인)",
+  "jr_pass": [
+   "간사이 히로시마 패스",
+   "산요 산인 패스",
+   "히로시마 야마구치 패스",
+   "오카야마·히로시마·야마구치 패스",
+   "JR서일본 전지역 패스"
+  ],
+  "seasons": [
+   "봄",
+   "가을"
+  ],
+  "best_time": "봄·가을",
+  "event": "",
+  "duration": "하루",
+  "cost": "무료",
+  "walking": "보통",
+  "fit": "조건부",
+  "condition": "",
+  "caution": "이동 시간 길고 버스 편수 적음",
+  "lat": 34.1732,
+  "lng": 132.8298,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/大崎下島"
+  ],
+  "region": "주고쿠"
+ },
+ {
+  "id": "hiroshima-mitakidera",
+  "name_ko": "미타키데라 (단풍 절)",
+  "name_ja": "三瀧寺",
+  "pref": "히로시마",
+  "area": "히로시마시",
+  "categories": [
+   "culture",
+   "nature"
+  ],
+  "summary": "시내 북서쪽 산자락의 숲속 사찰. 세 줄기 폭포와 붉은 다보탑, 가을 단풍이 어우러진다.",
+  "do": "이끼 낀 돌계단과 폭포 따라 올라 다보탑과 단풍 보기",
+  "station": "미타키역 (三滝)",
+  "access": "가베선 미타키역에서 걸어서 약 15~20분",
+  "jr_pass": [
+   "간사이 히로시마 패스",
+   "산요 산인 패스",
+   "히로시마 야마구치 패스",
+   "오카야마·히로시마·야마구치 패스",
+   "JR서일본 전지역 패스"
+  ],
+  "seasons": [
+   "가을"
+  ],
+  "best_time": "11월 단풍",
+  "event": "",
+  "duration": "1~2시간",
+  "cost": "무료",
+  "walking": "보통",
+  "fit": "조건부",
+  "condition": "단풍철에 진가",
+  "caution": "경내 돌계단 많음",
+  "lat": 34.4203,
+  "lng": 132.4376,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/三瀧寺"
+  ],
+  "region": "주고쿠"
+ },
+ {
+  "id": "hiroshima-orizuru-tower",
+  "name_ko": "오리즈루 타워 옥상 전망대",
+  "name_ja": "おりづるタワー",
+  "pref": "히로시마",
+  "area": "히로시마시",
+  "categories": [
+   "view",
+   "night"
+  ],
+  "summary": "원폭 돔 바로 옆 빌딩의 나무 데크 옥상 전망대. 원폭 돔과 평화공원을 위에서 내려다볼 수 있고 걸어 내려오는 나선 경사로가 있다.",
+  "do": "옥상에서 원폭 돔과 시내 조망, 해 질 녘~야경",
+  "station": "히로시마역 (広島)",
+  "access": "노면전차 '겐바쿠도무마에' 하차 바로 앞",
+  "jr_pass": [
+   "간사이 히로시마 패스",
+   "산요 산인 패스",
+   "히로시마 야마구치 패스",
+   "오카야마·히로시마·야마구치 패스",
+   "JR서일본 전지역 패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "해 질 녘",
+  "event": "",
+  "duration": "1~2시간",
+  "cost": "전망대 약 2,000엔대(공식 확인)",
+  "walking": "적음",
+  "fit": "조건부",
+  "condition": "맑은 날 노을·야경",
+  "caution": "",
+  "lat": 34.3957,
+  "lng": 132.4547,
+  "url": "https://www.orizurutower.jp/",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/おりづるタワー"
+  ],
+  "region": "주고쿠"
+ },
+ {
+  "id": "hiroshima-yuki-onsen",
+  "name_ko": "유키 온천",
+  "name_ja": "湯来温泉",
+  "pref": "히로시마",
+  "area": "히로시마시 유키",
+  "categories": [
+   "onsen",
+   "nature"
+  ],
+  "summary": "히로시마 시내에서 버스로 가는 산골 계곡 온천. 저온 방사능 냉광천을 데워 쓰며 공영 숙소 '유키 로지'가 있다.",
+  "do": "산골 계곡 산책 후 공영 숙소에서 당일 온천",
+  "station": "이쓰카이치역 (五日市)",
+  "access": "이쓰카이치역에서 히로덴 버스 약 70분 '유키 로지 앞'",
+  "jr_pass": [
+   "간사이 히로시마 패스",
+   "산요 산인 패스",
+   "히로시마 야마구치 패스",
+   "오카야마·히로시마·야마구치 패스",
+   "JR서일본 전지역 패스"
+  ],
+  "seasons": [
+   "봄",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "가을 단풍",
+  "event": "",
+  "duration": "반나절",
+  "cost": "당일 온천 약 수백 엔대",
+  "walking": "적음",
+  "fit": "조건부",
+  "condition": "",
+  "caution": "숙소 일부(가지카소)는 2023년부터 휴업, 버스 편수 확인",
+  "lat": 34.4733,
+  "lng": 132.2395,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/湯来温泉"
+  ],
+  "region": "주고쿠"
+ },
+ {
   "id": "hiroshima-itsukushima-shrine",
   "name_ko": "이쓰쿠시마 신사와 바다 위 대도리이 (미야지마)",
   "name_ja": "厳島神社・大鳥居",
@@ -10721,6 +32337,296 @@ window.SPOTS = [
   "region": "주고쿠"
  },
  {
+  "id": "hiroshima-miyajima-daishoin",
+  "name_ko": "다이쇼인 (미야지마)",
+  "name_ja": "大聖院",
+  "pref": "히로시마",
+  "area": "미야지마",
+  "categories": [
+   "culture",
+   "nature"
+  ],
+  "summary": "미센 산기슭의 미야지마 최고(最古)급 사찰. 계단 옆 돌리면 공덕이 쌓인다는 마니차와 수많은 작은 지장상이 인상적이고 가을 단풍이 곱다.",
+  "do": "마니차 계단 오르기, 동굴 불당과 단풍",
+  "station": "미야지마구치역 (宮島口)",
+  "access": "미야지마구치에서 페리 약 10분 → 걸어서 약 20분",
+  "jr_pass": [
+   "간사이 히로시마 패스",
+   "산요 산인 패스",
+   "히로시마 야마구치 패스",
+   "오카야마·히로시마·야마구치 패스",
+   "JR서일본 전지역 패스"
+  ],
+  "seasons": [
+   "봄",
+   "가을"
+  ],
+  "best_time": "11월 단풍",
+  "event": "",
+  "duration": "1~2시간",
+  "cost": "무료",
+  "walking": "보통",
+  "fit": "백업",
+  "condition": "",
+  "caution": "미야지마 방문세 별도",
+  "lat": 34.2919,
+  "lng": 132.3185,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/大聖院_(宮島)"
+  ],
+  "region": "주고쿠"
+ },
+ {
+  "id": "hiroshima-saijo-sakagura",
+  "name_ko": "사이조 양조장 거리",
+  "name_ja": "西条酒蔵通り",
+  "pref": "히로시마",
+  "area": "히가시히로시마",
+  "categories": [
+   "town",
+   "city"
+  ],
+  "summary": "역 앞에 붉은 벽돌 굴뚝과 흰 회벽 양조장 여러 곳이 모인 사케 마을. 양조장마다 시음과 양조수를 맛볼 수 있다.",
+  "do": "양조장을 돌며 시음, 10월 사케 축제",
+  "station": "사이조역 (西条)",
+  "access": "사이조역에서 걸어서 바로~약 10분",
+  "jr_pass": [
+   "간사이 히로시마 패스",
+   "산요 산인 패스",
+   "히로시마 야마구치 패스",
+   "오카야마·히로시마·야마구치 패스",
+   "JR서일본 전지역 패스"
+  ],
+  "seasons": [
+   "봄",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "10월 사케 축제",
+  "event": "사이조 사케 축제 매년 10월 주말(날짜는 매년 공식 확인)",
+  "duration": "반나절",
+  "cost": "시음 일부 유료",
+  "walking": "보통",
+  "fit": "백업",
+  "condition": "",
+  "caution": "",
+  "lat": 34.4313,
+  "lng": 132.7436,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/西条駅_(広島県)"
+  ],
+  "region": "주고쿠"
+ },
+ {
+  "id": "hiroshima-shukkeien",
+  "name_ko": "슈케이엔 정원",
+  "name_ja": "縮景園",
+  "pref": "히로시마",
+  "area": "히로시마시",
+  "categories": [
+   "culture",
+   "nature"
+  ],
+  "summary": "히로시마 번주의 별저 정원. 연못과 다리, 작은 산을 축소해 배치한 회유식 정원으로 가을 단풍 라이트업이 열리기도 한다.",
+  "do": "연못 둘레를 돌며 다리와 정자 감상",
+  "station": "히로시마역 (広島)",
+  "access": "히로시마역에서 걸어서 약 15분 또는 노면전차 '슈케이엔마에'",
+  "jr_pass": [
+   "간사이 히로시마 패스",
+   "산요 산인 패스",
+   "히로시마 야마구치 패스",
+   "오카야마·히로시마·야마구치 패스",
+   "JR서일본 전지역 패스"
+  ],
+  "seasons": [
+   "봄",
+   "가을"
+  ],
+  "best_time": "11월 단풍",
+  "event": "",
+  "duration": "1~2시간",
+  "cost": "약 300엔",
+  "walking": "적음",
+  "fit": "백업",
+  "condition": "",
+  "caution": "",
+  "lat": 34.3997,
+  "lng": 132.4675,
+  "url": "https://shukkeien.jp/",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/縮景園"
+  ],
+  "region": "주고쿠"
+ },
+ {
+  "id": "hiroshima-yamato-museum",
+  "name_ko": "야마토 뮤지엄 (구레시 해사역사과학관)",
+  "name_ja": "大和ミュージアム（呉市海事歴史科学館）",
+  "pref": "히로시마",
+  "area": "구레",
+  "categories": [
+   "culture"
+  ],
+  "summary": "전함 야마토의 10분의 1 대형 모형을 중심으로 구레 군항의 역사를 다루는 박물관. 2026년 4월 23일 리뉴얼 재개관.",
+  "do": "야마토 모형과 실물 엔진 전시 관람, 길 건너 잠수함 자료관도 함께",
+  "station": "구레역 (呉)",
+  "access": "구레역에서 걸어서 약 5분",
+  "jr_pass": [
+   "간사이 히로시마 패스",
+   "산요 산인 패스",
+   "히로시마 야마구치 패스",
+   "오카야마·히로시마·야마구치 패스",
+   "JR서일본 전지역 패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "연중",
+  "event": "",
+  "duration": "1~2시간",
+  "cost": "약 1,000엔",
+  "walking": "적음",
+  "fit": "백업",
+  "condition": "비 오는 날 대안",
+  "caution": "",
+  "lat": 34.2411,
+  "lng": 132.5558,
+  "url": "https://yamato-museum.com/",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/呉市海事歴史科学館",
+   "https://trafficnews.jp/post/658343"
+  ],
+  "region": "주고쿠"
+ },
+ {
+  "id": "hiroshima-peace-memorial-park",
+  "name_ko": "원폭 돔과 평화기념공원·자료관",
+  "name_ja": "原爆ドーム・平和記念公園・広島平和記念資料館",
+  "pref": "히로시마",
+  "area": "히로시마시",
+  "categories": [
+   "culture",
+   "city"
+  ],
+  "summary": "세계유산 원폭 돔과 평화기념공원, 피폭 실상을 전하는 평화기념자료관이 한곳에 모여 있다.",
+  "do": "자료관 관람 후 공원을 걸어 원폭 돔까지, 저녁 강변 돔 라이트업 보기",
+  "station": "히로시마역 (広島)",
+  "access": "히로시마역에서 노면전차 약 15분 '겐바쿠도무마에'",
+  "jr_pass": [
+   "간사이 히로시마 패스",
+   "산요 산인 패스",
+   "히로시마 야마구치 패스",
+   "오카야마·히로시마·야마구치 패스",
+   "JR서일본 전지역 패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "연중, 8월 6일 등롱 띄우기",
+  "event": "",
+  "duration": "반나절",
+  "cost": "자료관 약 200엔",
+  "walking": "보통",
+  "fit": "백업",
+  "condition": "",
+  "caution": "자료관은 성수기 매우 혼잡",
+  "lat": 34.3956,
+  "lng": 132.4536,
+  "url": "https://hpmmuseum.jp/",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/原爆ドーム"
+  ],
+  "region": "주고쿠"
+ },
+ {
+  "id": "hiroshima-fukuyama-castle",
+  "name_ko": "후쿠야마성",
+  "name_ja": "福山城",
+  "pref": "히로시마",
+  "area": "후쿠야마",
+  "categories": [
+   "culture"
+  ],
+  "summary": "신칸센 역 바로 옆에 선 성. 2022년 리뉴얼 때 천수 북면의 철판 외벽을 재현했다.",
+  "do": "역에서 바로 올라 천수 전시와 시내 조망",
+  "station": "후쿠야마역 (福山)",
+  "access": "후쿠야마역 북쪽 출구에서 걸어서 약 5분",
+  "jr_pass": [
+   "간사이 히로시마 패스",
+   "산요 산인 패스",
+   "오카야마·히로시마·야마구치 패스",
+   "JR서일본 전지역 패스"
+  ],
+  "seasons": [
+   "봄",
+   "가을"
+  ],
+  "best_time": "봄 벚꽃",
+  "event": "",
+  "duration": "1~2시간",
+  "cost": "천수 입장 약 500엔",
+  "walking": "적음",
+  "fit": "백업",
+  "condition": "",
+  "caution": "",
+  "lat": 34.491,
+  "lng": 133.3611,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/福山城_(備後国)"
+  ],
+  "region": "주고쿠"
+ },
+ {
+  "id": "hiroshima-hiroshima-castle",
+  "name_ko": "히로시마성 (잉어성)",
+  "name_ja": "広島城",
+  "pref": "히로시마",
+  "area": "히로시마시",
+  "categories": [
+   "culture"
+  ],
+  "summary": "해자와 복원 니노마루가 있는 성. 천수각은 노후화로 2026년 3월 22일 폐성했지만 외관과 성터는 볼 수 있다.",
+  "do": "해자 따라 산책하고 복원 니노마루 관람, 천수는 밖에서",
+  "station": "히로시마역 (広島)",
+  "access": "히로시마역에서 노면전차 '가미야초' 부근 하차 후 걸어서 약 15분",
+  "jr_pass": [
+   "간사이 히로시마 패스",
+   "산요 산인 패스",
+   "히로시마 야마구치 패스",
+   "오카야마·히로시마·야마구치 패스",
+   "JR서일본 전지역 패스"
+  ],
+  "seasons": [
+   "봄",
+   "가을"
+  ],
+  "best_time": "봄 벚꽃",
+  "event": "",
+  "duration": "1~2시간",
+  "cost": "성터 무료",
+  "walking": "보통",
+  "fit": "백업",
+  "condition": "",
+  "caution": "천수 내부 입장 불가(2026/3/22 폐성), 전시는 2027년 개관 예정 '산노마루 역사관'으로 이전",
+  "lat": 34.4028,
+  "lng": 132.459,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/広島城",
+   "https://www.city.hiroshima.lg.jp/tourism-culture/history/1026883/1026891/1044406.html"
+  ],
+  "region": "주고쿠"
+ },
+ {
   "id": "yamaguchi-sl-yamaguchi",
   "name_ko": "SL 야마구치호",
   "name_ja": "SLやまぐち号",
@@ -10758,6 +32664,47 @@ window.SPOTS = [
   "sources": [
    "https://yamaguchi-tourism.jp/feature/slyamaguchigo",
    "https://www.c571.jp/schedule/index.html"
+  ],
+  "region": "주고쿠"
+ },
+ {
+  "id": "yamaguchi-kawatana-onsen",
+  "name_ko": "가와타나 온천 (기와 소바)",
+  "name_ja": "川棚温泉",
+  "pref": "야마구치",
+  "area": "시모노세키",
+  "categories": [
+   "onsen",
+   "city"
+  ],
+  "summary": "'시모노세키의 안방'으로 불리는 온천 마을. 뜨겁게 달군 기와 위에 녹차 소바를 올린 '기와 소바'가 명물.",
+  "do": "온천 후 기와 소바 맛보기, 쓰노시마 대교와 연계",
+  "station": "가와타나온센역 (川棚温泉)",
+  "access": "가와타나온센역에서 걸어서 약 20분 또는 택시 약 5분",
+  "jr_pass": [
+   "산요 산인 패스",
+   "히로시마 야마구치 패스",
+   "오카야마·히로시마·야마구치 패스",
+   "JR서일본 전지역 패스"
+  ],
+  "seasons": [
+   "봄",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "연중",
+  "event": "",
+  "duration": "반나절",
+  "cost": "기와 소바 약 1,000엔대",
+  "walking": "보통",
+  "fit": "매우 잘 맞음",
+  "condition": "",
+  "caution": "",
+  "lat": 34.137,
+  "lng": 130.9387,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/川棚温泉"
   ],
   "region": "주고쿠"
  },
@@ -10850,6 +32797,47 @@ window.SPOTS = [
   "region": "주고쿠"
  },
  {
+  "id": "yamaguchi-tawarayama-onsen",
+  "name_ko": "다와라야마 온천 (탕치장)",
+  "name_ja": "俵山温泉",
+  "pref": "야마구치",
+  "area": "나가토",
+  "categories": [
+   "onsen",
+   "town"
+  ],
+  "summary": "여관에 묵고 바깥 공동탕에 다니는 옛 탕치장 방식이 남은 산골 온천. 가열·가수 없는 pH 9.9 알칼리천.",
+  "do": "공동탕 '마치노유'·'하쿠엔노유'에서 원천 그대로 온천",
+  "station": "나가토유모토역 (長門湯本)",
+  "access": "나가토유모토역에서 산덴 버스 약 25분 '다와라야마 온센'",
+  "jr_pass": [
+   "산요 산인 패스",
+   "히로시마 야마구치 패스",
+   "오카야마·히로시마·야마구치 패스",
+   "JR서일본 전지역 패스"
+  ],
+  "seasons": [
+   "봄",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "겨울",
+  "event": "",
+  "duration": "1박 추천",
+  "cost": "공동탕 약 500~850엔",
+  "walking": "적음",
+  "fit": "매우 잘 맞음",
+  "condition": "",
+  "caution": "버스 편수 적음, 여관 대부분 내탕 없음",
+  "lat": 34.2914,
+  "lng": 131.1013,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/俵山温泉"
+  ],
+  "region": "주고쿠"
+ },
+ {
   "id": "yamaguchi-akiyoshidai",
   "name_ko": "아키요시다이·아키요시도",
   "name_ja": "秋吉台・秋芳洞",
@@ -10938,6 +32926,47 @@ window.SPOTS = [
   "region": "주고쿠"
  },
  {
+  "id": "yamaguchi-yuda-onsen",
+  "name_ko": "유다 온천",
+  "name_ja": "湯田温泉",
+  "pref": "야마구치",
+  "area": "야마구치시",
+  "categories": [
+   "onsen",
+   "city"
+  ],
+  "summary": "흰 여우가 발견했다는 전설의 도심 온천. pH 9가 넘는 알칼리 단순천이고 온천가에 족욕탕 5곳이 있다.",
+  "do": "족욕탕 돌기 후 숙소 온천, 루리코지와 묶어 1박",
+  "station": "유다온센역 (湯田温泉)",
+  "access": "유다온센역에서 걸어서 약 10분",
+  "jr_pass": [
+   "산요 산인 패스",
+   "히로시마 야마구치 패스",
+   "오카야마·히로시마·야마구치 패스",
+   "JR서일본 전지역 패스"
+  ],
+  "seasons": [
+   "봄",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "연중",
+  "event": "",
+  "duration": "1박 추천",
+  "cost": "숙박 1박 약 1만엔대~",
+  "walking": "적음",
+  "fit": "매우 잘 맞음",
+  "condition": "",
+  "caution": "",
+  "lat": 34.1643,
+  "lng": 131.4555,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/湯田温泉"
+  ],
+  "region": "주고쿠"
+ },
+ {
   "id": "yamaguchi-kintaikyo",
   "name_ko": "긴타이쿄",
   "name_ja": "錦帯橋",
@@ -10983,6 +33012,130 @@ window.SPOTS = [
   "region": "주고쿠"
  },
  {
+  "id": "yamaguchi-hagi-tokoji",
+  "name_ko": "도코지 (석등 500기·만등회)",
+  "name_ja": "東光寺",
+  "pref": "야마구치",
+  "area": "하기",
+  "categories": [
+   "culture",
+   "night",
+   "festival"
+  ],
+  "summary": "하기 번주 모리 가문 묘소에 가신들이 바친 석등 약 500기가 줄지어 선 절. 8월 만등회에는 석등에 불을 밝힌다.",
+  "do": "이끼 낀 석등 숲 산책, 만등회 밤 등불 보기",
+  "station": "히가시하기역 (東萩)",
+  "access": "히가시하기역에서 순환버스 또는 걸어서 약 25분",
+  "jr_pass": [
+   "산요 산인 패스",
+   "히로시마 야마구치 패스",
+   "오카야마·히로시마·야마구치 패스",
+   "JR서일본 전지역 패스"
+  ],
+  "seasons": [
+   "여름",
+   "가을"
+  ],
+  "best_time": "8월 15일 만등회",
+  "event": "만등회 매년 8월 15일(날짜는 매년 공식 확인)",
+  "duration": "1~2시간",
+  "cost": "약 500엔",
+  "walking": "보통",
+  "fit": "조건부",
+  "condition": "만등회 밤에 진가",
+  "caution": "",
+  "lat": 34.4125,
+  "lng": 131.4261,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/東光寺_(萩市)"
+  ],
+  "region": "주고쿠"
+ },
+ {
+  "id": "yamaguchi-motonosumi-shrine",
+  "name_ko": "모토노스미 신사 (붉은 도리이 123기)",
+  "name_ja": "元乃隅神社",
+  "pref": "야마구치",
+  "area": "나가토",
+  "categories": [
+   "culture",
+   "cape"
+  ],
+  "summary": "푸른 동해 절벽을 따라 붉은 도리이 123기가 100m 넘게 이어지는 신사. 높이 약 5m 도리이 위 새전함에 동전을 넣는 재미가 있다.",
+  "do": "바다 쪽에서 도리이 행렬과 절벽 바다 감상, 파도가 솟구치는 '용궁의 시오후키' 보기",
+  "station": "나가토후루이치역 (長門古市)",
+  "access": "나가토후루이치역에서 택시 약 20분, 또는 히토마루역에서 승합택시(예약 확인). 정기 노선버스 없음",
+  "jr_pass": [
+   "산요 산인 패스",
+   "히로시마 야마구치 패스",
+   "오카야마·히로시마·야마구치 패스",
+   "JR서일본 전지역 패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을"
+  ],
+  "best_time": "맑은 날 오후",
+  "event": "",
+  "duration": "1~2시간",
+  "cost": "무료",
+  "walking": "보통",
+  "fit": "조건부",
+  "condition": "맑은 날 바다 색",
+  "caution": "대중교통 불편 → 쓰노시마 대교와 묶은 관광택시·투어 고려",
+  "lat": 34.4197,
+  "lng": 131.0628,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/元乃隅神社"
+  ],
+  "region": "주고쿠"
+ },
+ {
+  "id": "yamaguchi-susa-hornfels",
+  "name_ko": "스사 호른펠스 (줄무늬 절벽)",
+  "name_ja": "須佐ホルンフェルス",
+  "pref": "야마구치",
+  "area": "하기 스사",
+  "categories": [
+   "volcano",
+   "cape",
+   "nature"
+  ],
+  "summary": "회백색 사암과 검은 이암이 줄무늬로 쌓인 높이 약 12~15m의 해안 절벽 '다타미이와'. 일본 지질 백선.",
+  "do": "방문자 시설에서 산책로 약 8분 걸어 줄무늬 절벽 앞 해안까지",
+  "station": "스사역 (須佐)",
+  "access": "스사역에서 택시 약 10분 → 쓰와부키노야카타에서 걸어서 약 8분",
+  "jr_pass": [
+   "산요 산인 패스",
+   "히로시마 야마구치 패스",
+   "오카야마·히로시마·야마구치 패스",
+   "JR서일본 전지역 패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을"
+  ],
+  "best_time": "맑고 파도 잔잔한 날",
+  "event": "",
+  "duration": "1~2시간",
+  "cost": "무료",
+  "walking": "보통",
+  "fit": "조건부",
+  "condition": "비·강풍이면 바위가 미끄러워 위험",
+  "caution": "산인 본선 열차 편수 매우 적음",
+  "lat": 34.6474,
+  "lng": 131.5961,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/須佐ホルンフェルス"
+  ],
+  "region": "주고쿠"
+ },
+ {
   "id": "yamaguchi-tsunoshima-bridge",
   "name_ko": "쓰노시마 대교",
   "name_ja": "角島大橋",
@@ -11023,6 +33176,374 @@ window.SPOTS = [
    "https://ja.wikipedia.org/wiki/角島大橋",
    "https://yamaguchi-tourism.jp/spot/detail_11030.html",
    "https://yamaguchi-tourism.jp/spot/detail_10826.html"
+  ],
+  "region": "주고쿠"
+ },
+ {
+  "id": "yamaguchi-yanai-shirakabe",
+  "name_ko": "야나이 시라카베 거리와 금붕어 등불",
+  "name_ja": "柳井 白壁の町並み・金魚ちょうちん",
+  "pref": "야마구치",
+  "area": "야나이",
+  "categories": [
+   "town",
+   "festival",
+   "night"
+  ],
+  "summary": "흰 벽 상가가 이어진 옛 상업 거리. 처마마다 빨간 금붕어 등불이 걸리고 8월엔 수천 개 금붕어 등불이 밤을 밝히는 축제가 열린다.",
+  "do": "흰 벽 거리 산책, 금붕어 등불 만들기 체험, 여름밤 등불 축제",
+  "station": "야나이역 (柳井)",
+  "access": "야나이역에서 걸어서 약 5~10분",
+  "jr_pass": [
+   "산요 산인 패스",
+   "히로시마 야마구치 패스",
+   "오카야마·히로시마·야마구치 패스",
+   "JR서일본 전지역 패스"
+  ],
+  "seasons": [
+   "여름",
+   "봄",
+   "가을"
+  ],
+  "best_time": "8월 금붕어 등불 축제",
+  "event": "야나이 금붕어 등불 축제 매년 8월 13일(날짜는 매년 공식 확인)",
+  "duration": "1~2시간",
+  "cost": "무료",
+  "walking": "적음",
+  "fit": "조건부",
+  "condition": "축제일 밤에 진가",
+  "caution": "",
+  "lat": 33.9693,
+  "lng": 132.1084,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/柳井市古市金屋伝統的建造物群保存地区"
+  ],
+  "region": "주고쿠"
+ },
+ {
+  "id": "yamaguchi-iwakuni-castle-ropeway",
+  "name_ko": "이와쿠니성과 로프웨이",
+  "name_ja": "岩国城・岩国城ロープウエー",
+  "pref": "야마구치",
+  "area": "이와쿠니",
+  "categories": [
+   "view",
+   "culture"
+  ],
+  "summary": "긴타이쿄 뒤편 산 위에 선 복원 천수. 로프웨이로 올라 천수 최상층에서 긴타이쿄와 시내, 멀리 세토내해까지 내려다본다.",
+  "do": "로프웨이로 올라 천수에서 긴타이쿄 조망",
+  "station": "이와쿠니역 (岩国)",
+  "access": "이와쿠니역에서 버스 약 20분 '긴타이쿄' → 기코 공원 안 로프웨이 산로쿠역",
+  "jr_pass": [
+   "간사이 히로시마 패스",
+   "산요 산인 패스",
+   "히로시마 야마구치 패스",
+   "오카야마·히로시마·야마구치 패스",
+   "JR서일본 전지역 패스"
+  ],
+  "seasons": [
+   "봄",
+   "가을"
+  ],
+  "best_time": "봄 벚꽃, 가을",
+  "event": "",
+  "duration": "1~2시간",
+  "cost": "로프웨이·천수 세트권 있음",
+  "walking": "보통",
+  "fit": "조건부",
+  "condition": "맑은 날 조망 / 강풍 시 로프웨이 운휴",
+  "caution": "",
+  "lat": 34.1753,
+  "lng": 132.1742,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/岩国城"
+  ],
+  "region": "주고쿠"
+ },
+ {
+  "id": "yamaguchi-hagi-myojinike-kasayama",
+  "name_ko": "하기 묘진이케와 가사야마 (작은 화산)",
+  "name_ja": "明神池・笠山（萩）",
+  "pref": "야마구치",
+  "area": "하기",
+  "categories": [
+   "volcano",
+   "nature",
+   "cape"
+  ],
+  "summary": "바다와 땅속으로 이어져 바닷물고기가 사는 연못 묘진이케와, 그 뒤 높이 약 100m대의 작은 화산 가사야마. 정상에 작은 분화구가 남아 있다.",
+  "do": "연못의 바닷물고기 보고 가사야마 정상 분화구와 바다 전망",
+  "station": "히가시하기역 (東萩)",
+  "access": "히가시하기역에서 택시 약 10~15분 (하기 순환버스 노선은 공식 확인)",
+  "jr_pass": [
+   "산요 산인 패스",
+   "히로시마 야마구치 패스",
+   "오카야마·히로시마·야마구치 패스",
+   "JR서일본 전지역 패스"
+  ],
+  "seasons": [
+   "봄",
+   "가을"
+  ],
+  "best_time": "2~3월 동백 군락",
+  "event": "",
+  "duration": "1~2시간",
+  "cost": "무료",
+  "walking": "보통",
+  "fit": "조건부",
+  "condition": "맑은 날 전망",
+  "caution": "",
+  "lat": 34.4488,
+  "lng": 131.4091,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/明神池_(萩市)"
+  ],
+  "region": "주고쿠"
+ },
+ {
+  "id": "yamaguchi-rurikoji",
+  "name_ko": "루리코지 오층탑",
+  "name_ja": "瑠璃光寺五重塔",
+  "pref": "야마구치",
+  "area": "야마구치시",
+  "categories": [
+   "culture",
+   "night"
+  ],
+  "summary": "오우치 문화를 대표하는 국보 오층탑으로 일본 3대 명탑으로 꼽힌다. 노송나무 껍질 지붕을 약 70년 만에 전면 교체하는 공사를 진행해 왔다.",
+  "do": "연못 너머로 탑 감상, 단풍·라이트업 시기 저녁 방문",
+  "station": "야마구치역 (山口)",
+  "access": "야마구치역에서 버스 약 10분 또는 걸어서 약 25분",
+  "jr_pass": [
+   "산요 산인 패스",
+   "히로시마 야마구치 패스",
+   "오카야마·히로시마·야마구치 패스",
+   "JR서일본 전지역 패스"
+  ],
+  "seasons": [
+   "봄",
+   "가을"
+  ],
+  "best_time": "가을 단풍",
+  "event": "",
+  "duration": "1~2시간",
+  "cost": "무료",
+  "walking": "보통",
+  "fit": "백업",
+  "condition": "",
+  "caution": "지붕 교체 공사 완료·가설 덮개 철거 여부 2026/10 시점 미확인 → 공식 확인",
+  "lat": 34.1898,
+  "lng": 131.4718,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/瑠璃光寺",
+   "https://www.city.yamaguchi.lg.jp/uploaded/attachment/98937.pdf"
+  ],
+  "region": "주고쿠"
+ },
+ {
+  "id": "yamaguchi-shokasonjuku",
+  "name_ko": "쇼카손주쿠와 쇼인 신사",
+  "name_ja": "松下村塾・松陰神社",
+  "pref": "야마구치",
+  "area": "하기",
+  "categories": [
+   "culture"
+  ],
+  "summary": "요시다 쇼인이 막말 인재를 길러낸 작은 사숙으로, 세계유산 '메이지 산업혁명 유산' 구성 자산. 쇼인 신사 경내에 있다.",
+  "do": "작은 목조 사숙 건물과 신사 경내 둘러보기",
+  "station": "히가시하기역 (東萩)",
+  "access": "히가시하기역에서 걸어서 약 20분 또는 순환버스",
+  "jr_pass": [
+   "산요 산인 패스",
+   "히로시마 야마구치 패스",
+   "오카야마·히로시마·야마구치 패스",
+   "JR서일본 전지역 패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "연중",
+  "event": "",
+  "duration": "1~2시간",
+  "cost": "무료",
+  "walking": "적음",
+  "fit": "백업",
+  "condition": "",
+  "caution": "",
+  "lat": 34.4122,
+  "lng": 131.4173,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/松下村塾"
+  ],
+  "region": "주고쿠"
+ },
+ {
+  "id": "yamaguchi-akama-jingu",
+  "name_ko": "아카마 신궁 (용궁문)",
+  "name_ja": "赤間神宮",
+  "pref": "야마구치",
+  "area": "시모노세키",
+  "categories": [
+   "culture",
+   "festival"
+  ],
+  "summary": "단노우라 전투에서 바다에 잠긴 안토쿠 천황을 모신 신궁. 바다를 향한 붉고 흰 용궁풍 문이 상징.",
+  "do": "용궁문 사진, 5월 센테이사이 화려한 행렬 보기",
+  "station": "시모노세키역 (下関)",
+  "access": "시모노세키역에서 버스 약 10분 '아카마진구마에'",
+  "jr_pass": [
+   "산요 산인 패스",
+   "히로시마 야마구치 패스",
+   "오카야마·히로시마·야마구치 패스",
+   "JR서일본 전지역 패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "5월 초 센테이사이",
+  "event": "센테이사이 매년 5월 2~4일, 조로 행렬은 5월 3일(날짜는 매년 공식 확인)",
+  "duration": "1~2시간",
+  "cost": "무료",
+  "walking": "적음",
+  "fit": "백업",
+  "condition": "",
+  "caution": "",
+  "lat": 33.9597,
+  "lng": 130.9485,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/赤間神宮"
+  ],
+  "region": "주고쿠"
+ },
+ {
+  "id": "yamaguchi-chofu-kozanji",
+  "name_ko": "조후 성하마을과 고잔지",
+  "name_ja": "長府城下町・功山寺",
+  "pref": "야마구치",
+  "area": "시모노세키 조후",
+  "categories": [
+   "town",
+   "culture"
+  ],
+  "summary": "흙담 골목이 남은 조후 번 성하마을. 국보 불전이 있는 고잔지는 막말 다카스기 신사쿠 거병지로, 가을 단풍이 아름답다.",
+  "do": "흙담 골목과 고잔지 단풍, 조후 모리 저택 정원 산책",
+  "station": "조후역 (長府)",
+  "access": "조후역 또는 시모노세키역에서 버스(시모노세키역에서 약 20분) '조후' 부근",
+  "jr_pass": [
+   "산요 산인 패스",
+   "히로시마 야마구치 패스",
+   "오카야마·히로시마·야마구치 패스",
+   "JR서일본 전지역 패스"
+  ],
+  "seasons": [
+   "가을",
+   "봄"
+  ],
+  "best_time": "11월 단풍",
+  "event": "",
+  "duration": "반나절",
+  "cost": "대부분 무료(모리 저택 유료)",
+  "walking": "보통",
+  "fit": "백업",
+  "condition": "",
+  "caution": "",
+  "lat": 33.9959,
+  "lng": 130.9819,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/功山寺"
+  ],
+  "region": "주고쿠"
+ },
+ {
+  "id": "yamaguchi-hagi-castle-town",
+  "name_ko": "하기 성하마을과 하기성터",
+  "name_ja": "萩城下町・萩城跡（指月公園）",
+  "pref": "야마구치",
+  "area": "하기",
+  "categories": [
+   "town",
+   "culture"
+  ],
+  "summary": "에도 시대 지도가 그대로 쓰일 만큼 옛 길이 남은 세계유산 성하마을. 흰 담장 골목과 바닷가 성터 석축을 함께 본다.",
+  "do": "자전거로 무사 저택 골목과 성터, 기쿠가하마 해변 돌기",
+  "station": "히가시하기역 (東萩)",
+  "access": "히가시하기역·하기역에서 순환버스 또는 자전거 약 15~20분",
+  "jr_pass": [
+   "산요 산인 패스",
+   "히로시마 야마구치 패스",
+   "오카야마·히로시마·야마구치 패스",
+   "JR서일본 전지역 패스"
+  ],
+  "seasons": [
+   "봄",
+   "가을"
+  ],
+  "best_time": "봄·가을",
+  "event": "",
+  "duration": "하루",
+  "cost": "성터 약 200엔대",
+  "walking": "보통",
+  "fit": "백업",
+  "condition": "맑은 날 자전거",
+  "caution": "산인 본선 열차 편수 적음(신야마구치에서 버스도 있음)",
+  "lat": 34.4176,
+  "lng": 131.3825,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/萩城"
+  ],
+  "region": "주고쿠"
+ },
+ {
+  "id": "yamaguchi-hofu-tenmangu",
+  "name_ko": "호후 덴만구",
+  "name_ja": "防府天満宮",
+  "pref": "야마구치",
+  "area": "호후",
+  "categories": [
+   "culture",
+   "festival"
+  ],
+  "summary": "스가와라노 미치자네를 모신 덴만구 중 일본 최초로 전해지는 곳. 11월 '하다카보 축제' 신행 행렬이 유명.",
+  "do": "높은 돌계단 위 본전 참배, 매화철·축제일 방문",
+  "station": "호후역 (防府)",
+  "access": "호후역에서 걸어서 약 15분",
+  "jr_pass": [
+   "산요 산인 패스",
+   "히로시마 야마구치 패스",
+   "오카야마·히로시마·야마구치 패스",
+   "JR서일본 전지역 패스"
+  ],
+  "seasons": [
+   "봄",
+   "가을"
+  ],
+  "best_time": "2~3월 매화, 11월 축제",
+  "event": "고진코사이(하다카보 축제) 매년 11월 넷째 토요일 무렵(날짜는 매년 공식 확인)",
+  "duration": "1~2시간",
+  "cost": "무료",
+  "walking": "보통",
+  "fit": "백업",
+  "condition": "",
+  "caution": "",
+  "lat": 34.0633,
+  "lng": 131.5741,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/防府天満宮"
   ],
   "region": "주고쿠"
  },
@@ -11261,6 +33782,121 @@ window.SPOTS = [
   "region": "시코쿠"
  },
  {
+  "id": "tokushima-asa-coast-dmv",
+  "name_ko": "아사카이간 철도 DMV (선로·도로 겸용 버스)",
+  "name_ja": "阿佐海岸鉄道 DMV（デュアル・モード・ビークル）",
+  "pref": "도쿠시마",
+  "area": "가이요",
+  "categories": [
+   "train",
+   "cape"
+  ],
+  "summary": "선로와 도로를 둘 다 달리는 세계 첫 본격 운행 DMV. 아와카이난에서 바퀴를 바꿔 선로에 올라타는 '모드 체인지'가 볼거리이고, 고치현 동요정까지 해안을 달린다.",
+  "do": "아와카이난~시시쿠이~간노우라 구간 타고 모드 체인지 구경",
+  "station": "아와카이난역 (阿波海南)",
+  "access": "도쿠시마역에서 JR 무기선 약 2시간 반 → 아와카이난에서 DMV 환승",
+  "jr_pass": [
+   "올 시코쿠 레일패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "연중 (주말 편성 확인)",
+  "event": "",
+  "duration": "반나절",
+  "cost": "구간별 운임 (소액)",
+  "walking": "적음",
+  "fit": "조건부",
+  "condition": "",
+  "caution": "2026-10-15 공식 사이트에 'DMV 전편 운휴' 공지가 올라와 있음. 사유·재개일 확인 못 함 → 방문 전 반드시 운행 여부 확인",
+  "lat": 33.6065,
+  "lng": 134.3509,
+  "url": "https://asatetu.com/",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/阿佐海岸鉄道阿佐東線",
+   "https://asatetu.com/archives/3157/"
+  ],
+  "region": "시코쿠"
+ },
+ {
+  "id": "tokushima-hiwasa-ohama-turtle-beach",
+  "name_ko": "오하마 해안 (바다거북 산란지)·카레타",
+  "name_ja": "大浜海岸・日和佐うみがめ博物館カレッタ",
+  "pref": "도쿠시마",
+  "area": "미나미 (히와사)",
+  "categories": [
+   "cape",
+   "nature"
+  ],
+  "summary": "붉은바다거북이 올라와 알을 낳는 해변으로 국가 천연기념물. 해변 옆에 세계적으로 드문 바다거북 전문 박물관이 있다.",
+  "do": "박물관에서 바다거북 보고, 산란기엔 규칙에 따라 밤 해변 관찰",
+  "station": "히와사역 (日和佐)",
+  "access": "히와사역에서 도보 약 20분",
+  "jr_pass": [
+   "올 시코쿠 레일패스"
+  ],
+  "seasons": [
+   "여름"
+  ],
+  "best_time": "산란기 5~8월 밤",
+  "event": "",
+  "duration": "반나절",
+  "cost": "박물관 입장료 별도",
+  "walking": "보통",
+  "fit": "조건부",
+  "condition": "산란은 밤·운에 좌우",
+  "caution": "산란기 야간엔 조명·접근 제한 등 관찰 규칙 준수",
+  "lat": 33.7346,
+  "lng": 134.541,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/日和佐うみがめ博物館カレッタ"
+  ],
+  "region": "시코쿠"
+ },
+ {
+  "id": "tokushima-uzu-no-michi",
+  "name_ko": "우즈노미치 (오나루토교 해상 유보도)",
+  "name_ja": "渦の道",
+  "pref": "도쿠시마",
+  "area": "나루토",
+  "categories": [
+   "view",
+   "nature"
+  ],
+  "summary": "오나루토교 다리 상판 아래에 붙은 약 450m 유리 바닥 산책로. 해면 약 45m 위에서 나루토 소용돌이를 수직으로 내려다본다.",
+  "do": "다리 아래 통로를 걸어 끝 전망실 유리 바닥으로 소용돌이 내려다보기",
+  "station": "나루토역 (鳴門)",
+  "access": "도쿠시마역에서 JR 나루토선 약 40분 → 나루토역에서 徳島バス 鳴門公園행 약 20분, 종점 하차 도보 약 10분",
+  "jr_pass": [
+   "올 시코쿠 레일패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "대조(사리) 무렵 소용돌이 시각 전후. 관조선(기존 항목)과 같은 날 묶기 좋음",
+  "event": "",
+  "duration": "1~2시간",
+  "cost": "입장 약 500엔대",
+  "walking": "보통",
+  "fit": "조건부",
+  "condition": "물때가 안 맞으면 소용돌이가 작음",
+  "caution": "",
+  "lat": 34.2378,
+  "lng": 134.6479,
+  "url": "https://www.uzunomichi.jp/",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/渦の道"
+  ],
+  "region": "시코쿠"
+ },
+ {
   "id": "tokushima-iya-kazurabashi",
   "name_ko": "이야 가즈라바시 (덩굴다리)",
   "name_ja": "祖谷のかずら橋",
@@ -11296,6 +33932,466 @@ window.SPOTS = [
   "sources": [
    "https://ja.wikipedia.org/wiki/祖谷のかずら橋",
    "https://miyoshi-tourism.jp/spot/46/"
+  ],
+  "region": "시코쿠"
+ },
+ {
+  "id": "tokushima-iya-ochiai-village",
+  "name_ko": "이야 오치아이 마을",
+  "name_ja": "東祖谷 落合集落",
+  "pref": "도쿠시마",
+  "area": "이야 계곡 (히가시이야)",
+  "categories": [
+   "town",
+   "view"
+  ],
+  "summary": "깊은 산 급경사면에 초가·돌담 집이 층층이 붙은 산촌. 국가 중요전통건조물군 보존지구로, 맞은편 전망대에서 마을 전체가 한눈에 보인다.",
+  "do": "마을 건너편 전망 지점에서 경사면 마을 전경 보기, 고민가 숙소에 묵기",
+  "station": "오보케역 (大歩危)",
+  "access": "오보케역에서 四国交通 버스 久保행으로 落合 하차 (약 1시간 안팎). 버스 하루 몇 편 수준",
+  "jr_pass": [
+   "올 시코쿠 레일패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을"
+  ],
+  "best_time": "신록 5월, 단풍 11월",
+  "event": "",
+  "duration": "1박 추천",
+  "cost": "무료",
+  "walking": "많음",
+  "fit": "조건부",
+  "condition": "맑은 날 전망 / 겨울 산길 동결",
+  "caution": "버스 편수가 매우 적어 돌아오는 편을 먼저 확인. 마을 안은 급경사 길이라 많이 오르내림",
+  "lat": 33.8824,
+  "lng": 133.9346,
+  "url": "",
+  "sources": [
+   "https://nominatim.openstreetmap.org/search?q=落合+三好市"
+  ],
+  "region": "시코쿠"
+ },
+ {
+  "id": "tokushima-naruto-german-house",
+  "name_ko": "나루토시 도이치칸 (독일관)",
+  "name_ja": "鳴門市ドイツ館",
+  "pref": "도쿠시마",
+  "area": "나루토 (반도)",
+  "categories": [
+   "culture"
+  ],
+  "summary": "1차 대전 때 독일군 포로가 지낸 반도 포로수용소와, 포로들이 일본에서 처음 베토벤 '제9'를 전곡 연주한 이야기를 전하는 박물관.",
+  "do": "수용소 생활과 '제9' 초연 전시 보고 료젠지와 함께 둘러보기",
+  "station": "반도역 (板東)",
+  "access": "반도역에서 도보 약 20분 (료젠지에서 도보권)",
+  "jr_pass": [
+   "올 시코쿠 레일패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "연중",
+  "event": "",
+  "duration": "1~2시간",
+  "cost": "입장료 소액",
+  "walking": "보통",
+  "fit": "백업",
+  "condition": "",
+  "caution": "",
+  "lat": 34.1647,
+  "lng": 134.4991,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/鳴門市ドイツ館"
+  ],
+  "region": "시코쿠"
+ },
+ {
+  "id": "tokushima-chuo-park-castle",
+  "name_ko": "도쿠시마 중앙공원 (도쿠시마성터)",
+  "name_ja": "徳島中央公園（徳島城跡）",
+  "pref": "도쿠시마",
+  "area": "도쿠시마시",
+  "categories": [
+   "culture"
+  ],
+  "summary": "하치스카 가문 도쿠시마성 터를 공원으로 만든 곳. 푸른 돌 석담과 옛 표어전 정원이 남아 있고 봄엔 벚꽃 명소.",
+  "do": "석담 따라 산책하고 옛 성 정원 보기",
+  "station": "도쿠시마역 (徳島)",
+  "access": "도쿠시마역에서 도보 약 5~10분",
+  "jr_pass": [
+   "올 시코쿠 레일패스"
+  ],
+  "seasons": [
+   "봄",
+   "가을"
+  ],
+  "best_time": "3월 말~4월 초 벚꽃",
+  "event": "",
+  "duration": "1~2시간",
+  "cost": "공원 무료 (정원·박물관 소액)",
+  "walking": "보통",
+  "fit": "백업",
+  "condition": "",
+  "caution": "",
+  "lat": 34.0752,
+  "lng": 134.5551,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/徳島中央公園"
+  ],
+  "region": "시코쿠"
+ },
+ {
+  "id": "tokushima-ryozenji",
+  "name_ko": "료젠지 (시코쿠 88개소 1번)",
+  "name_ja": "霊山寺（四国八十八箇所 第一番）",
+  "pref": "도쿠시마",
+  "area": "나루토 (반도)",
+  "categories": [
+   "culture"
+  ],
+  "summary": "시코쿠 순례 88개 절의 첫 번째 절. 순례자 흰 옷·삿갓·지팡이를 여기서 갖추고 출발하는 곳이라 순례 분위기를 맛보기 좋다.",
+  "do": "본당 참배 후 순례 용품 구경, 근처 도이치칸(독일관)과 묶어 걷기",
+  "station": "반도역 (板東)",
+  "access": "도쿠시마역에서 JR 고토쿠선 약 25분 → 반도역 도보 약 10분",
+  "jr_pass": [
+   "올 시코쿠 레일패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "연중",
+  "event": "",
+  "duration": "1~2시간",
+  "cost": "무료 (납경 별도)",
+  "walking": "적음",
+  "fit": "백업",
+  "condition": "",
+  "caution": "",
+  "lat": 34.1598,
+  "lng": 134.5026,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/霊山寺_(鳴門市)"
+  ],
+  "region": "시코쿠"
+ },
+ {
+  "id": "tokushima-awaodori-kaikan",
+  "name_ko": "아와오도리 회관",
+  "name_ja": "阿波おどり会館",
+  "pref": "도쿠시마",
+  "area": "도쿠시마시",
+  "categories": [
+   "culture",
+   "city"
+  ],
+  "summary": "8월 아와오도리를 1년 내내 볼 수 있는 상설 공연장. 공연 끝에 관객이 무대에 올라 같이 춤을 배운다. 비잔 로프웨이 승강장과 같은 건물.",
+  "do": "낮·밤 공연 보고 무대에서 아와오도리 스텝 따라 해 보기",
+  "station": "도쿠시마역 (徳島)",
+  "access": "도쿠시마역에서 도보 약 10분",
+  "jr_pass": [
+   "올 시코쿠 레일패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "연중. 밤 공연은 유명 연(連)이 출연",
+  "event": "",
+  "duration": "1~2시간",
+  "cost": "공연 약 1,000엔 안팎 (시간대별 상이)",
+  "walking": "적음",
+  "fit": "백업",
+  "condition": "",
+  "caution": "",
+  "lat": 34.0701,
+  "lng": 134.5451,
+  "url": "https://awaodori-kaikan.jp/",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/阿波おどり会館"
+  ],
+  "region": "시코쿠"
+ },
+ {
+  "id": "tokushima-awa-ikeda-udatsu",
+  "name_ko": "아와이케다 우다쓰 거리·담배 자료관",
+  "name_ja": "阿波池田うだつの家・たばこ資料館",
+  "pref": "도쿠시마",
+  "area": "미요시 (이케다)",
+  "categories": [
+   "town"
+  ],
+  "summary": "잎담배 산업으로 번성한 이케다의 옛 상가 거리. 우다쓰 올린 담배 상인 저택을 자료관으로 공개한다.",
+  "do": "역 앞 상점가에서 우다쓰 저택 거리 걷고 자료관 둘러보기 (오보케·이야 가는 길에 환승 겸)",
+  "station": "아와이케다역 (阿波池田)",
+  "access": "아와이케다역에서 도보 약 5~10분",
+  "jr_pass": [
+   "올 시코쿠 레일패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "연중",
+  "event": "",
+  "duration": "1~2시간",
+  "cost": "자료관 소액",
+  "walking": "적음",
+  "fit": "백업",
+  "condition": "",
+  "caution": "",
+  "lat": 34.0295,
+  "lng": 133.809,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/阿波池田駅",
+   "https://nominatim.openstreetmap.org/search?q=阿波池田うだつの家"
+  ],
+  "region": "시코쿠"
+ },
+ {
+  "id": "tokushima-ai-no-yakata",
+  "name_ko": "아이노야카타 (쪽 염색관)",
+  "name_ja": "藍の館",
+  "pref": "도쿠시마",
+  "area": "아이즈미",
+  "categories": [
+   "culture",
+   "town"
+  ],
+  "summary": "'아와 쪽(藍)'의 본고장에서 옛 쪽 상인 저택을 쓴 역사관. 손수건 등 쪽 염색 체험을 할 수 있다.",
+  "do": "쪽 염색 체험으로 손수건 물들이기",
+  "station": "쇼즈이역 (勝瑞)",
+  "access": "도쿠시마역에서 JR 고토쿠선 쇼즈이역 → 택시 약 10분. 도쿠시마역발 노선버스도 있으나 편수 확인",
+  "jr_pass": [
+   "올 시코쿠 레일패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "연중",
+  "event": "",
+  "duration": "반나절",
+  "cost": "입장·체험 별도",
+  "walking": "적음",
+  "fit": "백업",
+  "condition": "",
+  "caution": "",
+  "lat": 34.1156,
+  "lng": 134.4823,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/藍の館"
+  ],
+  "region": "시코쿠"
+ },
+ {
+  "id": "tokushima-yakuoji",
+  "name_ko": "야쿠오지 (액막이 절, 히와사)",
+  "name_ja": "薬王寺（四国八十八箇所 第二十三番）",
+  "pref": "도쿠시마",
+  "area": "미나미 (히와사)",
+  "categories": [
+   "culture",
+   "view"
+  ],
+  "summary": "액막이로 유명한 23번 절. 남자 42계단·여자 33계단 '액년 돌계단'에 동전을 놓으며 오르고, 위 탑에서 히와사 항구가 내려다보인다.",
+  "do": "액년 계단 오르기, 경내 위에서 히와사 바다와 마을 조망",
+  "station": "히와사역 (日和佐)",
+  "access": "도쿠시마역에서 JR 무기선 약 1시간 반 → 히와사역 도보 약 10분",
+  "jr_pass": [
+   "올 시코쿠 레일패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "연중",
+  "event": "",
+  "duration": "1~2시간",
+  "cost": "무료",
+  "walking": "보통",
+  "fit": "백업",
+  "condition": "",
+  "caution": "",
+  "lat": 33.7323,
+  "lng": 134.5276,
+  "url": "",
+  "sources": [
+   "https://nominatim.openstreetmap.org/search?q=薬王寺+美波町"
+  ],
+  "region": "시코쿠"
+ },
+ {
+  "id": "tokushima-otsuka-museum-of-art",
+  "name_ko": "오쓰카 국제미술관",
+  "name_ja": "大塚国際美術館",
+  "pref": "도쿠시마",
+  "area": "나루토",
+  "categories": [
+   "culture"
+  ],
+  "summary": "서양 명화 1,000여 점을 원화 크기 도판(세라믹)으로 복제한 일본 최대급 미술관. 시스티나 예배당 천장화를 통째로 재현한 방이 압권.",
+  "do": "고대부터 현대까지 약 4km 관람 동선을 따라 명화를 시대순으로 보기",
+  "station": "나루토역 (鳴門)",
+  "access": "나루토역에서 徳島バス 鳴門公園행 약 15분, 大塚国際美術館前 하차",
+  "jr_pass": [
+   "올 시코쿠 레일패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "연중. 비 오는 날 대체 일정으로 좋음",
+  "event": "",
+  "duration": "반나절",
+  "cost": "입장 약 3,000엔대",
+  "walking": "많음",
+  "fit": "백업",
+  "condition": "",
+  "caution": "관람 동선이 약 4km라 다 보면 오래 걷는다. 휴관일 확인",
+  "lat": 34.2325,
+  "lng": 134.6377,
+  "url": "https://o-museum.or.jp/",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/大塚国際美術館"
+  ],
+  "region": "시코쿠"
+ },
+ {
+  "id": "tokushima-wakimachi-udatsu",
+  "name_ko": "와키마치 우다쓰 거리",
+  "name_ja": "脇町 うだつの町並み",
+  "pref": "도쿠시마",
+  "area": "미마 (와키마치)",
+  "categories": [
+   "town"
+  ],
+  "summary": "쪽(藍) 거래로 번성한 상인 저택이 늘어선 옛 거리. 지붕 양끝에 솟은 방화벽 '우다쓰'가 줄지어 있다. 근처에 옛 극장 오데온좌.",
+  "do": "우다쓰 저택 거리 산책하고 옛 극장 와키마치 극장(오데온좌) 들르기",
+  "station": "아나부키역 (穴吹)",
+  "access": "도쿠시마역에서 JR 도쿠시마선 약 1시간 → 아나부키역에서 요시노강 건너 도보 약 30분 또는 택시",
+  "jr_pass": [
+   "올 시코쿠 레일패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "연중",
+  "event": "",
+  "duration": "반나절",
+  "cost": "거리 무료",
+  "walking": "보통",
+  "fit": "백업",
+  "condition": "",
+  "caution": "",
+  "lat": 34.0706,
+  "lng": 134.1493,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/脇町"
+  ],
+  "region": "시코쿠"
+ },
+ {
+  "id": "tokushima-oboke-yokai-yashiki",
+  "name_ko": "요괴 저택과 돌 박물관 (오보케)",
+  "name_ja": "妖怪屋敷と石の博物館",
+  "pref": "도쿠시마",
+  "area": "미요시 (오보케)",
+  "categories": [
+   "culture"
+  ],
+  "summary": "요괴 '고나키지지' 전설이 전해지는 이야·야마시로 지역의 요괴 이야기를 인형으로 꾸민 전시관. 오보케 협곡 암석 전시도 함께 있다.",
+  "do": "도로역 오보케 안 요괴 전시 보고 오보케 유람선과 묶기",
+  "station": "오보케역 (大歩危)",
+  "access": "오보케역에서 도보 약 10분 (道の駅大歩危 안)",
+  "jr_pass": [
+   "올 시코쿠 레일패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "연중",
+  "event": "",
+  "duration": "1~2시간",
+  "cost": "입장료 별도",
+  "walking": "적음",
+  "fit": "백업",
+  "condition": "",
+  "caution": "",
+  "lat": 33.8811,
+  "lng": 133.7601,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/大歩危",
+   "https://nominatim.openstreetmap.org/search?q=道の駅大歩危"
+  ],
+  "region": "시코쿠"
+ },
+ {
+  "id": "tokushima-hyotanjima-cruise",
+  "name_ko": "효탄지마 크루즈 (신마치강 유람선)",
+  "name_ja": "ひょうたん島クルーズ（新町川遊覧船）",
+  "pref": "도쿠시마",
+  "area": "도쿠시마시",
+  "categories": [
+   "boat",
+   "city"
+  ],
+  "summary": "강에 둘러싸인 도쿠시마 도심(효탄지마)을 작은 배로 한 바퀴 도는 유람선. 낮은 다리 밑을 몸을 숙여 지나가는 재미가 있다.",
+  "do": "신마치강 수변공원 승선장에서 약 30분 시내 일주",
+  "station": "도쿠시마역 (徳島)",
+  "access": "도쿠시마역에서 도보 약 10분, 新町川水際公園(両国橋 부근) 승선장",
+  "jr_pass": [
+   "올 시코쿠 레일패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을"
+  ],
+  "best_time": "봄~가을. 저녁엔 수변 보드워크 조명",
+  "event": "",
+  "duration": "1~2시간",
+  "cost": "요금 소액 (현지 확인)",
+  "walking": "적음",
+  "fit": "백업",
+  "condition": "우천·강풍·증수 시 운휴",
+  "caution": "운항 시간·요일은 현지 확인",
+  "lat": 34.0693,
+  "lng": 134.5506,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/新町川",
+   "https://ja.wikipedia.org/wiki/新町川水際公園"
   ],
   "region": "시코쿠"
  },
@@ -11381,6 +34477,160 @@ window.SPOTS = [
   "region": "시코쿠"
  },
  {
+  "id": "kagawa-teshima-art-museum",
+  "name_ko": "데시마·데시마 미술관",
+  "name_ja": "豊島・豊島美術館",
+  "pref": "가가와",
+  "area": "데시마",
+  "categories": [
+   "cape",
+   "culture"
+  ],
+  "summary": "계단식 논과 바다를 내려다보는 언덕에 물방울 모양 흰 콘크리트 껍질 하나뿐인 미술관이 있다. 바닥에서 물방울이 솟아 흐르는 것을 조용히 바라보는 공간.",
+  "do": "페리로 섬에 건너가 미술관 안에서 물방울 보기, 계단식 논 해안 길 산책",
+  "station": "다카마쓰역 (高松)",
+  "access": "다카마쓰항에서 고속선 약 35분 → 이에우라항, 섬 안 버스·전동자전거. 오카야마 우노항발 페리도 있음",
+  "jr_pass": [
+   "올 시코쿠 레일패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을"
+  ],
+  "best_time": "봄·가을. 세토우치 국제예술제 해(2025·2028)엔 혼잡",
+  "event": "",
+  "duration": "하루",
+  "cost": "미술관 약 1,500~2,000엔대 (사전 예약제), 배 별도",
+  "walking": "보통",
+  "fit": "매우 잘 맞음",
+  "condition": "강풍 시 결항",
+  "caution": "미술관은 일시 지정 예약제·요일별 휴관. 배는 패스 대상 아님",
+  "lat": 34.4896,
+  "lng": 134.0913,
+  "url": "https://benesse-artsite.jp/",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/豊島美術館",
+   "https://ja.wikipedia.org/wiki/豊島_(香川県)"
+  ],
+  "region": "시코쿠"
+ },
+ {
+  "id": "kagawa-ogijima",
+  "name_ko": "오기지마",
+  "name_ja": "男木島",
+  "pref": "가가와",
+  "area": "다카마쓰 (오기지마)",
+  "categories": [
+   "cape",
+   "town"
+  ],
+  "summary": "산비탈에 집이 빽빽이 붙은 작은 섬. 좁은 골목 계단과 고양이, 칠하지 않은 화강암 등대가 있다.",
+  "do": "골목 계단 따라 마을 오르고 섬 북쪽 오기지마 등대까지 걷기",
+  "station": "다카마쓰역 (高松)",
+  "access": "다카마쓰항에서 메기지마 경유 페리 약 40분",
+  "jr_pass": [
+   "올 시코쿠 레일패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을"
+  ],
+  "best_time": "봄 수선화(등대 주변), 가을",
+  "event": "",
+  "duration": "반나절",
+  "cost": "페리 별도",
+  "walking": "많음",
+  "fit": "매우 잘 맞음",
+  "condition": "강풍 시 결항",
+  "caution": "마을 전체가 경사 골목·계단이라 많이 오름",
+  "lat": 34.4284,
+  "lng": 134.061,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/男木島"
+  ],
+  "region": "시코쿠"
+ },
+ {
+  "id": "kagawa-honjima-kasashima",
+  "name_ko": "혼지마 가사시마 마을 (시와쿠 제도)",
+  "name_ja": "本島・笠島地区",
+  "pref": "가가와",
+  "area": "마루가메 (혼지마)",
+  "categories": [
+   "town",
+   "cape"
+  ],
+  "summary": "시와쿠 수군의 본거지였던 섬. 적을 막으려 구불구불 낸 골목에 옛 선대공 집들이 남은 가사시마 마을이 국가 중요전통건조물군이다.",
+  "do": "페리로 건너가 자전거로 가사시마 골목과 시와쿠 근번소 둘러보기",
+  "station": "마루가메역 (丸亀)",
+  "access": "마루가메역에서 마루가메항까지 도보 약 10분 → 페리 약 35분·여객선 약 20분 → 혼지마항, 섬 안은 렌털 자전거",
+  "jr_pass": [
+   "올 시코쿠 레일패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을"
+  ],
+  "best_time": "봄·가을",
+  "event": "",
+  "duration": "하루",
+  "cost": "배 별도",
+  "walking": "보통",
+  "fit": "매우 잘 맞음",
+  "condition": "강풍 시 결항",
+  "caution": "",
+  "lat": 34.3842,
+  "lng": 133.7692,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/本島_(香川県)"
+  ],
+  "region": "시코쿠"
+ },
+ {
+  "id": "kagawa-kanamaru-za",
+  "name_ko": "가나마루자 (옛 곤피라 대극장)",
+  "name_ja": "旧金毘羅大芝居（金丸座）",
+  "pref": "가가와",
+  "area": "고토히라",
+  "categories": [
+   "culture",
+   "festival"
+  ],
+  "summary": "현존하는 일본에서 가장 오래된 가부키 극장으로 국가 중요문화재. 회전 무대·무대 밑 장치를 사람이 돌리던 구조를 직접 볼 수 있다.",
+  "do": "공연 없는 날 극장 내부·무대 밑 견학, 봄엔 가부키 공연 관람",
+  "station": "고토히라역 (琴平)",
+  "access": "고토히라역에서 도보 약 15분 (곤피라 참배길 도중)",
+  "jr_pass": [
+   "올 시코쿠 레일패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "봄 가부키 공연기",
+  "event": "매년 봄 '시코쿠 고토히라 가부키 오시바이' 공연 (날짜는 매년 공식 확인)",
+  "duration": "1~2시간",
+  "cost": "견학 소액, 공연은 별도",
+  "walking": "적음",
+  "fit": "조건부",
+  "condition": "",
+  "caution": "공연 준비 기간엔 견학 불가",
+  "lat": 34.1846,
+  "lng": 133.818,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/旧金毘羅大芝居"
+  ],
+  "region": "시코쿠"
+ },
+ {
   "id": "kagawa-shodoshima-kankakei-ropeway",
   "name_ko": "간카케이 로프웨이 (쇼도시마)",
   "name_ja": "寒霞渓ロープウェイ",
@@ -11417,6 +34667,159 @@ window.SPOTS = [
    "https://ja.wikipedia.org/wiki/寒霞渓",
    "https://ja.wikipedia.org/wiki/寒霞渓ロープウェイ",
    "https://www.jr-shikoku.co.jp/global/en/news/pdf/20260806_all-shikoku-rail-pass.pdf"
+  ],
+  "region": "시코쿠"
+ },
+ {
+  "id": "kagawa-megijima",
+  "name_ko": "메기지마 (오니가시마)",
+  "name_ja": "女木島（鬼ヶ島）",
+  "pref": "가가와",
+  "area": "다카마쓰 (메기지마)",
+  "categories": [
+   "cape"
+  ],
+  "summary": "모모타로의 '도깨비 섬'으로 알려진 다카마쓰 앞바다 섬. 산 위 커다란 인공 동굴(오니 동굴)과 전망대, 해수욕장이 있다.",
+  "do": "섬 버스로 산 위 도깨비 동굴과 전망대 오르고 해변 산책",
+  "station": "다카마쓰역 (高松)",
+  "access": "다카마쓰항에서 페리 약 20분 → 섬 안 버스로 동굴",
+  "jr_pass": [
+   "올 시코쿠 레일패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을"
+  ],
+  "best_time": "여름 해수욕, 봄 벚꽃",
+  "event": "",
+  "duration": "반나절",
+  "cost": "페리·동굴 입장 별도",
+  "walking": "보통",
+  "fit": "조건부",
+  "condition": "맑은 날 전망",
+  "caution": "",
+  "lat": 34.3953,
+  "lng": 134.05,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/女木島"
+  ],
+  "region": "시코쿠"
+ },
+ {
+  "id": "kagawa-shodoshima-olive-park",
+  "name_ko": "쇼도시마 올리브 공원",
+  "name_ja": "小豆島オリーブ公園",
+  "pref": "가가와",
+  "area": "쇼도시마",
+  "categories": [
+   "view",
+   "nature"
+  ],
+  "summary": "바다를 내려다보는 올리브 밭 언덕에 그리스풍 흰 풍차가 서 있는 공원. 빗자루를 빌려 '마녀 배달부' 흉내 사진을 찍는 곳으로 유명.",
+  "do": "풍차 앞에서 빗자루 점프 사진, 올리브 제품 구경",
+  "station": "다카마쓰역 (高松)",
+  "access": "다카마쓰항에서 페리 약 1시간·고속선 약 35분 → 도노쇼항에서 오리브버스 약 30분, オリーブ公園口 하차",
+  "jr_pass": [
+   "올 시코쿠 레일패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을"
+  ],
+  "best_time": "올리브 수확 10~11월, 맑은 날",
+  "event": "",
+  "duration": "반나절",
+  "cost": "입장 무료 (일부 시설 유료)",
+  "walking": "보통",
+  "fit": "조건부",
+  "condition": "맑은 날 바다 색",
+  "caution": "2026-10-01 이후 발급 올 시코쿠 레일패스는 쇼도시마 페리·오리브버스 불포함",
+  "lat": 34.4736,
+  "lng": 134.2729,
+  "url": "https://www.olive-pk.jp/",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/小豆島オリーブ公園"
+  ],
+  "region": "시코쿠"
+ },
+ {
+  "id": "kagawa-shiudeyama",
+  "name_ko": "시우데야마 (벚꽃·수국 전망)",
+  "name_ja": "紫雲出山",
+  "pref": "가가와",
+  "area": "미토요 (쇼나이 반도)",
+  "categories": [
+   "view",
+   "nature"
+  ],
+  "summary": "쇼나이 반도 끝 해발 약 352m 산. 산 위 벚꽃 약 1,000그루 너머로 세토내해 섬들이 내려다보이는 꽃·전망 명소. 6월엔 수국.",
+  "do": "산 위 공원에서 벚꽃(수국)과 다도해 함께 보기",
+  "station": "다쿠마역 (詫間)",
+  "access": "다쿠마역에서 미토요시 커뮤니티버스 쇼나이 반도 방면 + 산 위까지 등산로. 벚꽃철엔 주말 셔틀버스·평일 셔틀택시 운행(해마다 확인)",
+  "jr_pass": [
+   "올 시코쿠 레일패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름"
+  ],
+  "best_time": "4월 초 벚꽃, 6월 수국",
+  "event": "",
+  "duration": "반나절",
+  "cost": "무료 (셔틀 별도)",
+  "walking": "많음",
+  "fit": "조건부",
+  "condition": "꽃 시기·맑은 날만 진가",
+  "caution": "셔틀이 없는 시기엔 버스 정류장에서 산 위까지 걸어 올라가야 함. 벚꽃철 마이카는 예약제라 도로 혼잡",
+  "lat": 34.2447,
+  "lng": 133.5956,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/紫雲出山"
+  ],
+  "region": "시코쿠"
+ },
+ {
+  "id": "kagawa-yashima",
+  "name_ko": "야시마 (산정 전망·야시마지)",
+  "name_ja": "屋島（屋島寺・山上展望）",
+  "pref": "가가와",
+  "area": "다카마쓰",
+  "categories": [
+   "view",
+   "night",
+   "culture"
+  ],
+  "summary": "지붕처럼 평평한 산 위에서 다카마쓰 시내와 세토내해 다도해가 내려다보인다. 겐페이 전투의 옛 전장이자 84번 절 야시마지가 있다.",
+  "do": "셔틀버스로 산 위에 올라 전망 산책, 야시마지 참배, 해 질 녘 야경",
+  "station": "야시마역 (屋島)",
+  "access": "JR 야시마역 또는 琴電 屋島역에서 산 위 셔틀버스 약 10~20분",
+  "jr_pass": [
+   "올 시코쿠 레일패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "맑은 날 저녁 노을~야경",
+  "event": "",
+  "duration": "반나절",
+  "cost": "셔틀버스 별도",
+  "walking": "보통",
+  "fit": "조건부",
+  "condition": "맑은 날 전망",
+  "caution": "셔틀버스 막차 시간 확인",
+  "lat": 34.3557,
+  "lng": 134.1044,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/屋島",
+   "https://ja.wikipedia.org/wiki/屋島寺"
   ],
   "region": "시코쿠"
  },
@@ -11535,6 +34938,83 @@ window.SPOTS = [
   "region": "시코쿠"
  },
  {
+  "id": "kagawa-shodoshima-nijushi-no-hitomi",
+  "name_ko": "니주시노히토미 영화마을 (쇼도시마)",
+  "name_ja": "二十四の瞳映画村",
+  "pref": "가가와",
+  "area": "쇼도시마",
+  "categories": [
+   "culture",
+   "town"
+  ],
+  "summary": "영화 '24개의 눈동자' 오픈 세트를 남긴 바닷가 마을. 목조 분교와 쇼와 시대 거리가 있다.",
+  "do": "옛 분교 교실과 해변 세트 거리 산책",
+  "station": "다카마쓰역 (高松)",
+  "access": "쇼도시마 도노쇼·사카테 쪽에서 오리브버스 映画村 방면 (편수 확인)",
+  "jr_pass": [
+   "올 시코쿠 레일패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을"
+  ],
+  "best_time": "봄~가을",
+  "event": "",
+  "duration": "1~2시간",
+  "cost": "입장료 별도",
+  "walking": "적음",
+  "fit": "백업",
+  "condition": "",
+  "caution": "2026-10-01 이후 발급 올 시코쿠 레일패스는 쇼도시마 페리·오리브버스 불포함",
+  "lat": 34.4458,
+  "lng": 134.2854,
+  "url": "https://www.24hitomi.or.jp/",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/二十四の瞳映画村"
+  ],
+  "region": "시코쿠"
+ },
+ {
+  "id": "kagawa-tamamo-park",
+  "name_ko": "다마모 공원 (다카마쓰성터)",
+  "name_ja": "玉藻公園（高松城跡）",
+  "pref": "가가와",
+  "area": "다카마쓰",
+  "categories": [
+   "culture"
+  ],
+  "summary": "바닷물을 끌어온 해자가 있는 성터. 해자에 도미가 헤엄쳐 먹이를 줄 수 있다. 역 바로 앞이라 들르기 쉽다.",
+  "do": "바닷물 해자에서 도미 먹이 주기, 망루와 석담 둘러보기",
+  "station": "다카마쓰역 (高松)",
+  "access": "다카마쓰역에서 도보 약 5분 (琴電 高松築港역 바로 앞)",
+  "jr_pass": [
+   "올 시코쿠 레일패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "연중",
+  "event": "",
+  "duration": "1~2시간",
+  "cost": "입장료 소액",
+  "walking": "적음",
+  "fit": "백업",
+  "condition": "",
+  "caution": "",
+  "lat": 34.3501,
+  "lng": 134.051,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/高松城_(讃岐国)",
+   "https://nominatim.openstreetmap.org/search?q=玉藻公園"
+  ],
+  "region": "시코쿠"
+ },
+ {
   "id": "kagawa-ritsurin-garden",
   "name_ko": "리쓰린 공원",
   "name_ja": "栗林公園",
@@ -11569,6 +35049,200 @@ window.SPOTS = [
   "url": "https://www.my-kagawa.jp/ritsuringarden/",
   "sources": [
    "https://ja.wikipedia.org/wiki/栗林公園"
+  ],
+  "region": "시코쿠"
+ },
+ {
+  "id": "kagawa-marugame-castle",
+  "name_ko": "마루가메성",
+  "name_ja": "丸亀城",
+  "pref": "가가와",
+  "area": "마루가메",
+  "categories": [
+   "culture",
+   "view"
+  ],
+  "summary": "에도 시대 천수가 남은 현존 12천수 중 하나. 천수는 작지만 층층이 쌓인 높은 석담이 압도적이고 위에서 세토 대교 쪽 바다가 보인다.",
+  "do": "석담 언덕 올라 천수 내부와 전망 보기",
+  "station": "마루가메역 (丸亀)",
+  "access": "마루가메역에서 도보 약 10분",
+  "jr_pass": [
+   "올 시코쿠 레일패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "봄 벚꽃",
+  "event": "",
+  "duration": "1~2시간",
+  "cost": "천수 입장 소액",
+  "walking": "보통",
+  "fit": "백업",
+  "condition": "",
+  "caution": "2018년 호우로 무너진 석담 복구 공사로 일부 구역 통행 제한이 있을 수 있음. 천수까지 급한 언덕길",
+  "lat": 34.2862,
+  "lng": 133.8002,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/丸亀城"
+  ],
+  "region": "시코쿠"
+ },
+ {
+  "id": "kagawa-shionoe-onsen",
+  "name_ko": "시오노에 온천",
+  "name_ja": "塩江温泉郷",
+  "pref": "가가와",
+  "area": "다카마쓰 (시오노에)",
+  "categories": [
+   "onsen",
+   "nature"
+  ],
+  "summary": "'사누키의 안방'이라 불리는 산골 계곡 온천 마을. 나라 시대 승려 교키가 열었다는 전설이 있고, 6월엔 반딧불이가 난다.",
+  "do": "도로역 당일 온천에서 목욕하고 계곡 산책",
+  "station": "다카마쓰역 (高松)",
+  "access": "다카마쓰 시내(琴電 仏生山역 방면)에서 노선버스 약 1시간 안팎. 편수 확인",
+  "jr_pass": [
+   "올 시코쿠 레일패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "6월 반딧불, 11월 단풍",
+  "event": "",
+  "duration": "반나절",
+  "cost": "당일 온천 약 수백 엔대",
+  "walking": "적음",
+  "fit": "백업",
+  "condition": "",
+  "caution": "원천은 차가운 광천이라 데워서 씀",
+  "lat": 34.1683,
+  "lng": 134.0849,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/塩江温泉"
+  ],
+  "region": "시코쿠"
+ },
+ {
+  "id": "kagawa-zenigata-sunae",
+  "name_ko": "제니가타 모래그림 (간온지)",
+  "name_ja": "銭形砂絵（琴弾公園）",
+  "pref": "가가와",
+  "area": "간온지",
+  "categories": [
+   "view",
+   "cape"
+  ],
+  "summary": "해변 모래에 그린 거대한 옛 동전(간에이쓰호) 그림. 바로 옆에선 찌그러져 보이고, 고토히키산 전망대에서 봐야 동그랗게 보인다.",
+  "do": "고토히키산 전망대에서 모래그림 내려다보고 아리아케 해변 산책",
+  "station": "간온지역 (観音寺)",
+  "access": "간온지역에서 도보 약 30분 또는 택시 약 5분",
+  "jr_pass": [
+   "올 시코쿠 레일패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "맑은 날 낮·해 질 녘",
+  "event": "",
+  "duration": "1~2시간",
+  "cost": "무료",
+  "walking": "보통",
+  "fit": "백업",
+  "condition": "맑은 날 전망",
+  "caution": "",
+  "lat": 34.1341,
+  "lng": 133.6423,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/銭形砂絵"
+  ],
+  "region": "시코쿠"
+ },
+ {
+  "id": "kagawa-zentsuji",
+  "name_ko": "젠쓰지",
+  "name_ja": "善通寺",
+  "pref": "가가와",
+  "area": "젠쓰지",
+  "categories": [
+   "culture"
+  ],
+  "summary": "구카이(고보 대사)가 태어난 곳에 세운 75번 절. 넓은 경내에 오층탑이 있고, 어둠 속 지하 회랑을 손으로 더듬어 걷는 '가이단 메구리'가 있다.",
+  "do": "오층탑 보고 어둠 속 회랑 체험",
+  "station": "젠쓰지역 (善通寺)",
+  "access": "젠쓰지역에서 도보 약 20분",
+  "jr_pass": [
+   "올 시코쿠 레일패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "연중",
+  "event": "",
+  "duration": "1~2시간",
+  "cost": "경내 무료 (회랑·보물관 소액)",
+  "walking": "보통",
+  "fit": "백업",
+  "condition": "",
+  "caution": "",
+  "lat": 34.2251,
+  "lng": 133.7741,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/善通寺"
+  ],
+  "region": "시코쿠"
+ },
+ {
+  "id": "kagawa-hiketa-old-town",
+  "name_ko": "히케타 옛 거리",
+  "name_ja": "引田の町並み（讃州井筒屋敷）",
+  "pref": "가가와",
+  "area": "히가시카가와 (히케타)",
+  "categories": [
+   "town"
+  ],
+  "summary": "간장 양조로 번성한 항구 마을. 에도 시대 상가 저택 '산슈 이즈쓰 야시키'와 간장 창고 거리가 남아 있고, 방어 양식 발상지이기도 하다.",
+  "do": "옛 거리 산책, 간장 창고 들르기, 봄엔 히나 인형 장식 구경",
+  "station": "히케타역 (引田)",
+  "access": "다카마쓰역에서 JR 고토쿠선 약 1시간 → 히케타역 도보 약 10분",
+  "jr_pass": [
+   "올 시코쿠 레일패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "2월 하순~3월 초 '히케타 히나마쓰리'",
+  "event": "매년 2~3월 히나마쓰리 (날짜는 매년 공식 확인)",
+  "duration": "반나절",
+  "cost": "거리 무료",
+  "walking": "적음",
+  "fit": "백업",
+  "condition": "",
+  "caution": "",
+  "lat": 34.2278,
+  "lng": 134.4034,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/引田_(東かがわ市)",
+   "https://ja.wikipedia.org/wiki/讃州井筒屋敷"
   ],
   "region": "시코쿠"
  },
@@ -11609,6 +35283,84 @@ window.SPOTS = [
   "sources": [
    "https://ja.wikipedia.org/wiki/伊予灘ものがたり",
    "https://ja.wikipedia.org/wiki/松山駅_(愛媛県)"
+  ],
+  "region": "시코쿠"
+ },
+ {
+  "id": "ehime-noshima-tidal-cruise",
+  "name_ko": "노시마 조류 체험선 (무라카미 해적)",
+  "name_ja": "能島 潮流体験（村上海賊ミュージアム前）",
+  "pref": "에히메",
+  "area": "이마바리 (오시마 미야쿠보)",
+  "categories": [
+   "boat",
+   "nature",
+   "culture"
+  ],
+  "summary": "무라카미 해적의 성이 있던 작은 섬 노시마 주변의 거센 조류를 작은 배로 체험. 빠를 땐 강처럼 흐르고 소용돌이가 생긴다. 출항지 옆에 무라카미 해적 박물관.",
+  "do": "약 40분 배로 노시마 성터·후나오리세토 급류 돌기, 박물관 관람",
+  "station": "이마바리역 (今治)",
+  "access": "이마바리역에서 시마나미 노선버스(환승 있을 수 있음)로 村上水軍博物館 정류장 하차 도보 약 1분",
+  "jr_pass": [
+   "올 시코쿠 레일패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "대조 무렵 조류 최강 시각",
+  "event": "",
+  "duration": "반나절",
+  "cost": "승선 약 1,800엔",
+  "walking": "적음",
+  "fit": "매우 잘 맞음",
+  "condition": "물때에 따라 조류 세기 차이 / 악천후 결항",
+  "caution": "월요일 휴무(공휴일이면 다음 날). 09~15시 대략 1시간 간격",
+  "lat": 34.1689,
+  "lng": 133.0876,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/今治市村上海賊ミュージアム",
+   "https://ja.wikipedia.org/wiki/能島",
+   "https://nominatim.openstreetmap.org/search?q=村上水軍博物館"
+  ],
+  "region": "시코쿠"
+ },
+ {
+  "id": "ehime-niihama-taiko-matsuri",
+  "name_ko": "니이하마 다이코 마쓰리",
+  "name_ja": "新居浜太鼓祭り",
+  "pref": "에히메",
+  "area": "니이하마",
+  "categories": [
+   "festival"
+  ],
+  "summary": "시코쿠 3대 축제 중 하나. 금실 자수로 번쩍이는 거대한 다이코다이(가마) 50여 대를 수십 명이 들어 올리고 맞붙는 '가키쿠라베'가 볼거리.",
+  "do": "신사·운동장 집결 장소에서 다이코다이 들어올리기 경연 보기",
+  "station": "니이하마역 (新居浜)",
+  "access": "니이하마역에서 지구별 집결 장소로 도보·버스·택시 (일정표 확인)",
+  "jr_pass": [
+   "올 시코쿠 레일패스"
+  ],
+  "seasons": [
+   "가을"
+  ],
+  "best_time": "10월 중순",
+  "event": "매년 10월 16~18일 (일부 지구는 15일부터, 일부 지구는 주말 개최). 일정은 매년 공식 확인",
+  "duration": "하루",
+  "cost": "무료 (유료 관람석 있음)",
+  "walking": "보통",
+  "fit": "매우 잘 맞음",
+  "condition": "",
+  "caution": "축제 기간 숙소가 빨리 참. 지구마다 일정·장소가 달라 미리 확인",
+  "lat": 33.9618,
+  "lng": 133.2796,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/新居浜太鼓祭り",
+   "https://ja.wikipedia.org/wiki/一宮神社_(新居浜市)"
   ],
   "region": "시코쿠"
  },
@@ -11692,6 +35444,164 @@ window.SPOTS = [
   "region": "시코쿠"
  },
  {
+  "id": "ehime-ishizuchi-ropeway",
+  "name_ko": "이시즈치산 로프웨이",
+  "name_ja": "石鎚登山ロープウェイ",
+  "pref": "에히메",
+  "area": "사이조",
+  "categories": [
+   "view",
+   "nature"
+  ],
+  "summary": "서일본 최고봉 이시즈치산(1,982m) 중턱 해발 약 1,300m까지 오르는 로프웨이. 위에서 성취사(조주샤)까지 걸으면 산 정상 암벽이 정면에 보인다.",
+  "do": "로프웨이로 올라 조주샤까지 걷고 단풍 숲 즐기기 (정상은 본격 등산)",
+  "station": "이요사이조역 (伊予西条)",
+  "access": "이요사이조역에서 せとうちバス 石鎚ロープウェイ前행 약 55분 (약 1,000엔대). 버스 하루 몇 편",
+  "jr_pass": [
+   "올 시코쿠 레일패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "10월 단풍. 겨울엔 산 위 스키장",
+  "event": "",
+  "duration": "하루",
+  "cost": "로프웨이 왕복 약 2,200엔",
+  "walking": "보통",
+  "fit": "매우 잘 맞음",
+  "condition": "강풍 시 운휴 / 맑은 날 정상 조망",
+  "caution": "버스 편수가 적어 시간표 필수. 정상까지는 쇠사슬 구간 있는 본격 등산",
+  "lat": 33.803,
+  "lng": 133.1482,
+  "url": "https://www.ishizuchi.com/",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/石鎚登山ロープウェイ",
+   "https://ja.wikipedia.org/wiki/石鎚山"
+  ],
+  "region": "시코쿠"
+ },
+ {
+  "id": "ehime-minetopia-besshi",
+  "name_ko": "마인토피아 벳시 (벳시 동광 터)",
+  "name_ja": "マイントピア別子",
+  "pref": "에히메",
+  "area": "니이하마",
+  "categories": [
+   "culture",
+   "train"
+  ],
+  "summary": "스미토모를 키운 벳시 구리 광산 터를 관광지로 만든 곳. 광산 열차를 타고 관광 갱도에 들어가고, 산 위 도나루 지구는 '동양의 마추픽추'로 불린다.",
+  "do": "광산 열차와 갱도 체험, 도로역에서 쉬기",
+  "station": "니이하마역 (新居浜)",
+  "access": "니이하마역에서 노선버스 약 20~30분 (편수 확인) 또는 택시 약 20분",
+  "jr_pass": [
+   "올 시코쿠 레일패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "연중. 도나루 지구는 봄~가을",
+  "event": "",
+  "duration": "반나절",
+  "cost": "열차·갱도 약 1,000~2,000엔대",
+  "walking": "적음",
+  "fit": "조건부",
+  "condition": "",
+  "caution": "산 위 도나루(東平) 지구는 좁은 산길이라 대중교통으로는 어려움(시즌 투어·택시)",
+  "lat": 33.9014,
+  "lng": 133.3095,
+  "url": "https://besshi.com/",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/マイントピア別子"
+  ],
+  "region": "시코쿠"
+ },
+ {
+  "id": "ehime-botchan-ressha",
+  "name_ko": "봇짱 열차 (마쓰야마 시내)",
+  "name_ja": "坊っちゃん列車",
+  "pref": "에히메",
+  "area": "마쓰야마",
+  "categories": [
+   "train",
+   "city"
+  ],
+  "summary": "나쓰메 소세키 '도련님'에 나오는 성냥갑 같은 증기기관차를 복원한 열차가 노면전차 선로를 달린다. 종점에서 사람이 기관차 방향을 바꾸는 장면도 볼거리.",
+  "do": "도고온천역~마쓰야마시역 구간을 레트로 객차로 타기",
+  "station": "마쓰야마역 (松山)",
+  "access": "JR 마쓰야마역 앞 또는 도고온천역·마쓰야마시역에서 승차. 도고온천역에서 아침 8시 반부터 당일 정리권 배부",
+  "jr_pass": [
+   "올 시코쿠 레일패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "토·일·공휴일만 운행",
+  "event": "",
+  "duration": "1~2시간",
+  "cost": "1회 약 1,300엔",
+  "walking": "적음",
+  "fit": "조건부",
+  "condition": "악천후·점검 시 운휴",
+  "caution": "평일 운행 없음, 12/30~1/3 운휴. 정리권이 없으면 못 탈 수 있음",
+  "lat": 33.8504,
+  "lng": 132.785,
+  "url": "https://www.iyotetsu.co.jp/botchan/",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/坊っちゃん列車",
+   "https://www.iyotetsu.co.jp/botchan/"
+  ],
+  "region": "시코쿠"
+ },
+ {
+  "id": "ehime-cape-sadamisaki",
+  "name_ko": "사다미사키 (시코쿠 최서단)",
+  "name_ja": "佐田岬・佐田岬灯台",
+  "pref": "에히메",
+  "area": "이카타 (사다미사키 반도)",
+  "categories": [
+   "cape",
+   "view"
+  ],
+  "summary": "가늘고 긴 사다미사키 반도 끝에 선 시코쿠 최서단 등대. 맑으면 바다 건너 규슈(오이타)가 가깝게 보인다.",
+  "do": "주차장에서 숲 산책로 걸어 등대와 전망대까지",
+  "station": "야와타하마역 (八幡浜)",
+  "access": "야와타하마역에서 伊予鉄南予バス 三崎 방면 약 1시간 → 택시 약 30분 → 주차장에서 산책로 도보 약 20분",
+  "jr_pass": [
+   "올 시코쿠 레일패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을"
+  ],
+  "best_time": "맑은 날",
+  "event": "",
+  "duration": "하루",
+  "cost": "버스·택시 별도",
+  "walking": "많음",
+  "fit": "조건부",
+  "condition": "맑은 날 규슈 조망 / 강풍·비 오면 산책로 힘듦",
+  "caution": "버스 종점에서 등대까지 대중교통 없음(택시). 산책로 왕복 약 40분, 오르내림 있음. 미사키항에서 오이타 사가노세키행 페리가 있어 규슈로 이어 가기 좋음",
+  "lat": 33.3431,
+  "lng": 132.0149,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/佐田岬",
+   "https://ja.wikipedia.org/wiki/佐田岬灯台"
+  ],
+  "region": "시코쿠"
+ },
+ {
   "id": "ehime-shimonada-station",
   "name_ko": "시모나다역",
   "name_ja": "下灘駅",
@@ -11771,6 +35681,162 @@ window.SPOTS = [
   "region": "시코쿠"
  },
  {
+  "id": "ehime-uwajima-togyu",
+  "name_ko": "우와지마 투우",
+  "name_ja": "宇和島闘牛（市営闘牛場）",
+  "pref": "에히메",
+  "area": "우와지마",
+  "categories": [
+   "festival",
+   "culture"
+  ],
+  "summary": "소와 소가 맞붙는 우와지마 전통 투우. 원형 경기장에서 1톤급 소가 머리를 맞대고 밀어붙이는 박력이 대단하다.",
+  "do": "정기 투우 대회 관람",
+  "station": "우와지마역 (宇和島)",
+  "access": "우와지마역에서 택시 약 10분 또는 도보 약 30분 (언덕 위 시영 투우장)",
+  "jr_pass": [
+   "올 시코쿠 레일패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "정기 대회일만",
+  "event": "정기 대회 연 5회 (1월 2일, 4월 첫째 일요일, 7월 24일, 8월 14일, 10월 넷째 일요일 무렵). 날짜는 매년 공식 확인",
+  "duration": "반나절",
+  "cost": "관람료 별도",
+  "walking": "보통",
+  "fit": "조건부",
+  "condition": "대회일에만 진가",
+  "caution": "대회일 외엔 볼 것 없음",
+  "lat": 33.2274,
+  "lng": 132.5727,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/宇和島市営闘牛場",
+   "https://ja.wikipedia.org/wiki/宇和島市"
+  ],
+  "region": "시코쿠"
+ },
+ {
+  "id": "ehime-hijikawa-arashi",
+  "name_ko": "히지카와 아라시 (강 안개 바람)",
+  "name_ja": "肱川あらし",
+  "pref": "에히메",
+  "area": "오즈 (나가하마)",
+  "categories": [
+   "nature",
+   "view"
+  ],
+  "summary": "초겨울 아침, 오즈 분지에 고인 안개가 찬바람과 함께 강 하구로 쏟아져 나가는 현상. 빨간 나가하마 대교를 안개가 휘감는 모습이 장관.",
+  "do": "이른 아침 강 하구 전망공원에서 바다로 흘러가는 안개 보기",
+  "station": "이요나가하마역 (伊予長浜)",
+  "access": "이요나가하마역에서 강 하구 나가하마 대교까지 도보 약 10분, 하구 언덕 '히지카와 아라시 전망공원'은 도보로 오르거나 택시",
+  "jr_pass": [
+   "올 시코쿠 레일패스"
+  ],
+  "seasons": [
+   "가을",
+   "겨울"
+  ],
+  "best_time": "10월 하순~3월, 맑고 추운 날 아침",
+  "event": "",
+  "duration": "1~2시간",
+  "cost": "무료",
+  "walking": "보통",
+  "fit": "조건부",
+  "condition": "전날 맑고 바람 약한 추운 아침에 잘 생김. 안 생기는 날도 많음",
+  "caution": "발생 여부는 날씨에 좌우. 이른 아침이라 숙박지 위치 고려",
+  "lat": 33.6112,
+  "lng": 132.4862,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/肱川あらし",
+   "https://ja.wikipedia.org/wiki/長浜大橋"
+  ],
+  "region": "시코쿠"
+ },
+ {
+  "id": "ehime-ozu-garyu-sanso",
+  "name_ko": "가류산소 (오즈)",
+  "name_ja": "臥龍山荘",
+  "pref": "에히메",
+  "area": "오즈",
+  "categories": [
+   "culture",
+   "nature"
+  ],
+  "summary": "히지강 절벽 위 메이지 시대 별장. 강 쪽으로 튀어나온 초암 '후로안'에 앉으면 강과 산이 액자처럼 들어온다. 정원은 국가 명승.",
+  "do": "후로안에서 강 풍경 보고 오즈성·옛 거리와 묶어 걷기",
+  "station": "이요오즈역 (伊予大洲)",
+  "access": "이요오즈역에서 도보 약 25분 또는 버스로 오즈 옛 거리",
+  "jr_pass": [
+   "올 시코쿠 레일패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을"
+  ],
+  "best_time": "신록·단풍",
+  "event": "",
+  "duration": "1~2시간",
+  "cost": "입장료 소액",
+  "walking": "보통",
+  "fit": "백업",
+  "condition": "",
+  "caution": "",
+  "lat": 33.5063,
+  "lng": 132.5501,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/臥龍山荘"
+  ],
+  "region": "시코쿠"
+ },
+ {
+  "id": "ehime-tobe-pottery",
+  "name_ko": "도베야키 도자기 마을",
+  "name_ja": "砥部焼の里（砥部焼伝統産業会館）",
+  "pref": "에히메",
+  "area": "도베",
+  "categories": [
+   "town",
+   "culture"
+  ],
+  "summary": "두툼한 흰 자기에 남색 붓그림을 얹은 도베야키의 산지. 마을 곳곳에 가마(가마모토)가 흩어져 있고 그림 그리기 체험을 할 수 있다.",
+  "do": "전통산업회관에서 역사 보고 가마 돌며 그릇 고르기, 그림 체험",
+  "station": "마쓰야마시역 (松山市)",
+  "access": "마쓰야마시역에서 伊予鉄バス 砥部 방면 약 40분, 砥部焼伝統産業会館前 하차",
+  "jr_pass": [
+   "올 시코쿠 레일패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "연중",
+  "event": "",
+  "duration": "반나절",
+  "cost": "회관 소액, 체험 별도",
+  "walking": "보통",
+  "fit": "백업",
+  "condition": "",
+  "caution": "가마끼리 떨어져 있어 걷는 거리가 꽤 됨",
+  "lat": 33.7393,
+  "lng": 132.7919,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/砥部焼",
+   "https://ja.wikipedia.org/wiki/砥部焼伝統産業会館"
+  ],
+  "region": "시코쿠"
+ },
+ {
   "id": "ehime-matsuyama-castle-ropeway",
   "name_ko": "마쓰야마성 로프웨이·리프트",
   "name_ja": "松山城山ロープウェイ・リフト",
@@ -11812,6 +35878,122 @@ window.SPOTS = [
   "region": "시코쿠"
  },
  {
+  "id": "ehime-oyamazumi-shrine",
+  "name_ko": "오야마즈미 신사 (오미시마)",
+  "name_ja": "大山祇神社",
+  "pref": "에히메",
+  "area": "이마바리 (오미시마)",
+  "categories": [
+   "culture"
+  ],
+  "summary": "시마나미 해도 오미시마에 있는 이요국 일궁. 무장들이 바친 국보·중요문화재 갑옷과 칼이 엄청나게 많이 모여 있고 경내 녹나무 거목이 웅장하다.",
+  "do": "거목 녹나무 보고 보물관에서 갑옷·칼 보기",
+  "station": "이마바리역 (今治)",
+  "access": "이마바리역에서 시마나미 노선버스 오미시마 방면 약 1시간, 大山祇神社前 하차",
+  "jr_pass": [
+   "올 시코쿠 레일패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "연중",
+  "event": "",
+  "duration": "반나절",
+  "cost": "경내 무료 (보물관 별도)",
+  "walking": "적음",
+  "fit": "백업",
+  "condition": "",
+  "caution": "버스 편수 확인",
+  "lat": 34.2479,
+  "lng": 133.0058,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/大山祇神社"
+  ],
+  "region": "시코쿠"
+ },
+ {
+  "id": "ehime-unomachi",
+  "name_ko": "우노마치 옛 거리·가이메이 학교",
+  "name_ja": "宇和町卯之町・開明学校",
+  "pref": "에히메",
+  "area": "세이요 (우와)",
+  "categories": [
+   "town",
+   "culture"
+  ],
+  "summary": "옛 가도 숙장 마을로 흰 회벽 상가가 남은 중요전통건조물군 보존지구. 메이지 초 서양풍 학교 '가이메이 학교'가 있다.",
+  "do": "옛 거리 산책하고 메이지 교실 견학",
+  "station": "우노마치역 (卯之町)",
+  "access": "마쓰야마역에서 JR 특급 약 1시간 → 우노마치역 도보 약 10분",
+  "jr_pass": [
+   "올 시코쿠 레일패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "연중",
+  "event": "",
+  "duration": "1~2시간",
+  "cost": "거리 무료 (학교 소액)",
+  "walking": "적음",
+  "fit": "백업",
+  "condition": "",
+  "caution": "",
+  "lat": 33.3639,
+  "lng": 132.5132,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/宇和町卯之町"
+  ],
+  "region": "시코쿠"
+ },
+ {
+  "id": "ehime-uwajima-castle",
+  "name_ko": "우와지마성",
+  "name_ja": "宇和島城",
+  "pref": "에히메",
+  "area": "우와지마",
+  "categories": [
+   "culture",
+   "view"
+  ],
+  "summary": "에도 시대 천수가 남은 현존 12천수 중 하나. 숲길을 올라가면 작고 단정한 천수에서 우와지마 항구가 보인다.",
+  "do": "성산 숲길 올라 천수 내부와 항구 전망 보기",
+  "station": "우와지마역 (宇和島)",
+  "access": "우와지마역에서 도보 약 15분 + 성산 오르막",
+  "jr_pass": [
+   "올 시코쿠 레일패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "연중",
+  "event": "",
+  "duration": "1~2시간",
+  "cost": "천수 소액",
+  "walking": "보통",
+  "fit": "백업",
+  "condition": "",
+  "caution": "",
+  "lat": 33.2198,
+  "lng": 132.5647,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/宇和島城"
+  ],
+  "region": "시코쿠"
+ },
+ {
   "id": "ehime-uchiko-old-town",
   "name_ko": "우치코 옛 거리 (요카이치·고코쿠)",
   "name_ja": "内子町 八日市護国の町並み",
@@ -11847,6 +36029,198 @@ window.SPOTS = [
    "https://ja.wikipedia.org/wiki/内子町",
    "https://ja.wikipedia.org/wiki/内子座",
    "https://www.we-love-uchiko.jp/spot/preservation_district/"
+  ],
+  "region": "시코쿠"
+ },
+ {
+  "id": "ehime-imabari-castle",
+  "name_ko": "이마바리성",
+  "name_ja": "今治城",
+  "pref": "에히메",
+  "area": "이마바리",
+  "categories": [
+   "culture"
+  ],
+  "summary": "축성 명인 도도 다카토라가 지은 바닷가 평성. 해자에 바닷물이 드나들어 물고기가 보인다. 천수는 재건.",
+  "do": "바닷물 해자와 석담 둘러보고 천수 위에서 시마나미 쪽 바다 보기",
+  "station": "이마바리역 (今治)",
+  "access": "이마바리역에서 버스 약 10분 또는 도보 약 25분",
+  "jr_pass": [
+   "올 시코쿠 레일패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "연중",
+  "event": "",
+  "duration": "1~2시간",
+  "cost": "천수 소액",
+  "walking": "적음",
+  "fit": "백업",
+  "condition": "",
+  "caution": "",
+  "lat": 34.0633,
+  "lng": 133.0068,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/今治城"
+  ],
+  "region": "시코쿠"
+ },
+ {
+  "id": "ehime-ishiteji",
+  "name_ko": "이시테지",
+  "name_ja": "石手寺",
+  "pref": "에히메",
+  "area": "마쓰야마 (도고)",
+  "categories": [
+   "culture"
+  ],
+  "summary": "도고 온천에서 걸어갈 수 있는 51번 절. 국보 인왕문과 순례의 시조 에몬 사부로 전설로 유명하고, 경내가 독특한 분위기다.",
+  "do": "도고 온천 숙박 겸 아침 산책으로 인왕문·경내 돌기",
+  "station": "마쓰야마역 (松山)",
+  "access": "마쓰야마역에서 노면전차로 도고온천역 → 도보 약 15분 또는 버스",
+  "jr_pass": [
+   "올 시코쿠 레일패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "연중",
+  "event": "",
+  "duration": "1~2시간",
+  "cost": "무료",
+  "walking": "보통",
+  "fit": "백업",
+  "condition": "",
+  "caution": "",
+  "lat": 33.8479,
+  "lng": 132.7965,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/石手寺"
+  ],
+  "region": "시코쿠"
+ },
+ {
+  "id": "kochi-jidai-no-yoake-train",
+  "name_ko": "관광열차 시코쿠 도사 '시대의 새벽 이야기'",
+  "name_ja": "志国土佐 時代の夜明けのものがたり",
+  "pref": "고치",
+  "area": "고치~구보카와",
+  "categories": [
+   "train"
+  ],
+  "summary": "막부 말 도사를 주제로 꾸민 JR 관광열차. 고치~구보카와 사이를 달리며 예약하면 지역 식재료 식사가 나온다. 일본에서 가장 긴 특급 열차 이름.",
+  "do": "식사 예약하고 해안·산 구간을 관광열차로 이동",
+  "station": "고치역 (高知)",
+  "access": "고치역 출발 (구보카와역 방면)",
+  "jr_pass": [
+   "올 시코쿠 레일패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "주말 중심 운행일",
+  "event": "",
+  "duration": "반나절",
+  "cost": "식사 별도 예약",
+  "walking": "적음",
+  "fit": "매우 잘 맞음",
+  "condition": "",
+  "caution": "운행일 한정·좌석 사전 예약 필수",
+  "lat": 33.5672,
+  "lng": 133.5437,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/志国土佐_時代の夜明けのものがたり"
+  ],
+  "region": "시코쿠"
+ },
+ {
+  "id": "kochi-tatsukushi-glass-boat",
+  "name_ko": "다쓰쿠시 해안·글라스보트",
+  "name_ja": "竜串・見残し（グラスボート・足摺海底館）",
+  "pref": "고치",
+  "area": "도사시미즈 (다쓰쿠시)",
+  "categories": [
+   "boat",
+   "volcano",
+   "cape"
+  ],
+  "summary": "사암이 파도에 깎여 벌집·용 모양이 된 기암 해안. 글라스보트로 산호 바다를 보며 '미노코시' 해안에 상륙하고, 바닷속 전망탑 아시즈리 해저관도 있다.",
+  "do": "글라스보트로 미노코시 상륙 산책, 해저관 창으로 물고기 보기",
+  "station": "나카무라역 (中村)",
+  "access": "나카무라역에서 고치서남교통 버스 약 1시간 → 시미즈에서 환승 약 20분 → 竜串. 스쿠모역발 버스도 있음. 하루 몇 편",
+  "jr_pass": [
+   "올 시코쿠 레일패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을"
+  ],
+  "best_time": "바다 맑은 봄~가을",
+  "event": "",
+  "duration": "하루",
+  "cost": "글라스보트 약 1,500엔 안팎, 해저관 별도",
+  "walking": "보통",
+  "fit": "매우 잘 맞음",
+  "condition": "파도 높으면 미노코시 상륙 불가·결항",
+  "caution": "버스 편수가 적어 아시즈리곶과 묶어 1박 권장",
+  "lat": 32.786,
+  "lng": 132.8601,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/竜串",
+   "https://ja.wikipedia.org/wiki/足摺海底館"
+  ],
+  "region": "시코쿠"
+ },
+ {
+  "id": "kochi-akaoka-ekin-matsuri",
+  "name_ko": "도사 아카오카 에킨 마쓰리",
+  "name_ja": "土佐赤岡絵金祭り",
+  "pref": "고치",
+  "area": "고난 (아카오카)",
+  "categories": [
+   "festival",
+   "night",
+   "culture"
+  ],
+  "summary": "막부 말 화가 '에킨'이 그린 피 튀기는 가부키 병풍 그림을 상점가 처마 밑에 늘어놓고 굵은 촛불로만 비추는 한여름 밤 축제. 으스스하고 강렬하다.",
+  "do": "촛불 빛에 떠오르는 병풍 그림 거리 걷기, 평소엔 상설관 에킨구라 관람",
+  "station": "아카오카역 (あかおか)",
+  "access": "고멘역에서 도사쿠로시오 철도 고멘·나하리선 약 15분 → 아카오카역 도보 약 5분",
+  "jr_pass": [
+   "올 시코쿠 레일패스"
+  ],
+  "seasons": [
+   "여름"
+  ],
+  "best_time": "축제 이틀 밤 19~21시",
+  "event": "매년 7월 셋째 토·일요일 (2026년은 7월 18~19일, 제50회)",
+  "duration": "반나절",
+  "cost": "축제 무료 (에킨구라 별도)",
+  "walking": "적음",
+  "fit": "매우 잘 맞음",
+  "condition": "비 오면 축소될 수 있음",
+  "caution": "혼잡. 귀가 열차 시간 확인",
+  "lat": 33.5457,
+  "lng": 133.7242,
+  "url": "",
+  "sources": [
+   "https://summer.walkerplus.com/odekake/detail_e/ar0939e603237/",
+   "https://ja.wikipedia.org/wiki/赤岡町"
   ],
   "region": "시코쿠"
  },
@@ -12009,6 +36383,163 @@ window.SPOTS = [
   "region": "시코쿠"
  },
  {
+  "id": "kochi-godaisan-chikurinji",
+  "name_ko": "고다이산 전망대·지쿠린지",
+  "name_ja": "五台山展望台・竹林寺",
+  "pref": "고치",
+  "area": "고치시 (고다이산)",
+  "categories": [
+   "view",
+   "night",
+   "culture"
+  ],
+  "summary": "고치 시내와 우라도만이 한눈에 보이는 산 위 전망대. 옆의 31번 지쿠린지는 시코쿠 88개소 중 유일하게 문수보살을 모신 절로 정원이 아름답다.",
+  "do": "전망대에서 시내·바다 조망, 지쿠린지 오층탑과 정원 보기",
+  "station": "고치역 (高知)",
+  "access": "고치역에서 MY遊バス 五台山 방면 약 25분",
+  "jr_pass": [
+   "올 시코쿠 레일패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "맑은 날, 가을 단풍",
+  "event": "",
+  "duration": "반나절",
+  "cost": "전망대 무료, 정원 소액",
+  "walking": "보통",
+  "fit": "조건부",
+  "condition": "맑은 날 전망",
+  "caution": "밤 야경은 버스 막차 시간 확인",
+  "lat": 33.5466,
+  "lng": 133.5775,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/竹林寺_(高知市)",
+   "https://ja.wikipedia.org/wiki/五台山_(高知市)"
+  ],
+  "region": "시코쿠"
+ },
+ {
+  "id": "kochi-gomen-nahari-line",
+  "name_ko": "고멘·나하리선 오픈데크 열차",
+  "name_ja": "土佐くろしお鉄道 ごめん・なはり線",
+  "pref": "고치",
+  "area": "고난~나하리",
+  "categories": [
+   "train",
+   "cape"
+  ],
+  "summary": "태평양 해안을 따라 달리는 철도로, 일부 차량에 지붕만 있는 개방형 전망 데크가 붙어 바닷바람을 맞으며 달린다. 역마다 야나세 다카시가 그린 캐릭터가 있다.",
+  "do": "오픈데크 차량 타고 해안 구간 달리기, 야스역 해변 들르기",
+  "station": "고멘역 (後免)",
+  "access": "고치역에서 JR 약 10~15분 → 고멘역에서 고멘·나하리선 환승 (직통 열차도 있음)",
+  "jr_pass": [
+   "올 시코쿠 레일패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을"
+  ],
+  "best_time": "맑은 날",
+  "event": "",
+  "duration": "반나절",
+  "cost": "구간 운임",
+  "walking": "적음",
+  "fit": "조건부",
+  "condition": "맑은 날 바다 / 비 오면 데크 아쉬움",
+  "caution": "오픈데크 차량이 붙는 열차를 시간표로 확인",
+  "lat": 33.5344,
+  "lng": 133.7543,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/土佐くろしお鉄道ごめん・なはり線",
+   "https://ja.wikipedia.org/wiki/夜須駅"
+  ],
+  "region": "시코쿠"
+ },
+ {
+  "id": "kochi-kitagawa-monet-garden",
+  "name_ko": "기타가와무라 모네의 정원",
+  "name_ja": "北川村「モネの庭」マルモッタン",
+  "pref": "고치",
+  "area": "기타가와",
+  "categories": [
+   "nature",
+   "culture"
+  ],
+  "summary": "모네의 지베르니 정원을 재현한 산골 정원. 일본 기후에서 피는 푸른 수련이 핀 연못과 일본식 다리가 그림 같다.",
+  "do": "물의 정원 수련 연못과 꽃 정원 산책",
+  "station": "나하리역 (奈半利)",
+  "access": "고멘역에서 도사쿠로시오 철도 고멘·나하리선 약 1시간 → 나하리역에서 북천촌 촌영버스 약 10분, モネの庭 하차 바로 (도보면 약 30분)",
+  "jr_pass": [
+   "올 시코쿠 레일패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을"
+  ],
+  "best_time": "수련 철(대략 5~10월)",
+  "event": "",
+  "duration": "반나절",
+  "cost": "입장료 별도",
+  "walking": "보통",
+  "fit": "조건부",
+  "condition": "수련은 맑은 오전에 활짝",
+  "caution": "버스 편수가 적어 나하리역 환승 시간 확인. 겨울 휴원·휴원일 확인",
+  "lat": 33.4401,
+  "lng": 134.0329,
+  "url": "",
+  "sources": [
+   "https://nominatim.openstreetmap.org/search?q=モネの庭+北川村"
+  ],
+  "region": "시코쿠"
+ },
+ {
+  "id": "kochi-ogata-whale-watching",
+  "name_ko": "오가타 고래 관찰선 (구로시오정)",
+  "name_ja": "大方ホエールウォッチング（入野漁港）",
+  "pref": "고치",
+  "area": "구로시오 (오가타)",
+  "categories": [
+   "boat",
+   "nature"
+  ],
+  "summary": "도사만에 사는 브라이드고래(니타리쿠지라)와 돌고래를 찾아 나가는 고래 관찰선. 입노 해변 소나무숲 바로 옆 어항에서 출발한다.",
+  "do": "작은 배로 먼바다에 나가 고래·돌고래 찾기",
+  "station": "도사이리노역 (土佐入野)",
+  "access": "나카무라역 방면 도사쿠로시오 철도 나카무라선 도사이리노역에서 도보 약 20분, 입노 어항",
+  "jr_pass": [
+   "올 시코쿠 레일패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을"
+  ],
+  "best_time": "4월 말~10월",
+  "event": "",
+  "duration": "반나절",
+  "cost": "승선 약 8,000엔",
+  "walking": "보통",
+  "fit": "조건부",
+  "condition": "파도·날씨로 결항, 고래는 못 볼 수도 있음",
+  "caution": "3일 전까지 예약 필요(사전 확인). 배멀미 대비",
+  "lat": 33.0301,
+  "lng": 133.0233,
+  "url": "",
+  "sources": [
+   "https://rurubu.jp/andmore/spot/80037596",
+   "https://ja.wikipedia.org/wiki/入野松原"
+  ],
+  "region": "시코쿠"
+ },
+ {
   "id": "kochi-katsurahama",
   "name_ko": "가쓰라하마",
   "name_ja": "桂浜",
@@ -12090,6 +36621,314 @@ window.SPOTS = [
   "region": "시코쿠"
  },
  {
+  "id": "kochi-ryoma-memorial-museum",
+  "name_ko": "고치현립 사카모토 료마 기념관",
+  "name_ja": "高知県立坂本龍馬記念館",
+  "pref": "고치",
+  "area": "고치시 (가쓰라하마)",
+  "categories": [
+   "culture"
+  ],
+  "summary": "가쓰라하마 해변 위 언덕에 선 료마 기념관. 료마의 편지 등 자료와 태평양이 보이는 전망 공간이 있다.",
+  "do": "가쓰라하마 해변과 묶어 전시 보고 옥상에서 태평양 보기",
+  "station": "고치역 (高知)",
+  "access": "고치역에서 MY遊バス 또는 노선버스 가쓰라하마 방면 약 30분 이상",
+  "jr_pass": [
+   "올 시코쿠 레일패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "연중",
+  "event": "",
+  "duration": "1~2시간",
+  "cost": "입장료 별도",
+  "walking": "적음",
+  "fit": "백업",
+  "condition": "",
+  "caution": "",
+  "lat": 33.4964,
+  "lng": 133.5718,
+  "url": "https://ryoma-kinenkan.jp/",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/高知県立坂本龍馬記念館"
+  ],
+  "region": "시코쿠"
+ },
+ {
+  "id": "kochi-kure-taishomachi-market",
+  "name_ko": "구레 다이쇼마치 시장",
+  "name_ja": "久礼大正町市場",
+  "pref": "고치",
+  "area": "나카토사 (구레)",
+  "categories": [
+   "city",
+   "town"
+  ],
+  "summary": "가다랑어(가쓰오) 어항 마을의 작은 아케이드 시장. 그날 잡은 가쓰오를 짚불에 구운 다타키나 덮밥으로 먹을 수 있다.",
+  "do": "가쓰오 다타키·덮밥 먹고 어항 산책",
+  "station": "도사쿠레역 (土佐久礼)",
+  "access": "고치역에서 JR 특급 약 50분 → 도사쿠레역 도보 약 10분",
+  "jr_pass": [
+   "올 시코쿠 레일패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을"
+  ],
+  "best_time": "가쓰오 철 봄(첫 가쓰오)·가을(살 오른 가쓰오)",
+  "event": "",
+  "duration": "1~2시간",
+  "cost": "식사 약 1,000~2,000엔",
+  "walking": "적음",
+  "fit": "백업",
+  "condition": "",
+  "caution": "가게별 휴무일 확인. 오전~이른 오후 중심",
+  "lat": 33.3291,
+  "lng": 133.2307,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/土佐久礼駅",
+   "https://nominatim.openstreetmap.org/search?q=久礼大正町市場"
+  ],
+  "region": "시코쿠"
+ },
+ {
+  "id": "kochi-kiragawa-old-town",
+  "name_ko": "기라가와 옛 거리 (무로토)",
+  "name_ja": "室戸市吉良川町の町並み",
+  "pref": "고치",
+  "area": "무로토 (기라가와)",
+  "categories": [
+   "town"
+  ],
+  "summary": "숯 거래로 번성한 마을. 태풍 비바람을 막으려 회벽에 기와 띠를 층층이 단 '미즈키리 기와'와 둥근 돌을 쌓은 담 '이시구로'가 남은 중요전통건조물군.",
+  "do": "미즈키리 기와 저택과 돌담 골목 산책, 무로토곶과 묶기",
+  "station": "나하리역 (奈半利)",
+  "access": "나하리역에서 高知東部交通 무로토 방면 버스 약 25분, 吉良川 하차",
+  "jr_pass": [
+   "올 시코쿠 레일패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "연중",
+  "event": "",
+  "duration": "1~2시간",
+  "cost": "무료",
+  "walking": "적음",
+  "fit": "백업",
+  "condition": "",
+  "caution": "버스 편수 확인",
+  "lat": 33.3314,
+  "lng": 134.0991,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/吉良川町"
+  ],
+  "region": "시코쿠"
+ },
+ {
+  "id": "kochi-ryugado",
+  "name_ko": "류가도 종유동",
+  "name_ja": "龍河洞",
+  "pref": "고치",
+  "area": "가미 (도사야마다)",
+  "categories": [
+   "nature",
+   "culture"
+  ],
+  "summary": "일본 3대 종유동 중 하나로 국가 천연기념물이자 사적. 야요이 시대 토기가 종유석에 휩싸여 굳은 '신의 항아리'가 특별하다.",
+  "do": "종유석 관광 코스 걷기",
+  "station": "도사야마다역 (土佐山田)",
+  "access": "고치역에서 JR 약 20분 → 도사야마다역에서 버스 약 20분",
+  "jr_pass": [
+   "올 시코쿠 레일패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "연중. 여름엔 시원함",
+  "event": "",
+  "duration": "반나절",
+  "cost": "입장료 약 1,000엔대",
+  "walking": "보통",
+  "fit": "백업",
+  "condition": "",
+  "caution": "동굴 안 계단·젖은 바닥",
+  "lat": 33.6032,
+  "lng": 133.7452,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/龍河洞"
+  ],
+  "region": "시코쿠"
+ },
+ {
+  "id": "kochi-makino-botanical-garden",
+  "name_ko": "마키노 식물원",
+  "name_ja": "高知県立牧野植物園",
+  "pref": "고치",
+  "area": "고치시 (고다이산)",
+  "categories": [
+   "nature",
+   "culture"
+  ],
+  "summary": "고치 출신 식물학자 마키노 도미타로를 기리는 산 위 식물원. 계절 들꽃과 온실, 건축가 나이토 히로시의 기념관이 있다.",
+  "do": "계절 꽃길 산책하고 고다이산 전망대·지쿠린지와 묶기",
+  "station": "고치역 (高知)",
+  "access": "고치역에서 MY遊バス 약 30분, 牧野植物園正門前 하차",
+  "jr_pass": [
+   "올 시코쿠 레일패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을"
+  ],
+  "best_time": "봄 꽃",
+  "event": "",
+  "duration": "반나절",
+  "cost": "입장 약 700엔대",
+  "walking": "보통",
+  "fit": "백업",
+  "condition": "",
+  "caution": "",
+  "lat": 33.5466,
+  "lng": 133.5779,
+  "url": "https://www.makino.or.jp/",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/高知県立牧野植物園"
+  ],
+  "region": "시코쿠"
+ },
+ {
+  "id": "kochi-aki-doi-kachu",
+  "name_ko": "아키 도이카추 무가 거리·노라 시계",
+  "name_ja": "土居廓中・野良時計",
+  "pref": "고치",
+  "area": "아키",
+  "categories": [
+   "town"
+  ],
+  "summary": "생울타리와 토담이 이어지는 무가 저택 거리. 근처 논 가운데 메이지 시대 지주가 손수 만든 시계탑 '노라 도케이'가 서 있다. 미쓰비시 창업자 이와사키 야타로 생가도 아키에 있다.",
+  "do": "무가 거리와 시계탑 산책",
+  "station": "아키역 (安芸)",
+  "access": "고멘역에서 도사쿠로시오 철도 고멘·나하리선 약 40분 → 아키역 도보 약 20분",
+  "jr_pass": [
+   "올 시코쿠 레일패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "연중",
+  "event": "",
+  "duration": "반나절",
+  "cost": "무료",
+  "walking": "보통",
+  "fit": "백업",
+  "condition": "",
+  "caution": "",
+  "lat": 33.5158,
+  "lng": 133.9115,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/土居廓中",
+   "https://ja.wikipedia.org/wiki/野良時計"
+  ],
+  "region": "시코쿠"
+ },
+ {
+  "id": "kochi-yanase-takashi-anpanman-museum",
+  "name_ko": "야나세 다카시 기념관 (호빵맨 뮤지엄)",
+  "name_ja": "香美市立やなせたかし記念館（アンパンマンミュージアム）",
+  "pref": "고치",
+  "area": "가미 (가호쿠)",
+  "categories": [
+   "culture"
+  ],
+  "summary": "호빵맨 작가 야나세 다카시의 고향에 있는 미술관. 원화와 그림책 전시가 중심이라 어른도 볼 만하다. 2025년 NHK 아침 드라마 '앙팡'의 모델.",
+  "do": "원화 전시와 시·메르헨 그림책관 보기",
+  "station": "도사야마다역 (土佐山田)",
+  "access": "도사야마다역에서 노선버스 약 25분, アンパンマンミュージアム前 하차",
+  "jr_pass": [
+   "올 시코쿠 레일패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "연중",
+  "event": "",
+  "duration": "반나절",
+  "cost": "입장료 별도",
+  "walking": "적음",
+  "fit": "백업",
+  "condition": "",
+  "caution": "버스 편수 확인",
+  "lat": 33.6477,
+  "lng": 133.7838,
+  "url": "https://anpanman-museum.net/",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/香美市立やなせたかし記念館"
+  ],
+  "region": "시코쿠"
+ },
+ {
+  "id": "kochi-ino-paper-museum",
+  "name_ko": "이노 종이 박물관 (도사 화지)",
+  "name_ja": "いの町紙の博物館",
+  "pref": "고치",
+  "area": "이노",
+  "categories": [
+   "culture",
+   "town"
+  ],
+  "summary": "천년 넘은 도사 화지(和紙)의 고장 이노에 있는 종이 박물관. 장인이 상주해 직접 종이 뜨기 체험을 할 수 있다.",
+  "do": "종이 뜨기 체험으로 엽서 만들기",
+  "station": "이노역 (伊野)",
+  "access": "고치역에서 JR 도산선 약 15분 → 이노역 도보 약 10분 (노면전차로도 감)",
+  "jr_pass": [
+   "올 시코쿠 레일패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "연중",
+  "event": "",
+  "duration": "1~2시간",
+  "cost": "입장·체험 소액",
+  "walking": "적음",
+  "fit": "백업",
+  "condition": "",
+  "caution": "",
+  "lat": 33.5478,
+  "lng": 133.423,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/いの町紙の博物館"
+  ],
+  "region": "시코쿠"
+ },
+ {
   "id": "kochi-hirome-market",
   "name_ko": "히로메 시장",
   "name_ja": "ひろめ市場",
@@ -12127,6 +36966,88 @@ window.SPOTS = [
    "https://hirome.co.jp/"
   ],
   "region": "시코쿠"
+ },
+ {
+  "id": "fukuoka-kanmon-tunnel-walkway",
+  "name_ko": "간몬 터널 인도 (해저 보행 터널)",
+  "name_ja": "関門トンネル人道",
+  "pref": "후쿠오카",
+  "area": "기타큐슈 (모지)",
+  "categories": [
+   "cape",
+   "town"
+  ],
+  "summary": "간몬 해협 바닷속을 걸어서 건너는 약 780m 보행 터널. 중간 바닥에 후쿠오카·야마구치 현 경계선이 그려져 있다.",
+  "do": "모지 쪽에서 걸어서 혼슈 시모노세키로 건너가고, 돌아올 땐 간몬 연락선으로 해협 위를 건너기",
+  "station": "모지코역 (門司港) / 시모노세키역 (下関)",
+  "access": "모지코역에서 니시테쓰 버스 '간몬 터널 인도구치' 하차. 시모노세키 쪽은 산덴 버스 '미모스소가와' 하차",
+  "jr_pass": [
+   "JR 큐슈 레일패스(전큐슈)",
+   "JR 큐슈 레일패스(북큐슈)",
+   "산요 산인 패스",
+   "JR서일본 전지역 패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "연중. 모지코 레트로와 묶기",
+  "event": "",
+  "duration": "1~2시간",
+  "cost": "보행 무료",
+  "walking": "보통",
+  "fit": "매우 잘 맞음",
+  "condition": "",
+  "caution": "통행 시간 6~22시. 산요 산인 패스·서일본 전지역 패스는 시모노세키 쪽 기준",
+  "lat": 33.9635,
+  "lng": 130.9593,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/関門トンネル_(国道2号)"
+  ],
+  "region": "규슈"
+ },
+ {
+  "id": "fukuoka-keya-no-oto",
+  "name_ko": "게야노오토 유람선",
+  "name_ja": "芥屋の大門（遊覧船）",
+  "pref": "후쿠오카",
+  "area": "이토시마",
+  "categories": [
+   "boat",
+   "cape",
+   "volcano"
+  ],
+  "summary": "높이 64m, 깊이 90m의 일본 최대급 현무암 해식동굴. 육각·팔각 주상절리 기둥이 늘어서 있고, 동굴 앞은 배로만 갈 수 있다.",
+  "do": "게야 어항에서 유람선을 타고 주상절리 동굴 입구까지 들어가 보기",
+  "station": "지쿠젠마에바루역 (筑前前原)",
+  "access": "JR 지쿠히선 지쿠젠마에바루역에서 쇼와버스 게야선 종점 '게야' 하차, 어항까지 도보",
+  "jr_pass": [
+   "JR 큐슈 레일패스(전큐슈)",
+   "JR 큐슈 레일패스(북큐슈)"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을"
+  ],
+  "best_time": "유람선은 대체로 3~12월 운항. 바다가 잔잔한 날",
+  "event": "",
+  "duration": "반나절",
+  "cost": "유람선 유료 (요금은 현지 확인)",
+  "walking": "적음",
+  "fit": "매우 잘 맞음",
+  "condition": "파도 높으면 유람선 결항 → 대체: 이토시마 해안 카페·후타미가우라",
+  "caution": "겨울(1~2월)은 운항하지 않을 수 있음. 버스 편수 적음",
+  "lat": 33.5965,
+  "lng": 130.1078,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/芥屋の大門"
+  ],
+  "region": "규슈"
  },
  {
   "id": "fukuoka-mojiko-retro",
@@ -12213,6 +37134,45 @@ window.SPOTS = [
   "region": "규슈"
  },
  {
+  "id": "fukuoka-shikanoshima",
+  "name_ko": "시카노시마",
+  "name_ja": "志賀島",
+  "pref": "후쿠오카",
+  "area": "후쿠오카시 (히가시구)",
+  "categories": [
+   "cape",
+   "nature"
+  ],
+  "summary": "모래톱으로 본토와 이어진 육계도. 국보 금인(한위노국왕인)이 발견된 섬으로, 해안 일주 도로와 시오미 공원 전망대가 있다.",
+  "do": "하카타항에서 시영 페리로 건너가 금인 공원·시카우미 신사 보고 섬 해안 드라이브(버스) 즐기기",
+  "station": "사이토자키역 (西戸崎) / 하카타항 (博多ふ頭)",
+  "access": "하카타 부두에서 후쿠오카 시영 도선으로 시카노시마항, 또는 JR 가시이선 사이토자키역에서 니시테쓰 버스",
+  "jr_pass": [
+   "JR 큐슈 레일패스(전큐슈)",
+   "JR 큐슈 레일패스(북큐슈)"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을"
+  ],
+  "best_time": "맑은 봄~가을. 서쪽 해안 노을",
+  "event": "",
+  "duration": "반나절",
+  "cost": "시영 도선 편도 약 수백 엔",
+  "walking": "보통",
+  "fit": "매우 잘 맞음",
+  "condition": "강풍·고파랑 시 도선 결항 가능 → 대체: 사이토자키역 경유 버스",
+  "caution": "섬 안 버스 편수가 적어 돌아오는 편 먼저 확인",
+  "lat": 33.675,
+  "lng": 130.3,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/志賀島"
+  ],
+  "region": "규슈"
+ },
+ {
   "id": "fukuoka-yanagawa-kawakudari",
   "name_ko": "야나가와 뱃놀이 (가와쿠다리)",
   "name_ja": "柳川川下り",
@@ -12247,6 +37207,45 @@ window.SPOTS = [
    "https://www.yanagawa-net.com/ohori/",
    "https://www.yanagawa-net.com/winter/",
    "https://ja.wikipedia.org/wiki/立花氏庭園"
+  ],
+  "region": "규슈"
+ },
+ {
+  "id": "fukuoka-futsukaichi-onsen",
+  "name_ko": "후쓰카이치 온천",
+  "name_ja": "二日市温泉",
+  "pref": "후쿠오카",
+  "area": "지쿠시노",
+  "categories": [
+   "onsen",
+   "town"
+  ],
+  "summary": "'하카타의 안방'이라 불리는 하카타 근교 온천. 옛 번주 전용탕이던 고젠유와 하카타유 같은 공동탕이 남아 있다.",
+  "do": "다자이후 관광 뒤 공동탕 고젠유나 하카타유에서 당일 입욕",
+  "station": "후쓰카이치역 (二日市)",
+  "access": "JR 가고시마본선 후쓰카이치역에서 도보 약 10분",
+  "jr_pass": [
+   "JR 큐슈 레일패스(전큐슈)",
+   "JR 큐슈 레일패스(북큐슈)"
+  ],
+  "seasons": [
+   "봄",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "가을~겨울. 다자이후와 같은 날 묶기 좋음",
+  "event": "",
+  "duration": "1~2시간",
+  "cost": "공동탕 수백 엔 수준",
+  "walking": "적음",
+  "fit": "매우 잘 맞음",
+  "condition": "",
+  "caution": "공동탕엔 비누·수건이 없을 수 있어 챙겨 가기",
+  "lat": 33.4919,
+  "lng": 130.5132,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/二日市温泉_(筑紫野市)"
   ],
   "region": "규슈"
  },
@@ -12291,6 +37290,83 @@ window.SPOTS = [
   "region": "규슈"
  },
  {
+  "id": "fukuoka-tobata-gion-oyamagasa",
+  "name_ko": "도바타 기온 오야마가사",
+  "name_ja": "戸畑祇園大山笠",
+  "pref": "후쿠오카",
+  "area": "기타큐슈 (도바타)",
+  "categories": [
+   "festival",
+   "night"
+  ],
+  "summary": "낮의 깃발 가마를 해체해 등불 309개를 단 높이 약 10m '등불 피라미드'로 바꿔 끄는 여름 축제. 유네스코 무형문화유산.",
+  "do": "저녁 경연회에서 불 켜진 등불 산가사 4기가 모여 도는 장면 보기",
+  "station": "도바타역 (戸畑)",
+  "access": "JR 가고시마본선 도바타역에서 경연회장(도바타 구청 앞 아소 공원)까지 도보권",
+  "jr_pass": [
+   "JR 큐슈 레일패스(전큐슈)",
+   "JR 큐슈 레일패스(북큐슈)"
+  ],
+  "seasons": [
+   "여름"
+  ],
+  "best_time": "7월 넷째 토요일을 낀 3일간 저녁",
+  "event": "매년 7월 넷째 주 금·토·일 (넷째 토요일 낀 3일간). 날짜는 매년 공식 확인",
+  "duration": "반나절",
+  "cost": "관람 무료",
+  "walking": "보통",
+  "fit": "조건부",
+  "condition": "축제 기간 저녁만 / 우천 시 일정 변경 가능",
+  "caution": "경연회 날 밤 혼잡, 귀가 열차 미리 확인",
+  "lat": 33.8947,
+  "lng": 130.8294,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/戸畑祇園大山笠",
+   "https://ja.wikipedia.org/wiki/戸畑区"
+  ],
+  "region": "규슈"
+ },
+ {
+  "id": "fukuoka-miyajidake-shrine",
+  "name_ko": "미야지다케 신사 (빛의 길)",
+  "name_ja": "宮地嶽神社（光の道）",
+  "pref": "후쿠오카",
+  "area": "후쿠쓰",
+  "categories": [
+   "culture",
+   "night"
+  ],
+  "summary": "일본 최대급 대형 금줄(직경 2.5m, 무게 약 5t)이 걸린 신사. 2월·10월 하순에는 참배길 끝 바다로 해가 지는 '빛의 길'이 생긴다.",
+  "do": "석단 위에서 참배길과 바다가 일직선이 되는 노을 보기",
+  "station": "후쿠마역 (福間)",
+  "access": "JR 가고시마본선 후쿠마역에서 니시테쓰 버스 '미야지다케진자마에' 하차 도보 5분, 또는 역에서 도보 약 25분",
+  "jr_pass": [
+   "JR 큐슈 레일패스(전큐슈)",
+   "JR 큐슈 레일패스(북큐슈)"
+  ],
+  "seasons": [
+   "봄",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "2월 하순·10월 하순 일몰 ('빛의 길')",
+  "event": "매년 2월 하순·10월 하순 '유히노 마쓰리'. 날짜는 매년 공식 확인",
+  "duration": "1~2시간",
+  "cost": "참배 무료",
+  "walking": "보통",
+  "fit": "조건부",
+  "condition": "맑은 날 일몰 / 구름 끼면 빛의 길 안 보임",
+  "caution": "빛의 길 시기 해 질 녘엔 계단 관람석이 일찍 참",
+  "lat": 33.7799,
+  "lng": 130.4864,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/宮地嶽神社"
+  ],
+  "region": "규슈"
+ },
+ {
   "id": "fukuoka-itoshima-futamigaura",
   "name_ko": "사쿠라이 후타미가우라 (부부바위 석양)",
   "name_ja": "桜井二見ヶ浦（夫婦岩）",
@@ -12327,6 +37403,84 @@ window.SPOTS = [
   "sources": [
    "https://ja.wikipedia.org/wiki/桜井二見ヶ浦",
    "https://kanko-itoshima.jp/spot/sakuraihutamigaura/"
+  ],
+  "region": "규슈"
+ },
+ {
+  "id": "fukuoka-akizuki",
+  "name_ko": "아키즈키 성하마을",
+  "name_ja": "秋月（秋月城跡）",
+  "pref": "후쿠오카",
+  "area": "아사쿠라",
+  "categories": [
+   "town",
+   "culture",
+   "nature"
+  ],
+  "summary": "'지쿠젠의 작은 교토'라 불리는 산간 성하마을. 성터의 구로몬·나가야몬과 석벽이 남아 있고 가을 단풍이 유명하다.",
+  "do": "단풍 터널 아래 성터 길과 옛 무가 거리 산책",
+  "station": "기야마역 (基山) → 아마기철도 아마기역 (甘木)",
+  "access": "JR 기야마역에서 아마기철도로 아마기역(또는 니시테쓰 아마기선), 아마기 관광버스 아키즈키선 '하쿠부쓰칸마에' 하차 도보 약 6분",
+  "jr_pass": [
+   "JR 큐슈 레일패스(전큐슈)",
+   "JR 큐슈 레일패스(북큐슈)"
+  ],
+  "seasons": [
+   "봄",
+   "가을"
+  ],
+  "best_time": "11월 중하순 단풍, 4월 벚꽃",
+  "event": "",
+  "duration": "반나절",
+  "cost": "산책 무료 (아마기철도·버스 별도 요금)",
+  "walking": "보통",
+  "fit": "조건부",
+  "condition": "단풍·벚꽃 시기에 진가",
+  "caution": "아마기철도는 JR 패스 적용 안 됨. 단풍철 주말 도로 혼잡으로 버스 지연",
+  "lat": 33.4656,
+  "lng": 130.6956,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/秋月城"
+  ],
+  "region": "규슈"
+ },
+ {
+  "id": "fukuoka-uminonakamichi-park",
+  "name_ko": "우미노나카미치 해변공원",
+  "name_ja": "国営海の中道海浜公園",
+  "pref": "후쿠오카",
+  "area": "후쿠오카시 (히가시구)",
+  "categories": [
+   "nature",
+   "cape"
+  ],
+  "summary": "하카타만과 겐카이나다 사이 모래톱 위의 넓은 국영공원. 계절마다 꽃 축제가 열리고 수족관·장미정원이 있다.",
+  "do": "자전거를 빌려 꽃밭과 해변을 돌고 마린월드 수족관 들르기",
+  "station": "우미노나카미치역 (海ノ中道)",
+  "access": "하카타역에서 JR 가시이선으로 우미노나카미치역(가시이 환승), 공원 입구 바로 앞. 하카타항에서 배편도 있음",
+  "jr_pass": [
+   "JR 큐슈 레일패스(전큐슈)",
+   "JR 큐슈 레일패스(북큐슈)"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을"
+  ],
+  "best_time": "봄 네모필라·튤립, 가을 코스모스 축제 시기",
+  "event": "",
+  "duration": "반나절",
+  "cost": "입원료 약 450엔 (수족관 별도)",
+  "walking": "보통",
+  "fit": "조건부",
+  "condition": "꽃 축제 시기·맑은 날 / 비 오면 수족관만",
+  "caution": "공원이 넓어 걸어서 다 보기 어려움, 자전거 대여 권장",
+  "lat": 33.6592,
+  "lng": 130.3535,
+  "url": "https://uminaka-park.jp/",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/海の中道海浜公園"
   ],
   "region": "규슈"
  },
@@ -12370,6 +37524,172 @@ window.SPOTS = [
   "region": "규슈"
  },
  {
+  "id": "fukuoka-fukuoka-tower",
+  "name_ko": "후쿠오카 타워·모모치 해변",
+  "name_ja": "福岡タワー・シーサイドももち",
+  "pref": "후쿠오카",
+  "area": "후쿠오카시 (사와라구)",
+  "categories": [
+   "view",
+   "night",
+   "city"
+  ],
+  "summary": "높이 234m의 해변 전망 타워. 지상 약 123m 전망실에서 하카타만과 시내 야경이 보이고, 계절마다 타워 외벽 조명이 바뀐다.",
+  "do": "해 질 무렵 올라가 하카타만 노을과 시내 야경 보고 모모치 해변 산책",
+  "station": "하카타역 (博多) → 지하철 니시진역 (西新)",
+  "access": "하카타 버스터미널에서 니시테쓰 버스 약 25분 '후쿠오카 타워' 하차, 또는 지하철 니시진역에서 도보 약 20분",
+  "jr_pass": [
+   "JR 큐슈 레일패스(전큐슈)",
+   "JR 큐슈 레일패스(북큐슈)",
+   "산요 산인 패스",
+   "JR서일본 전지역 패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "맑은 날 일몰 전후. 크리스마스 시즌 조명",
+  "event": "",
+  "duration": "1~2시간",
+  "cost": "전망실 입장 유료 (약 1,000엔대, 공식 확인)",
+  "walking": "적음",
+  "fit": "조건부",
+  "condition": "맑은 날 노을·야경 / 흐리면 시야 좁음",
+  "caution": "",
+  "lat": 33.5931,
+  "lng": 130.3514,
+  "url": "https://www.fukuokatower.co.jp/",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/福岡タワー"
+  ],
+  "region": "규슈"
+ },
+ {
+  "id": "fukuoka-kokura-castle",
+  "name_ko": "고쿠라성",
+  "name_ja": "小倉城",
+  "pref": "후쿠오카",
+  "area": "기타큐슈 (고쿠라)",
+  "categories": [
+   "culture",
+   "view"
+  ],
+  "summary": "무라사키강을 해자로 쓴 해성 자리에 1959년 재건된 천수각. 2019년 리뉴얼로 체험형 전시와 엘리베이터가 생겼고 천수각 광장은 벚꽃 명소.",
+  "do": "천수각 최상층에서 고쿠라 시내 보고, 탄가 시장까지 걸어가 먹거리 즐기기",
+  "station": "고쿠라역 (小倉) / 니시고쿠라역 (西小倉)",
+  "access": "JR 니시고쿠라역에서 도보 약 10분, 고쿠라역에서 도보 약 15분",
+  "jr_pass": [
+   "JR 큐슈 레일패스(전큐슈)",
+   "JR 큐슈 레일패스(북큐슈)",
+   "산요 산인 패스",
+   "JR서일본 전지역 패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "3월 말~4월 초 벚꽃",
+  "event": "",
+  "duration": "1~2시간",
+  "cost": "천수각 입장 유료 (수백 엔)",
+  "walking": "적음",
+  "fit": "백업",
+  "condition": "",
+  "caution": "",
+  "lat": 33.8844,
+  "lng": 130.8743,
+  "url": "https://www.kokura-castle.jp/",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/小倉城"
+  ],
+  "region": "규슈"
+ },
+ {
+  "id": "fukuoka-kushida-shrine",
+  "name_ko": "구시다 신사",
+  "name_ja": "櫛田神社",
+  "pref": "후쿠오카",
+  "area": "후쿠오카시 (하카타)",
+  "categories": [
+   "culture",
+   "city"
+  ],
+  "summary": "하카타의 총진수로 '오쿠시다상'이라 불린다. 경내에 하카타 기온 야마카사의 장식 가마(가자리야마)가 늘 서 있다.",
+  "do": "높이 10m 넘는 가자리야마와 수령 천 년 은행나무 보기, 캐널시티·나카스와 묶어 산책",
+  "station": "하카타역 (博多) / 지하철 구시다진자마에역 (櫛田神社前)",
+  "access": "하카타역에서 도보 약 15분, 또는 지하철 나나쿠마선 구시다진자마에역 도보 약 1분·공항선 기온역 도보 약 5분",
+  "jr_pass": [
+   "JR 큐슈 레일패스(전큐슈)",
+   "JR 큐슈 레일패스(북큐슈)",
+   "산요 산인 패스",
+   "JR서일본 전지역 패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "7월 1~15일 야마카사 기간이 가장 활기. 2월 세쓰분 대형 오카메 탈",
+  "event": "",
+  "duration": "1~2시간",
+  "cost": "참배 무료",
+  "walking": "적음",
+  "fit": "백업",
+  "condition": "",
+  "caution": "",
+  "lat": 33.5931,
+  "lng": 130.4107,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/櫛田神社_(福岡市)"
+  ],
+  "region": "규슈"
+ },
+ {
+  "id": "fukuoka-kyushu-national-museum",
+  "name_ko": "규슈 국립박물관",
+  "name_ja": "九州国立博物館",
+  "pref": "후쿠오카",
+  "area": "다자이후",
+  "categories": [
+   "culture"
+  ],
+  "summary": "아시아와의 교류 관점에서 일본 문화의 형성을 보여 주는 국립박물관. 국보·중요문화재를 포함한 소장품과 큰 곡면 유리 건물이 특징.",
+  "do": "다자이후 텐만구 참배 뒤 무빙워크 터널로 넘어가 상설전 관람",
+  "station": "니시테쓰 다자이후역 (太宰府) / JR 후쓰카이치역 (二日市)",
+  "access": "니시테쓰 다자이후역에서 도보 약 15분(텐만구에서 약 10분). JR 후쓰카이치역에서 다자이후 방면 버스 후 도보 약 3분",
+  "jr_pass": [
+   "JR 큐슈 레일패스(전큐슈)",
+   "JR 큐슈 레일패스(북큐슈)"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "연중. 비 오는 날 대체지로 좋음",
+  "event": "",
+  "duration": "1~2시간",
+  "cost": "상설전 약 700엔 (특별전 별도)",
+  "walking": "보통",
+  "fit": "백업",
+  "condition": "",
+  "caution": "월요일 휴관(공휴일이면 다음 날). 연말 휴관",
+  "lat": 33.5184,
+  "lng": 130.5383,
+  "url": "https://www.kyuhaku.jp/",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/九州国立博物館"
+  ],
+  "region": "규슈"
+ },
+ {
   "id": "fukuoka-nakasu-yatai",
   "name_ko": "나카스 포장마차 거리",
   "name_ja": "中洲の屋台",
@@ -12407,6 +37727,209 @@ window.SPOTS = [
   "sources": [
    "https://ja.wikipedia.org/wiki/中洲",
    "https://yokanavi.com/yatai"
+  ],
+  "region": "규슈"
+ },
+ {
+  "id": "fukuoka-nanzoin",
+  "name_ko": "난조인 (와불)",
+  "name_ja": "南蔵院（釈迦涅槃像）",
+  "pref": "후쿠오카",
+  "area": "사사구리",
+  "categories": [
+   "culture",
+   "nature"
+  ],
+  "summary": "길이 41m, 높이 11m의 청동 와불이 산속에 누워 있는 절. 사사구리 88개소 순례의 1번 절이기도 하다.",
+  "do": "산길을 따라 와불까지 오르고 돌아오는 길에 계곡 쪽 작은 불당 둘러보기",
+  "station": "기도난조인마에역 (城戸南蔵院前)",
+  "access": "하카타역에서 JR 사사구리선(후쿠호쿠유타카선) 약 30분, 기도난조인마에역에서 도보 몇 분",
+  "jr_pass": [
+   "JR 큐슈 레일패스(전큐슈)",
+   "JR 큐슈 레일패스(북큐슈)"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "연중. 신록·단풍 시기 산길이 좋음",
+  "event": "",
+  "duration": "1~2시간",
+  "cost": "참배 무료 (일부 시설 유료)",
+  "walking": "보통",
+  "fit": "백업",
+  "condition": "",
+  "caution": "와불까지 계단·경사 있음",
+  "lat": 33.6198,
+  "lng": 130.5728,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/南蔵院_(福岡県篠栗町)"
+  ],
+  "region": "규슈"
+ },
+ {
+  "id": "fukuoka-dazaifu-tenmangu",
+  "name_ko": "다자이후 텐만구",
+  "name_ja": "太宰府天満宮",
+  "pref": "후쿠오카",
+  "area": "다자이후",
+  "categories": [
+   "culture",
+   "town"
+  ],
+  "summary": "학문의 신 스가와라노 미치자네를 모신 전국 텐만구의 총본사. 역에서 이어지는 참배길에 우메가에모치 가게가 줄지어 있다.",
+  "do": "참배길에서 우메가에모치를 먹고 본전과 매화 정원 둘러보기",
+  "station": "니시테쓰 다자이후역 (太宰府) / JR 후쓰카이치역 (二日市)",
+  "access": "니시테쓰 다자이후역에서 참배길 따라 도보 약 5분. JR 이용 시 후쓰카이치역에서 다자이후 방면 버스",
+  "jr_pass": [
+   "JR 큐슈 레일패스(전큐슈)",
+   "JR 큐슈 레일패스(북큐슈)"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "2~3월 매화철. 연중 무난",
+  "event": "",
+  "duration": "반나절",
+  "cost": "참배 무료",
+  "walking": "적음",
+  "fit": "백업",
+  "condition": "",
+  "caution": "주말·수험 시즌엔 참배길이 매우 붐빔",
+  "lat": 33.5215,
+  "lng": 130.5349,
+  "url": "https://www.dazaifutenmangu.or.jp/",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/太宰府天満宮"
+  ],
+  "region": "규슈"
+ },
+ {
+  "id": "fukuoka-ohori-park",
+  "name_ko": "오호리 공원·후쿠오카성 터",
+  "name_ja": "大濠公園・福岡城跡",
+  "pref": "후쿠오카",
+  "area": "후쿠오카시 (주오구)",
+  "categories": [
+   "nature",
+   "city",
+   "culture"
+  ],
+  "summary": "후쿠오카성 외곽 해자를 살린 큰 연못 공원. 섬과 다리를 잇는 둘레 약 2km 산책로가 있고, 바로 옆에 성터와 일본정원·미술관이 있다.",
+  "do": "연못 한 바퀴 산책 후 후쿠오카성 터 석벽 위에 올라 시내 보기",
+  "station": "하카타역 (博多) → 지하철 오호리코엔역 (大濠公園)",
+  "access": "하카타역에서 지하철 공항선 약 10분, 오호리코엔역에서 도보 약 5분",
+  "jr_pass": [
+   "JR 큐슈 레일패스(전큐슈)",
+   "JR 큐슈 레일패스(북큐슈)",
+   "산요 산인 패스",
+   "JR서일본 전지역 패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "3월 말~4월 초 벚꽃(성터 일대). 가을 일본정원 단풍",
+  "event": "",
+  "duration": "1~2시간",
+  "cost": "공원 무료 (일본정원·미술관 별도)",
+  "walking": "보통",
+  "fit": "백업",
+  "condition": "",
+  "caution": "8월 오호리 불꽃대회는 2018년 종료됨",
+  "lat": 33.5859,
+  "lng": 130.3763,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/大濠公園"
+  ],
+  "region": "규슈"
+ },
+ {
+  "id": "fukuoka-tanga-market",
+  "name_ko": "탄가 시장",
+  "name_ja": "旦過市場",
+  "pref": "후쿠오카",
+  "area": "기타큐슈 (고쿠라)",
+  "categories": [
+   "city"
+  ],
+  "summary": "'기타큐슈의 부엌'이라 불리는 쇼와 분위기 아케이드 시장. 생선·반찬 가게 사이에서 정어리 된장조림(진다니) 같은 향토 음식을 맛볼 수 있다.",
+  "do": "반찬과 해산물을 조금씩 사 먹으며 시장 골목 걷기",
+  "station": "고쿠라역 (小倉) → 모노레일 탄가역 (旦過)",
+  "access": "고쿠라역에서 기타큐슈 모노레일 1정거장 탄가역 바로 옆, 또는 고쿠라역에서 도보 약 15분",
+  "jr_pass": [
+   "JR 큐슈 레일패스(전큐슈)",
+   "JR 큐슈 레일패스(북큐슈)",
+   "산요 산인 패스",
+   "JR서일본 전지역 패스"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "연중. 오전~이른 오후 가게가 많이 열림",
+  "event": "",
+  "duration": "1~2시간",
+  "cost": "먹거리 실비",
+  "walking": "적음",
+  "fit": "백업",
+  "condition": "",
+  "caution": "2022년 두 차례 화재 후 재정비 중(새 시장동 2027년도 완공 목표). 임시 '탄가 아오조라 시장' 등으로 영업. 일요일·공휴일 휴무 가게 많음",
+  "lat": 33.8814,
+  "lng": 130.8794,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/旦過市場"
+  ],
+  "region": "규슈"
+ },
+ {
+  "id": "saga-takashima-hoto",
+  "name_ko": "다카시마 (호토 신사)",
+  "name_ja": "高島（宝当神社）",
+  "pref": "사가",
+  "area": "가라쓰",
+  "categories": [
+   "cape",
+   "culture"
+  ],
+  "summary": "가라쓰항에서 배로 약 10분 걸리는 작은 섬. '복권이 당첨된다'는 호토 신사로 알려져 복권 시즌엔 사람이 몰린다.",
+  "do": "정기선으로 건너가 호토 신사 참배 후 섬 해안 골목 한 바퀴",
+  "station": "가라쓰역 (唐津)",
+  "access": "가라쓰역에서 호토 잔교까지 도보 약 20분(가라쓰성 근처), 정기선 하루 6왕복 약 10분 편도 약 220엔",
+  "jr_pass": [
+   "JR 큐슈 레일패스(전큐슈)",
+   "JR 큐슈 레일패스(북큐슈)"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을"
+  ],
+  "best_time": "연말 점보 복권 시즌이 가장 활기",
+  "event": "",
+  "duration": "반나절",
+  "cost": "배 왕복 약 440엔",
+  "walking": "적음",
+  "fit": "매우 잘 맞음",
+  "condition": "악천후 시 결항",
+  "caution": "하루 6왕복뿐이라 돌아오는 편 확인. 대조기 간조 땐 도보 5분 거리 다른 잔교에서 발착",
+  "lat": 33.4739,
+  "lng": 129.9911,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/高島_(佐賀県)"
   ],
   "region": "규슈"
  },
@@ -12533,6 +38056,84 @@ window.SPOTS = [
   "region": "규슈"
  },
  {
+  "id": "saga-hadomisaki",
+  "name_ko": "하도미사키 (해중전망탑)",
+  "name_ja": "波戸岬（海中展望塔）",
+  "pref": "사가",
+  "area": "가라쓰 (진제이)",
+  "categories": [
+   "cape",
+   "nature"
+  ],
+  "summary": "히가시마쓰우라 반도 끝의 곶. 수심 7m 해중전망실 창으로 물고기를 보고, 주차장 옆 소라구이 노점이 줄지어 있다.",
+  "do": "해중전망탑에서 바닷속 구경 후 노점에서 소라 쓰보야키 먹기",
+  "station": "가라쓰역 (唐津) / 니시가라쓰역 (西唐津)",
+  "access": "가라쓰 오테구치 버스센터에서 쇼와버스 '미나토·하도미사키선' 약 1시간, 종점 '하도미사키 고쿠민슈쿠샤'",
+  "jr_pass": [
+   "JR 큐슈 레일패스(전큐슈)",
+   "JR 큐슈 레일패스(북큐슈)"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을"
+  ],
+  "best_time": "봄~가을 맑은 날",
+  "event": "",
+  "duration": "반나절",
+  "cost": "해중전망탑 유료 (수백 엔), 소라구이 실비",
+  "walking": "적음",
+  "fit": "매우 잘 맞음",
+  "condition": "바다가 탁한 날엔 해중 시야 나쁨",
+  "caution": "버스 편수 적음, 귀가편 먼저 확인",
+  "lat": 33.5557,
+  "lng": 129.8463,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/波戸岬"
+  ],
+  "region": "규슈"
+ },
+ {
+  "id": "saga-hizen-hamashuku",
+  "name_ko": "히젠하마주쿠 (사카구라 거리)",
+  "name_ja": "肥前浜宿（酒蔵通り）",
+  "pref": "사가",
+  "area": "가시마",
+  "categories": [
+   "town"
+  ],
+  "summary": "에도 시대 양조업으로 번성한 백벽 거리. 지금도 양조장 3곳이 술을 빚고, 복원된 역사 안에 일본주 바가 있다.",
+  "do": "양조장 거리 걸으며 시음하고 역사 바 'HAMA BAR'에서 한잔",
+  "station": "히젠하마역 (肥前浜)",
+  "access": "JR 나가사키본선 히젠하마역에서 도보 약 10분",
+  "jr_pass": [
+   "JR 큐슈 레일패스(전큐슈)",
+   "JR 큐슈 레일패스(북큐슈)"
+  ],
+  "seasons": [
+   "봄",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "봄 '사카구라 투어리즘' 시기. 유토쿠 이나리와 묶기",
+  "event": "매년 봄(3월 무렵) 가시마 사카구라 투어리즘. 날짜는 매년 공식 확인",
+  "duration": "반나절",
+  "cost": "산책 무료, 시음 실비",
+  "walking": "보통",
+  "fit": "매우 잘 맞음",
+  "condition": "",
+  "caution": "히젠하마역은 무인역, 열차 간격이 김",
+  "lat": 33.0925,
+  "lng": 130.1153,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/鹿島市浜中町八本木宿",
+   "https://ja.wikipedia.org/wiki/肥前浜駅"
+  ],
+  "region": "규슈"
+ },
+ {
   "id": "saga-karatsu-kunchi",
   "name_ko": "가라쓰 군치",
   "name_ja": "唐津くんち",
@@ -12568,6 +38169,85 @@ window.SPOTS = [
    "https://ja.wikipedia.org/wiki/唐津くんち",
    "https://en.wikipedia.org/wiki/Karatsu_Kunchi",
    "https://www.karatsu-kankou.jp/feature/karatsukunchi/"
+  ],
+  "region": "규슈"
+ },
+ {
+  "id": "saga-kashima-gatalympic",
+  "name_ko": "가시마 가타림픽·미치노에키 가시마 갯벌 체험",
+  "name_ja": "鹿島ガタリンピック・道の駅鹿島",
+  "pref": "사가",
+  "area": "가시마",
+  "categories": [
+   "festival",
+   "cape"
+  ],
+  "summary": "아리아케해 갯벌에서 진흙 범벅으로 달리고 미끄러지는 초여름 대회. 대회가 없을 때도 같은 미치노에키에서 갯벌 체험을 할 수 있다.",
+  "do": "가타림픽 관람 또는 갯벌 스키·갯벌 신발 빌려 진흙 체험",
+  "station": "히젠나나우라역 (肥前七浦)",
+  "access": "JR 나가사키본선 히젠나나우라역에서 도보 약 8분. 대회 날엔 특급이 임시 정차",
+  "jr_pass": [
+   "JR 큐슈 레일패스(전큐슈)",
+   "JR 큐슈 레일패스(북큐슈)"
+  ],
+  "seasons": [
+   "여름"
+  ],
+  "best_time": "6월 대회일. 갯벌 체험은 4월 하순~10월",
+  "event": "매년 초여름(6월). 날짜는 매년 공식 확인",
+  "duration": "반나절",
+  "cost": "관람 무료, 갯벌 체험 대여·샤워 유료",
+  "walking": "적음",
+  "fit": "조건부",
+  "condition": "간조 시간대에만 갯벌 체험",
+  "caution": "대회 참가는 사전 신청·추첨. 진흙이 묻어도 되는 옷·갈아입을 옷 필요",
+  "lat": 33.0749,
+  "lng": 130.1458,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/道の駅鹿島",
+   "https://ja.wikipedia.org/wiki/鹿島ガタリンピック"
+  ],
+  "region": "규슈"
+ },
+ {
+  "id": "saga-ouo-shrine-sea-torii",
+  "name_ko": "다이우오 신사 해중 도리이",
+  "name_ja": "大魚神社の海中鳥居",
+  "pref": "사가",
+  "area": "다라",
+  "categories": [
+   "cape",
+   "night",
+   "culture"
+  ],
+  "summary": "아리아케해 갯벌 위에 도리이가 일렬로 서 있는 작은 신사. 만조엔 바다에 잠긴 듯, 간조엔 걸어서 다가갈 수 있다.",
+  "do": "만조 시각에 맞춰 바다 위 도리이와 노을 보기",
+  "station": "다라역 (多良)",
+  "access": "JR 나가사키본선 다라역이 최근역. 역에서 택시 또는 도보 (거리 현지 확인)",
+  "jr_pass": [
+   "JR 큐슈 레일패스(전큐슈)",
+   "JR 큐슈 레일패스(북큐슈)"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "만조와 일몰이 겹치는 날 해 질 녘",
+  "event": "매년 8월 '센노 도로 마쓰리'(등롱 축제). 날짜는 매년 공식 확인",
+  "duration": "1~2시간",
+  "cost": "무료",
+  "walking": "보통",
+  "fit": "조건부",
+  "condition": "조수 시각에 따라 보이는 모습이 크게 다름 → 조석표 확인 필수",
+  "caution": "다라역은 열차 편수 적음",
+  "lat": 33.0302,
+  "lng": 130.1757,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/大魚神社"
   ],
   "region": "규슈"
  },
@@ -12648,6 +38328,280 @@ window.SPOTS = [
   "region": "규슈"
  },
  {
+  "id": "saga-arita-ceramic-fair",
+  "name_ko": "아리타 도자기 시장",
+  "name_ja": "有田陶器市",
+  "pref": "사가",
+  "area": "아리타",
+  "categories": [
+   "festival",
+   "town"
+  ],
+  "summary": "1896년부터 이어진 골든위크 도자기 장터. 아리타역~가미아리타역 사이 큰길에 가게가 늘어서고 휴일엔 하루 20만 명대가 찾는다.",
+  "do": "약 4km 거리를 걸으며 100엔짜리부터 명품까지 도자기 구경·구매",
+  "station": "아리타역 (有田) / 가미아리타역 (上有田)",
+  "access": "JR 사세보선 아리타역 또는 가미아리타역 하차. 기간 중 낮 특급 일부가 가미아리타에 임시 정차",
+  "jr_pass": [
+   "JR 큐슈 레일패스(전큐슈)",
+   "JR 큐슈 레일패스(북큐슈)"
+  ],
+  "seasons": [
+   "봄"
+  ],
+  "best_time": "골든위크 기간 평일 오전(덜 붐빔)",
+  "event": "매년 골든위크(대체로 4/29~5/5). 날짜는 매년 공식 확인",
+  "duration": "하루",
+  "cost": "입장 무료, 구매 실비",
+  "walking": "많음",
+  "fit": "조건부",
+  "condition": "축제 기간에만",
+  "caution": "장터 거리가 약 4km라 많이 걸음. 휴일엔 열차·도로 매우 혼잡. 좌표는 가미아리타역 기준",
+  "lat": 33.1902,
+  "lng": 129.9055,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/有田陶器市",
+   "https://ja.wikipedia.org/wiki/上有田駅"
+  ],
+  "region": "규슈"
+ },
+ {
+  "id": "saga-okawachiyama",
+  "name_ko": "오카와치야마 (비요의 마을)",
+  "name_ja": "大川内山（秘窯の里）",
+  "pref": "사가",
+  "area": "이마리",
+  "categories": [
+   "town",
+   "culture"
+  ],
+  "summary": "나베시마번 어용 가마가 있던 산골 도자기 마을. 기술 유출을 막으려 외진 골짜기에 세운 곳으로 지금도 20여 가마가 모여 있다.",
+  "do": "돌담 골목의 가마 공방을 돌며 나베시마 도자기 구경, 여름엔 풍경 수천 개 보기",
+  "station": "이마리역 (伊万里)",
+  "access": "JR 지쿠히선 이마리역에서 니시히젠 버스(편수 적음) 또는 택시 약 10분",
+  "jr_pass": [
+   "JR 큐슈 레일패스(전큐슈)",
+   "JR 큐슈 레일패스(북큐슈)"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을"
+  ],
+  "best_time": "6~8월 풍경 시장, 11월 초 가을 축제",
+  "event": "매년 4/29~5/5 가마 시장, 6~8월 풍경 시장, 11/1~5 가을 축제",
+  "duration": "반나절",
+  "cost": "산책 무료",
+  "walking": "보통",
+  "fit": "조건부",
+  "condition": "",
+  "caution": "이마리까지 JR 지쿠히선은 편수가 적음. 버스도 적어 택시 이용이 현실적",
+  "lat": 33.2325,
+  "lng": 129.8936,
+  "url": "https://www.imari-ookawachiyama.com/",
+  "sources": [
+   "https://www.imari-ookawachiyama.com/",
+   "https://www.wikidata.org/wiki/Q108605326"
+  ],
+  "region": "규슈"
+ },
+ {
+  "id": "saga-karatsu-castle",
+  "name_ko": "가라쓰성",
+  "name_ja": "唐津城",
+  "pref": "사가",
+  "area": "가라쓰",
+  "categories": [
+   "culture",
+   "view"
+  ],
+  "summary": "가라쓰만에 튀어나온 언덕 위 해성. 천수각에서 니지노마쓰바라 소나무 숲과 바다가 한눈에 보인다.",
+  "do": "경사 엘리베이터로 올라가 천수각에서 가라쓰만과 소나무 숲 전망 보기",
+  "station": "가라쓰역 (唐津)",
+  "access": "JR 가라쓰역에서 도보 약 15분, 또는 버스 '가라쓰조 이리구치' 하차",
+  "jr_pass": [
+   "JR 큐슈 레일패스(전큐슈)",
+   "JR 큐슈 레일패스(북큐슈)"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "봄 등나무·벚꽃. 맑은 날 오후",
+  "event": "",
+  "duration": "1~2시간",
+  "cost": "천수각 유료 (수백 엔), 경사 엘리베이터 약 100엔",
+  "walking": "보통",
+  "fit": "백업",
+  "condition": "맑은 날 전망",
+  "caution": "",
+  "lat": 33.4535,
+  "lng": 129.9782,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/唐津城"
+  ],
+  "region": "규슈"
+ },
+ {
+  "id": "saga-kyushu-ceramic-museum",
+  "name_ko": "규슈 도자기 문화관",
+  "name_ja": "佐賀県立九州陶磁文化館",
+  "pref": "사가",
+  "area": "아리타",
+  "categories": [
+   "culture"
+  ],
+  "summary": "규슈 도자기를 모은 현립 박물관. 에도 시대 아리타 자기 약 1만 점 '시바타 부부 컬렉션'과 30분마다 울리는 아리타야키 오르골 시계가 있다.",
+  "do": "고이마리 명품 전시를 보고 아리타 거리 산책과 묶기",
+  "station": "아리타역 (有田)",
+  "access": "JR 사세보선 아리타역에서 도보 약 12분 (택시 약 4분)",
+  "jr_pass": [
+   "JR 큐슈 레일패스(전큐슈)",
+   "JR 큐슈 레일패스(북큐슈)"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "연중. 비 오는 날 대체지",
+  "event": "",
+  "duration": "1~2시간",
+  "cost": "상설전 무료 또는 소액 (공식 확인)",
+  "walking": "적음",
+  "fit": "백업",
+  "condition": "",
+  "caution": "월요일 휴관 여부 공식 확인",
+  "lat": 33.1789,
+  "lng": 129.8807,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/佐賀県立九州陶磁文化館"
+  ],
+  "region": "규슈"
+ },
+ {
+  "id": "saga-nagoya-castle-ruins",
+  "name_ko": "나고야성 터·나고야성 박물관",
+  "name_ja": "名護屋城跡・佐賀県立名護屋城博物館",
+  "pref": "사가",
+  "area": "가라쓰 (진제이)",
+  "categories": [
+   "culture",
+   "view"
+  ],
+  "summary": "도요토미 히데요시가 임진왜란 출병 기지로 쌓은 성터. 석벽만 남은 본성 터에서 이키·쓰시마 방향 바다가 보이고, 옆 박물관은 한일 교류사를 다룬다.",
+  "do": "박물관에서 배경을 본 뒤 본성 터 전망대까지 걸어 오르기",
+  "station": "가라쓰역 (唐津)",
+  "access": "가라쓰 오테구치 버스센터에서 쇼와버스 요부코 방면, '나고야조 하쿠부쓰칸 이리구치' 하차 (편수·시간 확인)",
+  "jr_pass": [
+   "JR 큐슈 레일패스(전큐슈)",
+   "JR 큐슈 레일패스(북큐슈)"
+  ],
+  "seasons": [
+   "봄",
+   "가을"
+  ],
+  "best_time": "봄 벚꽃·가을 맑은 날",
+  "event": "",
+  "duration": "반나절",
+  "cost": "성터 무료, 박물관 무료 또는 소액 (공식 확인)",
+  "walking": "보통",
+  "fit": "백업",
+  "condition": "",
+  "caution": "임진왜란 침략 거점이라는 역사 배경을 알고 방문. 성터 안 오르막",
+  "lat": 33.53,
+  "lng": 129.8694,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/名護屋城"
+  ],
+  "region": "규슈"
+ },
+ {
+  "id": "saga-nijinomatsubara",
+  "name_ko": "니지노마쓰바라",
+  "name_ja": "虹の松原",
+  "pref": "사가",
+  "area": "가라쓰",
+  "categories": [
+   "nature",
+   "cape"
+  ],
+  "summary": "가라쓰만을 따라 폭 약 500m, 길이 약 4.5km로 이어지는 흑송 숲. 일본 3대 송림이자 특별명승.",
+  "do": "소나무 숲길을 걷거나 자전거로 달리고 해변으로 빠져 바다 보기",
+  "station": "니지노마쓰바라역 (虹ノ松原)",
+  "access": "JR 지쿠히선 니지노마쓰바라역 하차, 숲까지 바로",
+  "jr_pass": [
+   "JR 큐슈 레일패스(전큐슈)",
+   "JR 큐슈 레일패스(북큐슈)"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을"
+  ],
+  "best_time": "맑은 날. 가라쓰성과 같은 날 묶기",
+  "event": "",
+  "duration": "1~2시간",
+  "cost": "무료",
+  "walking": "보통",
+  "fit": "백업",
+  "condition": "",
+  "caution": "숲 안 도로에 차가 다니므로 보행 주의",
+  "lat": 33.4466,
+  "lng": 130.0283,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/虹の松原",
+   "https://www.wikidata.org/wiki/Q5370854"
+  ],
+  "region": "규슈"
+ },
+ {
+  "id": "saga-saga-castle-honmaru",
+  "name_ko": "사가성 혼마루 역사관",
+  "name_ja": "佐賀城本丸歴史館",
+  "pref": "사가",
+  "area": "사가시",
+  "categories": [
+   "culture"
+  ],
+  "summary": "사가번 본성 어전을 2004년 목조로 복원한 역사관. 사가의 난에서 살아남은 샤치노몬(중요문화재)이 앞에 서 있다.",
+  "do": "긴 복도의 목조 어전을 걷고 막부 말 사가번 근대화 전시 보기",
+  "station": "사가역 (佐賀)",
+  "access": "JR 사가역에서 시내버스로 사가성 방면 (도보도 가능)",
+  "jr_pass": [
+   "JR 큐슈 레일패스(전큐슈)",
+   "JR 큐슈 레일패스(북큐슈)"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "연중. 비 오는 날 대체지",
+  "event": "",
+  "duration": "1~2시간",
+  "cost": "공식 확인 (기부금제)",
+  "walking": "적음",
+  "fit": "백업",
+  "condition": "",
+  "caution": "",
+  "lat": 33.2457,
+  "lng": 130.3022,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/佐賀城"
+  ],
+  "region": "규슈"
+ },
+ {
   "id": "saga-arita-uchiyama",
   "name_ko": "아리타 우치야마 도자기 마을",
   "name_ja": "有田内山（陶山神社）",
@@ -12684,6 +38638,163 @@ window.SPOTS = [
    "https://ja.wikipedia.org/wiki/陶山神社_(有田町)",
    "https://ja.wikipedia.org/wiki/有田陶器市",
    "https://www.arita.jp/spot/post_22.html"
+  ],
+  "region": "규슈"
+ },
+ {
+  "id": "saga-yobuko-asaichi",
+  "name_ko": "요부코 아침시장",
+  "name_ja": "呼子朝市",
+  "pref": "사가",
+  "area": "가라쓰 (요부코)",
+  "categories": [
+   "city",
+   "cape"
+  ],
+  "summary": "약 200m 거리에서 매일 아침 열리는 항구 아침시장. 오징어 건어물, 즉석에서 구운 소라·굴, 오징어 슈마이를 판다.",
+  "do": "아침시장에서 해산물 군것질 후 오징어 활어회(이카 이키즈쿠리) 먹기",
+  "station": "가라쓰역 (唐津)",
+  "access": "가라쓰 오테구치 버스센터에서 쇼와버스로 요부코 (가라쓰역에서 버스센터까지 도보 약 5분)",
+  "jr_pass": [
+   "JR 큐슈 레일패스(전큐슈)",
+   "JR 큐슈 레일패스(북큐슈)"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "오전 중 (설날 제외 매일)",
+  "event": "",
+  "duration": "반나절",
+  "cost": "먹거리 실비",
+  "walking": "적음",
+  "fit": "백업",
+  "condition": "",
+  "caution": "오후엔 노점이 거의 없음. 좌표는 옛 요부코정 청사 기준(시장 거리 근처)",
+  "lat": 33.5434,
+  "lng": 129.8932,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/呼子朝市",
+   "https://ja.wikipedia.org/wiki/呼子町"
+  ],
+  "region": "규슈"
+ },
+ {
+  "id": "saga-yoshinogari",
+  "name_ko": "요시노가리 역사공원",
+  "name_ja": "吉野ヶ里歴史公園",
+  "pref": "사가",
+  "area": "요시노가리·간자키",
+  "categories": [
+   "culture"
+  ],
+  "summary": "야요이 시대 대규모 환호 취락 유적을 복원한 약 117ha 국영공원. 망루·움집·고상창고가 늘어서 있다.",
+  "do": "복원 망루에 올라 환호 취락 전체를 내려다보고 곡옥 만들기 체험",
+  "station": "요시노가리코엔역 (吉野ケ里公園)",
+  "access": "JR 나가사키본선 요시노가리코엔역에서 동문(메인 게이트)까지 약 700m",
+  "jr_pass": [
+   "JR 큐슈 레일패스(전큐슈)",
+   "JR 큐슈 레일패스(북큐슈)"
+  ],
+  "seasons": [
+   "봄",
+   "가을"
+  ],
+  "best_time": "봄·가을 선선한 날",
+  "event": "",
+  "duration": "반나절",
+  "cost": "입원료 유료 (수백 엔)",
+  "walking": "많음",
+  "fit": "백업",
+  "condition": "",
+  "caution": "부지가 넓어 1~2시간 이상 걷게 됨. 여름엔 그늘이 적음",
+  "lat": 33.3236,
+  "lng": 130.3907,
+  "url": "https://www.yoshinogari.jp/",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/吉野ヶ里歴史公園"
+  ],
+  "region": "규슈"
+ },
+ {
+  "id": "saga-yutoku-inari",
+  "name_ko": "유토쿠 이나리 신사",
+  "name_ja": "祐徳稲荷神社",
+  "pref": "사가",
+  "area": "가시마",
+  "categories": [
+   "culture",
+   "view"
+  ],
+  "summary": "일본 3대 이나리로 꼽히는 신사. 절벽에 무대처럼 걸친 옻칠 본전이 '진제이 닛코'라 불릴 만큼 화려하다.",
+  "do": "본전 무대 위와 뒤쪽 산길 붉은 도리이 길에서 경내 내려다보기",
+  "station": "히젠카시마역 (肥前鹿島)",
+  "access": "JR 나가사키본선 히젠카시마역에서 유토쿠 버스 약 10분",
+  "jr_pass": [
+   "JR 큐슈 레일패스(전큐슈)",
+   "JR 큐슈 레일패스(북큐슈)"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "4월 철쭉·11월 단풍",
+  "event": "",
+  "duration": "1~2시간",
+  "cost": "참배 무료, 본전 엘리베이터 유료",
+  "walking": "보통",
+  "fit": "백업",
+  "condition": "",
+  "caution": "본전까지 계단 117단(유료 엘리베이터 있음)",
+  "lat": 33.0736,
+  "lng": 130.1083,
+  "url": "https://www.yutokusan.jp/",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/祐徳稲荷神社"
+  ],
+  "region": "규슈"
+ },
+ {
+  "id": "nagasaki-goto-dozaki-church",
+  "name_ko": "고토 후쿠에섬 도자키 천주당",
+  "name_ja": "五島・堂崎天主堂",
+  "pref": "나가사키",
+  "area": "고토 (후쿠에섬)",
+  "categories": [
+   "cape",
+   "culture"
+  ],
+  "summary": "고토 열도에서 처음 세워진 성당. 1908년 완공된 붉은 벽돌 고딕 건물이 바다에 면해 있고 안은 기리시탄 자료관이다.",
+  "do": "나가사키항에서 배로 후쿠에섬에 건너가 바닷가 벽돌 성당과 자료관 보기",
+  "station": "나가사키역 (長崎) → 나가사키항",
+  "access": "나가사키항에서 후쿠에항까지 제트포일 또는 페리. 후쿠에항에서 고토 버스(도키·간논비라행) 약 15분 '도자키텐슈도 이리구치' 하차 도보 약 10분",
+  "jr_pass": [
+   "JR 큐슈 레일패스(전큐슈)",
+   "JR 큐슈 레일패스(북큐슈)"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을"
+  ],
+  "best_time": "바다가 잔잔한 봄~가을",
+  "event": "",
+  "duration": "1박 추천",
+  "cost": "배편 별도 (제트포일은 비쌈), 자료관 유료",
+  "walking": "보통",
+  "fit": "매우 잘 맞음",
+  "condition": "기상 악화 시 배 결항",
+  "caution": "섬 안 버스 편수가 적어 정기관광버스·택시도 검토. 배는 JR 패스 적용 안 됨",
+  "lat": 32.7559,
+  "lng": 128.8372,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/堂崎天主堂"
   ],
   "region": "규슈"
  },
@@ -12766,6 +38877,81 @@ window.SPOTS = [
   "sources": [
    "https://www.gunkanjima-concierge.com/",
    "https://ja.wikipedia.org/wiki/端島_(長崎県)"
+  ],
+  "region": "규슈"
+ },
+ {
+  "id": "nagasaki-kunchi",
+  "name_ko": "나가사키 군치",
+  "name_ja": "長崎くんち",
+  "pref": "나가사키",
+  "area": "나가사키시",
+  "categories": [
+   "festival",
+   "culture"
+  ],
+  "summary": "스와 신사의 가을 대제. 용춤(자오도리)·고래 물뿜기·고코데쇼 같은 이국적인 봉납 공연을 7년마다 돌아오는 당번 마을들이 선보인다.",
+  "do": "스와 신사 오도리바나 시내 공연장에서 용춤과 고코데쇼 보기",
+  "station": "나가사키역 (長崎)",
+  "access": "나가사키역에서 노면전차 '스와진자' 하차. 공연은 신사·오타비쇼·시내 각지",
+  "jr_pass": [
+   "JR 큐슈 레일패스(전큐슈)",
+   "JR 큐슈 레일패스(북큐슈)"
+  ],
+  "seasons": [
+   "가을"
+  ],
+  "best_time": "10월 7~9일",
+  "event": "매년 10월 7~9일",
+  "duration": "반나절",
+  "cost": "길거리 관람 무료, 관람석(사지키)은 유료·추첨",
+  "walking": "보통",
+  "fit": "매우 잘 맞음",
+  "condition": "축제 3일간만",
+  "caution": "인기 공연장은 매우 혼잡. 공연 일정표 미리 확인",
+  "lat": 32.7541,
+  "lng": 129.8821,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/長崎くんち"
+  ],
+  "region": "규슈"
+ },
+ {
+  "id": "nagasaki-shoro-nagashi",
+  "name_ko": "나가사키 쇼로나가시",
+  "name_ja": "長崎の精霊流し",
+  "pref": "나가사키",
+  "area": "나가사키시",
+  "categories": [
+   "festival",
+   "night"
+  ],
+  "summary": "오봉 마지막 날 밤 고인의 영혼을 태운 장식 배(쇼로부네)를 끌고 폭죽을 터뜨리며 시내를 행진하는 행사.",
+  "do": "현청 언덕길 주변에서 폭죽 속을 지나가는 쇼로부네 행렬 보기",
+  "station": "나가사키역 (長崎)",
+  "access": "나가사키역에서 도보·노면전차로 겐초자카·시야쿠쇼 거리 일대. 배는 오하토 쪽으로 모임",
+  "jr_pass": [
+   "JR 큐슈 레일패스(전큐슈)",
+   "JR 큐슈 레일패스(북큐슈)"
+  ],
+  "seasons": [
+   "여름"
+  ],
+  "best_time": "8월 15일 오후 5시 무렵~밤 10시 넘어까지",
+  "event": "매년 8월 15일 저녁",
+  "duration": "반나절",
+  "cost": "무료",
+  "walking": "보통",
+  "fit": "매우 잘 맞음",
+  "condition": "8월 15일 밤만",
+  "caution": "폭죽 소리가 매우 커서 귀마개 권장. 추모 행사라 행렬 방해 금지. 좌표는 오하토 전차역 기준",
+  "lat": 32.7455,
+  "lng": 129.872,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/精霊流し",
+   "https://www.wikidata.org/wiki/Q11437212"
   ],
   "region": "규슈"
  },
@@ -12892,6 +39078,47 @@ window.SPOTS = [
   "region": "규슈"
  },
  {
+  "id": "nagasaki-hirado",
+  "name_ko": "히라도 (히라도성·옛 거리)",
+  "name_ja": "平戸（平戸城）",
+  "pref": "나가사키",
+  "area": "히라도",
+  "categories": [
+   "town",
+   "culture",
+   "cape"
+  ],
+  "summary": "옛 남만·네덜란드 무역항이던 섬마을. 항구를 내려다보는 히라도성과 교회·절이 겹쳐 보이는 언덕길, 성 안 숙박(캐슬 스테이)이 있다.",
+  "do": "히라도성 천수에서 히라도 해협 보고 항구 거리와 교회 언덕 산책",
+  "station": "사세보역 (佐世保) / 마쓰우라철도 다비라히라도구치역 (たびら平戸口)",
+  "access": "사세보역 앞에서 사이히 버스 히라도행 (약 1시간 반 안팎, 시간표 확인). 또는 마쓰우라철도 다비라히라도구치역에서 버스로 히라도 대교 건넘",
+  "jr_pass": [
+   "JR 큐슈 레일패스(전큐슈)",
+   "JR 큐슈 레일패스(북큐슈)"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을"
+  ],
+  "best_time": "맑은 봄~가을",
+  "event": "",
+  "duration": "1박 추천",
+  "cost": "히라도성 입장 유료 (수백 엔)",
+  "walking": "보통",
+  "fit": "매우 잘 맞음",
+  "condition": "",
+  "caution": "JR 역에서 멀어 버스 이동이 김. 마쓰우라철도·버스는 JR 패스 적용 안 됨",
+  "lat": 33.3687,
+  "lng": 129.5575,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/平戸城",
+   "https://www.wikidata.org/wiki/Q1191029"
+  ],
+  "region": "규슈"
+ },
+ {
   "id": "nagasaki-lantern-festival",
   "name_ko": "나가사키 랜턴 페스티벌",
   "name_ja": "長崎ランタンフェスティバル",
@@ -12927,6 +39154,123 @@ window.SPOTS = [
    "https://ja.wikipedia.org/wiki/長崎ランタンフェスティバル",
    "https://ja.wikipedia.org/wiki/長崎新地中華街",
    "https://www.knt.co.jp/meito/sp/nagasaki_lantern_festival/"
+  ],
+  "region": "규슈"
+ },
+ {
+  "id": "nagasaki-tenkaiho",
+  "name_ko": "덴카이호 전망대 (구주쿠시마)",
+  "name_ja": "展海峰",
+  "pref": "나가사키",
+  "area": "사세보",
+  "categories": [
+   "view",
+   "nature"
+  ],
+  "summary": "미나미 구주쿠시마의 섬들과 그 사이를 누비는 유람선이 내려다보이는 언덕 전망 공원. 봄엔 유채, 가을엔 코스모스가 핀다.",
+  "do": "섬 사이로 지나가는 배와 함께 다도해 풍경 보기",
+  "station": "사세보역 (佐世保)",
+  "access": "사세보역에서 구주쿠시마 간코코엔행 버스 약 40분(약 520엔), '덴카이호' 또는 '덴카이호 이리구치' 하차 도보 약 5분",
+  "jr_pass": [
+   "JR 큐슈 레일패스(전큐슈)",
+   "JR 큐슈 레일패스(북큐슈)"
+  ],
+  "seasons": [
+   "봄",
+   "가을"
+  ],
+  "best_time": "4월 유채·10월 코스모스, 맑은 날 오후~석양",
+  "event": "",
+  "duration": "1~2시간",
+  "cost": "무료 (버스비 별도)",
+  "walking": "적음",
+  "fit": "조건부",
+  "condition": "맑은 날 전망 / 안개·비면 섬이 안 보임",
+  "caution": "버스 편수 적음",
+  "lat": 33.1324,
+  "lng": 129.6929,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/展海峰"
+  ],
+  "region": "규슈"
+ },
+ {
+  "id": "nagasaki-sotome-shitsu",
+  "name_ko": "소토메 시쓰 마을 (시쓰 교회)",
+  "name_ja": "外海の出津集落（出津教会）",
+  "pref": "나가사키",
+  "area": "나가사키시 (소토메)",
+  "categories": [
+   "culture",
+   "cape",
+   "night"
+  ],
+  "summary": "세계유산 '잠복 기리시탄' 구성 자산인 바닷가 마을. 드 로 신부가 설계한 흰 벽 시쓰 교회가 있고, 소토메 해안은 노을로 유명하다.",
+  "do": "시쓰 교회와 드 로 신부 기념관을 보고 해안에서 고토나다 노을 보기",
+  "station": "나가사키역 (長崎)",
+  "access": "나가사키역 쪽에서 소토메 방면 버스, 사이카이 교통 버스 '시쓰' 또는 '시쓰분카무라' 하차 도보 약 7분 (차로 시내에서 약 45분)",
+  "jr_pass": [
+   "JR 큐슈 레일패스(전큐슈)",
+   "JR 큐슈 레일패스(북큐슈)"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을"
+  ],
+  "best_time": "맑은 날 해 질 녘",
+  "event": "",
+  "duration": "반나절",
+  "cost": "교회 견학 무료(사전 연락 권장), 기념관 유료",
+  "walking": "보통",
+  "fit": "조건부",
+  "condition": "맑은 날 노을",
+  "caution": "교회 견학은 사전 연락이 필요할 수 있음. 버스 편수 적음",
+  "lat": 32.8439,
+  "lng": 129.7009,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/出津教会"
+  ],
+  "region": "규슈"
+ },
+ {
+  "id": "nagasaki-omura-park",
+  "name_ko": "오무라 공원 (벚꽃·꽃창포)",
+  "name_ja": "大村公園",
+  "pref": "나가사키",
+  "area": "오무라",
+  "categories": [
+   "nature",
+   "culture"
+  ],
+  "summary": "구시마성 터에 만든 공원. 천연기념물 '오무라자쿠라'와 약 30만 포기 꽃창포로 이름난 일본 벚꽃 명소 100선.",
+  "do": "봄엔 겹벚꽃, 6월엔 성 해자 꽃창포 보며 성터 산책",
+  "station": "오무라역 (大村) / 신오무라역 (新大村)",
+  "access": "JR 오무라선 오무라역에서 남쪽으로 2km 조금 안 됨, 버스 또는 택시",
+  "jr_pass": [
+   "JR 큐슈 레일패스(전큐슈)",
+   "JR 큐슈 레일패스(북큐슈)"
+  ],
+  "seasons": [
+   "봄",
+   "여름"
+  ],
+  "best_time": "4월 벚꽃(오무라자쿠라는 소메이요시노보다 늦음), 6월 꽃창포",
+  "event": "",
+  "duration": "1~2시간",
+  "cost": "무료",
+  "walking": "보통",
+  "fit": "조건부",
+  "condition": "꽃 시기에만 진가",
+  "caution": "",
+  "lat": 32.8981,
+  "lng": 129.9586,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/大村公園",
+   "https://ja.wikipedia.org/wiki/大村駅_(長崎県)"
   ],
   "region": "규슈"
  },
@@ -12969,6 +39313,363 @@ window.SPOTS = [
    "https://unzen-ropeway.com/",
    "https://ja.wikipedia.org/wiki/雲仙ロープウェイ",
    "https://ja.wikipedia.org/wiki/雲仙温泉"
+  ],
+  "region": "규슈"
+ },
+ {
+  "id": "nagasaki-unzen-disaster-memorial",
+  "name_ko": "운젠다케 재해기념관 (가마다스 돔)",
+  "name_ja": "雲仙岳災害記念館（がまだすドーム）",
+  "pref": "나가사키",
+  "area": "시마바라",
+  "categories": [
+   "volcano",
+   "culture"
+  ],
+  "summary": "1990~95년 운젠 후겐다케 분화와 화쇄류 피해를 보여 주는 기념관. 헤이세이 신잔을 바라보는 해안 매립지에 있다.",
+  "do": "분화 디오라마·체험 전시를 본 뒤 밖에서 헤이세이 신잔 용암돔 바라보기",
+  "station": "이사하야역 (諫早) → 시마바라철도 시마바라역 (島原)",
+  "access": "시마바라 방면에서 시마테쓰 버스 '아리나 이리구치' 하차",
+  "jr_pass": [
+   "JR 큐슈 레일패스(전큐슈)",
+   "JR 큐슈 레일패스(북큐슈)"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "연중. 맑은 날 헤이세이 신잔이 잘 보임",
+  "event": "",
+  "duration": "1~2시간",
+  "cost": "유료 전시 구역 있음 (공식 확인)",
+  "walking": "적음",
+  "fit": "조건부",
+  "condition": "",
+  "caution": "시마바라철도·버스는 JR 패스 적용 안 됨. 개관 9:00~18:00(최종 입장 17:00)",
+  "lat": 32.7436,
+  "lng": 130.3757,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/雲仙岳災害記念館"
+  ],
+  "region": "규슈"
+ },
+ {
+  "id": "nagasaki-huis-ten-bosch",
+  "name_ko": "하우스텐보스 (빛의 왕국)",
+  "name_ja": "ハウステンボス（光の王国）",
+  "pref": "나가사키",
+  "area": "사세보",
+  "categories": [
+   "night",
+   "city"
+  ],
+  "summary": "네덜란드 거리를 재현한 대형 리조트 테마파크. 겨울 일루미네이션 '빛의 왕국'은 일본 일루미네이션 어워드에서 10년 연속 1위를 했다.",
+  "do": "해 진 뒤 운하와 풍차 거리를 채운 일루미네이션 산책",
+  "station": "하우스텐보스역 (ハウステンボス)",
+  "access": "하카타에서 JR 특급 '하우스텐보스' 직통, 하우스텐보스역에서 도보 약 5분",
+  "jr_pass": [
+   "JR 큐슈 레일패스(전큐슈)",
+   "JR 큐슈 레일패스(북큐슈)"
+  ],
+  "seasons": [
+   "봄",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "가을~겨울 일루미네이션 시즌 저녁. 봄 튤립",
+  "event": "",
+  "duration": "하루",
+  "cost": "1일 패스포트 수천 엔대 (오후 입장권 있음, 공식 확인)",
+  "walking": "많음",
+  "fit": "조건부",
+  "condition": "일루미네이션은 해 진 뒤",
+  "caution": "부지가 넓어 하루 종일 걷게 됨. 놀이공원 성격이라 우선순위는 취향 따라",
+  "lat": 33.0859,
+  "lng": 129.7899,
+  "url": "https://www.huistenbosch.co.jp/",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/ハウステンボス"
+  ],
+  "region": "규슈"
+ },
+ {
+  "id": "nagasaki-glover-garden",
+  "name_ko": "구라바엔 (글로버 정원)",
+  "name_ja": "グラバー園",
+  "pref": "나가사키",
+  "area": "나가사키시 (미나미야마테)",
+  "categories": [
+   "culture",
+   "view",
+   "town"
+  ],
+  "summary": "나가사키항이 내려다보이는 언덕에 옛 서양관을 모은 야외 박물관. 일본에 남은 가장 오래된 목조 양관인 옛 글로버 주택이 있다.",
+  "do": "양관 정원에서 항구 전망 보고 하트 모양 돌바닥 찾기",
+  "station": "나가사키역 (長崎)",
+  "access": "나가사키역에서 노면전차 5계통 '오우라텐슈도' 하차 후 도보 (또는 '이시바시'에서 경사 엘리베이터 글로버 스카이로드)",
+  "jr_pass": [
+   "JR 큐슈 레일패스(전큐슈)",
+   "JR 큐슈 레일패스(북큐슈)"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "맑은 날. 여름·겨울 야간 개원 시기",
+  "event": "",
+  "duration": "1~2시간",
+  "cost": "입원 유료 (약 600엔대, 공식 확인)",
+  "walking": "보통",
+  "fit": "백업",
+  "condition": "",
+  "caution": "언덕길·계단 있음",
+  "lat": 32.7344,
+  "lng": 129.8691,
+  "url": "https://www.glover-garden.jp/",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/グラバー園"
+  ],
+  "region": "규슈"
+ },
+ {
+  "id": "nagasaki-shinchi-chinatown",
+  "name_ko": "나가사키 신치 차이나타운",
+  "name_ja": "長崎新地中華街",
+  "pref": "나가사키",
+  "area": "나가사키시",
+  "categories": [
+   "city"
+  ],
+  "summary": "요코하마·고베와 함께 일본 3대 차이나타운. 짬뽕·사라우동 같은 나가사키 중화 요리 가게가 십자 거리에 모여 있다.",
+  "do": "나가사키 짬뽕이나 사라우동 한 그릇과 가쿠니만주 먹기",
+  "station": "나가사키역 (長崎)",
+  "access": "나가사키역에서 노면전차 '신치추카가이' 하차 도보 약 2분",
+  "jr_pass": [
+   "JR 큐슈 레일패스(전큐슈)",
+   "JR 큐슈 레일패스(북큐슈)"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "연중. 음력 설 랜턴 페스티벌 기간이 가장 화려",
+  "event": "",
+  "duration": "1~2시간",
+  "cost": "식사 실비",
+  "walking": "적음",
+  "fit": "백업",
+  "condition": "",
+  "caution": "",
+  "lat": 32.742,
+  "lng": 129.8757,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/長崎新地中華街"
+  ],
+  "region": "규슈"
+ },
+ {
+  "id": "nagasaki-atomic-bomb-museum",
+  "name_ko": "나가사키 원폭자료관·평화공원",
+  "name_ja": "長崎原爆資料館・平和公園",
+  "pref": "나가사키",
+  "area": "나가사키시 (우라카미)",
+  "categories": [
+   "culture"
+  ],
+  "summary": "폭심지를 내려다보는 언덕의 원폭자료관. 평화공원의 평화기념상·폭심지 공원과 함께 원폭 피해를 전한다.",
+  "do": "자료관 관람 후 폭심지 공원과 평화기념상까지 걷기",
+  "station": "나가사키역 (長崎)",
+  "access": "나가사키역에서 노면전차 아카사코행 '겐바쿠시료칸' 하차 도보 약 3분",
+  "jr_pass": [
+   "JR 큐슈 레일패스(전큐슈)",
+   "JR 큐슈 레일패스(북큐슈)"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "연중. 8월 9일 전후는 무료 관람·추모 행사",
+  "event": "",
+  "duration": "반나절",
+  "cost": "자료관 대인 약 200엔",
+  "walking": "보통",
+  "fit": "백업",
+  "condition": "",
+  "caution": "한국인 피폭자 관련 전시·위령비도 있음",
+  "lat": 32.7727,
+  "lng": 129.8645,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/長崎原爆資料館"
+  ],
+  "region": "규슈"
+ },
+ {
+  "id": "nagasaki-dejima",
+  "name_ko": "데지마",
+  "name_ja": "出島",
+  "pref": "나가사키",
+  "area": "나가사키시",
+  "categories": [
+   "culture",
+   "town"
+  ],
+  "summary": "쇄국 시대 유일하게 네덜란드와 교역하던 부채꼴 인공섬. 카피탄 방·창고 등 건물이 차례로 복원되어 거리 전체를 걸어 볼 수 있다.",
+  "do": "복원된 상관 건물과 미니 데지마 모형 보며 섬 안 한 바퀴",
+  "station": "나가사키역 (長崎)",
+  "access": "나가사키역에서 노면전차 1계통 '데지마' 하차 바로",
+  "jr_pass": [
+   "JR 큐슈 레일패스(전큐슈)",
+   "JR 큐슈 레일패스(북큐슈)"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "연중. 비 오는 날 대체지",
+  "event": "",
+  "duration": "1~2시간",
+  "cost": "입장 유료 (수백 엔)",
+  "walking": "적음",
+  "fit": "백업",
+  "condition": "",
+  "caution": "",
+  "lat": 32.7435,
+  "lng": 129.873,
+  "url": "https://nagasakidejima.jp/",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/出島"
+  ],
+  "region": "규슈"
+ },
+ {
+  "id": "nagasaki-meganebashi",
+  "name_ko": "메가네바시 (안경다리)",
+  "name_ja": "眼鏡橋",
+  "pref": "나가사키",
+  "area": "나가사키시",
+  "categories": [
+   "town",
+   "culture"
+  ],
+  "summary": "1634년 중국 승려가 놓은 나카시마강의 쌍아치 돌다리. 물에 비친 모습이 안경처럼 보여 이름이 붙었다.",
+  "do": "강변 산책로로 내려가 안경 모양 반영 사진 찍고 주변 돌다리 이어 걷기",
+  "station": "나가사키역 (長崎)",
+  "access": "나가사키역에서 노면전차 '메가네바시' 또는 '시민카이칸' 하차 도보 몇 분",
+  "jr_pass": [
+   "JR 큐슈 레일패스(전큐슈)",
+   "JR 큐슈 레일패스(북큐슈)"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "연중. 랜턴 페스티벌 기간엔 강변 등불 장식",
+  "event": "",
+  "duration": "1~2시간",
+  "cost": "무료",
+  "walking": "적음",
+  "fit": "백업",
+  "condition": "",
+  "caution": "",
+  "lat": 32.7472,
+  "lng": 129.8801,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/眼鏡橋_(長崎市)"
+  ],
+  "region": "규슈"
+ },
+ {
+  "id": "nagasaki-shimabara-castle",
+  "name_ko": "시마바라성·무가 저택 거리",
+  "name_ja": "島原城・島原武家屋敷",
+  "pref": "나가사키",
+  "area": "시마바라",
+  "categories": [
+   "culture",
+   "town"
+  ],
+  "summary": "1964년 재건된 천수각이 기리시탄 사료관으로 쓰이는 성. 근처에 수로가 흐르는 무가 저택 거리가 남아 있다.",
+  "do": "천수각에서 운젠다케와 아리아케해 보고 무가 저택 거리 산책",
+  "station": "이사하야역 (諫早) → 시마바라철도 시마바라역 (島原)",
+  "access": "JR 이사하야역에서 시마바라철도로 시마바라역, 도보 약 10분",
+  "jr_pass": [
+   "JR 큐슈 레일패스(전큐슈)",
+   "JR 큐슈 레일패스(북큐슈)"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "봄 벚꽃. 연중 무난",
+  "event": "",
+  "duration": "반나절",
+  "cost": "천수각 입장 유료 (수백 엔)",
+  "walking": "보통",
+  "fit": "백업",
+  "condition": "",
+  "caution": "시마바라철도는 JR 패스 적용 안 됨",
+  "lat": 32.7892,
+  "lng": 130.3672,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/島原城"
+  ],
+  "region": "규슈"
+ },
+ {
+  "id": "nagasaki-oura-cathedral",
+  "name_ko": "오우라 천주당",
+  "name_ja": "大浦天主堂",
+  "pref": "나가사키",
+  "area": "나가사키시 (미나미야마테)",
+  "categories": [
+   "culture"
+  ],
+  "summary": "서양식 건축 최초의 국보이자 세계유산 '잠복 기리시탄' 구성 자산. 1865년 숨어 신앙을 지켜 온 신자들이 정체를 밝힌 '신도 발견'의 무대.",
+  "do": "성당과 부속 기리시탄 박물관 관람 후 글로버 정원으로 이어 걷기",
+  "station": "나가사키역 (長崎)",
+  "access": "나가사키역에서 노면전차 '오우라텐슈도' 하차 도보 약 5분",
+  "jr_pass": [
+   "JR 큐슈 레일패스(전큐슈)",
+   "JR 큐슈 레일패스(북큐슈)"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "연중",
+  "event": "",
+  "duration": "1~2시간",
+  "cost": "약 1,000엔 (박물관 포함)",
+  "walking": "보통",
+  "fit": "백업",
+  "condition": "",
+  "caution": "언덕길·계단, 배리어프리 아님. 미사·행사 중엔 견학 제한",
+  "lat": 32.7342,
+  "lng": 129.8701,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/大浦天主堂"
   ],
   "region": "규슈"
  },
@@ -13056,6 +39757,89 @@ window.SPOTS = [
   "region": "규슈"
  },
  {
+  "id": "kumamoto-minamiaso-trolley-yusuge",
+  "name_ko": "미나미아소 트롯코 열차 유스게호",
+  "name_ja": "南阿蘇鉄道 トロッコ列車ゆうすげ号",
+  "pref": "구마모토",
+  "area": "미나미아소·다카모리",
+  "categories": [
+   "train",
+   "view",
+   "nature"
+  ],
+  "summary": "창 없는 트롯코 객차로 아소 칼데라 남쪽 골짜기를 달리는 관광열차. 2023년 전 구간 복구 후 다테노~다카모리를 다시 달린다.",
+  "do": "다테노~다카모리 약 55분 동안 철교와 아소 산을 바람 맞으며 보기",
+  "station": "다테노역 (立野) / 다카모리역 (高森)",
+  "access": "JR 호히본선 다테노역에서 환승. 다카모리역 발 9:40·13:40, 다테노역 발 11:30·15:35 (2026년 기준)",
+  "jr_pass": [
+   "JR 큐슈 레일패스(전큐슈)",
+   "JR 큐슈 레일패스(북큐슈)",
+   "JR 큐슈 레일패스(남큐슈)"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을"
+  ],
+  "best_time": "3월 중순~11월 말 토·일·공휴일 중심 (방학·GW엔 평일도)",
+  "event": "",
+  "duration": "반나절",
+  "cost": "편도 대인 약 1,560엔 (운임 포함)",
+  "walking": "적음",
+  "fit": "매우 잘 맞음",
+  "condition": "비 오는 날은 개방 객차라 추움·젖을 수 있음",
+  "caution": "전석 지정, 30일 전부터 온라인 예약. JR 패스 적용 안 됨. 2026-07 지진으로 8/30까지 예약분 환불 후 현재 평상 운행",
+  "lat": 32.8196,
+  "lng": 131.1226,
+  "url": "https://www.mt-torokko.com/",
+  "sources": [
+   "https://www.mt-torokko.com/trolley-train/",
+   "https://ja.wikipedia.org/wiki/南阿蘇鉄道"
+  ],
+  "region": "규슈"
+ },
+ {
+  "id": "kumamoto-amakusa-dolphin-watching",
+  "name_ko": "아마쿠사 돌고래 관찰선 (후타에)",
+  "name_ja": "天草イルカウォッチング（二江）",
+  "pref": "구마모토",
+  "area": "아마쿠사 (이쓰와)",
+  "categories": [
+   "boat",
+   "cape"
+  ],
+  "summary": "쓰지시마 앞바다에 사는 야생 큰돌고래 무리를 작은 배로 보러 가는 투어. 발견율이 높은 편으로 알려져 있다.",
+  "do": "약 1시간 배를 타고 배 옆을 헤엄치는 야생 돌고래 무리 보기",
+  "station": "구마모토역 (熊本)",
+  "access": "구마모토에서 산코 버스 '쾌속 아마쿠사호'로 혼도 버스센터, 산코 버스 약 30분 '후타에 커뮤니티 센터' 하차 도보 약 2분",
+  "jr_pass": [
+   "JR 큐슈 레일패스(전큐슈)",
+   "JR 큐슈 레일패스(북큐슈)",
+   "JR 큐슈 레일패스(남큐슈)"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을"
+  ],
+  "best_time": "바다가 잔잔한 봄~가을",
+  "event": "",
+  "duration": "반나절",
+  "cost": "약 2,500~3,000엔 (업체별 상이)",
+  "walking": "적음",
+  "fit": "매우 잘 맞음",
+  "condition": "파도·강풍 시 결항 → 대체: 사키쓰·혼도 시내",
+  "caution": "업체 여러 곳, 예약 권장. 좌표는 쓰지시마 기준(후타에항 바로 앞)",
+  "lat": 32.5511,
+  "lng": 130.1147,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/通詞島",
+   "https://rurubu.jp/andmore/spot/80040206"
+  ],
+  "region": "규슈"
+ },
+ {
   "id": "kumamoto-uchinomaki-onsen",
   "name_ko": "우치노마키 온천",
   "name_ja": "内牧温泉",
@@ -13139,6 +39923,43 @@ window.SPOTS = [
   "region": "규슈"
  },
  {
+  "id": "kumamoto-hitoyoshi-onsen",
+  "name_ko": "히토요시 온천",
+  "name_ja": "人吉温泉",
+  "pref": "구마모토",
+  "area": "히토요시",
+  "categories": [
+   "onsen",
+   "town"
+  ],
+  "summary": "구마강 변 성하마을의 온천. 약 50곳 원천이 있고 '모토유'·'신온센' 같은 옛 공동탕이 남아 있다.",
+  "do": "쇼와 분위기 공동탕 순례 후 구마강 변 산책",
+  "station": "히토요시역 (人吉, JR 열차 운휴 중)",
+  "access": "JR 히사쓰선은 2020년 호우 이후 운휴가 이어져 열차로 못 감. 구마모토에서 고속버스 이용(시간표 공식 확인). 구마가와 철도는 2026-09-20 운행 재개",
+  "jr_pass": [],
+  "seasons": [
+   "봄",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "가을~겨울",
+  "event": "",
+  "duration": "1박 추천",
+  "cost": "공동탕 수백 엔",
+  "walking": "적음",
+  "fit": "매우 잘 맞음",
+  "condition": "",
+  "caution": "히사쓰선 운휴로 접근은 버스뿐. 구마강 뱃놀이·래프팅 운항 상황은 미확인",
+  "lat": 32.214,
+  "lng": 130.7574,
+  "url": "https://www.hitoyoshionsen.net/",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/人吉温泉",
+   "https://ja.wikipedia.org/wiki/人吉駅"
+  ],
+  "region": "규슈"
+ },
+ {
   "id": "kumamoto-kusasenri",
   "name_ko": "구사센리가하마 (아소)",
   "name_ja": "草千里ヶ浜",
@@ -13182,6 +40003,171 @@ window.SPOTS = [
   "region": "규슈"
  },
  {
+  "id": "kumamoto-daikanbo",
+  "name_ko": "다이칸보 전망대",
+  "name_ja": "大観峰",
+  "pref": "구마모토",
+  "area": "아소",
+  "categories": [
+   "view",
+   "nature",
+   "volcano"
+  ],
+  "summary": "아소 칼데라 북쪽 외륜산 최고봉(약 936m). 칼데라 마을과 아소 오악, 멀리 구주 연산까지 한눈에 보이고 가을 아침엔 운해가 깔린다.",
+  "do": "외륜산 능선 끝 전망 포인트에서 칼데라 전체와 열반상 모양 아소 오악 보기",
+  "station": "아소역 (阿蘇)",
+  "access": "JR 아소역에서 규슈산코 버스 '다이칸보 이리구치' 하차 (편수 적음)",
+  "jr_pass": [
+   "JR 큐슈 레일패스(전큐슈)",
+   "JR 큐슈 레일패스(북큐슈)",
+   "JR 큐슈 레일패스(남큐슈)"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을"
+  ],
+  "best_time": "맑은 날. 운해는 가을~초겨울 이른 아침",
+  "event": "",
+  "duration": "반나절",
+  "cost": "무료 (버스비 별도)",
+  "walking": "보통",
+  "fit": "조건부",
+  "condition": "맑은 날 전망 / 안개 끼면 아무것도 안 보임. 운해는 새벽에만",
+  "caution": "버스 편수가 매우 적어 귀가편 먼저 확인, 택시 대안 검토. 2026-07 지진 후 도로 상황 확인",
+  "lat": 32.9964,
+  "lng": 131.0672,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/大観峰",
+   "https://www.wikidata.org/wiki/Q11438960"
+  ],
+  "region": "규슈"
+ },
+ {
+  "id": "kumamoto-sakitsu",
+  "name_ko": "사키쓰 마을·사키쓰 성당",
+  "name_ja": "天草の﨑津集落（﨑津教会）",
+  "pref": "구마모토",
+  "area": "아마쿠사 (가와우라)",
+  "categories": [
+   "culture",
+   "town",
+   "cape"
+  ],
+  "summary": "세계유산 '잠복 기리시탄' 구성 자산인 어촌. 바다에 면한 고딕 성당 안이 다다미 바닥이라는 점이 특이하다.",
+  "do": "어촌 골목과 항구 산책 후 다다미 성당 안 둘러보기",
+  "station": "구마모토역 (熊本)",
+  "access": "구마모토역·사쿠라마치에서 산코 버스 '쾌속 아마쿠사호'로 혼도 버스센터 → 우시부카행 '잇초다 주오' 환승 → 시모다 온천행 '사키쓰 교카이 이리구치'",
+  "jr_pass": [
+   "JR 큐슈 레일패스(전큐슈)",
+   "JR 큐슈 레일패스(북큐슈)",
+   "JR 큐슈 레일패스(남큐슈)"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을"
+  ],
+  "best_time": "맑은 날",
+  "event": "",
+  "duration": "하루",
+  "cost": "성당 견학 무료",
+  "walking": "보통",
+  "fit": "조건부",
+  "condition": "",
+  "caution": "버스 환승 2회로 구마모토에서 편도 반나절 가까이 걸림 → 아마쿠사 1박 권장. 성당 안 촬영 금지",
+  "lat": 32.3124,
+  "lng": 130.0257,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/崎津教会"
+  ],
+  "region": "규슈"
+ },
+ {
+  "id": "kumamoto-tsujunkyo",
+  "name_ko": "쓰준쿄 (방수 돌다리)",
+  "name_ja": "通潤橋",
+  "pref": "구마모토",
+  "area": "야마토",
+  "categories": [
+   "culture",
+   "nature"
+  ],
+  "summary": "에도 말기에 놓인 돌 아치 수로교로 토목 구조물 최초의 국보. 관광 방수 때 다리 옆구리에서 물이 폭포처럼 쏟아진다.",
+  "do": "관광 방수 시각에 맞춰 다리 양옆으로 물이 뿜어져 나오는 장면 보기",
+  "station": "구마모토역 (熊本)",
+  "access": "구마모토 사쿠라마치 버스터미널에서 구마모토 버스 약 1시간 반 '쓰준쿄마에' 하차 도보 약 5분",
+  "jr_pass": [
+   "JR 큐슈 레일패스(전큐슈)",
+   "JR 큐슈 레일패스(북큐슈)",
+   "JR 큐슈 레일패스(남큐슈)"
+  ],
+  "seasons": [
+   "봄",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "관광 방수가 있는 농한기의 정해진 날",
+  "event": "관광 방수는 농한기 지정일(약 15분). 날짜는 매년 공식 확인",
+  "duration": "반나절",
+  "cost": "관람 무료 (방수 협력금 있을 수 있음)",
+  "walking": "적음",
+  "fit": "조건부",
+  "condition": "방수일에만 진가 / 농번기엔 방수 없음",
+  "caution": "다리 위 관람은 방수일 사전 예약·인원 제한. 2016년 지진 피해는 2020년 복구 완료, 2026-07 지진 영향은 미확인",
+  "lat": 32.6817,
+  "lng": 130.9937,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/通潤橋"
+  ],
+  "region": "규슈"
+ },
+ {
+  "id": "kumamoto-amakusa-matsushima",
+  "name_ko": "아마쿠사 마쓰시마·아마쿠사 오교",
+  "name_ja": "天草松島・天草五橋",
+  "pref": "구마모토",
+  "area": "가미아마쿠사",
+  "categories": [
+   "view",
+   "boat",
+   "cape"
+  ],
+  "summary": "오야노섬과 아마쿠사 가미섬 사이 20여 개 섬이 흩어진 일본 3대 마쓰시마. 섬들을 다섯 개 다리가 잇는다.",
+  "do": "다카부토산 전망대나 유람선에서 섬과 다리 풍경, 저녁엔 아리아케해 노을 보기",
+  "station": "구마모토역 (熊本) / 미스미역 (三角)",
+  "access": "구마모토역·사쿠라마치에서 산코 버스 '쾌속 아마쿠사호'로 '리조라 테라스 아마쿠사' 또는 '유람선 노리바마에' 하차",
+  "jr_pass": [
+   "JR 큐슈 레일패스(전큐슈)",
+   "JR 큐슈 레일패스(북큐슈)",
+   "JR 큐슈 레일패스(남큐슈)"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을"
+  ],
+  "best_time": "맑은 날 해 질 녘",
+  "event": "",
+  "duration": "반나절",
+  "cost": "유람선 유료 (공식 확인)",
+  "walking": "적음",
+  "fit": "조건부",
+  "condition": "맑은 날 전망·노을 / 파도 높으면 유람선 결항",
+  "caution": "2026-07 지진 진원(우키·야쓰시로)과 가까운 지역이라 시설 상황 확인",
+  "lat": 32.5303,
+  "lng": 130.4154,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/天草松島",
+   "https://www.wikidata.org/wiki/Q17191779"
+  ],
+  "region": "규슈"
+ },
+ {
   "id": "kumamoto-yamaga-toro-matsuri",
   "name_ko": "야마가 등롱 축제",
   "name_ja": "山鹿灯籠まつり",
@@ -13218,6 +40204,86 @@ window.SPOTS = [
    "https://ja.wikipedia.org/wiki/山鹿灯籠まつり",
    "https://ja.wikipedia.org/wiki/山鹿市",
    "https://www.wikidata.org/wiki/Special:ItemByTitle/jawiki/大宮神社_(山鹿市)"
+  ],
+  "region": "규슈"
+ },
+ {
+  "id": "kumamoto-yatsushiro-myokensai",
+  "name_ko": "야쓰시로 묘켄사이",
+  "name_ja": "八代妙見祭",
+  "pref": "구마모토",
+  "area": "야쓰시로",
+  "categories": [
+   "festival",
+   "culture"
+  ],
+  "summary": "야쓰시로 신사(묘켄구)의 가을 대제. 거북·뱀 몸통의 '가메다'와 사자춤, 말 행렬이 시내를 도는 유네스코 무형문화유산.",
+  "do": "신코 행렬의 가메다와 강변 모래밭을 달리는 말 행렬 보기",
+  "station": "야쓰시로역 (八代) / 신야쓰시로역 (新八代)",
+  "access": "JR 가고시마본선 야쓰시로역에서 시내 행렬 구간까지 버스·도보",
+  "jr_pass": [
+   "JR 큐슈 레일패스(전큐슈)",
+   "JR 큐슈 레일패스(북큐슈)",
+   "JR 큐슈 레일패스(남큐슈)"
+  ],
+  "seasons": [
+   "가을"
+  ],
+  "best_time": "11월 22~23일",
+  "event": "매년 11월 22일(오쿠다리)·23일(오노보리) 신코 행렬. 2026년은 지진으로 신코 행렬 중지",
+  "duration": "반나절",
+  "cost": "관람 무료",
+  "walking": "보통",
+  "fit": "조건부",
+  "condition": "축제 이틀만",
+  "caution": "2026-07-28 지진(야쓰시로 진도 6강)으로 신사 누문이 쓰러지는 등 큰 피해, 2026년 신코 행렬·관련 행사는 중지(신사는 일부 진행). 2027년 이후 재개 여부 공식 확인",
+  "lat": 32.5006,
+  "lng": 130.641,
+  "url": "",
+  "sources": [
+   "https://kumanichi.com/articles/2032105",
+   "https://www.wikidata.org/wiki/Q11390558"
+  ],
+  "region": "규슈"
+ },
+ {
+  "id": "kumamoto-yachiyoza",
+  "name_ko": "야치요자 (야마가 온천)",
+  "name_ja": "八千代座（山鹿温泉）",
+  "pref": "구마모토",
+  "area": "야마가",
+  "categories": [
+   "culture",
+   "onsen",
+   "town"
+  ],
+  "summary": "1910년 지어진 목조 2층 연극 극장으로 중요문화재. 근처에 에도 시대 양식으로 복원한 공동탕 '사쿠라유'가 있다.",
+  "do": "옛 극장 무대 뒤·지하 회전무대 견학 후 사쿠라유에서 입욕",
+  "station": "구마모토역 (熊本) / 신타마나역 (新玉名)",
+  "access": "구마모토 사쿠라마치 버스터미널 또는 다마나·신타마나역에서 산코 버스 야마가 온천행 '야마가 온천(야치요자 이리구치)' 하차 도보 약 4분",
+  "jr_pass": [
+   "JR 큐슈 레일패스(전큐슈)",
+   "JR 큐슈 레일패스(북큐슈)",
+   "JR 큐슈 레일패스(남큐슈)"
+  ],
+  "seasons": [
+   "봄",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "연중. 8월 등롱 축제 기간과 묶기",
+  "event": "",
+  "duration": "반나절",
+  "cost": "견학 유료 (공식 확인), 사쿠라유 수백 엔",
+  "walking": "적음",
+  "fit": "조건부",
+  "condition": "",
+  "caution": "공연 날엔 내부 견학 제한",
+  "lat": 33.0169,
+  "lng": 130.6893,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/八千代座"
   ],
   "region": "규슈"
  },
@@ -13263,6 +40329,283 @@ window.SPOTS = [
   "region": "규슈"
  },
  {
+  "id": "kumamoto-sakuranobaba-josaien",
+  "name_ko": "사쿠라노바바 조사이엔",
+  "name_ja": "桜の馬場 城彩苑",
+  "pref": "구마모토",
+  "area": "구마모토시",
+  "categories": [
+   "city"
+  ],
+  "summary": "구마모토성 아래 성하마을 분위기의 먹거리·기념품 거리. 향토 음식 가게 23곳이 모인 '사쿠라노코지'와 역사 체험관 '와쿠와쿠자'가 있다.",
+  "do": "구마모토성 관람 전후로 바사시·이키나리 당고 등 향토 먹거리 즐기기",
+  "station": "구마모토역 (熊本)",
+  "access": "구마모토역에서 시로메구린 순환버스, 또는 시전 '하나바타초' 하차 도보 약 10분",
+  "jr_pass": [
+   "JR 큐슈 레일패스(전큐슈)",
+   "JR 큐슈 레일패스(북큐슈)",
+   "JR 큐슈 레일패스(남큐슈)"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "연중. 구마모토성과 묶기",
+  "event": "",
+  "duration": "1~2시간",
+  "cost": "먹거리 실비, 와쿠와쿠자 유료",
+  "walking": "적음",
+  "fit": "백업",
+  "condition": "",
+  "caution": "2026-07-28 지진 후 구마모토성은 8/13 재개. 조사이엔 개별 가게 영업은 미확인",
+  "lat": 32.8094,
+  "lng": 130.6996,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/桜の馬場_城彩苑"
+  ],
+  "region": "규슈"
+ },
+ {
+  "id": "kumamoto-suizenji-jojuen",
+  "name_ko": "스이젠지 조주엔",
+  "name_ja": "水前寺成趣園",
+  "pref": "구마모토",
+  "area": "구마모토시",
+  "categories": [
+   "culture",
+   "nature"
+  ],
+  "summary": "구마모토 번주 호소카와 가문이 만든 다이묘 정원. 후지산을 닮은 인공 산과 맑은 용수 연못이 있다.",
+  "do": "용수 연못을 돌며 정원 산책 후 고킨덴주노마에서 말차 한 잔",
+  "station": "구마모토역 (熊本) → 시전 스이젠지코엔 (水前寺公園)",
+  "access": "구마모토역에서 시전 A·B계통 '스이젠지코엔' 하차 도보 약 6분",
+  "jr_pass": [
+   "JR 큐슈 레일패스(전큐슈)",
+   "JR 큐슈 레일패스(북큐슈)",
+   "JR 큐슈 레일패스(남큐슈)"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "연중. 맑은 날 오전",
+  "event": "",
+  "duration": "1~2시간",
+  "cost": "대인 약 500엔",
+  "walking": "적음",
+  "fit": "백업",
+  "condition": "",
+  "caution": "2026-07-28 구마모토 지진 후 7/30부터 통상 개원, 8월 말 공지도 '평소대로 개원'",
+  "lat": 32.7911,
+  "lng": 130.7346,
+  "url": "https://www.suizenji.or.jp/",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/水前寺成趣園",
+   "https://www.suizenji.or.jp/"
+  ],
+  "region": "규슈"
+ },
+ {
+  "id": "kumamoto-shirakawa-suigen",
+  "name_ko": "시라카와 수원",
+  "name_ja": "白川水源",
+  "pref": "구마모토",
+  "area": "미나미아소",
+  "categories": [
+   "nature"
+  ],
+  "summary": "1분에 약 60톤, 연중 14℃의 물이 모래를 밀어 올리며 솟는 용천. 일본 명수 100선.",
+  "do": "투명한 샘 바닥에서 모래가 춤추듯 솟는 모습 보고 물 떠 마시기",
+  "station": "다테노역 (立野) → 미나미아소철도 미나미아소시라카와스이겐역",
+  "access": "JR 호히본선 다테노역에서 미나미아소철도로 미나미아소시라카와스이겐역 하차 후 도보",
+  "jr_pass": [
+   "JR 큐슈 레일패스(전큐슈)",
+   "JR 큐슈 레일패스(북큐슈)",
+   "JR 큐슈 레일패스(남큐슈)"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을"
+  ],
+  "best_time": "맑은 날 오전(물빛이 가장 맑음). 여름 피서",
+  "event": "",
+  "duration": "1~2시간",
+  "cost": "환경보전 협력금 소액",
+  "walking": "보통",
+  "fit": "백업",
+  "condition": "",
+  "caution": "미나미아소철도는 JR 패스 적용 안 됨. 2026-07 지진 때 이틀 운휴 후 7/30 재개",
+  "lat": 32.8245,
+  "lng": 131.0945,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/白川水源",
+   "https://www.wikidata.org/wiki/Q131444332"
+  ],
+  "region": "규슈"
+ },
+ {
+  "id": "kumamoto-aso-shrine",
+  "name_ko": "아소 신사·몬젠마치 상점가",
+  "name_ja": "阿蘇神社・門前町商店街",
+  "pref": "구마모토",
+  "area": "아소",
+  "categories": [
+   "culture",
+   "town"
+  ],
+  "summary": "아소 지역 신앙의 중심인 오래된 신사. 2016년 지진으로 무너진 누문이 2023년 복구됐고, 앞 상점가엔 용수 '미즈키'가 곳곳에 있다.",
+  "do": "누문 참배 후 몬젠마치 상점가에서 용수 마시며 먹거리 산책",
+  "station": "미야지역 (宮地)",
+  "access": "JR 호히본선 미야지역에서 도보 약 18분, 또는 버스 '아소진자마에' 하차 도보 3분",
+  "jr_pass": [
+   "JR 큐슈 레일패스(전큐슈)",
+   "JR 큐슈 레일패스(북큐슈)",
+   "JR 큐슈 레일패스(남큐슈)"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "연중. 3월 '히후리 신지'(불 돌리기)",
+  "event": "봄 우노마쓰리 중 '히후리 신지'. 날짜는 매년 공식 확인",
+  "duration": "1~2시간",
+  "cost": "참배 무료",
+  "walking": "보통",
+  "fit": "백업",
+  "condition": "",
+  "caution": "2026-07 지진에 따른 신사 피해 여부는 미확인 (몬젠마치 상점가는 10월 현재 활동 중)",
+  "lat": 32.9478,
+  "lng": 131.116,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/阿蘇神社",
+   "https://kumanichi.com/theme/2026earthquake?page=1"
+  ],
+  "region": "규슈"
+ },
+ {
+  "id": "kumamoto-aoi-aso-shrine",
+  "name_ko": "아오이 아소 신사",
+  "name_ja": "青井阿蘇神社",
+  "pref": "구마모토",
+  "area": "히토요시",
+  "categories": [
+   "culture"
+  ],
+  "summary": "본전·누문 등 5동이 초가지붕 사찰·신사 건물로는 처음 국보로 지정된 신사. 구마모토현 첫 국보.",
+  "do": "연못 위 다리를 건너 두꺼운 초가 누문과 화려한 조각 보기",
+  "station": "히토요시역 (人吉, JR 열차 운휴 중)",
+  "access": "히토요시역에서 도보 약 4분. 히토요시까지는 구마모토발 고속버스",
+  "jr_pass": [],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "연중. 히토요시 온천 숙박과 묶기",
+  "event": "",
+  "duration": "1~2시간",
+  "cost": "참배 무료",
+  "walking": "적음",
+  "fit": "백업",
+  "condition": "",
+  "caution": "JR 히사쓰선 운휴로 열차 접근 불가",
+  "lat": 32.2136,
+  "lng": 130.7529,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/青井阿蘇神社"
+  ],
+  "region": "규슈"
+ },
+ {
+  "id": "kumamoto-hinagu-onsen",
+  "name_ko": "히나구 온천",
+  "name_ja": "日奈久温泉",
+  "pref": "구마모토",
+  "area": "야쓰시로",
+  "categories": [
+   "onsen",
+   "town"
+  ],
+  "summary": "약 600년 역사의 해안 온천 마을. 에도 시대 번영 온천이었고 메이지~쇼와 초 목조 여관(등록유형문화재 긴파로)이 남아 있다.",
+  "do": "온천 센터 '반페이유'에서 입욕하고 옛 여관 거리 산책",
+  "station": "히나구온센역 (日奈久温泉, 히사쓰 오렌지 철도)",
+  "access": "신야쓰시로·야쓰시로역에서 히사쓰 오렌지 철도로 히나구온센역, 도보 약 12분",
+  "jr_pass": [],
+  "seasons": [
+   "봄",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "가을~겨울 (재개 후)",
+  "event": "",
+  "duration": "1~2시간",
+  "cost": "온천 센터 수백 엔 (재개 시)",
+  "walking": "보통",
+  "fit": "백업",
+  "condition": "",
+  "caution": "2026-07-28 지진 단층대(히나구 단층) 위 지역. 10월 하순 현재 16곳 중 10곳에 온천 공급이 끊겼고 긴파로 등 휴업 → 방문 전 영업 여부 반드시 확인. 히사쓰 오렌지 철도는 10/13 운행 재개(JR 패스 적용 안 됨)",
+  "lat": 32.4296,
+  "lng": 130.5655,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/日奈久温泉",
+   "https://kumanichi.com/articles/2047693"
+  ],
+  "region": "규슈"
+ },
+ {
+  "id": "oita-beppu-kannawa-jigokumushi",
+  "name_ko": "간나와 온천 & 지옥찜 공방",
+  "name_ja": "鉄輪温泉・地獄蒸し工房 鉄輪",
+  "pref": "오이타",
+  "area": "벳푸 (간나와)",
+  "categories": [
+   "onsen",
+   "town",
+   "city"
+  ],
+  "summary": "골목마다 온천 증기가 피어오르는 벳푸의 대표 온천 마을. 증기 풍경은 국가 중요문화적경관이고, 고온 증기로 재료를 찌는 '지옥찜' 요리를 직접 해 볼 수 있다.",
+  "do": "지옥찜 공방에서 해산물·채소를 증기에 쪄 먹고, 무시유(증기 찜질탕)나 공동탕에 들른 뒤 증기 자욱한 골목 산책",
+  "station": "벳푸역 (別府)",
+  "access": "벳푸역 서쪽 출구에서 가메노이버스 5·7·41번 등으로 약 16분 '간나와(鉄輪)' 하차, 도보 몇 분",
+  "jr_pass": [
+   "JR 큐슈 레일패스(전큐슈)",
+   "JR 큐슈 레일패스(북큐슈)"
+  ],
+  "seasons": [
+   "봄",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "증기가 잘 보이는 쌀쌀한 계절의 아침·저녁",
+  "event": "",
+  "duration": "반나절",
+  "cost": "지옥찜 재료비 별도, 공동탕 수백 엔 수준",
+  "walking": "보통",
+  "fit": "매우 잘 맞음",
+  "condition": "",
+  "caution": "지옥 순례(가마도·우미지옥 등)와 같은 동네라 묶어서 다니면 효율적",
+  "lat": 33.3154,
+  "lng": 131.4762,
+  "url": "https://www.city.beppu.oita.jp/",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/鉄輪温泉"
+  ],
+  "region": "규슈"
+ },
+ {
   "id": "oita-yufuin-no-mori",
   "name_ko": "관광열차 유후인노모리",
   "name_ja": "特急「ゆふいんの森」",
@@ -13299,6 +40642,45 @@ window.SPOTS = [
   "sources": [
    "https://www.jrkyushu.co.jp/trains/yufuinnomori/",
    "https://www.jrkyushu.co.jp/english/railpass/railpass.html"
+  ],
+  "region": "규슈"
+ },
+ {
+  "id": "oita-taketa-nagayu-onsen",
+  "name_ko": "나가유 온천 (라무네 온천관·강변 가니유)",
+  "name_ja": "長湯温泉（ラムネ温泉館・ガニ湯）",
+  "pref": "오이타",
+  "area": "다케타 (나가유)",
+  "categories": [
+   "onsen"
+  ],
+  "summary": "세계 손꼽히는 탄산천 마을. 몸에 기포가 붙는 '라무네 온천관'과 강바닥의 무료 혼욕 노천탕 '가니유'가 있다.",
+  "do": "후지모리 데루노부 설계 목조 탕에서 탄산 기포 입욕, 강가 가니유 구경·족욕 같은 산책",
+  "station": "분고타케타역 (豊後竹田)",
+  "access": "분고타케타역에서 오노타케타버스 약 40~50분 '나가유샤코' 하차. 평일 대략 1시간 1편, 주말 감편",
+  "jr_pass": [
+   "JR 큐슈 레일패스(전큐슈)",
+   "JR 큐슈 레일패스(북큐슈)",
+   "JR 큐슈 레일패스(남큐슈)"
+  ],
+  "seasons": [
+   "가을",
+   "겨울",
+   "봄"
+  ],
+  "best_time": "가을~봄",
+  "event": "",
+  "duration": "반나절",
+  "cost": "라무네 온천관 약 500엔대, 가니유 무료",
+  "walking": "적음",
+  "fit": "매우 잘 맞음",
+  "condition": "",
+  "caution": "가니유는 탈의실 없는 혼욕이고 길에서 보임. 주말 버스 감편",
+  "lat": 33.0668,
+  "lng": 131.3737,
+  "url": "https://www.city.taketa.oita.jp/",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/長湯温泉"
   ],
   "region": "규슈"
  },
@@ -13340,6 +40722,45 @@ window.SPOTS = [
   "sources": [
    "https://ja.wikipedia.org/wiki/竹瓦温泉",
    "https://www.city.beppu.oita.jp/sisetu/shieionsen/detail4.html"
+  ],
+  "region": "규슈"
+ },
+ {
+  "id": "oita-beppu-myoban-yunohana",
+  "name_ko": "묘반 온천 유노하나 오두막",
+  "name_ja": "明礬温泉・湯の花小屋",
+  "pref": "오이타",
+  "area": "벳푸 (묘반)",
+  "categories": [
+   "onsen",
+   "volcano"
+  ],
+  "summary": "가란다케 산자락 해발 약 400m의 유황 온천지. 초가 오두막에서 입욕제 '유노하나'를 만드는 전통 기법이 국가 중요무형민속문화재다.",
+  "do": "유노하나 오두막 견학 후 우윳빛 유황 노천탕에 몸 담그기, 벳푸만 내려다보기",
+  "station": "벳푸역 (別府)",
+  "access": "벳푸역에서 가메노이버스로 간나와를 지나 '묘반' 방면. 간나와보다 조금 더 산쪽",
+  "jr_pass": [
+   "JR 큐슈 레일패스(전큐슈)",
+   "JR 큐슈 레일패스(북큐슈)"
+  ],
+  "seasons": [
+   "가을",
+   "겨울",
+   "봄"
+  ],
+  "best_time": "가을~겨울, 증기가 선명한 추운 날",
+  "event": "",
+  "duration": "반나절",
+  "cost": "노천탕 약 수백~1,000엔대",
+  "walking": "보통",
+  "fit": "매우 잘 맞음",
+  "condition": "",
+  "caution": "산성 유황천이라 은 액세서리는 빼고 입욕",
+  "lat": 33.3182,
+  "lng": 131.4526,
+  "url": "https://www.city.beppu.oita.jp/",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/明礬温泉"
   ],
   "region": "규슈"
  },
@@ -13425,6 +40846,45 @@ window.SPOTS = [
   "region": "규슈"
  },
  {
+  "id": "oita-usuki-takeyoi",
+  "name_ko": "우스키 다케요이 (대나무 등불 축제)",
+  "name_ja": "うすき竹宵",
+  "pref": "오이타",
+  "area": "우스키",
+  "categories": [
+   "festival",
+   "night",
+   "town"
+  ],
+  "summary": "옛 성하마을 돌길 '니오자 역사의 길' 일대에 대나무 등불을 늘어놓는 가을밤 축제. 전설 속 공주를 기리는 '한냐히메 행렬'이 중심 행사.",
+  "do": "해 진 뒤 대나무 등불이 이어진 돌담길과 절 사이를 걷고 한냐히메 행렬 보기",
+  "station": "우스키역 (臼杵)",
+  "access": "우스키역에서 옛 시가지(니오자)까지 도보권",
+  "jr_pass": [
+   "JR 큐슈 레일패스(전큐슈)",
+   "JR 큐슈 레일패스(남큐슈)"
+  ],
+  "seasons": [
+   "가을"
+  ],
+  "best_time": "11월 초 축제 이틀 밤 (17~21시 무렵)",
+  "event": "매년 11월 첫째 토·일 무렵 (2025년은 11/1~2). 2026년 날짜는 공식 확인",
+  "duration": "반나절",
+  "cost": "무료",
+  "walking": "보통",
+  "fit": "매우 잘 맞음",
+  "condition": "비 오면 일부 행사 축소 가능",
+  "caution": "2026년은 11/1이 일요일이라 개최 주말 해석이 갈림 — 반드시 공식 일정 확인",
+  "lat": 33.1161,
+  "lng": 131.7997,
+  "url": "https://www.city.usuki.oita.jp/",
+  "sources": [
+   "https://tabi-mag.jp/usuki-takeyoi/",
+   "https://ja.wikipedia.org/wiki/臼杵市"
+  ],
+  "region": "규슈"
+ },
+ {
   "id": "oita-yufuin-kinrinko",
   "name_ko": "유후인 온천·긴린코 호수",
   "name_ja": "由布院温泉・金鱗湖",
@@ -13463,6 +40923,45 @@ window.SPOTS = [
    "https://ja.wikipedia.org/wiki/金鱗湖",
    "https://ja.wikipedia.org/wiki/由布院駅",
    "https://yufuin.gr.jp/"
+  ],
+  "region": "규슈"
+ },
+ {
+  "id": "oita-himeshima-island",
+  "name_ko": "히메시마 섬 (여우 춤 본오도리)",
+  "name_ja": "姫島",
+  "pref": "오이타",
+  "area": "히메시마",
+  "categories": [
+   "cape",
+   "festival"
+  ],
+  "summary": "구니사키반도 앞 페리 20분 거리의 작은 섬. 전설이 얽힌 '칠불가사의'와 지오파크 지형이 있고, 여름엔 아이들이 여우로 분장해 추는 '기쓰네 오도리'가 유명하다.",
+  "do": "섬 해안 지오사이트와 칠불가사의를 돌고 보리새우 먹기, 8월 중순엔 본오도리 구경",
+  "station": "우사역 (宇佐)",
+  "access": "우사역에서 버스 갈아타며 약 1시간 10분 '이미항(伊美港)' → 무라에이 페리 약 20분 (하루 12왕복, 겨울 11왕복)",
+  "jr_pass": [
+   "JR 큐슈 레일패스(전큐슈)",
+   "JR 큐슈 레일패스(북큐슈)"
+  ],
+  "seasons": [
+   "여름",
+   "가을"
+  ],
+  "best_time": "여름 본오도리 시기, 봄·가을",
+  "event": "히메시마 본오도리: 매년 8월 14~15일 무렵 (2026년 8/14~15로 안내, 16일까지라는 자료도 있음). 날짜는 매년 공식 확인",
+  "duration": "하루",
+  "cost": "페리 왕복 약 1,000엔 내외",
+  "walking": "보통",
+  "fit": "매우 잘 맞음",
+  "condition": "악천후 시 페리 결항",
+  "caution": "섬 안 대중교통이 거의 없어 렌털 자전거·도보 위주. 이미항까지 버스 연결 시간 확인",
+  "lat": 33.7239,
+  "lng": 131.6469,
+  "url": "https://www.himeshima.jp/",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/姫島_(大分県)",
+   "https://rurubu.jp/andmore/spot/20002988"
   ],
   "region": "규슈"
  },
@@ -13547,6 +41046,163 @@ window.SPOTS = [
   "region": "규슈"
  },
  {
+  "id": "oita-bungotakada-matama-coast",
+  "name_ko": "마타마 해안 (노을·갯벌 줄무늬)",
+  "name_ja": "真玉海岸",
+  "pref": "오이타",
+  "area": "분고타카다 (마타마)",
+  "categories": [
+   "night",
+   "cape",
+   "nature"
+  ],
+  "summary": "서쪽으로 열린 해변이라 해가 바다로 진다. 썰물 때 갯벌에 생기는 줄무늬가 석양에 빛나는 '일본 석양 100선'.",
+  "do": "썰물과 일몰이 겹치는 날 갯벌 줄무늬 위로 지는 해 보기",
+  "station": "우사역 (宇佐)",
+  "access": "우사역에서 다이코 호쿠부버스 약 35분 '마타마' 하차",
+  "jr_pass": [
+   "JR 큐슈 레일패스(전큐슈)",
+   "JR 큐슈 레일패스(북큐슈)"
+  ],
+  "seasons": [
+   "봄",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "간조와 일몰이 겹치는 날 (조석표 확인)",
+  "event": "",
+  "duration": "1~2시간",
+  "cost": "무료",
+  "walking": "적음",
+  "fit": "조건부",
+  "condition": "맑고 간조가 일몰과 겹칠 때만 줄무늬 노을 / 흐리면 대체: 쇼와의 마을",
+  "caution": "일몰 후 돌아가는 버스 시간을 먼저 확인",
+  "lat": 33.6224,
+  "lng": 131.4731,
+  "url": "https://www.city.bungotakada.oita.jp/",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/真玉海岸"
+  ],
+  "region": "규슈"
+ },
+ {
+  "id": "oita-nakatsu-aonodomon-yabakei",
+  "name_ko": "아오노도몬 (야바케이 계곡)",
+  "name_ja": "青の洞門（耶馬渓）",
+  "pref": "오이타",
+  "area": "나카쓰 (혼야바케이)",
+  "categories": [
+   "nature",
+   "culture"
+  ],
+  "summary": "야바케이 기암 절벽 아래를 30년 넘게 손으로 파서 뚫었다는 에도 시대 터널. 기쿠치 간 소설의 무대이고, 끌 자국이 일부 남아 있다.",
+  "do": "터널을 걸어 지나고 강가에서 교슈호 절벽 바라보기. 근처 오백나한 동굴 절 라칸지까지 연장 가능",
+  "station": "나카쓰역 (中津)",
+  "access": "나카쓰역 남쪽 출구에서 다이코 호쿠부버스(야바케이 방면) 약 25분 '아오노도몬' 하차 바로",
+  "jr_pass": [
+   "JR 큐슈 레일패스(전큐슈)",
+   "JR 큐슈 레일패스(북큐슈)"
+  ],
+  "seasons": [
+   "가을",
+   "봄"
+  ],
+  "best_time": "11월 단풍철",
+  "event": "",
+  "duration": "반나절",
+  "cost": "무료",
+  "walking": "적음",
+  "fit": "조건부",
+  "condition": "단풍철에 진가",
+  "caution": "라칸지는 리프트가 폐업해 산길 도보 약 15분 + 정류장에서 약 20분",
+  "lat": 33.5001,
+  "lng": 131.1718,
+  "url": "https://www.city-nakatsu.jp/",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/青の洞門",
+   "https://ja.wikipedia.org/wiki/羅漢寺_(中津市)"
+  ],
+  "region": "규슈"
+ },
+ {
+  "id": "oita-beppu-ogiyama-fire-festival",
+  "name_ko": "오기야마 불 축제 (벳푸 하치유 온천 축제)",
+  "name_ja": "扇山火まつり（別府八湯温泉まつり）",
+  "pref": "오이타",
+  "area": "벳푸",
+  "categories": [
+   "festival",
+   "night"
+  ],
+  "summary": "벳푸 온천 축제 기간에 시내 뒤편 오기야마 산 사면을 태우는 야간 들불 행사. 부채꼴 산이 불길로 물드는 모습을 시내에서 볼 수 있다.",
+  "do": "해 질 무렵 시내 해안가나 언덕에서 산 사면이 불타오르는 장면 감상, 낮에는 축제 가마 행렬",
+  "station": "벳푸역 (別府)",
+  "access": "벳푸역 주변·해안 쪽에서 산이 정면으로 보임",
+  "jr_pass": [
+   "JR 큐슈 레일패스(전큐슈)",
+   "JR 큐슈 레일패스(북큐슈)"
+  ],
+  "seasons": [
+   "봄"
+  ],
+  "best_time": "4월 초 축제 기간 저녁",
+  "event": "매년 4월 초 벳푸 하치유 온천 축제 기간 중 하루 저녁 (2026년은 축제 4/1~4/5, 불 축제 4/2로 소개됨). 날짜는 매년 공식 확인",
+  "duration": "1~2시간",
+  "cost": "무료",
+  "walking": "적음",
+  "fit": "조건부",
+  "condition": "강풍·비 오면 연기·순연 가능",
+  "caution": "불 축제 날짜는 관광 가이드 기준이라 공식 발표로 재확인",
+  "lat": 33.2966,
+  "lng": 131.4672,
+  "url": "https://www.city.beppu.oita.jp/",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/別府八湯",
+   "https://onsenoni.com/en/blog/beppu-onsen-matsuri-2026"
+  ],
+  "region": "규슈"
+ },
+ {
+  "id": "oita-kokonoe-chojabaru-tadewara",
+  "name_ko": "조자바루 다데와라 습원 (구주 고원)",
+  "name_ja": "長者原・タデ原湿原",
+  "pref": "오이타",
+  "area": "고코노에 (구주)",
+  "categories": [
+   "nature",
+   "view"
+  ],
+  "summary": "해발 약 1,000m 구주 연산 기슭의 람사르 습지. 비지터센터에서 약 1.3km 자연 탐방로가 이어지고 구주 등산 거점이다.",
+  "do": "습원 목도를 한 바퀴 걸으며 구주산 바라보기, 체력되면 등산로 초입까지",
+  "station": "분고나카무라역 (豊後中村)",
+  "access": "분고나카무라역에서 고코노에정 커뮤니티버스(마키노토토게행) 약 50분. 또는 규슈 횡단버스로 유후인역에서 약 40분, 벳푸역에서 약 90분",
+  "jr_pass": [
+   "JR 큐슈 레일패스(전큐슈)",
+   "JR 큐슈 레일패스(북큐슈)"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을"
+  ],
+  "best_time": "6월 철쭉(미야마키리시마), 가을 억새·단풍",
+  "event": "",
+  "duration": "반나절",
+  "cost": "무료",
+  "walking": "보통",
+  "fit": "조건부",
+  "condition": "맑은 날 산 조망 / 안개·비면 대체: 근처 온천",
+  "caution": "버스 편수가 적음. 고원이라 평지보다 춥다",
+  "lat": 33.119,
+  "lng": 131.2304,
+  "url": "https://www.town.kokonoe.oita.jp/",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/長者原",
+   "https://ja.wikipedia.org/wiki/タデ原湿原"
+  ],
+  "region": "규슈"
+ },
+ {
   "id": "oita-harajiri-falls",
   "name_ko": "하라지리 폭포",
   "name_ja": "原尻の滝",
@@ -13582,6 +41238,279 @@ window.SPOTS = [
   "sources": [
    "https://ja.wikipedia.org/wiki/原尻の滝",
    "https://sato-no-tabi.jp/introduce/原尻の滝/"
+  ],
+  "region": "규슈"
+ },
+ {
+  "id": "oita-hita-mikuma-ukai-yakatabune",
+  "name_ko": "히타 온천 미쿠마강 야카타부네·가마우지 낚시",
+  "name_ja": "日田温泉 三隈川の屋形船・鵜飼",
+  "pref": "오이타",
+  "area": "히타",
+  "categories": [
+   "boat",
+   "onsen",
+   "night"
+  ],
+  "summary": "강변 온천 여관가 앞 미쿠마강에서 여름에 지붕 배(야카타부네)를 띄우고 가마우지 낚시를 한다. 5월 하순 강 개장 축제엔 불꽃놀이.",
+  "do": "저녁에 야카타부네를 타고 강 위에서 식사하며 횃불 아래 가마우지 낚시 보기, 온천 숙박",
+  "station": "히타역 (日田)",
+  "access": "히타역에서 버스 약 5분 또는 히타버스 시내 순환 B루트(다카세·구마마치 여관가 방면) 약 4~15분",
+  "jr_pass": [
+   "JR 큐슈 레일패스(전큐슈)",
+   "JR 큐슈 레일패스(북큐슈)"
+  ],
+  "seasons": [
+   "여름"
+  ],
+  "best_time": "여름 저녁",
+  "event": "히타 강 개장 관광제(불꽃놀이): 매년 5월 하순. 날짜는 매년 공식 확인",
+  "duration": "1박 추천",
+  "cost": "야카타부네 요리 포함 수천 엔~ (업체별)",
+  "walking": "적음",
+  "fit": "조건부",
+  "condition": "여름 시즌만 / 비·증수 시 운휴",
+  "caution": "야카타부네는 대개 예약제. 운항 시즌은 업체 공식 확인",
+  "lat": 33.3122,
+  "lng": 130.9319,
+  "url": "https://www.oidehita.com/",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/日田温泉"
+  ],
+  "region": "규슈"
+ },
+ {
+  "id": "oita-kitsuki-castle-town",
+  "name_ko": "기쓰키 성하마을 (언덕길 무가 거리)",
+  "name_ja": "杵築城下町（北台・南台）",
+  "pref": "오이타",
+  "area": "기쓰키",
+  "categories": [
+   "town",
+   "culture"
+  ],
+  "summary": "남북 두 언덕 위에 무가 저택이, 그 사이 골짜기에 상가가 들어선 독특한 구조의 성하마을. 중요전통적건조물군보존지구다.",
+  "do": "스야노사카 등 돌계단 언덕길을 오르내리며 무가 저택 거리와 작은 성 둘러보기",
+  "station": "기쓰키역 (杵築)",
+  "access": "기쓰키역은 시가지와 멀어 노선버스로 '기쓰키 버스터미널' 방면 이동 후 도보",
+  "jr_pass": [
+   "JR 큐슈 레일패스(전큐슈)",
+   "JR 큐슈 레일패스(북큐슈)"
+  ],
+  "seasons": [
+   "봄",
+   "가을"
+  ],
+  "best_time": "봄·가을",
+  "event": "",
+  "duration": "반나절",
+  "cost": "거리 산책 무료, 무가 저택·성 입장 각 수백 엔",
+  "walking": "보통",
+  "fit": "백업",
+  "condition": "",
+  "caution": "언덕 돌계단이 많음. 역~시가지 버스 시간 확인",
+  "lat": 33.4165,
+  "lng": 131.6195,
+  "url": "https://www.city.kitsuki.lg.jp/",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/杵築市",
+   "https://ja.wikipedia.org/wiki/杵築城"
+  ],
+  "region": "규슈"
+ },
+ {
+  "id": "oita-bungotakada-showa-no-machi",
+  "name_ko": "분고타카다 쇼와의 마을",
+  "name_ja": "豊後高田 昭和の町",
+  "pref": "오이타",
+  "area": "분고타카다",
+  "categories": [
+   "town",
+   "city"
+  ],
+  "summary": "1950~60년대 상점가 모습을 되살린 거리. 옛 쌀창고를 고친 '쇼와 로망 구라'와 주말 무료 보닛버스가 있다.",
+  "do": "옛 간판 가게에서 군것질하고 다가시야 장난감 박물관 구경, 주말엔 보닛버스 타기",
+  "station": "우사역 (宇佐)",
+  "access": "우사역 앞 정류장에서 분고타카다·오이타공항행 버스 약 10분 '분고타카다' 터미널, 도보 1분",
+  "jr_pass": [
+   "JR 큐슈 레일패스(전큐슈)",
+   "JR 큐슈 레일패스(북큐슈)"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "연중. 보닛버스는 주말·공휴일",
+  "event": "",
+  "duration": "반나절",
+  "cost": "거리 무료, 쇼와 로망 구라 시설별 유료",
+  "walking": "적음",
+  "fit": "백업",
+  "condition": "",
+  "caution": "",
+  "lat": 33.5557,
+  "lng": 131.441,
+  "url": "https://www.city.bungotakada.oita.jp/site/showanomachi/",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/昭和の町"
+  ],
+  "region": "규슈"
+ },
+ {
+  "id": "oita-taketa-oka-castle-ruins",
+  "name_ko": "오카성 터 (고조노쓰키의 성)",
+  "name_ja": "岡城跡",
+  "pref": "오이타",
+  "area": "다케타",
+  "categories": [
+   "culture",
+   "view"
+  ],
+  "summary": "암반 대지 위에 높은 돌담만 남은 산성 터. 다키 렌타로가 가곡 '황성의 달'을 구상했다고 전해지며 벚꽃 100선이다.",
+  "do": "절벽 위 돌담을 따라 걸으며 구주 연산 조망, 4월엔 벚꽃 축제",
+  "station": "분고타케타역 (豊後竹田)",
+  "access": "분고타케타역에서 오가타·미에 방면 버스 약 5분 '오카조이리구치' 하차 후 도보 약 15분",
+  "jr_pass": [
+   "JR 큐슈 레일패스(전큐슈)",
+   "JR 큐슈 레일패스(북큐슈)",
+   "JR 큐슈 레일패스(남큐슈)"
+  ],
+  "seasons": [
+   "봄",
+   "가을"
+  ],
+  "best_time": "4월 벚꽃, 11월 단풍",
+  "event": "오카성 벚꽃 축제: 매년 4월 (다이묘 행렬). 날짜는 매년 공식 확인",
+  "duration": "1~2시간",
+  "cost": "입장료 약 300엔",
+  "walking": "보통",
+  "fit": "백업",
+  "condition": "",
+  "caution": "언덕길·돌계단",
+  "lat": 32.9692,
+  "lng": 131.4081,
+  "url": "https://www.city.taketa.oita.jp/",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/岡城_(豊後国)"
+  ],
+  "region": "규슈"
+ },
+ {
+  "id": "oita-usa-jingu",
+  "name_ko": "우사 신궁",
+  "name_ja": "宇佐神宮",
+  "pref": "오이타",
+  "area": "우사",
+  "categories": [
+   "culture"
+  ],
+  "summary": "전국 약 4만 4천 하치만 신사의 총본궁. 두 채를 앞뒤로 이은 '하치만즈쿠리' 본전 3동이 국보다.",
+  "do": "붉은 다리와 회랑을 지나 상궁 국보 본전까지 참배하고 숲길 산책",
+  "station": "우사역 (宇佐)",
+  "access": "우사역에서 오이타교통 버스(요카이치·나카쓰 방면) 약 10분 '우사하치만' 하차",
+  "jr_pass": [
+   "JR 큐슈 레일패스(전큐슈)",
+   "JR 큐슈 레일패스(북큐슈)"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "연중. 가을 단풍철",
+  "event": "",
+  "duration": "1~2시간",
+  "cost": "참배 무료",
+  "walking": "보통",
+  "fit": "백업",
+  "condition": "",
+  "caution": "",
+  "lat": 33.5235,
+  "lng": 131.3772,
+  "url": "https://www.usajinguu.com/",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/宇佐神宮"
+  ],
+  "region": "규슈"
+ },
+ {
+  "id": "oita-usuki-stone-buddhas",
+  "name_ko": "우스키 석불 (국보 마애불)",
+  "name_ja": "臼杵石仏",
+  "pref": "오이타",
+  "area": "우스키",
+  "categories": [
+   "culture"
+  ],
+  "summary": "바위벽에 새긴 헤이안~가마쿠라 시대 마애불 61체. 마애불로는 일본 최초로 국보가 됐다.",
+  "do": "4개 군의 석불을 따라 걷고, 머리만 남았다 복원된 대일여래상 보기",
+  "station": "우스키역 (臼杵)",
+  "access": "우스키역에서 오이타버스 미에 방면 '우스키세키부쓰' 하차. 역 관광안내소 무료 자전거로 편도 약 6.6km",
+  "jr_pass": [
+   "JR 큐슈 레일패스(전큐슈)",
+   "JR 큐슈 레일패스(남큐슈)"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "연중. 8월 마지막 토요일 석불 불 축제",
+  "event": "",
+  "duration": "1~2시간",
+  "cost": "관람료 약 500~600엔",
+  "walking": "보통",
+  "fit": "백업",
+  "condition": "",
+  "caution": "가미우스키역과 혼동 주의",
+  "lat": 33.0905,
+  "lng": 131.7626,
+  "url": "https://sekibutsu.com/",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/臼杵石仏"
+  ],
+  "region": "규슈"
+ },
+ {
+  "id": "oita-hita-mamedamachi",
+  "name_ko": "히타 마메다마치 (덴료 옛 거리)",
+  "name_ja": "日田 豆田町",
+  "pref": "오이타",
+  "area": "히타",
+  "categories": [
+   "town"
+  ],
+  "summary": "에도 막부 직할지로 번성한 상인 마을. 에도 시대 상가·창고·양조장이 남은 중요전통적건조물군보존지구.",
+  "do": "전봇대 없는 미유키도리를 걸으며 양조장 견학, 옛 상가 박물관과 카페 들르기",
+  "station": "히타역 (日田)",
+  "access": "히타역에서 북쪽으로 도보 약 15분",
+  "jr_pass": [
+   "JR 큐슈 레일패스(전큐슈)",
+   "JR 큐슈 레일패스(북큐슈)"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "연중. 2~3월 히나마쓰리 시기",
+  "event": "",
+  "duration": "반나절",
+  "cost": "거리 무료",
+  "walking": "보통",
+  "fit": "백업",
+  "condition": "",
+  "caution": "",
+  "lat": 33.327,
+  "lng": 130.9373,
+  "url": "https://www.oidehita.com/",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/豆田町"
   ],
   "region": "규슈"
  },
@@ -13669,6 +41598,46 @@ window.SPOTS = [
   "region": "규슈"
  },
  {
+  "id": "miyazaki-takachiho-amaterasu-railway",
+  "name_ko": "다카치호 아마테라스 철도 (그랜드 슈퍼카트)",
+  "name_ja": "高千穂あまてらす鉄道（グランド・スーパーカート）",
+  "pref": "미야자키",
+  "area": "다카치호",
+  "categories": [
+   "train",
+   "view"
+  ],
+  "summary": "폐선된 옛 다카치호선 위를 오픈형 카트 열차로 달린다. 수면 위 높이 솟은 다카치호 철교 위에서 멈춰 계곡을 내려다보는 게 하이라이트.",
+  "do": "약 30분 왕복 카트를 타고 터널·철교를 지나 철교 한가운데서 아찔한 계곡 조망",
+  "station": "노베오카역 (延岡)",
+  "access": "노베오카역에서 미야코 노선버스로 다카치호 → 옛 다카치호역(시가지에서 도보권)",
+  "jr_pass": [
+   "JR 큐슈 레일패스(전큐슈)",
+   "JR 큐슈 레일패스(남큐슈)"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을"
+  ],
+  "best_time": "신록·단풍철 맑은 날",
+  "event": "",
+  "duration": "1~2시간",
+  "cost": "약 2,000~2,300엔 (2026-04 요금 개정, 카트 요금은 공식 확인)",
+  "walking": "적음",
+  "fit": "매우 잘 맞음",
+  "condition": "악천후 운휴 가능",
+  "caution": "매월 셋째 목요일 정비 휴무. 단체 대절로 만석일 때가 있어 예약·운행시간 공식 확인",
+  "lat": 32.7146,
+  "lng": 131.3068,
+  "url": "https://amaterasu-railway.jp/",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/高千穂あまてらす鉄道",
+   "https://amaterasu-railway.jp/"
+  ],
+  "region": "규슈"
+ },
+ {
   "id": "miyazaki-takachiho-gorge-boat",
   "name_ko": "다카치호 협곡 보트",
   "name_ja": "高千穂峡（貸しボート）",
@@ -13706,6 +41675,86 @@ window.SPOTS = [
    "https://takachiho-kanko.info/",
    "https://takachiho-kanko.info/access/",
    "https://takachiho-kanko.info/boat/detail.php"
+  ],
+  "region": "규슈"
+ },
+ {
+  "id": "miyazaki-kushima-cape-toi",
+  "name_ko": "도이곶 (야생마·등대)",
+  "name_ja": "都井岬",
+  "pref": "미야자키",
+  "area": "구시마",
+  "categories": [
+   "cape",
+   "nature",
+   "view"
+  ],
+  "summary": "에도 시대부터 방목된 반야생 '미사키우마'가 초원에서 사는 규슈 남동 끝 곶. 내부 관람 가능한 등대에서 태평양을 약 270도로 본다.",
+  "do": "초원에서 풀 뜯는 야생마 보기, 해발 약 255m 도이곶 등대 올라 태평양 조망",
+  "station": "구시마역 (串間)",
+  "access": "JR 니치난선 구시마역에서 구시마시 커뮤니티버스 도이곶행 약 40분, 종점에서 등대까지 도보 약 30분",
+  "jr_pass": [
+   "JR 큐슈 레일패스(전큐슈)",
+   "JR 큐슈 레일패스(남큐슈)"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을"
+  ],
+  "best_time": "봄 망아지 철, 맑은 날",
+  "event": "",
+  "duration": "하루",
+  "cost": "등대 관람 수백 엔. 버스·도보 입장 시 야생마 보호협력금 대상 아님(차량만)",
+  "walking": "많음",
+  "fit": "매우 잘 맞음",
+  "condition": "맑은 날 조망 / 강풍·비면 대체: 오비 성하마을",
+  "caution": "종점~등대 도보 30분 언덕길. 니치난선·커뮤니티버스 모두 편수가 적어 귀가편부터 확인. 말에게 먹이 주기·접근 금지",
+  "lat": 31.3646,
+  "lng": 131.3474,
+  "url": "https://www.city.kushima.lg.jp/",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/都井岬",
+   "https://www.mapple.net/pref/45207/spot/"
+  ],
+  "region": "규슈"
+ },
+ {
+  "id": "miyazaki-aya-teruha-otsuribashi",
+  "name_ko": "아야 데루하 대현수교",
+  "name_ja": "綾の照葉大吊橋",
+  "pref": "미야자키",
+  "area": "아야",
+  "categories": [
+   "view",
+   "nature"
+  ],
+  "summary": "상록활엽수 원시림 계곡에 걸린 보행자 전용 현수교. 길이 250m, 높이 142m.",
+  "do": "흔들리는 다리를 건너며 발밑 계곡과 숲 내려다보기, 숲 산책로",
+  "station": "미나미미야자키역 (南宮崎)",
+  "access": "미나미미야자키역 근처 미야코시티에서 미야자키교통 버스 아야 대합소행 약 1시간, 종점에서 택시 약 15분",
+  "jr_pass": [
+   "JR 큐슈 레일패스(전큐슈)",
+   "JR 큐슈 레일패스(남큐슈)"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을"
+  ],
+  "best_time": "신록·단풍철",
+  "event": "",
+  "duration": "반나절",
+  "cost": "통행료 수백 엔",
+  "walking": "보통",
+  "fit": "매우 잘 맞음",
+  "condition": "강풍 시 통행 제한 가능",
+  "caution": "아야 시내에서 다리까지는 택시 필요. 고소공포 주의",
+  "lat": 32.0298,
+  "lng": 131.1943,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/照葉大吊橋"
   ],
   "region": "규슈"
  },
@@ -13793,6 +41842,323 @@ window.SPOTS = [
   "region": "규슈"
  },
  {
+  "id": "miyazaki-kushima-koshima-monkey-island",
+  "name_ko": "고지마 (고구마 씻는 원숭이 섬)",
+  "name_ja": "幸島",
+  "pref": "미야자키",
+  "area": "구시마",
+  "categories": [
+   "cape",
+   "boat",
+   "nature"
+  ],
+  "summary": "원숭이가 고구마를 바닷물에 씻어 먹는 행동을 처음 발견해 '동물 문화' 연구로 유명해진 무인도. 서식지가 국가 천연기념물이다.",
+  "do": "이시나미 해안에서 나룻배로 건너가 원숭이 관찰 (고구마 씻기 관찰회 시기 확인)",
+  "station": "고지마역 (幸島)",
+  "access": "JR 니치난선 고지마역 인근 이시나미 해안에서 '고지마 나룻배'로 바다 건너 약 200~400m",
+  "jr_pass": [
+   "JR 큐슈 레일패스(전큐슈)",
+   "JR 큐슈 레일패스(남큐슈)"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을"
+  ],
+  "best_time": "봄~가을 잔잔한 날",
+  "event": "",
+  "duration": "반나절",
+  "cost": "나룻배 요금은 운항자 확인",
+  "walking": "적음",
+  "fit": "조건부",
+  "condition": "파도 있으면 나룻배 운항 안 함",
+  "caution": "나룻배는 사전 문의 필수, 당일 운항 여부 확인. 썰물 때 걸어서 건너는 건 금지 권고. 관광 시설 없음",
+  "lat": 31.4528,
+  "lng": 131.3761,
+  "url": "https://www.city.kushima.lg.jp/",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/幸島",
+   "https://tabi-mag.jp/ah0333/"
+  ],
+  "region": "규슈"
+ },
+ {
+  "id": "miyazaki-takachiho-kunimigaoka",
+  "name_ko": "구니미가오카 (운해 전망대)",
+  "name_ja": "国見ヶ丘",
+  "pref": "미야자키",
+  "area": "다카치호",
+  "categories": [
+   "view",
+   "night"
+  ],
+  "summary": "해발 513m 언덕 전망대. 가을~초겨울 맑은 새벽엔 다카치호 분지를 메운 운해와 아소 연산이 보인다.",
+  "do": "해 뜨기 전 올라가 운해 위로 떠오르는 해 보기",
+  "station": "노베오카역 (延岡)",
+  "access": "다카치호 시가지에서 북동쪽 약 2km. 새벽엔 버스가 없어 택시(전날 예약) 이용",
+  "jr_pass": [
+   "JR 큐슈 레일패스(전큐슈)",
+   "JR 큐슈 레일패스(남큐슈)"
+  ],
+  "seasons": [
+   "가을",
+   "겨울"
+  ],
+  "best_time": "9월 하순~11월의 맑고 바람 없는 새벽",
+  "event": "",
+  "duration": "1~2시간",
+  "cost": "무료 (택시비 별도)",
+  "walking": "적음",
+  "fit": "조건부",
+  "condition": "전날 맑고 일교차 큰 무풍 새벽에만 운해 / 안 보이면 대체: 다카치호 협곡",
+  "caution": "새벽은 꽤 추움. 다카치호 1박 전제",
+  "lat": 32.7186,
+  "lng": 131.2778,
+  "url": "https://takachiho-kanko.info/",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/国見ヶ丘"
+  ],
+  "region": "규슈"
+ },
+ {
+  "id": "miyazaki-nobeoka-atagoyama-night-view",
+  "name_ko": "노베오카 아타고야마 야경",
+  "name_ja": "愛宕山（延岡市）展望台",
+  "pref": "미야자키",
+  "area": "노베오카",
+  "categories": [
+   "night",
+   "view"
+  ],
+  "summary": "해발 약 251m 산 위 전망대. 미야자키현 유일의 '일본 야경 유산'으로, 노베오카 시가지와 휴가나다 해안이 내려다보인다.",
+  "do": "해 질 녘 올라가 노을에서 야경으로 바뀌는 시가지와 바다 보기",
+  "station": "노베오카역 (延岡)",
+  "access": "노베오카역에서 택시로 산 위 전망대까지 (산책로로 걸어 오를 수도 있음)",
+  "jr_pass": [
+   "JR 큐슈 레일패스(전큐슈)",
+   "JR 큐슈 레일패스(남큐슈)"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "맑은 날 일몰~밤",
+  "event": "",
+  "duration": "1~2시간",
+  "cost": "무료",
+  "walking": "적음",
+  "fit": "조건부",
+  "condition": "맑은 밤",
+  "caution": "밤엔 대중교통이 없어 택시 왕복. 다카치호 가는 길 노베오카 1박 때 추천",
+  "lat": 32.5586,
+  "lng": 131.6644,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/愛宕山_(延岡市)"
+  ],
+  "region": "규슈"
+ },
+ {
+  "id": "miyazaki-saito-saitobaru-kofun",
+  "name_ko": "사이토바루 고분군 (벚꽃·유채·코스모스)",
+  "name_ja": "西都原古墳群",
+  "pref": "미야자키",
+  "area": "사이토",
+  "categories": [
+   "culture",
+   "nature"
+  ],
+  "summary": "300기가 넘는 고분이 흩어진 대지. 봄엔 벚꽃 2천 그루와 유채꽃, 가을엔 고분 능선을 덮는 코스모스가 장관이다.",
+  "do": "꽃밭 사이로 고분 언덕을 산책하고 현립 고고학박물관 들르기",
+  "station": "미야자키역 (宮崎)",
+  "access": "미야자키역에서 미야자키교통 버스 사이토 버스센터행 약 56분, 종점에서 택시 약 5분",
+  "jr_pass": [
+   "JR 큐슈 레일패스(전큐슈)",
+   "JR 큐슈 레일패스(남큐슈)"
+  ],
+  "seasons": [
+   "봄",
+   "가을"
+  ],
+  "best_time": "3월 하순~4월 초 벚꽃·유채, 10월 하순~11월 초 코스모스",
+  "event": "사이토 꽃 축제: 매년 3월 말~4월 초 (2026년은 3/27~4/5). 날짜는 매년 공식 확인",
+  "duration": "반나절",
+  "cost": "무료 (박물관도 무료로 알려짐)",
+  "walking": "보통",
+  "fit": "조건부",
+  "condition": "꽃 시기에 진가 / 그 외엔 백업",
+  "caution": "버스센터~고분군 이동 수단 확보",
+  "lat": 32.1178,
+  "lng": 131.3894,
+  "url": "https://saito-kanko.jp/",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/西都原古墳群",
+   "https://rurubu.jp/andmore/spot/20001388"
+  ],
+  "region": "규슈"
+ },
+ {
+  "id": "miyazaki-nichinan-sun-messe",
+  "name_ko": "선메세 니치난 (모아이 언덕)",
+  "name_ja": "サンメッセ日南",
+  "pref": "미야자키",
+  "area": "니치난",
+  "categories": [
+   "view",
+   "cape"
+  ],
+  "summary": "태평양을 내려다보는 언덕에 모아이상 7체 복제품이 늘어선 공원. 니치난 해안 드라이브 코스 중간의 전망 명소.",
+  "do": "바다를 등진 모아이 앞에서 사진, 언덕 위 전망 산책",
+  "station": "미야자키역 (宮崎)",
+  "access": "미야자키역·아오시마에서 니치난 방면 미야자키교통 노선버스로 '선메세 니치난' 하차 (편수 확인)",
+  "jr_pass": [
+   "JR 큐슈 레일패스(전큐슈)",
+   "JR 큐슈 레일패스(남큐슈)"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "맑은 날",
+  "event": "",
+  "duration": "1~2시간",
+  "cost": "입장료 약 1,000엔 (공식 요금표 확인)",
+  "walking": "보통",
+  "fit": "조건부",
+  "condition": "맑은 날 바다색이 살아남",
+  "caution": "정기 휴원일이 있어 영업 캘린더 확인. 우도 신궁과 같은 노선이라 묶기 좋음",
+  "lat": 31.6633,
+  "lng": 131.461,
+  "url": "https://www.sun-messe.co.jp/",
+  "sources": [
+   "https://www.sun-messe.co.jp/"
+  ],
+  "region": "규슈"
+ },
+ {
+  "id": "miyazaki-miyakonojo-sekinoo-falls",
+  "name_ko": "세키노오 폭포·포트홀 군락",
+  "name_ja": "関之尾滝・甌穴群",
+  "pref": "미야자키",
+  "area": "미야코노조",
+  "categories": [
+   "nature",
+   "volcano"
+  ],
+  "summary": "폭 약 40m의 넓은 폭포와, 상류 강바닥에 수천 개 구멍이 뚫린 세계 최대급 포트홀(돌개구멍) 군락. 국가 천연기념물.",
+  "do": "폭포 앞 전망 후 상류 약 600m 강바닥의 기묘한 구멍 지형 보기",
+  "station": "미야코노조역 (都城)",
+  "access": "미야코노조역에서 택시 이용이 현실적 (노선버스 유무는 공식 확인)",
+  "jr_pass": [
+   "JR 큐슈 레일패스(전큐슈)",
+   "JR 큐슈 레일패스(남큐슈)"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을"
+  ],
+  "best_time": "신록·단풍철, 갈수기엔 포트홀이 잘 보임",
+  "event": "",
+  "duration": "1~2시간",
+  "cost": "무료",
+  "walking": "보통",
+  "fit": "조건부",
+  "condition": "증수 시 포트홀이 물에 잠김",
+  "caution": "대중교통 접근이 약함",
+  "lat": 31.7611,
+  "lng": 130.9872,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/関之尾滝"
+  ],
+  "region": "규슈"
+ },
+ {
+  "id": "miyazaki-takachiho-amano-iwato-yasukawara",
+  "name_ko": "아마노이와토 신사·아마노야스카와라",
+  "name_ja": "天岩戸神社・天安河原",
+  "pref": "미야자키",
+  "area": "다카치호",
+  "categories": [
+   "culture",
+   "nature"
+  ],
+  "summary": "태양신이 숨었다는 동굴 신화의 무대. 강을 따라 걸으면 소원을 빌며 쌓은 돌탑이 동굴 가득한 아마노야스카와라가 나온다.",
+  "do": "서본궁 참배 후 강변 길 약 15분 걸어 돌탑 가득한 동굴 보기",
+  "station": "노베오카역 (延岡)",
+  "access": "노베오카역에서 미야코 노선버스로 다카치호 버스센터 → 정 순환버스(이와토선 등) 약 15분 '이와토' 하차",
+  "jr_pass": [
+   "JR 큐슈 레일패스(전큐슈)",
+   "JR 큐슈 레일패스(남큐슈)"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "연중. 비 온 뒤 숲이 좋음",
+  "event": "",
+  "duration": "1~2시간",
+  "cost": "참배 무료",
+  "walking": "보통",
+  "fit": "조건부",
+  "condition": "폭우 후 강변길 통행 제한 가능",
+  "caution": "다카치호 안 순환버스 편수 적음. 다카치호 1박 권장",
+  "lat": 32.7344,
+  "lng": 131.3506,
+  "url": "https://amanoiwato-jinja.jp/",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/天岩戸神社"
+  ],
+  "region": "규슈"
+ },
+ {
+  "id": "miyazaki-ebino-kogen",
+  "name_ko": "에비노 고원 (화구호·붉은 억새)",
+  "name_ja": "えびの高原",
+  "pref": "미야자키",
+  "area": "에비노 (기리시마 연산)",
+  "categories": [
+   "volcano",
+   "nature",
+   "view"
+  ],
+  "summary": "해발 약 1,200m 기리시마 연산의 화산 고원. 화구호 순환길과 가을에 화산가스 영향으로 붉게 물드는 억새밭이 독특하다.",
+  "do": "후도이케 등 화구호를 도는 자연 탐방로 걷기, 가라쿠니다케 바라보기",
+  "station": "기리시마진구역 (霧島神宮)",
+  "access": "기리시마진구역에서 이와사키버스 약 30분 '마루오' → 기리시마 연산 주유버스로 종점. 주유버스는 운행일 한정이라 사전 확인",
+  "jr_pass": [
+   "JR 큐슈 레일패스(전큐슈)",
+   "JR 큐슈 레일패스(남큐슈)"
+  ],
+  "seasons": [
+   "봄",
+   "가을"
+  ],
+  "best_time": "5~6월 미야마키리시마 철쭉, 10~11월 단풍·붉은 억새",
+  "event": "",
+  "duration": "반나절",
+  "cost": "무료",
+  "walking": "보통",
+  "fit": "조건부",
+  "condition": "맑은 날 / 안개 잦음, 겨울 동결",
+  "caution": "화산 지역: 2026-09 기준 에비노고원(이오야마) 주변 레벨1, 신모에다케 레벨2(화구 주변 규제). 출발 전 기상청 분화경계레벨·등산로 규제 확인",
+  "lat": 31.9445,
+  "lng": 130.844,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/えびの高原",
+   "https://www.data.jma.go.jp/kagoshima/inf/monthly_doc/pdf/mon_vol_20260918.pdf"
+  ],
+  "region": "규슈"
+ },
+ {
   "id": "miyazaki-hyuga-umagase",
   "name_ko": "휴가 곶 우마가세",
   "name_ja": "日向岬・馬ヶ背",
@@ -13835,6 +42201,124 @@ window.SPOTS = [
   "region": "규슈"
  },
  {
+  "id": "miyazaki-hyuga-mimitsu",
+  "name_ko": "미미쓰 옛 항구 마을",
+  "name_ja": "美々津（重要伝統的建造物群保存地区）",
+  "pref": "미야자키",
+  "area": "휴가 (미미쓰)",
+  "categories": [
+   "town",
+   "cape"
+  ],
+  "summary": "에도 말~다이쇼 시대 해운업으로 번성한 강어귀 항구 마을. 교토풍 상가와 방화 골목 '쓰키누케'가 남은 중요전통적건조물군보존지구로, '일본 해군 발상지' 비석이 있다.",
+  "do": "세 갈래 옛길을 따라 회선 상가 건물 보며 산책, 강어귀 해안 바라보기",
+  "station": "미미쓰역 (美々津)",
+  "access": "JR 닛포본선 미미쓰역에서 도보 또는 택시 (역~마을 거리 공식 확인)",
+  "jr_pass": [
+   "JR 큐슈 레일패스(전큐슈)",
+   "JR 큐슈 레일패스(남큐슈)"
+  ],
+  "seasons": [
+   "봄",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "봄·가을",
+  "event": "",
+  "duration": "1~2시간",
+  "cost": "무료",
+  "walking": "보통",
+  "fit": "백업",
+  "condition": "",
+  "caution": "미미쓰역은 보통열차만 정차해 편수가 적음",
+  "lat": 32.3374,
+  "lng": 131.6111,
+  "url": "https://www.hyugacity.jp/",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/美々津"
+  ],
+  "region": "규슈"
+ },
+ {
+  "id": "miyazaki-miyazaki-jingu",
+  "name_ko": "미야자키 신궁",
+  "name_ja": "宮崎神宮",
+  "pref": "미야자키",
+  "area": "미야자키시",
+  "categories": [
+   "culture",
+   "festival"
+  ],
+  "summary": "초대 진무 천황을 모신 신사로 현지에선 '진무사마'로 부른다. 10월 대제 땐 시내를 도는 가마 행렬이 있다.",
+  "do": "숲에 둘러싸인 경내 참배, 대제 시기엔 시내 행렬 구경",
+  "station": "미야자키진구역 (宮崎神宮)",
+  "access": "JR 닛포본선 미야자키진구역에서 도보 약 8분",
+  "jr_pass": [
+   "JR 큐슈 레일패스(전큐슈)",
+   "JR 큐슈 레일패스(남큐슈)"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "연중. 10월 말 대제",
+  "event": "미야자키 신궁 대제(진무사마): 매년 10월 26일 예제 뒤 토·일. 4월 3일 진무천황제 야부사메. 날짜는 매년 공식 확인",
+  "duration": "1~2시간",
+  "cost": "참배 무료",
+  "walking": "적음",
+  "fit": "백업",
+  "condition": "",
+  "caution": "",
+  "lat": 31.9385,
+  "lng": 131.4235,
+  "url": "https://miyazakijingu.jp/",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/宮崎神宮"
+  ],
+  "region": "규슈"
+ },
+ {
+  "id": "miyazaki-nichinan-aburatsu-horikawa-canal",
+  "name_ko": "아부라쓰 호리카와 운하",
+  "name_ja": "堀川運河（油津）",
+  "pref": "미야자키",
+  "area": "니치난 (아부라쓰)",
+  "categories": [
+   "town"
+  ],
+  "summary": "오비번이 1686년 오비 삼나무를 실어 나르려 판 운하. 1903년 돌아치 다리 호리카와바시와 창고 거리가 남아 있다.",
+  "do": "운하 따라 돌다리와 옛 창고 거리 산책, 오비 성하마을과 묶어 보기",
+  "station": "아부라쓰역 (油津)",
+  "access": "JR 니치난선 아부라쓰역에서 도보권",
+  "jr_pass": [
+   "JR 큐슈 레일패스(전큐슈)",
+   "JR 큐슈 레일패스(남큐슈)"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "연중",
+  "event": "",
+  "duration": "1~2시간",
+  "cost": "무료",
+  "walking": "적음",
+  "fit": "백업",
+  "condition": "",
+  "caution": "니치난선 편수가 적음",
+  "lat": 31.5885,
+  "lng": 131.4019,
+  "url": "https://www.kankou-nichinan.jp/",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/堀川運河_(宮崎県)"
+  ],
+  "region": "규슈"
+ },
+ {
   "id": "miyazaki-obi-castle-town",
   "name_ko": "오비 성하마을",
   "name_ja": "飫肥城下町",
@@ -13870,6 +42354,86 @@ window.SPOTS = [
    "https://ja.wikipedia.org/wiki/飫肥",
    "https://ja.wikipedia.org/wiki/飫肥駅",
    "https://obijyo.com/"
+  ],
+  "region": "규슈"
+ },
+ {
+  "id": "miyazaki-heiwadai-park",
+  "name_ko": "헤이와다이 공원 (평화의 탑·하니와 정원)",
+  "name_ja": "平和台公園",
+  "pref": "미야자키",
+  "area": "미야자키시",
+  "categories": [
+   "culture",
+   "view"
+  ],
+  "summary": "높이 36.4m의 석탑 '평화의 탑'이 선 언덕 공원. 숲속에 하니와(고분 토용) 복제품 약 400개가 늘어선 정원이 있다.",
+  "do": "평화의 탑 앞에서 손뼉 메아리 체험, 이끼 낀 하니와 정원 산책",
+  "station": "미야자키역 (宮崎)",
+  "access": "미야자키역에서 미야자키교통 버스. 편수가 적어 시간표 확인 (미야자키진구역 쪽에서 걸어도 30분 안팎)",
+  "jr_pass": [
+   "JR 큐슈 레일패스(전큐슈)",
+   "JR 큐슈 레일패스(남큐슈)"
+  ],
+  "seasons": [
+   "봄",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "봄·가을",
+  "event": "",
+  "duration": "1~2시간",
+  "cost": "무료",
+  "walking": "보통",
+  "fit": "백업",
+  "condition": "",
+  "caution": "공원행 버스 편수가 적음",
+  "lat": 31.9478,
+  "lng": 131.4144,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/平和台公園"
+  ],
+  "region": "규슈"
+ },
+ {
+  "id": "kagoshima-koshikijima-nagamenohama",
+  "name_ko": "고시키지마 나가메노하마",
+  "name_ja": "甑島・長目の浜",
+  "pref": "가고시마",
+  "area": "사쓰마센다이 (고시키지마)",
+  "categories": [
+   "cape",
+   "nature",
+   "boat"
+  ],
+  "summary": "가미코시키섬 북부에서 바다와 호수 셋을 가르는 긴 자갈 사주. 2015년 국정공원·천연기념물로 지정된 섬 절경.",
+  "do": "전망대에서 바다와 석호 사이로 뻗은 사주 내려다보기, 섬 해안 절벽 드라이브·투어",
+  "station": "센다이역 (川内)",
+  "access": "센다이항에서 고속선 약 50분, 또는 구시키노신항에서 페리 약 75분(하루 2왕복) → 사토항. 섬 안은 버스 적어 렌터카·투어",
+  "jr_pass": [
+   "JR 큐슈 레일패스(전큐슈)",
+   "JR 큐슈 레일패스(남큐슈)"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을"
+  ],
+  "best_time": "맑은 날",
+  "event": "",
+  "duration": "1박 추천",
+  "cost": "고속선 편도 수천 엔",
+  "walking": "보통",
+  "fit": "매우 잘 맞음",
+  "condition": "악천후 시 결항 / 맑은 날 조망",
+  "caution": "역~항구 연결 버스와 배 시간 맞추기. 섬 내 이동수단 사전 확보",
+  "lat": 31.8681,
+  "lng": 129.8732,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/甑島列島",
+   "https://nominatim.openstreetmap.org/search?q=長目の浜&format=json"
   ],
   "region": "규슈"
  },
@@ -13956,6 +42520,123 @@ window.SPOTS = [
   "region": "규슈"
  },
  {
+  "id": "kagoshima-kinkowan-summer-night-fireworks",
+  "name_ko": "긴코만 서머나이트 대불꽃대회",
+  "name_ja": "かごしま錦江湾サマーナイト大花火大会",
+  "pref": "가고시마",
+  "area": "가고시마시",
+  "categories": [
+   "festival",
+   "night"
+  ],
+  "summary": "가고시마항 앞바다에서 약 1만 5천 발을 쏘아 올리는 여름 불꽃대회. 사쿠라지마를 배경으로 터지는 불꽃이 특징.",
+  "do": "항구 일대에서 사쿠라지마 실루엣 위로 터지는 불꽃 약 1시간 감상",
+  "station": "가고시마역 (鹿児島)",
+  "access": "JR 가고시마역에서 도보 약 15분 (회장: 가고시마항 혼코구). 주차장 없음",
+  "jr_pass": [
+   "JR 큐슈 레일패스(전큐슈)",
+   "JR 큐슈 레일패스(남큐슈)"
+  ],
+  "seasons": [
+   "여름"
+  ],
+  "best_time": "8월 말 저녁 19:30~20:30",
+  "event": "매년 8월 말 토요일 무렵 (2026년 제24회는 8/29(토) 19:30~). 날짜는 매년 공식 확인",
+  "duration": "반나절",
+  "cost": "무료 (유료 관람석 별도)",
+  "walking": "보통",
+  "fit": "매우 잘 맞음",
+  "condition": "소우 강행, 악천후 중지",
+  "caution": "매우 혼잡. 사쿠라지마 분화 상황에 따라 영향 가능",
+  "lat": 31.596,
+  "lng": 130.5644,
+  "url": "https://hanabi.kankou-kagoshima.jp/",
+  "sources": [
+   "https://hanabi.walkerplus.com/detail/ar1046e01033/data.html",
+   "https://ja.wikipedia.org/wiki/いおワールドかごしま水族館"
+  ],
+  "region": "규슈"
+ },
+ {
+  "id": "kagoshima-ibusuki-nagasakibana",
+  "name_ko": "나가사키바나 (사쓰마반도 최남단 곶)",
+  "name_ja": "長崎鼻",
+  "pref": "가고시마",
+  "area": "이부스키 (야마카와)",
+  "categories": [
+   "cape",
+   "view"
+  ],
+  "summary": "사쓰마반도 최남단 곶. 서쪽 바다 건너 가이몬다케가 통째로 보이고, 맑으면 야쿠시마도 보인다. 우라시마 다로 전설의 류구 신사가 있다.",
+  "do": "곶 끝 전망대에서 바다 위 가이몬다케 감상, 류구 신사 참배",
+  "station": "이부스키역 (指宿)",
+  "access": "이부스키역·야마카와역에서 노선버스 또는 택시 (편수 확인)",
+  "jr_pass": [
+   "JR 큐슈 레일패스(전큐슈)",
+   "JR 큐슈 레일패스(남큐슈)"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "맑은 날, 해 질 녘",
+  "event": "",
+  "duration": "1~2시간",
+  "cost": "무료",
+  "walking": "보통",
+  "fit": "매우 잘 맞음",
+  "condition": "맑은 날 가이몬다케·야쿠시마 조망",
+  "caution": "니시오야마역과 가까워 함께 묶기 좋음. 버스 시간 확인",
+  "lat": 31.1558,
+  "lng": 130.5863,
+  "url": "https://www.ibusuki.or.jp/",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/長崎鼻_(鹿児島県)"
+  ],
+  "region": "규슈"
+ },
+ {
+  "id": "kagoshima-kirishima-myoken-onsen",
+  "name_ko": "묘켄 온천 (아모리강 계곡 온천)",
+  "name_ja": "妙見温泉",
+  "pref": "가고시마",
+  "area": "기리시마 (하야토)",
+  "categories": [
+   "onsen",
+   "nature"
+  ],
+  "summary": "아모리강 계곡을 따라 여관이 늘어선 온천 마을. 각 여관이 강가 노천탕을 내세우고, 고급 별채 숙소부터 자취식 탕치 여관까지 있다.",
+  "do": "강물 소리 들리는 노천탕에서 탄산수소염천 입욕, 당일 입욕 또는 1박",
+  "station": "가레이가와역 (嘉例川)",
+  "access": "JR 히사쓰선 가레이가와역에서 온천버스 약 13분, 또는 하야토역에서 약 20분(하루 4편). 가고시마공항에서도 온천버스",
+  "jr_pass": [
+   "JR 큐슈 레일패스(전큐슈)",
+   "JR 큐슈 레일패스(남큐슈)"
+  ],
+  "seasons": [
+   "가을",
+   "겨울",
+   "봄"
+  ],
+  "best_time": "가을 단풍~겨울",
+  "event": "",
+  "duration": "1박 추천",
+  "cost": "당일 입욕 수백~1,000엔대, 숙박 다양",
+  "walking": "적음",
+  "fit": "매우 잘 맞음",
+  "condition": "",
+  "caution": "온천버스 하루 몇 편뿐. 공항과 가까워 첫날·마지막 날 숙박에 좋음",
+  "lat": 31.812,
+  "lng": 130.7569,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/妙見温泉_(鹿児島県)"
+  ],
+  "region": "규슈"
+ },
+ {
   "id": "kagoshima-sakurajima",
   "name_ko": "사쿠라지마 (페리·화산 전망)",
   "name_ja": "桜島",
@@ -13995,6 +42676,42 @@ window.SPOTS = [
    "https://www.city.kagoshima.lg.jp/sakurajima-ferry/",
    "https://ja.wikipedia.org/wiki/桜島フェリー",
    "https://ja.wikipedia.org/wiki/桜島"
+  ],
+  "region": "규슈"
+ },
+ {
+  "id": "kagoshima-amami-mangrove-park",
+  "name_ko": "아마미 맹그로브 카누 (구로시오노모리 맹그로브 파크)",
+  "name_ja": "黒潮の森マングローブパーク（奄美大島）",
+  "pref": "가고시마",
+  "area": "아마미오시마 (스미요)",
+  "categories": [
+   "boat",
+   "nature"
+  ],
+  "summary": "아마미 군도 국립공원 특별보호지구의 맹그로브 원시림 옆 시설. 카누를 빌려 맹그로브 사이 수로를 저어 간다.",
+  "do": "카누로 맹그로브 숲 사이 수로 탐험, 전망탑에서 숲 내려다보기",
+  "station": "없음 (항공·페리)",
+  "access": "가고시마공항 등에서 항공편 또는 가고시마항 페리로 아마미오시마 → 시마버스 '맹그로브파크마에' 하차 바로. 나제에서 차로 약 20분",
+  "jr_pass": [],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을"
+  ],
+  "best_time": "만조 전후 (카누는 물때 영향)",
+  "event": "",
+  "duration": "반나절",
+  "cost": "카누 체험 유료 (공식 확인)",
+  "walking": "적음",
+  "fit": "매우 잘 맞음",
+  "condition": "물때·강풍에 따라 카누 시간대 제한",
+  "caution": "아마미 섬 내는 노선버스뿐이라 시간표 확인",
+  "lat": 28.2581,
+  "lng": 129.4092,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/黒潮の森マングローブパーク"
   ],
   "region": "규슈"
  },
@@ -14080,6 +42797,84 @@ window.SPOTS = [
   "region": "규슈"
  },
  {
+  "id": "kagoshima-yakushima-hirauchi-kaichu-onsen",
+  "name_ko": "히라우치 해중온천",
+  "name_ja": "平内海中温泉",
+  "pref": "가고시마",
+  "area": "야쿠시마",
+  "categories": [
+   "onsen",
+   "cape"
+  ],
+  "summary": "바닷가 바위 사이에서 솟는 노천 온천으로, 간조 전후 약 2시간만 탕이 바다 위로 드러난다. 파도 소리 바로 앞의 혼욕탕.",
+  "do": "간조 시간에 맞춰 바위 위 탕에 몸 담그고 바다 바라보기",
+  "station": "가고시마추오역 (鹿児島中央)",
+  "access": "야쿠시마 미야노우라항에서 노선버스 80분 이상 (섬 남부)",
+  "jr_pass": [
+   "JR 큐슈 레일패스(전큐슈)",
+   "JR 큐슈 레일패스(남큐슈)"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "간조 시간대 (조석표 확인)",
+  "event": "",
+  "duration": "1~2시간",
+  "cost": "협력금 300엔",
+  "walking": "적음",
+  "fit": "매우 잘 맞음",
+  "condition": "간조 전후 약 2시간만 입욕 가능 / 파도 높으면 불가",
+  "caution": "탈의실 없는 혼욕. 섬 남부라 버스 편수 확인",
+  "lat": 30.2308,
+  "lng": 130.4833,
+  "url": "https://yakukan.jp/",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/平内海中温泉"
+  ],
+  "region": "규슈"
+ },
+ {
+  "id": "kagoshima-yakushima-nagata-inakahama",
+  "name_ko": "나가타 이나카하마 (바다거북 산란 해변)",
+  "name_ja": "永田いなか浜（屋久島）",
+  "pref": "가고시마",
+  "area": "야쿠시마 (나가타)",
+  "categories": [
+   "cape",
+   "nature",
+   "night"
+  ],
+  "summary": "야쿠시마 북서쪽 모래 해변. 붉은바다거북이 올라와 알을 낳는 해변으로 람사르 습지이며, 서쪽이라 노을도 좋다.",
+  "do": "낮엔 노을 해변 산책, 산란철 밤엔 지역 관찰회에 참가해 거북 산란 보기",
+  "station": "가고시마추오역 (鹿児島中央)",
+  "access": "미야노우라항에서 야쿠시마교통 버스 나가타 방면 (편수 적음)",
+  "jr_pass": [
+   "JR 큐슈 레일패스(전큐슈)",
+   "JR 큐슈 레일패스(남큐슈)"
+  ],
+  "seasons": [
+   "여름"
+  ],
+  "best_time": "5~7월 산란철, 맑은 날 일몰",
+  "event": "",
+  "duration": "반나절",
+  "cost": "관찰회 협력금 별도",
+  "walking": "적음",
+  "fit": "조건부",
+  "condition": "산란철 밤, 운 좋을 때만 거북",
+  "caution": "산란철 야간엔 해변 출입 규칙이 있어 관찰회로만. 플래시·조명 금지",
+  "lat": 30.4096,
+  "lng": 130.4354,
+  "url": "https://yakukan.jp/",
+  "sources": [
+   "https://nominatim.openstreetmap.org/search?q=永田いなか浜&format=json"
+  ],
+  "region": "규슈"
+ },
+ {
   "id": "kagoshima-nishi-oyama-kaimondake",
   "name_ko": "니시오야마역 (JR 최남단역)·가이몬다케 조망",
   "name_ja": "西大山駅・開聞岳",
@@ -14118,6 +42913,394 @@ window.SPOTS = [
    "https://ja.wikipedia.org/wiki/西大山駅",
    "https://ja.wikipedia.org/wiki/長崎鼻_(鹿児島県)",
    "https://ibusuki.or.jp/tourism/view/jrnishioyama/"
+  ],
+  "region": "규슈"
+ },
+ {
+  "id": "kagoshima-tanegashima-space-center",
+  "name_ko": "다네가시마 우주센터",
+  "name_ja": "種子島宇宙センター",
+  "pref": "가고시마",
+  "area": "다네가시마 (미나미타네)",
+  "categories": [
+   "culture",
+   "cape"
+  ],
+  "summary": "산호초 곶 옆 녹지에 발사대가 선 '세계에서 가장 아름다운 로켓 기지'. 우주과학기술관과 시설 투어가 있고 발사일엔 공식 견학장에서 볼 수 있다.",
+  "do": "우주과학기술관 관람·시설 투어, 발사 일정이 맞으면 하세 전망공원 등에서 발사 보기",
+  "station": "가고시마추오역 (鹿児島中央)",
+  "access": "가고시마항에서 고속선으로 니시노오모테항 → 섬 남단까지 노선버스는 편수가 매우 적어 렌터카·투어가 현실적",
+  "jr_pass": [
+   "JR 큐슈 레일패스(전큐슈)",
+   "JR 큐슈 레일패스(남큐슈)"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "로켓 발사일 (JAXA 발표 확인)",
+  "event": "로켓 발사: 부정기 (JAXA·발사업체 공지)",
+  "duration": "하루",
+  "cost": "우주과학기술관 무료로 알려짐 (공식 확인)",
+  "walking": "적음",
+  "fit": "조건부",
+  "condition": "발사는 날씨로 자주 연기",
+  "caution": "발사일 일부 견학장은 사전 추첨제. 발사 연기 대비 일정 여유",
+  "lat": 30.3748,
+  "lng": 130.9575,
+  "url": "https://fanfun.jaxa.jp/visit/tanegashima/",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/種子島宇宙センター"
+  ],
+  "region": "규슈"
+ },
+ {
+  "id": "kagoshima-shiroyama-observatory",
+  "name_ko": "시로야마 전망대 (사쿠라지마 야경)",
+  "name_ja": "城山展望台",
+  "pref": "가고시마",
+  "area": "가고시마시",
+  "categories": [
+   "view",
+   "night"
+  ],
+  "summary": "시가지 뒤 작은 산 위 전망대. 가고시마 시가지와 긴코만 너머 사쿠라지마를 한눈에 보는 대표 뷰포인트.",
+  "do": "낮엔 사쿠라지마 정면 조망, 해 질 녘엔 시가지 야경",
+  "station": "가고시마추오역 (鹿児島中央)",
+  "access": "가고시마추오역에서 카고시마 시티뷰 버스 '시로야마' 하차 도보 몇 분. 덴몬칸에서 걸어 오를 수도 있음",
+  "jr_pass": [
+   "JR 큐슈 레일패스(전큐슈)",
+   "JR 큐슈 레일패스(남큐슈)"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "맑은 날 오후~일몰. 야경은 시티뷰 야간 운행일 확인",
+  "event": "",
+  "duration": "1~2시간",
+  "cost": "무료",
+  "walking": "보통",
+  "fit": "조건부",
+  "condition": "맑은 날 사쿠라지마 / 강회·흐림이면 조망 약함",
+  "caution": "사쿠라지마 분화경계레벨(2026-10 기준 레벨3)과 강회 예보 확인",
+  "lat": 31.5963,
+  "lng": 130.5501,
+  "url": "https://www.kagoshima-yokanavi.jp/",
+  "sources": [
+   "https://nominatim.openstreetmap.org/search?q=城山展望台+鹿児島&format=json",
+   "https://ja.wikipedia.org/wiki/天文館"
+  ],
+  "region": "규슈"
+ },
+ {
+  "id": "kagoshima-amami-ayamaru-cape",
+  "name_ko": "아야마루곶 (아마미)",
+  "name_ja": "あやまる岬",
+  "pref": "가고시마",
+  "area": "아마미오시마 (가사리)",
+  "categories": [
+   "cape",
+   "view"
+  ],
+  "summary": "아마미 공항 북쪽 태평양으로 튀어나온 곶. 산호초 바다가 펼쳐지는 전망 공원.",
+  "do": "전망대에서 산호초 바다와 해안선 조망, 공항 오가는 길에 들르기",
+  "station": "없음 (항공·페리)",
+  "access": "아마미 공항에서 차로 약 10분. 노선버스 정류장은 시마버스 시간표에서 확인, 택시가 현실적",
+  "jr_pass": [],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을"
+  ],
+  "best_time": "맑은 날 낮",
+  "event": "",
+  "duration": "1~2시간",
+  "cost": "무료",
+  "walking": "적음",
+  "fit": "조건부",
+  "condition": "맑은 날 바다색",
+  "caution": "",
+  "lat": 28.473,
+  "lng": 129.7163,
+  "url": "",
+  "sources": [
+   "https://nominatim.openstreetmap.org/search?q=あやまる岬&format=json",
+   "https://tabi-mag.jp/kg0163/"
+  ],
+  "region": "규슈"
+ },
+ {
+  "id": "kagoshima-yakushima-jomon-sugi",
+  "name_ko": "야쿠시마 조몬스기 트레킹",
+  "name_ja": "縄文杉（屋久島）",
+  "pref": "가고시마",
+  "area": "야쿠시마",
+  "categories": [
+   "nature"
+  ],
+  "summary": "수령 수천 년으로 추정되는 야쿠시마 최대급 삼나무. 옛 삼림궤도(트롯코길)와 윌슨 그루터기를 지나는 왕복 8~10시간 산행 끝에 만난다.",
+  "do": "새벽 등산버스로 아라카와 등산구 출발, 트롯코길·윌슨 그루터기 거쳐 조몬스기까지 왕복",
+  "station": "가고시마추오역 (鹿児島中央)",
+  "access": "가고시마항에서 고속선·페리로 야쿠시마 → 아라카와 등산구는 3~11월 마이카 규제로 전용 등산버스만 (야쿠스기 자연관 등에서 환승)",
+  "jr_pass": [
+   "JR 큐슈 레일패스(전큐슈)",
+   "JR 큐슈 레일패스(남큐슈)"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을"
+  ],
+  "best_time": "4~11월",
+  "event": "",
+  "duration": "하루",
+  "cost": "등산버스 왕복 약 2,000~3,000엔 + 산악부 환경보전협력금 약 1,000엔",
+  "walking": "많음",
+  "fit": "조건부",
+  "condition": "폭우 시 등산로·버스 통제 / 대체: 시라타니운스이쿄 짧은 코스",
+  "caution": "왕복 8~10시간 산행이라 체력·등산화 필수, 가이드 동행 권장. 등산버스 표는 전날까지 구매. 2026년 운행기간·요금은 야쿠시마 관광협회 확인",
+  "lat": 30.3608,
+  "lng": 130.5317,
+  "url": "https://yakukan.jp/",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/縄文杉",
+   "https://www.veltra.com/jp/a/176238"
+  ],
+  "region": "규슈"
+ },
+ {
+  "id": "kagoshima-yoron-yurigahama",
+  "name_ko": "요론섬 유리가하마 (환상의 모래섬)",
+  "name_ja": "百合ヶ浜（与論島）",
+  "pref": "가고시마",
+  "area": "요론",
+  "categories": [
+   "cape",
+   "boat"
+  ],
+  "summary": "봄~가을 대조 간조 때만 바다 한가운데 떠오르는 하얀 모래톱. 오가네쿠 해안에서 글라스보트로 건너간다.",
+  "do": "글라스보트로 건너가 바다 한복판 모래톱 걷기, 별모래 찾기",
+  "station": "없음 (항공·페리)",
+  "access": "가고시마·나하에서 항공편 또는 페리로 요론섬 → 오가네쿠 해안에서 글라스보트 약 10분",
+  "jr_pass": [],
+  "seasons": [
+   "봄",
+   "여름"
+  ],
+  "best_time": "3~9월 중조~대조 간조 (출현일은 관광협회 확인)",
+  "event": "",
+  "duration": "반나절",
+  "cost": "글라스보트 왕복 약 2,000엔~",
+  "walking": "적음",
+  "fit": "조건부",
+  "condition": "간조·대조일만 출현 / 파도 높으면 보트 운휴",
+  "caution": "출현 시각·크기가 날마다 다름. 섬 접근 비용·시간이 큼",
+  "lat": 27.0389,
+  "lng": 128.4655,
+  "url": "https://www.yorontou.info/",
+  "sources": [
+   "https://nominatim.openstreetmap.org/search?q=百合ヶ浜&format=json",
+   "https://tabi-mag.jp/kg0199/"
+  ],
+  "region": "규슈"
+ },
+ {
+  "id": "kagoshima-izumi-crane-observation",
+  "name_ko": "이즈미 두루미 도래지 (두루미 관찰센터)",
+  "name_ja": "出水のツル渡来地・出水市ツル観察センター",
+  "pref": "가고시마",
+  "area": "이즈미",
+  "categories": [
+   "nature",
+   "snow"
+  ],
+  "summary": "흑두루미 약 1만·재두루미 약 3천 마리가 겨울을 나는 일본 최대 두루미 월동지. 관찰센터 옥상에서 논을 메운 두루미 떼를 본다.",
+  "do": "새벽 일제히 날아오르는 두루미 떼 보기, 관찰센터에서 망원경 관찰",
+  "station": "이즈미역 (出水)",
+  "access": "규슈 신칸센 이즈미역에서 택시 약 20분. 겨울철 두루미 관광 순환버스는 해마다 운행 여부 확인",
+  "jr_pass": [
+   "JR 큐슈 레일패스(전큐슈)",
+   "JR 큐슈 레일패스(남큐슈)"
+  ],
+  "seasons": [
+   "겨울"
+  ],
+  "best_time": "12~1월 (두루미 체류 10월 중순~3월)",
+  "event": "",
+  "duration": "반나절",
+  "cost": "관찰센터 유료 (수백 엔 수준, 공식 확인)",
+  "walking": "적음",
+  "fit": "조건부",
+  "condition": "두루미 체류기(겨울)에만",
+  "caution": "관찰센터는 11/1~3월 중순 무렵만 개관(종료일은 자료마다 다름). 조류독감 상황에 따라 관람 제한 가능",
+  "lat": 32.1011,
+  "lng": 130.2733,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/鹿児島県のツルおよびその渡来地",
+   "https://www.pref.kagoshima.jp/am01/202606161.html"
+  ],
+  "region": "규슈"
+ },
+ {
+  "id": "kagoshima-ibusuki-chiringashima",
+  "name_ko": "지린가시마 (썰물 모래길 섬)",
+  "name_ja": "知林ヶ島",
+  "pref": "가고시마",
+  "area": "이부스키",
+  "categories": [
+   "cape",
+   "nature"
+  ],
+  "summary": "3~10월 썰물 때 약 800m 모래톱이 드러나 걸어서 건너는 무인도. 길은 최대 약 4시간 열린다.",
+  "do": "간조 시간에 맞춰 모래길을 편도 약 20분 걸어 섬에 건너가기",
+  "station": "이부스키역 (指宿)",
+  "access": "이부스키역에서 다라곶(田良岬) 쪽 출발점까지 택시가 현실적",
+  "jr_pass": [
+   "JR 큐슈 레일패스(전큐슈)",
+   "JR 큐슈 레일패스(남큐슈)"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을"
+  ],
+  "best_time": "3~10월 대조 간조 전후",
+  "event": "",
+  "duration": "1~2시간",
+  "cost": "무료",
+  "walking": "보통",
+  "fit": "조건부",
+  "condition": "간조 때만 길이 열림 (조석표 확인) / 태풍 뒤 모래톱 유실 가능",
+  "caution": "만조 전에 반드시 돌아올 것. 주변 조류가 빠르고 무인도라 안전시설 최소",
+  "lat": 31.2769,
+  "lng": 130.6772,
+  "url": "https://www.ibusuki.or.jp/",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/知林ヶ島"
+  ],
+  "region": "규슈"
+ },
+ {
+  "id": "kagoshima-kirishima-jingu",
+  "name_ko": "기리시마 신궁",
+  "name_ja": "霧島神宮",
+  "pref": "가고시마",
+  "area": "기리시마",
+  "categories": [
+   "culture"
+  ],
+  "summary": "내부 장식이 화려해 '서쪽의 닛코'로 불리는 붉은 사전. 본전·폐전·배전이 2022년 국보가 됐고 수령 약 800년 신목 삼나무가 있다.",
+  "do": "삼나무 숲 참배길을 걸어 붉은 사전 참배, 신목 보기",
+  "station": "기리시마진구역 (霧島神宮)",
+  "access": "JR 닛포본선 기리시마진구역에서 가고시마교통 버스(기리시마 이와사키호텔행) 약 15분",
+  "jr_pass": [
+   "JR 큐슈 레일패스(전큐슈)",
+   "JR 큐슈 레일패스(남큐슈)"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "11월 단풍",
+  "event": "",
+  "duration": "1~2시간",
+  "cost": "참배 무료",
+  "walking": "보통",
+  "fit": "백업",
+  "condition": "",
+  "caution": "기리시마 연산(신모에다케 2026-09 기준 레벨2) 화산 정보는 기상청 확인. 마루오 온천과 같은 버스 노선",
+  "lat": 31.8589,
+  "lng": 130.8719,
+  "url": "https://www.kirishimajingu.or.jp/",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/霧島神宮"
+  ],
+  "region": "규슈"
+ },
+ {
+  "id": "kagoshima-sengan-en",
+  "name_ko": "센간엔 (사쿠라지마 차경 정원)",
+  "name_ja": "仙巌園",
+  "pref": "가고시마",
+  "area": "가고시마시",
+  "categories": [
+   "culture",
+   "view"
+  ],
+  "summary": "시마즈 가문 별저 정원. 긴코만 건너 사쿠라지마를 정원 풍경으로 끌어들였고, 경내 반사로 터는 '메이지 산업혁명 유산' 세계유산 구성 자산.",
+  "do": "사쿠라지마를 배경으로 정원 산책, 반사로 터와 인근 쇼코슈세이칸 둘러보기",
+  "station": "센간엔역 (仙巌園)",
+  "access": "JR 닛포본선 센간엔역(임시역급)에서 도보 1분, 또는 가고시마추오역에서 카고시마 시티뷰 버스 '센간엔마에'",
+  "jr_pass": [
+   "JR 큐슈 레일패스(전큐슈)",
+   "JR 큐슈 레일패스(남큐슈)"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "맑은 날",
+  "event": "",
+  "duration": "반나절",
+  "cost": "약 1,600엔",
+  "walking": "보통",
+  "fit": "백업",
+  "condition": "맑은 날 사쿠라지마 조망",
+  "caution": "사쿠라지마는 2026-10 기준 분화경계레벨3(입산 규제), 강회 날이 있음. 출발 전 기상청 확인",
+  "lat": 31.6172,
+  "lng": 130.5769,
+  "url": "https://www.senganen.jp/",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/仙巌園",
+   "https://www.data.jma.go.jp/fukuoka/gyomu/file/rpc_vol_20261020.pdf"
+  ],
+  "region": "규슈"
+ },
+ {
+  "id": "kagoshima-yakushima-oko-falls",
+  "name_ko": "오코노타키 폭포 (야쿠시마)",
+  "name_ja": "大川の滝",
+  "pref": "가고시마",
+  "area": "야쿠시마",
+  "categories": [
+   "nature"
+  ],
+  "summary": "낙차 88m로 바위벽을 쏟아지는 야쿠시마 최대급 폭포. 일본 폭포 100선.",
+  "do": "폭포 바로 앞 바위까지 가서 물보라 맞으며 감상",
+  "station": "가고시마추오역 (鹿児島中央)",
+  "access": "야쿠시마교통 노선버스 나가타·오코노타키선 종점 '오코노타키' 하차 도보 약 3분",
+  "jr_pass": [
+   "JR 큐슈 레일패스(전큐슈)",
+   "JR 큐슈 레일패스(남큐슈)"
+  ],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을"
+  ],
+  "best_time": "비 온 다음 날 수량 많을 때",
+  "event": "",
+  "duration": "1~2시간",
+  "cost": "무료",
+  "walking": "적음",
+  "fit": "백업",
+  "condition": "폭우 직후엔 접근 위험",
+  "caution": "종점까지 가는 버스 편수가 적어 시간표 확인",
+  "lat": 30.3,
+  "lng": 130.4141,
+  "url": "https://yakukan.jp/",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/大川の滝"
   ],
   "region": "규슈"
  },
@@ -14200,6 +43383,81 @@ window.SPOTS = [
   "region": "오키나와"
  },
  {
+  "id": "okinawa-kouri-island",
+  "name_ko": "고우리섬",
+  "name_ja": "古宇利島",
+  "pref": "오키나와",
+  "area": "나키진 (고우리섬)",
+  "categories": [
+   "cape",
+   "view"
+  ],
+  "summary": "에메랄드빛 바다 위를 약 2km 고우리 대교로 건너는 섬. 섬 북쪽 해변에 하트 모양 바위가 있다.",
+  "do": "다리 건너며 바다 보기, 하트 바위 해변 산책",
+  "station": "나고 버스터미널",
+  "access": "나고·모토부 쪽에서 やんばる急行バス 三島線(나키진성터 경유)으로 古宇利島 하차. 편수 적음",
+  "jr_pass": [],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을"
+  ],
+  "best_time": "맑은 날 낮(바다 색)",
+  "event": "",
+  "duration": "반나절",
+  "cost": "무료",
+  "walking": "보통",
+  "fit": "매우 잘 맞음",
+  "condition": "맑은 날 바다 색",
+  "caution": "버스 편수가 적어 시간표 필수. 섬 안 이동은 도보",
+  "lat": 26.7061,
+  "lng": 128.0178,
+  "url": "https://yanbaru-expressbus.com/",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/古宇利島",
+   "https://yanbaru-expressbus.com/"
+  ],
+  "region": "오키나와"
+ },
+ {
+  "id": "okinawa-kudaka-island",
+  "name_ko": "구다카지마 (신의 섬)",
+  "name_ja": "久高島",
+  "pref": "오키나와",
+  "area": "난조 (구다카지마)",
+  "categories": [
+   "cape",
+   "culture"
+  ],
+  "summary": "류큐 창세 신화의 시조신이 내려왔다는 신의 섬. 자전거로 한 바퀴 돌 수 있는 평평한 섬 끝 '카벨 곶'에서 바다만 보인다.",
+  "do": "렌털 자전거로 섬 일주, 카벨 곶까지",
+  "station": "나하 버스터미널",
+  "access": "東陽バス 38번으로 安座真港(아자마항) → 고속선 약 15분·페리 약 25분 → 도쿠진항",
+  "jr_pass": [],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "맑은 날",
+  "event": "",
+  "duration": "반나절",
+  "cost": "배·자전거 별도",
+  "walking": "적음",
+  "fit": "매우 잘 맞음",
+  "condition": "악천후 결항",
+  "caution": "출입 금지 성지(우타키)가 있어 표지 준수, 돌·조개 등 반출 금지",
+  "lat": 26.1578,
+  "lng": 127.8867,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/久高島",
+   "https://nominatim.openstreetmap.org/search?q=安座真港"
+  ],
+  "region": "오키나와"
+ },
+ {
   "id": "okinawa-naha-otsunahiki",
   "name_ko": "나하 오쓰나히키 (줄다리기 축제)",
   "name_ja": "那覇大綱挽",
@@ -14271,6 +43529,191 @@ window.SPOTS = [
    "https://ja.wikipedia.org/wiki/竹富島",
    "https://aneikankou.co.jp/timetable",
    "https://taketomijima.jp/"
+  ],
+  "region": "오키나와"
+ },
+ {
+  "id": "okinawa-tokashiki-island",
+  "name_ko": "도카시키섬 (게라마 제도)",
+  "name_ja": "渡嘉敷島",
+  "pref": "오키나와",
+  "area": "게라마 제도 (도카시키)",
+  "categories": [
+   "cape",
+   "nature",
+   "boat"
+  ],
+  "summary": "나하에서 배로 가는 게라마 제도의 가장 큰 섬. '게라마 블루' 바다의 아하렌 해변이 유명하고 겨울엔 혹등고래가 찾아온다.",
+  "do": "아하렌 해변 스노클, 겨울엔 고래 관찰선",
+  "station": "나하 도마리항",
+  "access": "나하 도마리항에서 고속선 약 35분·페리 약 70분 → 도카시키항에서 촌영버스로 아하렌",
+  "jr_pass": [],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "해수욕 5~10월, 고래 1~3월",
+  "event": "",
+  "duration": "하루",
+  "cost": "배 별도",
+  "walking": "적음",
+  "fit": "매우 잘 맞음",
+  "condition": "악천후 결항",
+  "caution": "",
+  "lat": 26.1978,
+  "lng": 127.3644,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/渡嘉敷島"
+  ],
+  "region": "오키나와"
+ },
+ {
+  "id": "okinawa-zento-eisa-matsuri",
+  "name_ko": "오키나와 전도 에이사 마쓰리",
+  "name_ja": "沖縄全島エイサーまつり",
+  "pref": "오키나와",
+  "area": "오키나와시 (고자)",
+  "categories": [
+   "festival",
+   "night"
+  ],
+  "summary": "오키나와 각지 에이사(북 치며 추는 백중 춤) 단체가 모이는 현 최대 에이사 축제. 수백 명이 큰북을 울리며 행진·공연한다.",
+  "do": "경기장 본 공연과 거리 행진 보기",
+  "station": "나하 버스터미널",
+  "access": "나하에서 노선버스로 약 1시간, 고자(胡屋) 부근 하차 → 회장(고자 운동공원 육상경기장)",
+  "jr_pass": [],
+  "seasons": [
+   "여름",
+   "가을"
+  ],
+  "best_time": "축제 3일간 저녁",
+  "event": "매년 구정 백중(旧盆) 다음 주말 3일간. 날짜는 매년 공식 확인 (대개 8월 말~9월)",
+  "duration": "하루",
+  "cost": "일부 유료 관람석",
+  "walking": "보통",
+  "fit": "매우 잘 맞음",
+  "condition": "태풍 시 중지·변경",
+  "caution": "매우 혼잡, 귀가 버스 확인. 6월부터 주말마다 '에이사 나이트' 소규모 공연도 있음",
+  "lat": 26.3332,
+  "lng": 127.7884,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/沖縄全島エイサーまつり",
+   "https://ja.wikipedia.org/wiki/沖縄市陸上競技場"
+  ],
+  "region": "오키나와"
+ },
+ {
+  "id": "okinawa-miyako-yonaha-maehama",
+  "name_ko": "요나하 마에하마 해변 (미야코)",
+  "name_ja": "与那覇前浜",
+  "pref": "오키나와",
+  "area": "미야코지마",
+  "categories": [
+   "cape",
+   "night"
+  ],
+  "summary": "'동양 제일'로 불리는 약 7km 백사장. 맞은편 구리마섬과 대교가 보이고 해 질 녘 노을이 아름답다.",
+  "do": "백사장 산책·해수욕, 노을 보기",
+  "station": "미야코 공항",
+  "access": "宮古協栄バス 9번 리조트선 '宮古島東急ホテル前' 하차 바로",
+  "jr_pass": [],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을"
+  ],
+  "best_time": "여름, 해 질 녘",
+  "event": "",
+  "duration": "반나절",
+  "cost": "무료",
+  "walking": "적음",
+  "fit": "매우 잘 맞음",
+  "condition": "맑은 날",
+  "caution": "버스 편수 확인",
+  "lat": 24.7361,
+  "lng": 125.2611,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/与那覇前浜"
+  ],
+  "region": "오키나와"
+ },
+ {
+  "id": "okinawa-iriomote-yubu-island",
+  "name_ko": "유부섬 물소차 (이리오모테)",
+  "name_ja": "由布島（水牛車）",
+  "pref": "오키나와",
+  "area": "야에야마 (이리오모테·유부)",
+  "categories": [
+   "cape",
+   "nature"
+  ],
+  "summary": "이리오모테섬 옆 얕은 바다를 물소가 끄는 수레로 건너가는 작은 섬. 섬 전체가 아열대 식물원이다.",
+  "do": "물소차로 바다 건너고 식물원 산책",
+  "station": "이시가키항 리토 터미널",
+  "access": "이시가키항에서 고속선 약 40분 → 오하라항에서 西表島交通 버스로 由布水牛車乗り場 → 물소차",
+  "jr_pass": [],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "연중",
+  "event": "",
+  "duration": "반나절",
+  "cost": "물소차 왕복+입장 약 2,000엔",
+  "walking": "적음",
+  "fit": "매우 잘 맞음",
+  "condition": "태풍·강풍 시 휴업, 만조 땐 개장 늦어질 수 있음",
+  "caution": "9:15~16:30 (최종 입장 15:45)",
+  "lat": 24.3428,
+  "lng": 123.9336,
+  "url": "https://www.yubujima.com/",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/由布島",
+   "https://www.yubujima.com/"
+  ],
+  "region": "오키나와"
+ },
+ {
+  "id": "okinawa-miyako-irabu-bridge-toguchi",
+  "name_ko": "이라부 대교·도구치 해변 (미야코)",
+  "name_ja": "伊良部大橋・渡口の浜",
+  "pref": "오키나와",
+  "area": "미야코지마 (이라부)",
+  "categories": [
+   "view",
+   "cape"
+  ],
+  "summary": "무료로 건널 수 있는 다리로는 일본에서 가장 긴 약 3.5km 이라부 대교. 다리 너머 이라부섬 도구치 해변은 고운 백사장과 투명한 바다.",
+  "do": "버스 차창으로 다리 위 바다 보고 도구치 해변에서 쉬기",
+  "station": "미야코 공항",
+  "access": "나하에서 비행기 약 50분. 宮古協栄バス 9번 리조트선(미야코지마 도큐호텔~이라부 대교~渡口の浜入口~시모지섬 공항). 편수 확인",
+  "jr_pass": [],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을"
+  ],
+  "best_time": "맑은 날 낮",
+  "event": "",
+  "duration": "반나절",
+  "cost": "버스 별도",
+  "walking": "적음",
+  "fit": "매우 잘 맞음",
+  "condition": "맑은 날 바다 색",
+  "caution": "버스 편수가 적음",
+  "lat": 24.8119,
+  "lng": 125.1784,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/伊良部大橋",
+   "https://ja.wikipedia.org/wiki/渡口の浜"
   ],
   "region": "오키나와"
  },
@@ -14353,6 +43796,117 @@ window.SPOTS = [
   "region": "오키나와"
  },
  {
+  "id": "okinawa-kohama-island",
+  "name_ko": "고하마섬",
+  "name_ja": "小浜島",
+  "pref": "오키나와",
+  "area": "야에야마 (고하마)",
+  "categories": [
+   "cape",
+   "view"
+  ],
+  "summary": "드라마 '추라상' 무대인 조용한 섬. 사탕수수밭 사이 '슈가 로드'를 지나 섬 꼭대기 우후다키에 오르면 야에야마 섬들이 둘러 보인다.",
+  "do": "전동자전거로 슈가 로드 달리고 우후다키 전망",
+  "station": "이시가키항 리토 터미널",
+  "access": "이시가키항에서 고속선 약 25~30분",
+  "jr_pass": [],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "맑은 날",
+  "event": "",
+  "duration": "하루",
+  "cost": "배·자전거 별도",
+  "walking": "보통",
+  "fit": "조건부",
+  "condition": "맑은 날 전망",
+  "caution": "노선버스 없음(2007년 폐지) → 렌털 자전거·전동카트 등 이용",
+  "lat": 24.3411,
+  "lng": 123.9808,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/小浜島"
+  ],
+  "region": "오키나와"
+ },
+ {
+  "id": "okinawa-nakijin-castle",
+  "name_ko": "나키진 성터",
+  "name_ja": "今帰仁城跡",
+  "pref": "오키나와",
+  "area": "나키진",
+  "categories": [
+   "culture",
+   "view"
+  ],
+  "summary": "류큐 통일 전 북산 왕의 성. 산등성이를 따라 구불구불 이어진 석벽이 장관이고, 1~2월엔 일본에서 가장 이른 벚꽃(히칸자쿠라)이 핀다. 세계유산.",
+  "do": "석벽 따라 성터 걷고 바다 조망",
+  "station": "나고 버스터미널",
+  "access": "나고 버스터미널에서 노선버스 65·66번 또는 やんばる急行バス로 今帰仁城跡入口 하차",
+  "jr_pass": [],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "1월 하순~2월 초 벚꽃",
+  "event": "매년 1~2월 '나키진 구스쿠 벚꽃 축제' (야간 라이트업, 날짜는 매년 공식 확인)",
+  "duration": "1~2시간",
+  "cost": "입장 소액",
+  "walking": "보통",
+  "fit": "조건부",
+  "condition": "",
+  "caution": "",
+  "lat": 26.6908,
+  "lng": 127.9298,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/今帰仁城"
+  ],
+  "region": "오키나와"
+ },
+ {
+  "id": "okinawa-maeda-misaki-blue-cave",
+  "name_ko": "마에다곶 (푸른 동굴)",
+  "name_ja": "真栄田岬（青の洞窟）",
+  "pref": "오키나와",
+  "area": "온나",
+  "categories": [
+   "cape",
+   "nature"
+  ],
+  "summary": "융기 산호초 절벽 아래 바닷물이 파랗게 빛나는 '푸른 동굴'이 있는 곶. 스노클·다이빙 명소이고 겨울엔 고래가 보이기도 한다.",
+  "do": "스노클 투어로 푸른 동굴 들어가기, 절벽 위 산책",
+  "station": "나하 버스터미널",
+  "access": "나하공항·나하에서 120번 버스로 久良波 하차 → 곶까지 도보 약 20분",
+  "jr_pass": [],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을"
+  ],
+  "best_time": "여름 잔잔한 날 오전",
+  "event": "",
+  "duration": "반나절",
+  "cost": "투어 별도 (시설 샤워 등 소액)",
+  "walking": "보통",
+  "fit": "조건부",
+  "condition": "파도 높으면 입수 금지(공식 사이트 당일 공지)",
+  "caution": "구명조끼 필수, 초보는 투어 이용",
+  "lat": 26.4454,
+  "lng": 127.7714,
+  "url": "https://maedamisaki.jp/",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/真栄田岬",
+   "https://maedamisaki.jp/"
+  ],
+  "region": "오키나와"
+ },
+ {
   "id": "okinawa-cape-manzamo",
   "name_ko": "만자모",
   "name_ja": "万座毛",
@@ -14387,6 +43941,118 @@ window.SPOTS = [
   "sources": [
    "https://ja.wikipedia.org/wiki/万座毛",
    "https://www.manzamo.jp/"
+  ],
+  "region": "오키나와"
+ },
+ {
+  "id": "okinawa-mihama-american-village",
+  "name_ko": "미하마 아메리칸 빌리지 (차탄)",
+  "name_ja": "美浜タウンリゾート・アメリカンビレッジ",
+  "pref": "오키나와",
+  "area": "차탄",
+  "categories": [
+   "city",
+   "night"
+  ],
+  "summary": "미국풍 상점가와 관람차가 있는 해변 지구. 바로 앞 선셋 비치에서 동중국해로 지는 해를 보기 좋다.",
+  "do": "해 질 녘 선셋 비치에서 노을 보고 상점가 저녁",
+  "station": "나하 버스터미널",
+  "access": "나하에서 국도 58호선 경유 노선버스(120번 등) 약 1시간, 美浜·軍病院前 부근 하차 도보",
+  "jr_pass": [],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "해 질 녘",
+  "event": "",
+  "duration": "반나절",
+  "cost": "무료",
+  "walking": "적음",
+  "fit": "조건부",
+  "condition": "맑은 날 노을",
+  "caution": "귀가 버스 혼잡·막차 확인",
+  "lat": 26.3162,
+  "lng": 127.7567,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/美浜タウンリゾート・アメリカンビレッジ"
+  ],
+  "region": "오키나와"
+ },
+ {
+  "id": "okinawa-bise-fukugi-namiki",
+  "name_ko": "비세 후쿠기 가로수길",
+  "name_ja": "備瀬のフクギ並木",
+  "pref": "오키나와",
+  "area": "모토부 (비세)",
+  "categories": [
+   "town",
+   "cape"
+  ],
+  "summary": "방풍림 후쿠기 나무가 터널처럼 둘러싼 바닷가 마을 골목. 골목 끝 비세곶 해변은 노을 명소.",
+  "do": "그늘진 후쿠기 골목 산책, 비세곶에서 노을 (추라우미 수족관과 묶기)",
+  "station": "나고 버스터미널",
+  "access": "나하·나고에서 고속버스 117번이나 やんばる急行バス로 記念公園前(추라우미) 하차 → 도보 약 15~20분",
+  "jr_pass": [],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "한낮(그늘)·해 질 녘",
+  "event": "",
+  "duration": "1~2시간",
+  "cost": "무료",
+  "walking": "보통",
+  "fit": "조건부",
+  "condition": "맑은 날 노을",
+  "caution": "주민이 사는 마을이라 정숙",
+  "lat": 26.7014,
+  "lng": 127.88,
+  "url": "",
+  "sources": [
+   "https://nominatim.openstreetmap.org/search?q=フクギ並木",
+   "https://ja.wikipedia.org/wiki/沖縄美ら海水族館"
+  ],
+  "region": "오키나와"
+ },
+ {
+  "id": "okinawa-yonaguni-irizaki",
+  "name_ko": "요나구니섬 이리자키 (일본 최서단)",
+  "name_ja": "与那国島 西崎",
+  "pref": "오키나와",
+  "area": "요나구니",
+  "categories": [
+   "cape",
+   "night"
+  ],
+  "summary": "일본 최서단 섬 요나구니의 서쪽 끝 곶. 일본에서 가장 늦게 해가 지는 곳이고, 아주 맑은 날엔 대만 산이 보인다.",
+  "do": "'일본 최서단의 땅' 비석 앞에서 일몰 보기",
+  "station": "요나구니 공항",
+  "access": "나하·이시가키에서 비행기. 섬 안은 町営バス(일주선) 몇 편 → 구부라 마을에서 언덕길 걸어 곶",
+  "jr_pass": [],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "맑은 날 일몰",
+  "event": "",
+  "duration": "1박 추천",
+  "cost": "항공 별도",
+  "walking": "보통",
+  "fit": "조건부",
+  "condition": "맑은 날만 대만 조망·일몰",
+  "caution": "섬 버스 편수가 적어 시간표 필수. 일몰 뒤 귀가 수단 확보(숙소 송영 등)",
+  "lat": 24.4494,
+  "lng": 122.9336,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/与那国島"
   ],
   "region": "오키나와"
  },
@@ -14465,6 +44131,43 @@ window.SPOTS = [
   "region": "오키나와"
  },
  {
+  "id": "okinawa-sefa-utaki",
+  "name_ko": "세화 우타키",
+  "name_ja": "斎場御嶽",
+  "pref": "오키나와",
+  "area": "난조",
+  "categories": [
+   "culture",
+   "nature"
+  ],
+  "summary": "류큐 왕국 최고의 성지로 세계유산. 거대한 바위 두 장이 기댄 삼각 틈 '산구이' 너머로 신의 섬 구다카지마가 보인다.",
+  "do": "숲길 따라 제사터 돌고 삼각 바위 틈에서 구다카지마 보기",
+  "station": "나하 버스터미널",
+  "access": "나하 버스터미널에서 東陽バス 38번 약 1시간, 斎場御嶽入口 하차 → 난조시 지역물산관에서 입장권 구매 후 도보",
+  "jr_pass": [],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "연중, 맑은 날",
+  "event": "",
+  "duration": "반나절",
+  "cost": "입장 약 300엔",
+  "walking": "보통",
+  "fit": "백업",
+  "condition": "비 오면 돌길 미끄러움",
+  "caution": "음력 5월 1~3일, 10월 1~3일 무렵 휴식일로 입장 불가. 성지라 정숙",
+  "lat": 26.1733,
+  "lng": 127.8267,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/斎場御嶽"
+  ],
+  "region": "오키나와"
+ },
+ {
   "id": "okinawa-shurijo",
   "name_ko": "슈리성",
   "name_ja": "首里城",
@@ -14504,6 +44207,44 @@ window.SPOTS = [
   "region": "오키나와"
  },
  {
+  "id": "okinawa-tsuboya-yachimun-street",
+  "name_ko": "쓰보야 야치문 거리",
+  "name_ja": "壺屋やちむん通り",
+  "pref": "오키나와",
+  "area": "나하",
+  "categories": [
+   "town",
+   "city"
+  ],
+  "summary": "류큐 도자기(쓰보야야키) 공방이 모인 돌길 골목. 오키나와 도자기를 사고, 옛 가마와 쓰보야 도자기 박물관을 볼 수 있다.",
+  "do": "돌길 산책하며 그릇 가게 구경",
+  "station": "마키시역 (유이레일)",
+  "access": "유이레일 마키시역에서 도보 약 10~15분, 고쿠사이도리에서 이어짐",
+  "jr_pass": [],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "연중",
+  "event": "",
+  "duration": "1~2시간",
+  "cost": "무료",
+  "walking": "적음",
+  "fit": "백업",
+  "condition": "",
+  "caution": "",
+  "lat": 26.2129,
+  "lng": 127.6918,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/壺屋焼",
+   "https://nominatim.openstreetmap.org/search?q=壺屋やちむん通り"
+  ],
+  "region": "오키나와"
+ },
+ {
   "id": "okinawa-churaumi-aquarium",
   "name_ko": "추라우미 수족관",
   "name_ja": "沖縄美ら海水族館",
@@ -14538,6 +44279,44 @@ window.SPOTS = [
   "sources": [
    "https://ja.wikipedia.org/wiki/沖縄美ら海水族館",
    "https://churaumi.okinawa/"
+  ],
+  "region": "오키나와"
+ },
+ {
+  "id": "okinawa-heiwa-kinen-koen",
+  "name_ko": "평화기념공원·평화의 초석",
+  "name_ja": "平和祈念公園・平和の礎",
+  "pref": "오키나와",
+  "area": "이토만 (마부니)",
+  "categories": [
+   "culture",
+   "cape"
+  ],
+  "summary": "오키나와 전투 마지막 격전지 마부니 언덕 해안 공원. 국적·군민 구분 없이 희생자 이름을 새긴 '평화의 초석'과 평화기념자료관이 있다.",
+  "do": "평화의 초석과 자료관 보고 해안 절벽 바라보기",
+  "station": "나하 버스터미널",
+  "access": "나하에서 89번 등으로 이토만 버스터미널 → 82번 약 25분, 平和祈念堂入口 하차",
+  "jr_pass": [],
+  "seasons": [
+   "봄",
+   "여름",
+   "가을",
+   "겨울"
+  ],
+  "best_time": "연중. 6월 23일 위령의 날엔 추도식",
+  "event": "",
+  "duration": "반나절",
+  "cost": "공원 무료 (자료관 소액)",
+  "walking": "보통",
+  "fit": "백업",
+  "condition": "",
+  "caution": "",
+  "lat": 26.0952,
+  "lng": 127.7258,
+  "url": "",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/平和の礎",
+   "https://ja.wikipedia.org/wiki/沖縄戦跡国定公園"
   ],
   "region": "오키나와"
  }

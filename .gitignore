@@ -1,5 +1,6 @@
 # 개인용(공개하지 않음)
 data/raw/
 data/SPEC.md
+data/existing.tsv
 scripts/
 .claude/
