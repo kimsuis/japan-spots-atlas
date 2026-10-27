@@ -195,6 +195,7 @@ main{flex:1;min-height:0;display:grid;grid-template-columns:minmax(360px,440px) 
   background:color-mix(in srgb,var(--surface) 92%,transparent);border:1px solid var(--line);box-shadow:var(--shadow-sm);font-size:12px;color:var(--muted)}
 .legend i{display:inline-block;width:10px;height:10px;border-radius:50%;border:2px solid #fff;box-shadow:0 0 0 1px var(--line);vertical-align:-1px;margin-right:4px}
 
+.legend .hint{padding-left:10px;border-left:1px solid var(--line)}
 .viewtoggle{display:none}
 
 /* ── 모바일 ───────────────────────── */
@@ -219,6 +220,7 @@ main{flex:1;min-height:0;display:grid;grid-template-columns:minmax(360px,440px) 
     align-items:center;gap:8px;box-shadow:0 6px 20px rgba(0,0,0,.25)}
   body.detail-open .viewtoggle{display:none}
   .legend{bottom:76px}
+  .legend .hint{display:none}
 }
 </style>
 </head>
@@ -256,7 +258,7 @@ main{flex:1;min-height:0;display:grid;grid-template-columns:minmax(360px,440px) 
   </section>
   <section id="mapwrap" aria-label="지도">
     <div id="map"></div>
-    <div class="legend"><span><i style="background:var(--accent)"></i>장소 묶음</span><span id="lg-been" hidden><i style="background:#999;opacity:.55"></i>가 본 지역</span></div>
+    <div class="legend"><span><i style="background:var(--accent)"></i>장소 묶음</span><span id="lg-been" hidden><i style="background:#999;opacity:.55"></i>가 본 지역</span><span class="hint">터치패드: 두 손가락 이동 · 핀치 확대</span></div>
   </section>
 </main>
 <button class="viewtoggle" id="vt">🗺️ 지도 보기</button>
@@ -345,6 +347,34 @@ const isDark = () => root.dataset.theme ? root.dataset.theme === "dark" : mq.mat
 
 const map = L.map("map", { zoomControl:false, minZoom:4, maxZoom:16, worldCopyJump:true }).setView([36.2, 137.8], 5);
 L.control.zoom({ position:"topright" }).addTo(map);
+
+// 노트북 터치패드: 두 손가락 드래그 = 이동, 핀치(또는 Ctrl+휠) = 확대/축소. 일반 마우스 휠은 그대로 확대/축소
+map.scrollWheelZoom.disable();
+(() => {
+  const el = map.getContainer();
+  let pinchAcc = 0, busy = false;
+  const zoomAt = (e, dir) => {
+    if (busy) return;
+    const z = Math.min(map.getMaxZoom(), Math.max(map.getMinZoom(), map.getZoom() + dir));
+    if (z === map.getZoom()) return;
+    busy = true;
+    map.setZoomAround(map.mouseEventToContainerPoint(e), z);
+    setTimeout(() => busy = false, 260);
+  };
+  el.addEventListener("wheel", e => {
+    e.preventDefault();
+    const unit = e.deltaMode === 1 ? 16 : e.deltaMode === 2 ? el.clientHeight : 1;
+    const dx = e.deltaX * unit, dy = e.deltaY * unit;
+    if (e.ctrlKey){                                   // 핀치 제스처는 브라우저가 ctrl+휠로 보냄
+      pinchAcc += dy;
+      if (Math.abs(pinchAcc) > 40){ zoomAt(e, pinchAcc < 0 ? 1 : -1); pinchAcc = 0; }
+      return;
+    }
+    const mouseWheel = e.deltaX === 0 && (e.deltaMode !== 0 || (Number.isInteger(e.deltaY) && Math.abs(e.deltaY) >= 50));
+    if (mouseWheel){ zoomAt(e, dy < 0 ? 1 : -1); return; }
+    map.panBy([dx, dy], { animate:false });
+  }, { passive:false });
+})();
 const ESRI = "https://server.arcgisonline.com/ArcGIS/rest/services/Canvas/";
 const ATTR = 'Tiles &copy; <a href="https://www.esri.com/">Esri</a> — Esri, HERE, Garmin, &copy; OpenStreetMap contributors';
 let tiles = [];
