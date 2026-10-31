@@ -2,5 +2,6 @@
 data/raw/
 data/SPEC.md
 data/existing.tsv
+data/FILL.md
 scripts/
 .claude/

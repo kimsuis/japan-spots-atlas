@@ -76,7 +76,7 @@ select.pill{appearance:none;-webkit-appearance:none;padding-right:30px;
   background-repeat:no-repeat;background-position:right 12px center}
 .pill:hover{border-color:var(--muted)}
 .pill.on{background:var(--ink);color:var(--bg);border-color:var(--ink)}
-select.pill.on{background-image:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='10' height='6' fill='none' stroke='%23999' stroke-width='1.6'%3E%3Cpath d='M1 1l4 4 4-4'/%3E%3C/svg%3E")}
+select.pill.on{background-repeat:no-repeat;background-position:right 12px center;background-image:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='10' height='6' fill='none' stroke='%23999' stroke-width='1.6'%3E%3Cpath d='M1 1l4 4 4-4'/%3E%3C/svg%3E")}
 .sep{width:1px;height:20px;background:var(--line);flex:none;margin:0 2px}
 .count{margin-left:auto;flex:none;font-size:13px;color:var(--muted);white-space:nowrap;padding-left:8px}
 .count b{color:var(--ink);font-weight:700}
@@ -115,6 +115,15 @@ main{flex:1;min-height:0;display:grid;grid-template-columns:minmax(360px,440px) 
 .meta{display:flex;flex-wrap:wrap;gap:4px 10px;margin-top:7px;font-size:12px;color:var(--muted)}
 .meta span{display:inline-flex;align-items:center;gap:3px}
 .been{color:var(--good)!important;font-weight:600}
+.dist{color:var(--accent)!important;font-weight:700}
+.star{flex:none;width:30px;height:30px;margin:-4px -4px 0 0;border:0;background:none;border-radius:8px;font-size:18px;line-height:1;
+  color:var(--muted);display:grid;place-items:center;opacity:.55;transition:opacity .12s,transform .12s}
+.star:hover{opacity:1;background:var(--chip)}
+.star.on{color:#f0a500;opacity:1}
+.card:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+.d-bar .star{margin:0 0 0 auto;width:auto;padding:0 12px;height:34px;font-size:14px;font-weight:600;gap:5px;display:inline-flex;align-items:center;opacity:1;color:var(--ink-2);border:1px solid var(--line)}
+.d-bar .star.on{color:#c98a00;border-color:#f0c040;background:color-mix(in srgb,#f0a500 12%,var(--surface))}
+.pill .n{font-size:12px;opacity:.75}
 
 .fit{flex:none;font-size:11px;font-weight:700;border-radius:6px;padding:2px 7px;line-height:1.5;white-space:nowrap}
 .fit.f0{background:var(--good-soft);color:var(--good)}
@@ -244,9 +253,15 @@ main{flex:1;min-height:0;display:grid;grid-template-columns:minmax(360px,440px) 
   <select class="pill" id="f-fit" aria-label="추천도"><option value="">모든 추천도</option></select>
   <select class="pill" id="f-pass" aria-label="JR 패스"><option value="">모든 패스</option></select>
   <span class="sep"></span>
+  <select class="pill" id="f-base" aria-label="거점 도시"><option value="">📍 거점 도시</option></select>
+  <select class="pill" id="f-radius" aria-label="거점에서 반경" hidden>
+    <option value="0">반경 전체</option><option value="40">40km 안</option><option value="80">80km 안</option><option value="150">150km 안</option>
+  </select>
+  <span class="sep"></span>
   <button class="pill" id="f-walk" aria-pressed="false">🚶 걷기 적음</button>
   <button class="pill" id="f-unv" aria-pressed="false" hidden>✨ 안 가 본 곳</button>
-  <select class="pill" id="f-sort" aria-label="정렬"><option value="region">지역순</option><option value="fit">추천순</option></select>
+  <button class="pill" id="f-fav" aria-pressed="false">★ 찜 <span class="n" id="favn"></span></button>
+  <select class="pill" id="f-sort" aria-label="정렬"><option value="region">지역순</option><option value="fit">추천순</option><option value="dist" disabled>거리순</option></select>
   <span class="count" id="count"></span>
   <button class="reset" id="reset" hidden>초기화</button>
 </nav>
@@ -295,7 +310,23 @@ const visited = new Set(Array.isArray(window.VISITED_AREAS) ? window.VISITED_ARE
 const been = s => visited.has(s.id) || visited.has(s.area);
 const $ = id => document.getElementById(id);
 
-const state = { q:"", region:"", season:"", fit:"", pass:"", walk:false, unv:false, cats:new Set(), sort: store.get("jsa.sort") || "region" };
+// 거점 도시 (주요 역 좌표) — 한 도시에 묵으며 당일치기하는 여행 방식용
+const HUBS = [
+  ["삿포로",43.0686,141.3508],["아사히카와",43.7627,142.3581],["하코다테",41.7738,140.7264],["구시로",42.9900,144.3820],
+  ["아오모리",40.8286,140.7343],["모리오카",39.7016,141.1365],["센다이",38.2601,140.8822],["아키타",39.7170,140.1293],
+  ["야마가타",38.2486,140.3276],["후쿠시마",37.7542,140.4592],["도쿄",35.6812,139.7671],["우쓰노미야",36.5592,139.8985],
+  ["니가타",37.9122,139.0618],["나가노",36.6431,138.1887],["마쓰모토",36.2311,137.9645],["도야마",36.7012,137.2133],
+  ["가나자와",36.5781,136.6478],["나고야",35.1709,136.8815],["시즈오카",34.9719,138.3890],["교토",34.9858,135.7588],
+  ["오사카",34.7025,135.4959],["고베",34.6946,135.1955],["오카야마",34.6664,133.9180],["히로시마",34.3976,132.4753],
+  ["요나고",35.4239,133.3394],["마쓰에",35.4642,133.0630],["다카마쓰",34.3506,134.0469],["마쓰야마",33.8337,132.7517],
+  ["고치",33.5672,133.5435],["하카타",33.5897,130.4207],["나가사키",32.7522,129.8697],["구마모토",32.7895,130.6886],
+  ["오이타",33.2333,131.6063],["미야자키",31.9152,131.4325],["가고시마",31.5838,130.5413],["나하",26.2124,127.6792]
+];
+const favs = new Set((store.get("jsa.fav") || "").split("|").filter(Boolean));
+const saveFavs = () => { store.set("jsa.fav", [...favs].join("|")); $("favn").textContent = favs.size || ""; };
+
+const state = { q:"", region:"", season:"", fit:"", pass:"", walk:false, unv:false, fav:false, base:"", radius:0, cats:new Set(), sort: store.get("jsa.sort") || "region" };
+if (state.sort === "dist") state.sort = "region";
 
 /* 필터 UI */
 const opt = (sel, v, t) => { const o = document.createElement("option"); o.value = v; o.textContent = t; sel.appendChild(o); };
@@ -304,7 +335,9 @@ SEASONS.forEach(s => opt($("f-season"), s, `${SEASON_E[s]} ${s}`));
 FITS.forEach(f => opt($("f-fit"), f, FIT_LABEL[f]));
 [...new Set(SPOTS.flatMap(s => s.jr_pass))].sort((a,b) => a.localeCompare(b,"ko")).forEach(p => opt($("f-pass"), p, p));
 opt($("f-pass"), "__none", "JR 패스 없이 (사철·버스·배)");
+HUBS.forEach(([n]) => opt($("f-base"), n, `📍 ${n} 거점`));
 $("f-sort").value = state.sort;
+saveFavs();
 
 const cats = $("cats");
 Object.entries(CATS).forEach(([k,[label,color,e]]) => {
@@ -318,19 +351,34 @@ Object.entries(CATS).forEach(([k,[label,color,e]]) => {
 ["region","season","fit","pass"].forEach(k => $("f-"+k).addEventListener("change", e => {
   state[k] = e.target.value; syncUI(); render(k === "region");
 }));
-$("f-sort").addEventListener("change", e => { state.sort = e.target.value; store.set("jsa.sort", state.sort); render(); });
+$("f-sort").addEventListener("change", e => { state.sort = e.target.value; if (state.sort !== "dist") store.set("jsa.sort", state.sort); render(); });
+$("f-base").addEventListener("change", e => {
+  state.base = e.target.value;
+  const dist = $("f-sort").querySelector('[value="dist"]');
+  dist.disabled = !state.base;
+  $("f-radius").hidden = !state.base;
+  if (state.base) { state.sort = "dist"; if (!state.radius) state.radius = 80; }
+  else { state.radius = 0; if (state.sort === "dist") state.sort = store.get("jsa.sort") || "region"; }
+  $("f-radius").value = String(state.radius); $("f-sort").value = state.sort;
+  syncUI(); render(true);
+});
+$("f-radius").addEventListener("change", e => { state.radius = +e.target.value; syncUI(); render(true); });
 $("f-walk").onclick = () => { state.walk = !state.walk; syncUI(); render(); };
 $("f-unv").onclick = () => { state.unv = !state.unv; syncUI(); render(); };
+$("f-fav").onclick = () => { state.fav = !state.fav; syncUI(); render(); };
 if (visited.size){ $("f-unv").hidden = false; $("lg-been").hidden = false; }
 let qt; $("q").addEventListener("input", e => { clearTimeout(qt); qt = setTimeout(() => { state.q = e.target.value.trim().toLowerCase(); syncUI(); render(); }, 120); });
 $("reset").onclick = () => {
-  Object.assign(state, { q:"", region:"", season:"", fit:"", pass:"", walk:false, unv:false }); state.cats.clear();
+  Object.assign(state, { q:"", region:"", season:"", fit:"", pass:"", walk:false, unv:false, fav:false }); state.cats.clear();
   ["region","season","fit","pass"].forEach(k => $("f-"+k).value = ""); $("q").value = "";
+  if (state.base){ $("f-base").value = ""; $("f-base").dispatchEvent(new Event("change")); return; }
   syncUI(); render(true);
 };
-function active(){ return !!(state.q || state.region || state.season || state.fit || state.pass || state.walk || state.unv || state.cats.size); }
+function active(){ return !!(state.q || state.region || state.season || state.fit || state.pass || state.walk || state.unv || state.fav || state.base || state.cats.size); }
 function syncUI(){
-  ["region","season","fit","pass"].forEach(k => $("f-"+k).classList.toggle("on", !!state[k]));
+  ["region","season","fit","pass","base"].forEach(k => $("f-"+k).classList.toggle("on", !!state[k]));
+  $("f-radius").classList.toggle("on", !!state.radius);
+  $("f-fav").classList.toggle("on", state.fav); $("f-fav").setAttribute("aria-pressed", state.fav);
   $("f-walk").classList.toggle("on", state.walk); $("f-walk").setAttribute("aria-pressed", state.walk);
   $("f-unv").classList.toggle("on", state.unv); $("f-unv").setAttribute("aria-pressed", state.unv);
   cats.querySelectorAll(".cat").forEach(b => { const on = state.cats.has(b.dataset.k); b.classList.toggle("on", on); b.setAttribute("aria-pressed", on); });
@@ -422,6 +470,8 @@ function matches(s){
   if (state.pass === "__none" ? s.jr_pass.length : state.pass && !s.jr_pass.includes(state.pass)) return false;
   if (state.walk && s.walking !== "적음") return false;
   if (state.unv && been(s)) return false;
+  if (state.fav && !favs.has(s.id)) return false;
+  if (state.base && state.radius && distOf(s) > state.radius) return false;
   if (state.cats.size && !s.categories.some(c => state.cats.has(c))) return false;
   if (state.q){
     const hay = [s.name_ko,s.name_ja,s.pref,s.region,s.area,s.station,s.summary,s.do,s.event,...s.jr_pass,...s.categories.map(c=>CATS[c]?.[0])].join(" ").toLowerCase();
@@ -429,23 +479,33 @@ function matches(s){
   }
   return true;
 }
+const hub = () => HUBS.find(h => h[0] === state.base);
+const distOf = s => { const h = hub(); return h ? km({lat:h[1], lng:h[2]}, s) : 0; };
 function card(s){
   const c = cat0(s);
-  return `<button class="card" id="c-${esc(s.id)}" data-id="${esc(s.id)}">
+  const fav = favs.has(s.id);
+  return `<article class="card" tabindex="0" role="button" id="c-${esc(s.id)}" data-id="${esc(s.id)}">
     <div class="thumb" style="--c:${c[1]}">${c[2]}</div>
     <div class="cbody">
-      <div class="ctop"><h3>${esc(s.name_ko)}</h3><span class="fit ${FIT_CLS[s.fit]}">${FIT_LABEL[s.fit]}</span></div>
+      <div class="ctop"><h3>${esc(s.name_ko)}</h3><span class="fit ${FIT_CLS[s.fit]}">${FIT_LABEL[s.fit]}</span>
+        <button class="star${fav ? " on" : ""}" data-star="${esc(s.id)}" aria-pressed="${fav}" title="찜하기" aria-label="찜하기">${fav ? "★" : "☆"}</button></div>
       <div class="sub">${esc(s.pref)} · ${esc(s.area)} · ${s.categories.map(k => CATS[k]?.[0]).filter(Boolean).join(", ")}</div>
       <p class="sum">${esc(s.summary)}</p>
-      <div class="meta"><span>⏱ ${esc(s.duration)}</span><span>🚶 걷기 ${esc(s.walking)}</span><span>${s.seasons.length === 4 ? "📅 사계절" : s.seasons.map(x => SEASON_E[x]).join("")+" "+s.seasons.join("·")}</span>${s.jr_pass.length ? `<span>🎫 패스 ${s.jr_pass.length}종</span>` : ""}${been(s) ? `<span class="been">✓ 가 본 지역</span>` : ""}</div>
-    </div></button>`;
+      <div class="meta">${state.base ? `<span class="dist">📍 ${state.base}에서 ${Math.round(distOf(s))}km</span>` : ""}<span>⏱ ${esc(s.duration)}</span><span>🚶 걷기 ${esc(s.walking)}</span><span>${s.seasons.length === 4 ? "📅 사계절" : s.seasons.map(x => SEASON_E[x]).join("")+" "+s.seasons.join("·")}</span>${s.jr_pass.length ? `<span>🎫 패스 ${s.jr_pass.length}종</span>` : ""}${been(s) ? `<span class="been">✓ 가 본 지역</span>` : ""}</div>
+    </div></article>`;
 }
 let shown = [];
 function render(fitRegion){
   shown = SPOTS.filter(matches);
   if (state.sort === "fit") shown = [...shown].sort((a,b) => FIT_RANK[a.fit] - FIT_RANK[b.fit] || REGIONS.indexOf(a.region) - REGIONS.indexOf(b.region));
+  if (state.sort === "dist") shown = [...shown].sort((a,b) => distOf(a) - distOf(b));
   let html = "";
-  if (state.sort === "region"){
+  if (state.sort === "dist"){
+    const BANDS = [[20,"20km 안 · 시내·근교"],[50,"20~50km · 가벼운 당일치기"],[100,"50~100km · 당일치기"],[150,"100~150km · 먼 당일치기"],[Infinity,"150km 넘음 · 1박 고려"]];
+    const band = s => BANDS.findIndex(([m]) => distOf(s) <= m);
+    let cur = -1;
+    shown.forEach(s => { const b = band(s); if (b !== cur){ cur = b; html += `<div class="group"><h2>${BANDS[b][1]}</h2><i>${shown.filter(x => band(x) === b).length}곳</i></div>`; } html += card(s); });
+  } else if (state.sort === "region"){
     const counts = {}; shown.forEach(s => counts[s.pref] = (counts[s.pref] || 0) + 1);
     let cur = "";
     shown.forEach(s => {
@@ -462,10 +522,34 @@ function render(fitRegion){
   $("count").innerHTML = active() ? `<b>${shown.length}</b> / ${SPOTS.length}곳` : `<b>${SPOTS.length}</b>곳`;
   cluster.clearLayers();
   cluster.addLayers(shown.map(s => markers.get(s.id)));
-  if (fitRegion && shown.length) map.fitBounds(shown.map(s => [s.lat, s.lng]), { padding:[40,40], maxZoom:9 });
+  drawBase();
+  if (fitRegion && state.base && hub()){
+    const h = hub();
+    map.fitBounds(L.latLng(h[1], h[2]).toBounds((state.radius || 120) * 2000), { padding:[20,20] });
+  } else if (fitRegion && shown.length) map.fitBounds(shown.map(s => [s.lat, s.lng]), { padding:[40,40], maxZoom:9 });
   const sel = currentId && $("c-" + currentId); if (sel) sel.classList.add("sel");
 }
-$("list").addEventListener("click", e => { const c = e.target.closest(".card"); if (c) openDetail(c.dataset.id); });
+let baseLayer = null;
+function drawBase(){
+  if (baseLayer){ map.removeLayer(baseLayer); baseLayer = null; }
+  const h = hub(); if (!h) return;
+  baseLayer = L.layerGroup([
+    ...(state.radius ? [L.circle([h[1], h[2]], { radius: state.radius * 1000, color:"#d4442a", weight:1.5, dashArray:"6 6", fillColor:"#d4442a", fillOpacity:.05, interactive:false })] : []),
+    L.marker([h[1], h[2]], { interactive:false, zIndexOffset:900,
+      icon: L.divIcon({ className:"", iconSize:[0,0], html:`<div class="cluster" style="width:auto;height:30px;padding:0 10px;border-radius:999px;transform:translate(-50%,-50%);white-space:nowrap;background:var(--ink);color:var(--bg)">📍 ${h[0]}</div>` }) })
+  ]).addTo(map);
+}
+function toggleFav(id){
+  favs.has(id) ? favs.delete(id) : favs.add(id); saveFavs();
+  document.querySelectorAll(`[data-star="${CSS.escape(id)}"]`).forEach(b => { const on = favs.has(id); b.classList.toggle("on", on); b.setAttribute("aria-pressed", on);
+    b.innerHTML = b.closest(".d-bar") ? (on ? "★ 찜함" : "☆ 찜하기") : (on ? "★" : "☆"); });
+  if (state.fav) render();
+}
+$("list").addEventListener("click", e => {
+  const st = e.target.closest("[data-star]"); if (st){ e.stopPropagation(); toggleFav(st.dataset.star); return; }
+  const c = e.target.closest(".card"); if (c) openDetail(c.dataset.id);
+});
+$("list").addEventListener("keydown", e => { if ((e.key === "Enter" || e.key === " ") && e.target.classList.contains("card")){ e.preventDefault(); openDetail(e.target.dataset.id); } });
 
 /* 상세 */
 const km = (a,b) => { const R=6371, r=x=>x*Math.PI/180, dl=r(b.lat-a.lat), dg=r(b.lng-a.lng);
@@ -477,17 +561,20 @@ function openDetail(id, opts = {}){
   const c = cat0(s);
   const near = SPOTS.filter(x => x.id !== id).map(x => [x, km(s,x)]).filter(([,d]) => d < 70).sort((a,b) => a[1]-b[1]).slice(0,4);
   const gmap = `https://www.google.com/maps/search/?api=1&query=${s.lat},${s.lng}`;
+  const wiki = (s.sources || []).find(u => /ja\.wikipedia\.org\/wiki\//.test(u));
   const d = $("detail");
   d.style.setProperty("--c", c[1]);
   d.innerHTML = `
-    <div class="d-bar"><button class="back" id="back"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"><path d="M15 18l-6-6 6-6"/></svg>목록</button></div>
+    <div class="d-bar"><button class="back" id="back"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"><path d="M15 18l-6-6 6-6"/></svg>목록</button>
+      <button class="star${favs.has(id) ? " on" : ""}" data-star="${esc(id)}" aria-pressed="${favs.has(id)}">${favs.has(id) ? "★ 찜함" : "☆ 찜하기"}</button></div>
     <div class="hero">
       <div class="big">${c[2]}</div>
       <h2>${esc(s.name_ko)}</h2>
       <div class="ja">${esc(s.name_ja)}</div>
       <div class="loc"><span class="fit ${FIT_CLS[s.fit]}">${FIT_LABEL[s.fit]}</span><span class="tag">${[...new Set([s.region, s.pref])].map(esc).join(" · ")} · ${esc(s.area)}</span>
         ${s.categories.map(k => CATS[k] ? `<span class="tag c" style="--c:${CATS[k][1]}">${CATS[k][2]} ${CATS[k][0]}</span>` : "").join("")}
-        ${been(s) ? `<span class="tag" style="background:var(--good-soft);color:var(--good)">✓ 가 본 지역</span>` : ""}</div>
+        ${been(s) ? `<span class="tag" style="background:var(--good-soft);color:var(--good)">✓ 가 본 지역</span>` : ""}
+        ${state.base ? `<span class="tag" style="background:var(--accent-soft);color:var(--accent)">📍 ${state.base}에서 직선 ${Math.round(distOf(s))}km</span>` : ""}</div>
     </div>
     <div class="d-body">
       <p class="lead">${esc(s.summary)}</p>
@@ -507,7 +594,8 @@ function openDetail(id, opts = {}){
       ${s.condition ? `<div class="note cond"><b>🌤 날씨·조건</b>${esc(s.condition)}</div>` : ""}
       ${s.caution ? `<div class="note warn"><b>⚠️ 주의</b>${esc(s.caution)}</div>` : ""}
       <div class="links">
-        ${s.url ? `<a class="btn primary" href="${esc(s.url)}" target="_blank" rel="noopener">공식 사이트 ↗</a>` : ""}
+        ${s.url ? `<a class="btn primary" href="${esc(s.url)}" target="_blank" rel="noopener">공식 사이트 ↗</a>`
+          : wiki ? `<a class="btn primary" href="${esc(wiki)}" target="_blank" rel="noopener">위키백과 (일본어) ↗</a>` : ""}
         <a class="btn" href="${gmap}" target="_blank" rel="noopener">📍 구글 지도</a>
       </div>
       ${(s.sources||[]).length ? `<div class="srcs">출처 ${s.sources.map((u,i) => `<a href="${esc(u)}" target="_blank" rel="noopener">[${i+1}]</a>`).join("")}</div>` : ""}
@@ -517,6 +605,7 @@ function openDetail(id, opts = {}){
   d.scrollTop = 0;
   d.classList.add("open"); document.body.classList.add("detail-open");
   $("back").onclick = closeDetail;
+  d.querySelector(".d-bar [data-star]").onclick = () => toggleFav(id);
   d.querySelectorAll(".near button").forEach(b => b.onclick = () => openDetail(b.dataset.id));
   document.querySelectorAll(".card.sel").forEach(x => x.classList.remove("sel"));
   $("c-" + id)?.classList.add("sel");
