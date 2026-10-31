@@ -70,12 +70,13 @@ window.SPOTS = [
   "walking": "적음",
   "fit": "매우 잘 맞음",
   "condition": "",
-  "caution": "새벽 청소 시간엔 입욕 불가(시간은 현지 확인). 수영복 불가, 현지 매너 지킬 것",
+  "caution": "새벽 3~7시 사이에 청소하는 경우가 있어 그동안은 입욕 불가. 지역 주민이 관리하는 탕이라 입욕 규칙(10개조)을 지킬 것, 수영복 불가",
   "lat": 44.0319,
   "lng": 145.1554,
-  "url": "",
+  "url": "http://kanko.rausu-town.jp/spots/view/28",
   "sources": [
-   "https://www.visit-hokkaido.jp/spot/detail_10507.html"
+   "https://www.visit-hokkaido.jp/spot/detail_10507.html",
+   "http://kanko.rausu-town.jp/spots/view/28"
   ],
   "region": "홋카이도"
  },
@@ -151,7 +152,7 @@ window.SPOTS = [
   "caution": "공중 목욕탕은 없고 여관 당일 입욕만",
   "lat": 42.6214,
   "lng": 141.0233,
-  "url": "",
+  "url": "https://www.visit-hokkaido.jp/spa/spot/detail_10618.html",
   "sources": [
    "https://ja.wikipedia.org/wiki/北湯沢温泉"
   ],
@@ -308,16 +309,17 @@ window.SPOTS = [
   "best_time": "9월 중순~하순 고산 단풍. 겨울엔 스키장",
   "event": "",
   "duration": "반나절",
-  "cost": "로프웨이 왕복 수천 엔 수준 (현지 확인)",
+  "cost": "로프웨이 왕복 약 3,000엔, 리프트 왕복 약 1,200엔",
   "walking": "보통",
   "fit": "매우 잘 맞음",
   "condition": "맑은 날 전망 / 강풍 시 운휴. 리프트는 5월·11월 정비 휴지",
-  "caution": "",
+  "caution": "2026/11/9~11/30 정기 점검 운휴",
   "lat": 43.7111,
   "lng": 142.9402,
-  "url": "",
+  "url": "https://www.rinyu.co.jp/kurodake/",
   "sources": [
-   "https://ja.wikipedia.org/wiki/大雪山層雲峡・黒岳ロープウェイ"
+   "https://ja.wikipedia.org/wiki/大雪山層雲峡・黒岳ロープウェイ",
+   "https://www.rinyu.co.jp/kurodake/"
   ],
   "region": "홋카이도"
  },
@@ -388,7 +390,7 @@ window.SPOTS = [
   "best_time": "바닷새는 3~7월, 특히 6~7월",
   "event": "",
   "duration": "1박 추천",
-  "cost": "배 왕복 수천 엔 수준 (고속선이 더 비쌈, 현지 확인)",
+  "cost": "하보로~데우리 편도 페리 약 2,300~2,500엔, 고속선 약 4,200~4,400엔(7·8월이 더 비쌈). 하보로~야기시리 페리 약 1,600엔",
   "walking": "보통",
   "fit": "매우 잘 맞음",
   "condition": "파도·강풍 시 결항 / 바닷새는 번식기에만",
@@ -398,7 +400,8 @@ window.SPOTS = [
   "url": "http://www.haboro-enkai.com/",
   "sources": [
    "https://ja.wikipedia.org/wiki/天売島",
-   "https://ja.wikipedia.org/wiki/羽幌沿海フェリー"
+   "https://ja.wikipedia.org/wiki/羽幌沿海フェリー",
+   "https://haboro-enkai.com/fare/"
   ],
   "region": "홋카이도"
  },
@@ -435,7 +438,7 @@ window.SPOTS = [
   "caution": "카누는 사전 예약 필수. 열차 편수가 적어 시간표 확인",
   "lat": 43.1517,
   "lng": 144.4968,
-  "url": "",
+  "url": "https://hokkaido.shibecha.jp/toro",
   "sources": [
    "https://ja.wikipedia.org/wiki/塘路湖",
    "https://ja.wikipedia.org/wiki/塘路駅"
@@ -509,16 +512,17 @@ window.SPOTS = [
   "best_time": "연중. 사로베쓰 원야와 묶으면 6~7월",
   "event": "",
   "duration": "1~2시간",
-  "cost": "입욕 수백 엔 수준 (현지 확인)",
+  "cost": "마을 운영 후레아이센터 입욕 약 510엔",
   "walking": "적음",
   "fit": "매우 잘 맞음",
   "condition": "",
   "caution": "물이 진해 옷에 색이 밸 수 있음",
   "lat": 45.0736,
   "lng": 141.8404,
-  "url": "",
+  "url": "https://toyotomi-onsen.com/",
   "sources": [
-   "https://ja.wikipedia.org/wiki/豊富温泉"
+   "https://ja.wikipedia.org/wiki/豊富温泉",
+   "https://toyotomi-onsen.com/hotspring"
   ],
   "region": "홋카이도"
  },
@@ -577,7 +581,7 @@ window.SPOTS = [
   "summary": "활화산 도카치다케 중턱 해발 약 1,280m, 홋카이도에서 가장 높은 곳의 온천 마을. 료운카쿠 등 숙소 3곳뿐이며, 노천탕에서 산 계곡과 후라노 분지를 내려다본다.",
   "do": "산장식 숙소 노천탕에서 단풍·설산 보며 온천, 근처 전망 산책",
   "station": "가미후라노역 (上富良野)",
-  "access": "가미후라노역에서 정영 버스로 종점 료운카쿠까지 약 52분. 하루 3왕복 수준(2016년 기준, 최신 시간표 확인), 1월 1일 운휴",
+  "access": "가미후라노역 앞에서 정영 버스로 종점 료운카쿠까지 약 45분, 하루 4왕복",
   "jr_pass": [
    "JR 홋카이도 레일패스",
    "삿포로-후라노 에리어 패스"
@@ -590,16 +594,18 @@ window.SPOTS = [
   "best_time": "9월 하순 단풍, 1~3월 설경",
   "event": "",
   "duration": "1박 추천",
-  "cost": "당일 입욕 1,000엔 안팎 (현지 확인)",
+  "cost": "당일 입욕 약 1,000엔(8:00~19:00 접수)",
   "walking": "적음",
   "fit": "매우 잘 맞음",
   "condition": "폭설 시 버스 지연 / 화산 활동 정보 확인",
   "caution": "버스가 하루 몇 편뿐이라 당일 왕복은 시간 맞추기 필수",
   "lat": 43.4136,
   "lng": 142.6428,
-  "url": "",
+  "url": "https://www.ryounkaku.jp/",
   "sources": [
-   "https://ja.wikipedia.org/wiki/十勝岳温泉"
+   "https://ja.wikipedia.org/wiki/十勝岳温泉",
+   "https://www.ryounkaku.jp/daytriponsen",
+   "https://www.kamifurano.jp/access/"
   ],
   "region": "홋카이도"
  },
@@ -751,18 +757,18 @@ window.SPOTS = [
   "best_time": "유빙 1월 중순~3월(접안은 2월 전후가 많음). 5~10월엔 주말 위주 기획 크루즈",
   "event": "",
   "duration": "1박 추천",
-  "cost": "유빙 크루즈 약 3,000엔 이상(시기별, 공식 확인)",
+  "cost": "유빙 크루즈 약 5,000엔(1·3월)~6,000엔(2월), 약 1시간 (2026년 요금)",
   "walking": "보통",
   "fit": "매우 잘 맞음",
   "condition": "유빙이 없거나 파도·강풍이면 일반 크루즈 또는 결항 → 대체: 오호츠크 유빙과학센터",
   "caution": "예약 권장. 몬베쓰는 철도가 없어 버스 연결이 길고 편수가 적음",
   "lat": 44.3341,
   "lng": 143.3751,
-  "url": "",
+  "url": "https://www.o-tower.co.jp/garinkogo.html",
   "sources": [
-   "https://ja.wikipedia.org/wiki/ガリンコ号",
    "https://www.visit-hokkaido.jp/access/detail_10015.html",
-   "https://allabout.co.jp/gm/gc/65807/"
+   "https://www.o-tower.co.jp/garinkogo.html",
+   "https://www.gutabi.jp/spot/detail/1472"
   ],
   "region": "홋카이도"
  },
@@ -1039,7 +1045,7 @@ window.SPOTS = [
   "caution": "시카베역은 하코다테 본선 사와라 지선이라 열차가 적음. 하코다테에서 버스 직행 검토",
   "lat": 42.0285,
   "lng": 140.8307,
-  "url": "",
+  "url": "https://www.town.shikabe.lg.jp/kanko_bunka_sports/kankojoho/kankoshisetsu/1/index.html",
   "sources": [
    "https://ja.wikipedia.org/wiki/しかべ間歇泉公園",
    "https://rurubu.jp/andmore/spot/70000934"
@@ -1203,7 +1209,7 @@ window.SPOTS = [
   "best_time": "6~9월 (6월 오쿠시리 문라이트 마라톤)",
   "event": "오쿠시리 문라이트 마라톤: 매년 6월 보름달 무렵. 날짜는 매년 공식 확인",
   "duration": "1박 추천",
-  "cost": "페리 운임은 공식 운임표 확인",
+  "cost": "에사시~오쿠시리 페리 2등 편도 약 3,500엔(2026년 10~12월 기준, 연료 할증으로 변동)",
   "walking": "보통",
   "fit": "매우 잘 맞음",
   "condition": "파도·강풍 시 페리 결항",
@@ -1213,7 +1219,8 @@ window.SPOTS = [
   "url": "https://heartlandferry.jp/",
   "sources": [
    "https://ja.wikipedia.org/wiki/奥尻島",
-   "https://heartlandferry.jp/"
+   "https://heartlandferry.jp/",
+   "https://heartlandferry.jp/faretable/okushiri-route/"
   ],
   "region": "홋카이도"
  },
@@ -1247,17 +1254,18 @@ window.SPOTS = [
   "best_time": "맑은 날 해 질 녘~밤. 여름 시즌은 4월 하순~11월 초",
   "event": "",
   "duration": "1~2시간",
-  "cost": "왕복 약 1,600엔 전후(최근 인상, 공식 확인)",
+  "cost": "왕복 약 1,800엔(여름)·약 2,000엔(겨울)",
   "walking": "적음",
   "fit": "매우 잘 맞음",
   "condition": "맑은 밤 야경 / 강풍 시 운휴, 11월 초~스키 시즌 전 정비 운휴",
-  "caution": "시즌 사이 운휴 기간이 있으니 운행일 공식 확인",
+  "caution": "2026년은 11/4~11/27 운휴(겨울 운행 11/28~2027/3/28, 여름 운행은 4월 하순~11/3). 운행 시간 여름 약 9~21시, 겨울 약 9~20시",
   "lat": 43.1684,
   "lng": 140.9698,
   "url": "https://tenguyama.ckk.chuo-bus.co.jp/",
   "sources": [
    "https://ja.wikipedia.org/wiki/天狗山_(小樽市)",
-   "https://tenguyama.ckk.chuo-bus.co.jp/"
+   "https://tenguyama.ckk.chuo-bus.co.jp/",
+   "https://tenguyama.ckk.chuo-bus.co.jp/hours-and-fees/"
   ],
   "region": "홋카이도"
  },
@@ -1595,7 +1603,7 @@ window.SPOTS = [
   "caution": "버스 편수가 많지 않으니 돌아오는 시간 확인",
   "lat": 43.7318,
   "lng": 142.2025,
-  "url": "",
+  "url": "https://www.atca.jp/kankouspoy/%E7%A5%9E%E5%B1%85%E5%8F%A4%E6%BD%AD/",
   "sources": [
    "https://ja.wikipedia.org/wiki/神居古潭"
   ],
@@ -1631,7 +1639,7 @@ window.SPOTS = [
   "caution": "임시역 정차 기간·열차는 해마다 JR 홋카이도 확인. 열차 간격이 김",
   "lat": 43.9419,
   "lng": 144.4134,
-  "url": "",
+  "url": "https://www.town.koshimizu.hokkaido.jp/sightseeing/detail/00007014.html",
   "sources": [
    "https://ja.wikipedia.org/wiki/小清水原生花園",
    "https://ja.wikipedia.org/wiki/原生花園駅"
@@ -1787,7 +1795,7 @@ window.SPOTS = [
   "caution": "",
   "lat": 45.4496,
   "lng": 141.6451,
-  "url": "",
+  "url": "https://www.north-hokkaido.com/spot/detail_1082.html",
   "sources": [
    "https://ja.wikipedia.org/wiki/ノシャップ岬"
   ],
@@ -1826,7 +1834,7 @@ window.SPOTS = [
   "caution": "",
   "lat": 42.981,
   "lng": 144.3856,
-  "url": "",
+  "url": "https://ja.kushiro-lakeakan.com/things_to_do/3688/",
   "sources": [
    "https://ja.wikipedia.org/wiki/幣舞橋"
   ],
@@ -1862,13 +1870,14 @@ window.SPOTS = [
   "walking": "많음",
   "fit": "조건부",
   "condition": "다리는 수위가 낮은 겨울~봄에만 / 여름~가을엔 잠김",
-  "caution": "다리 바로 앞 임도는 허가 차량만 통행, 걸으면 편도 약 4km에 불곰 서식지. 현지 가이드 투어 여부를 관광안내소에서 확인. 다리 위 출입 금지",
+  "caution": "다리 근처까지는 NPO 히가시다이세쓰 자연가이드센터 유료 투어(겨울은 결빙 호수 횡단 투어)로 가는 게 현실적. 임도는 게이트 열쇠 예약 차량만, 불곰 서식지. 누카비라에서 약 8km 떨어진 전망대에서는 약 750m 거리로 보임. 다리 위 출입 금지",
   "lat": 43.3654,
   "lng": 143.1894,
-  "url": "",
+  "url": "https://www.kamishihoro.jp/place/00000072",
   "sources": [
    "https://ja.wikipedia.org/wiki/糠平温泉",
-   "https://ja.wikipedia.org/wiki/タウシュベツ川橋梁"
+   "https://ja.wikipedia.org/wiki/タウシュベツ川橋梁",
+   "https://www.kamishihoro.jp/place/00000072"
   ],
   "region": "홋카이도"
  },
@@ -1944,7 +1953,7 @@ window.SPOTS = [
   "caution": "히다카본선 폐선 구간이라 버스 이동이 길고 임시버스는 축제 기간에만 운행",
   "lat": 42.382,
   "lng": 142.4156,
-  "url": "",
+  "url": "https://www.shinhidaka-hokkaido.jp/hotnews/detail/00000170.html",
   "sources": [
    "https://ja.wikipedia.org/wiki/二十間道路桜並木",
    "https://www.visit-hokkaido.jp/spot/detail_10051.html"
@@ -2059,7 +2068,7 @@ window.SPOTS = [
   "walking": "적음",
   "fit": "조건부",
   "condition": "운행일(주말·공휴일·여름방학)만",
-  "caution": "버스 하루 3왕복뿐. 운행일은 엔가루정 공식 확인",
+  "caution": "버스 하루 3왕복뿐. SL 아메미야 21호는 개원 기간(4월 하순~10월 하순) 토·일·공휴일과 여름방학(7월 하순~8월 중순) 매일, 약 10:00~16:30 30분 간격 운행",
   "lat": 43.9314,
   "lng": 143.3372,
   "url": "",
@@ -2142,7 +2151,7 @@ window.SPOTS = [
   "caution": "천수각 자료관은 겨울(12월 중순~4월 초) 휴관. 버스 편수가 적어 당일치기는 빠듯함",
   "lat": 41.4303,
   "lng": 140.1086,
-  "url": "",
+  "url": "https://travel-matsumae.jp/spot/%e6%9d%be%e5%89%8d%e5%9f%8e/",
   "sources": [
    "https://ja.wikipedia.org/wiki/松前城",
    "https://www.visit-hokkaido.jp/access/in_hokkaido_1_8_6.html",
@@ -2227,7 +2236,7 @@ window.SPOTS = [
   "caution": "노선버스가 없어 예약제 버스를 미리 잡거나 자전거·택시 이용",
   "lat": 45.1109,
   "lng": 141.7039,
-  "url": "",
+  "url": "https://www.north-hokkaido.com/spot/detail_1009.html",
   "sources": [
    "https://ja.wikipedia.org/wiki/サロベツ原野"
   ],
@@ -2338,7 +2347,7 @@ window.SPOTS = [
    "여름"
   ],
   "best_time": "1월 하순~3월 중순 (코탄 개장기)",
-  "event": "시카리베쓰 호수 코탄: 매년 1월 하순~3월 중순 무렵 (2026년은 1/24~3/15). 2027년 날짜는 공식 확인",
+  "event": "시카리베쓰 호수 코탄: 매년 1월 하순~3월 중순 무렵 (2026년은 1/24~3/15). 2027년은 1/28~3/14",
   "duration": "1박 추천",
   "cost": "코탄 협찬금 약 500엔 + 체험별 요금",
   "walking": "보통",
@@ -2347,10 +2356,11 @@ window.SPOTS = [
   "caution": "버스 편수가 적어 호반 숙박 추천",
   "lat": 43.2735,
   "lng": 143.1047,
-  "url": "",
+  "url": "https://www.shikaoi.net/detail/36",
   "sources": [
    "https://ja.wikipedia.org/wiki/然別湖",
-   "https://www.visit-hokkaido.jp/event/detail_10179.html"
+   "https://www.visit-hokkaido.jp/event/detail_10179.html",
+   "https://kotan.jp/"
   ],
   "region": "홋카이도"
  },
@@ -2453,7 +2463,7 @@ window.SPOTS = [
    "겨울"
   ],
   "best_time": "2월 초 축제 기간 (삿포로 눈축제와 겹침)",
-  "event": "매년 2월 초 약 6일간. 2027년(제68회)은 2월 6~11일 예정 — 공식 재확인",
+  "event": "매년 2월 초 약 6일간. 2027년(제68회)은 2월 6~11일",
   "duration": "반나절",
   "cost": "입장 무료 (일부 체험 유료)",
   "walking": "보통",
@@ -2465,7 +2475,8 @@ window.SPOTS = [
   "url": "https://asahikawa-winterfes.jp/",
   "sources": [
    "https://ja.wikipedia.org/wiki/旭川冬まつり",
-   "https://www.hokkaido-np.co.jp/article/1317317/"
+   "https://www.hokkaido-np.co.jp/article/1317317/",
+   "https://asahikawa-winterfes.jp/"
   ],
   "region": "홋카이도"
  },
@@ -2585,7 +2596,7 @@ window.SPOTS = [
   "caution": "버스 하차 후 도보 30분~1시간, 정상 등산은 더 걸림. 버스 편수 적음",
   "lat": 41.7939,
   "lng": 141.1528,
-  "url": "",
+  "url": "https://www.hakodate.travel/en/sightseeing-spots/nature/mt-esan/",
   "sources": [
    "https://ja.wikipedia.org/wiki/恵山_(火山)",
    "https://www.yukoyuko.net/onsen/0648/access"
@@ -2621,7 +2632,7 @@ window.SPOTS = [
    "겨울"
   ],
   "best_time": "일루미네이션은 11월 하순~1월 초, 라일락은 5월 하순, 여름 축제는 7월 하순~8월",
-  "event": "삿포로 화이트 일루미네이션(오도리 회장): 매년 11월 하순~1월 초 무렵. 날짜는 매년 공식 확인",
+  "event": "삿포로 화이트 일루미네이션(오도리 회장): 매년 11월 하순~12월 25일 무렵. 2026년은 11/20~12/25, 16:30~22:00(12/23~25는 24시까지)",
   "duration": "1~2시간",
   "cost": "무료",
   "walking": "보통",
@@ -2632,7 +2643,8 @@ window.SPOTS = [
   "lng": 141.3464,
   "url": "https://white-illumination.jp/",
   "sources": [
-   "https://ja.wikipedia.org/wiki/大通公園"
+   "https://ja.wikipedia.org/wiki/大通公園",
+   "https://www.sapporo.travel/white-illumination/event/illumination/odori/"
   ],
   "region": "홋카이도"
  },
@@ -2661,7 +2673,7 @@ window.SPOTS = [
    "겨울"
   ],
   "best_time": "연중. 해 진 뒤 나이터 경주",
-  "event": "개최일은 공식 일정 확인(경주 약 13:45~21:00)",
+  "event": "대체로 토·일·월요일 개최(가끔 금요일 등 변칙 개최). 제1경주 약 14:30~14:45, 마지막 경주 약 20:30~20:45. 개최일은 공식 캘린더",
   "duration": "반나절",
   "cost": "입장 약 100엔",
   "walking": "적음",
@@ -2673,7 +2685,8 @@ window.SPOTS = [
   "url": "https://banei-keiba.or.jp/",
   "sources": [
    "https://ja.wikipedia.org/wiki/帯広競馬場",
-   "https://ja.wikipedia.org/wiki/北海道遺産"
+   "https://ja.wikipedia.org/wiki/北海道遺産",
+   "https://banei-keiba.or.jp/"
   ],
   "region": "홋카이도"
  },
@@ -2786,16 +2799,17 @@ window.SPOTS = [
   "best_time": "1~2월 (강 수조 결빙)",
   "event": "",
   "duration": "반나절",
-  "cost": "수족관 입장 약 수백~1,000엔대 (현지 확인)",
+  "cost": "수족관 입장 약 830엔",
   "walking": "적음",
   "fit": "조건부",
   "condition": "얼어붙는 강은 한겨울만",
   "caution": "",
   "lat": 43.7543,
   "lng": 143.5003,
-  "url": "",
+  "url": "http://onneyu-aq.com/",
   "sources": [
-   "https://ja.wikipedia.org/wiki/北の大地の水族館"
+   "https://ja.wikipedia.org/wiki/北の大地の水族館",
+   "http://onneyu-aq.com/"
   ],
   "region": "홋카이도"
  },
@@ -2831,7 +2845,7 @@ window.SPOTS = [
   "caution": "",
   "lat": 42.3017,
   "lng": 141.0019,
-  "url": "",
+  "url": "https://www.city.muroran.lg.jp/content/?content=1559",
   "sources": [
    "https://ja.wikipedia.org/wiki/地球岬"
   ],
@@ -3065,12 +3079,13 @@ window.SPOTS = [
   "walking": "적음",
   "fit": "백업",
   "condition": "",
-  "caution": "영업 약 8~18시(일요일은 16시까지). 휴무일은 공식 확인",
+  "caution": "영업 약 8~17시, 일요일 휴무(임시 영업일 있음)",
   "lat": 42.9892,
   "lng": 144.38,
-  "url": "",
+  "url": "https://www.washoichiba.com/",
   "sources": [
-   "https://ja.wikipedia.org/wiki/和商市場"
+   "https://ja.wikipedia.org/wiki/和商市場",
+   "https://www.washoichiba.com/"
   ],
   "region": "홋카이도"
  },
@@ -3099,7 +3114,7 @@ window.SPOTS = [
   "best_time": "4월 중순~11월 중순(무휴 기간)",
   "event": "",
   "duration": "반나절",
-  "cost": "박물관 유료(공식 확인)",
+  "cost": "니부타니 아이누 문화박물관 약 400엔, 가야노 시게루 자료관 공통권 약 700엔",
   "walking": "적음",
   "fit": "백업",
   "condition": "",
@@ -3108,9 +3123,9 @@ window.SPOTS = [
   "lng": 142.1616,
   "url": "https://nibutani-ainu-museum.com/",
   "sources": [
-   "https://ja.wikipedia.org/wiki/萱野茂二風谷アイヌ資料館",
    "https://www.visit-hokkaido.jp/spot/detail_10437.html",
-   "https://rurubu.jp/andmore/spot/80001743"
+   "https://rurubu.jp/andmore/spot/80001743",
+   "https://nibutani-ainu-museum.com/guidance/"
   ],
   "region": "홋카이도"
  },
@@ -3150,7 +3165,7 @@ window.SPOTS = [
   "caution": "",
   "lat": 43.0583,
   "lng": 141.3585,
-  "url": "",
+  "url": "https://nijomarket.com/",
   "sources": [
    "https://ja.wikipedia.org/wiki/二条市場"
   ],
@@ -3184,7 +3199,7 @@ window.SPOTS = [
   "best_time": "연중",
   "event": "",
   "duration": "1~2시간",
-  "cost": "투어·시음 조건은 공식 확인",
+  "cost": "가이드 견학 투어 무료(예약제, 3종 시음 포함). 박물관·숍은 예약 없이 무료, 유료 테이스팅 바 별도",
   "walking": "적음",
   "fit": "백업",
   "condition": "",
@@ -3193,7 +3208,8 @@ window.SPOTS = [
   "lng": 140.7917,
   "url": "https://www.nikka.com/distilleries/yoichi/",
   "sources": [
-   "https://ja.wikipedia.org/wiki/余市蒸溜所"
+   "https://ja.wikipedia.org/wiki/余市蒸溜所",
+   "https://www.nikka.com/distilleries/yoichi/faq/"
   ],
   "region": "홋카이도"
  },
@@ -3230,7 +3246,7 @@ window.SPOTS = [
   "caution": "2016년 철도(루모이선 마시케 구간) 폐지로 버스만 다님. 혼마가는 겨울 휴관",
   "lat": 43.8584,
   "lng": 141.5226,
-  "url": "",
+  "url": "https://www.kunimare.co.jp/",
   "sources": [
    "https://ja.wikipedia.org/wiki/増毛町",
    "https://ja.wikipedia.org/wiki/國稀酒造"
@@ -3262,7 +3278,7 @@ window.SPOTS = [
   "best_time": "연중. 겨울엔 유빙선과 묶기",
   "event": "",
   "duration": "반나절",
-  "cost": "입장 유료(공식 확인)",
+  "cost": "입장 약 1,500엔",
   "walking": "보통",
   "fit": "백업",
   "condition": "",
@@ -3271,7 +3287,8 @@ window.SPOTS = [
   "lng": 144.2294,
   "url": "https://www.kangoku.jp/",
   "sources": [
-   "https://ja.wikipedia.org/wiki/博物館網走監獄"
+   "https://ja.wikipedia.org/wiki/博物館網走監獄",
+   "https://www.kangoku.jp/info/visit"
   ],
   "region": "홋카이도"
  },
@@ -3399,7 +3416,7 @@ window.SPOTS = [
   "caution": "빌딩 사이에 있어 '실망 명소'로도 불림. 2028년도 무렵 보수 공사로 휴관 예정",
   "lat": 43.0625,
   "lng": 141.3536,
-  "url": "",
+  "url": "https://sapporoshi-tokeidai.jp/",
   "sources": [
    "https://ja.wikipedia.org/wiki/札幌市時計台"
   ],
@@ -3435,12 +3452,14 @@ window.SPOTS = [
   "walking": "보통",
   "fit": "백업",
   "condition": "",
-  "caution": "4월·11월에 휴원 기간이 있고 겨울엔 개원 시간이 짧음(약 10:30~15:30). 공식 확인",
+  "caution": "2026년은 11/4~11/10 휴원, 겨울 개원 11/11~2027/4/7은 10:30~15:30(입장 15:00까지), 12/30~1/1도 휴원. 겨울 개원 뒤 4월에 다시 봄 휴원 기간이 있음",
   "lat": 43.768,
   "lng": 142.4798,
   "url": "https://www.city.asahikawa.hokkaido.jp/asahiyamazoo/",
   "sources": [
-   "https://ja.wikipedia.org/wiki/旭川市旭山動物園"
+   "https://ja.wikipedia.org/wiki/旭川市旭山動物園",
+   "https://www.city.asahikawa.hokkaido.jp/asahiyamazoo/news-blog/osirase/d083941.html",
+   "https://www.walkerplus.com/spot/ar0101s03784/data.html"
   ],
   "region": "홋카이도"
  },
@@ -3475,7 +3494,7 @@ window.SPOTS = [
   "caution": "대중교통이 사실상 없어 택시 왕복 필요",
   "lat": 43.0143,
   "lng": 144.8323,
-  "url": "",
+  "url": "https://www.akkeshi-town.jp/kanko/kanko10/aikappu/",
   "sources": [
    "https://ja.wikipedia.org/wiki/愛冠岬"
   ],
@@ -3512,7 +3531,7 @@ window.SPOTS = [
   "caution": "우토로행 버스 편수가 적으니 우토로 왕복 때 중간 하차로 묶기",
   "lat": 44.0378,
   "lng": 144.9353,
-  "url": "",
+  "url": "https://www.shiretoko.asia/detail/scenic/oshinkoshin",
   "sources": [
    "https://ja.wikipedia.org/wiki/オシンコシンの滝"
   ],
@@ -3594,7 +3613,7 @@ window.SPOTS = [
   "caution": "",
   "lat": 45.4202,
   "lng": 141.6804,
-  "url": "",
+  "url": "https://www.north-hokkaido.com/spot/detail_1075.html",
   "sources": [
    "https://ja.wikipedia.org/wiki/稚内港北防波堤ドーム",
    "https://ja.wikipedia.org/wiki/北海道遺産"
@@ -3635,7 +3654,7 @@ window.SPOTS = [
   "caution": "",
   "lat": 42.6989,
   "lng": 141.7111,
-  "url": "",
+  "url": "https://www.city.tomakomai.hokkaido.jp/shizen/sonotanoshisetsu/utonai/shisetsu.html",
   "sources": [
    "https://ja.wikipedia.org/wiki/ウトナイ湖"
   ],
@@ -3674,12 +3693,13 @@ window.SPOTS = [
   "walking": "보통",
   "fit": "백업",
   "condition": "",
-  "caution": "휴관일·공연 시간은 공식 확인",
+  "caution": "월요일 휴원(공휴일이면 다음 평일), 연말연시(12/28~1/4)와 2/27~3/8 휴원. 개원 9~18시(11~3월은 17시까지). 공연·체험 시간은 공식 타임테이블 참고",
   "lat": 42.5603,
   "lng": 141.3655,
   "url": "https://ainu-upopoy.jp/",
   "sources": [
-   "https://ja.wikipedia.org/wiki/民族共生象徴空間"
+   "https://ja.wikipedia.org/wiki/民族共生象徴空間",
+   "https://ainu-upopoy.go.jp/guide/hours/"
   ],
   "region": "홋카이도"
  },
@@ -3716,7 +3736,7 @@ window.SPOTS = [
   "caution": "연말연시 휴관",
   "lat": 42.9192,
   "lng": 143.4578,
-  "url": "",
+  "url": "https://ikeda-wj.org/",
   "sources": [
    "https://ja.wikipedia.org/wiki/池田ワイン城"
   ],
@@ -3919,17 +3939,18 @@ window.SPOTS = [
   "best_time": "축제는 8월 4~8일 밤. 전시관은 연중",
   "event": "매년 8월 4~8일(전날 8/3 불꽃놀이)",
   "duration": "1~2시간",
-  "cost": "축제 무료, 전시관 유료(요금은 공식 확인)",
+  "cost": "축제 무료, 전시관 약 800엔(미술 갤러리 포함 세트 약 1,000엔)",
   "walking": "적음",
   "fit": "매우 잘 맞음",
   "condition": "",
-  "caution": "전시관은 2025/4~2026/6 리뉴얼 공사 예정이었음. 재개관 후 관람 시간 공식 확인. 근처 쓰가루 철도 스토브 열차와 묶기 좋음",
+  "caution": "전시관은 2026년 가을 현재 영업 중: 4~9월 9:00~19:00, 10~3월 9:00~17:00(마감 30분 전 입장), 1/1 휴관. 근처 쓰가루 철도 스토브 열차와 묶기 좋음",
   "lat": 40.8109,
   "lng": 140.4433,
   "url": "https://www.tachineputa.jp/",
   "sources": [
    "https://ja.wikipedia.org/wiki/五所川原立佞武多",
-   "https://ja.wikipedia.org/wiki/立佞武多の館"
+   "https://www.tachineputa.jp/fee",
+   "https://www.tachineputa.jp/business-hours"
   ],
   "region": "도호쿠"
  },
@@ -3967,9 +3988,10 @@ window.SPOTS = [
   "caution": "하치노헤선은 편수가 적어 시간표 확인",
   "lat": 40.5114,
   "lng": 141.6106,
-  "url": "",
+  "url": "http://tanesashi.info/",
   "sources": [
-   "https://ja.wikipedia.org/wiki/種差海岸"
+   "https://ja.wikipedia.org/wiki/種差海岸",
+   "http://tanesashi.info/"
   ],
   "region": "도호쿠"
  },
@@ -4190,7 +4212,7 @@ window.SPOTS = [
   "summary": "너도밤나무 숲 속 한 채짜리 온천 여관. 다이쇼 시대 건물의 히바나무 욕조 '규안노유'는 바닥 바로 밑에서 온천이 솟는 발밑 용출탕이다.",
   "do": "발밑 용출 온천에 몸을 담그고 쓰타 7늪을 도는 숲길 산책",
   "station": "아오모리역 (青森) / 하치노헤역 (八戸)",
-  "access": "아오모리역에서 JR버스 도와다 북선 약 1시간 30분 → '쓰타온센'. 하치노헤역에서는 JR버스로 야케야마 환승. JR버스는 JR 동일본 패스만 적용",
+  "access": "아오모리역에서 JR버스 도와다 북선(미즈우미호) 약 2시간 10분 → '쓰타온센'. 하치노헤역에서는 JR버스로 야케야마 환승. JR버스는 JR 동일본 패스만 적용",
   "jr_pass": [
    "JR 동일본 패스",
    "JR 도호쿠·미나미홋카이도 레일패스",
@@ -4208,12 +4230,14 @@ window.SPOTS = [
   "walking": "보통",
   "fit": "매우 잘 맞음",
   "condition": "버스는 대략 4~11월 운행. 오이라세 계류와 같은 날 묶기 좋음",
-  "caution": "겨울 버스 운행과 여관 영업 여부는 공식 확인",
+  "caution": "숙소는 겨울에도 영업하며 시치노헤토와다역에서 숙박객 무료 송영이 있음(겨울엔 시간 변경). 아오모리역발 JR버스 미즈우미호는 약 2시간 8분, 겨울 운행 시각은 JR버스 도호쿠 시간표로 미리 볼 것",
   "lat": 40.5969,
   "lng": 140.9531,
-  "url": "",
+  "url": "https://www.tsutaonsen.com/",
   "sources": [
-   "https://ja.wikipedia.org/wiki/蔦温泉"
+   "https://ja.wikipedia.org/wiki/蔦温泉",
+   "https://tsutaonsen.com/access/",
+   "https://www.tsutaonsen.com/"
   ],
   "region": "도호쿠"
  },
@@ -4252,9 +4276,10 @@ window.SPOTS = [
   "caution": "",
   "lat": 40.8892,
   "lng": 140.8614,
-  "url": "",
+  "url": "http://www.asamushi.com/",
   "sources": [
-   "https://ja.wikipedia.org/wiki/浅虫温泉"
+   "https://ja.wikipedia.org/wiki/浅虫温泉",
+   "http://www.asamushi.com/"
   ],
   "region": "도호쿠"
  },
@@ -4288,10 +4313,11 @@ window.SPOTS = [
   "caution": "휴대전화·인터넷 완전 불통(110·119 포함), 객실 콘센트 없음. 송영버스는 버스 시각에 맞춰 운행하므로 사전 확인",
   "lat": 40.5716,
   "lng": 140.729,
-  "url": "",
+  "url": "https://www.aoninet.com/",
   "sources": [
    "https://ja.wikipedia.org/wiki/青荷温泉",
-   "https://kuroishi.or.jp/stay_onsen/aoni_nurukawaonsen/aonionsen"
+   "https://kuroishi.or.jp/stay_onsen/aoni_nurukawaonsen/aonionsen",
+   "https://www.aoninet.com/"
   ],
   "region": "도호쿠"
  },
@@ -4446,9 +4472,10 @@ window.SPOTS = [
   "caution": "공동탕은 비누·수건 없는 곳이 많으니 지참",
   "lat": 40.5223,
   "lng": 140.5749,
-  "url": "",
+  "url": "https://owanionsen.com/",
   "sources": [
-   "https://ja.wikipedia.org/wiki/大鰐温泉"
+   "https://ja.wikipedia.org/wiki/大鰐温泉",
+   "https://owanionsen.com/"
   ],
   "region": "도호쿠"
  },
@@ -4525,9 +4552,10 @@ window.SPOTS = [
   "caution": "",
   "lat": 40.5123,
   "lng": 141.4884,
-  "url": "",
+  "url": "https://visithachinohe.com/stories/sannshataisai_schedule/",
   "sources": [
-   "https://ja.wikipedia.org/wiki/八戸三社大祭"
+   "https://ja.wikipedia.org/wiki/八戸三社大祭",
+   "https://visithachinohe.com/stories/sannshataisai_schedule/"
   ],
   "region": "도호쿠"
  },
@@ -4554,7 +4582,7 @@ window.SPOTS = [
    "겨울"
   ],
   "best_time": "2월 17~20일. 첫날 아침 일제 공연이 하이라이트",
-  "event": "매년 2월 17~20일",
+  "event": "매년 2월 17~20일. 2027년은 2/17(수)~20(토)",
   "duration": "반나절",
   "cost": "거리 공연 무료, 감상회 등은 유료",
   "walking": "보통",
@@ -4563,9 +4591,10 @@ window.SPOTS = [
   "caution": "",
   "lat": 40.5139,
   "lng": 141.4882,
-  "url": "",
+  "url": "https://visithachinohe.com/stories/enburi-info/",
   "sources": [
-   "https://ja.wikipedia.org/wiki/えんぶり"
+   "https://ja.wikipedia.org/wiki/えんぶり",
+   "https://visithachinohe.com/stories/enburi-info/"
   ],
   "region": "도호쿠"
  },
@@ -4601,9 +4630,10 @@ window.SPOTS = [
   "caution": "아오모리 네부타(8/2~7)와 기간이 겹쳐 숙소가 빨리 찬다",
   "lat": 40.6031,
   "lng": 140.4638,
-  "url": "",
+  "url": "https://www.hirosaki-kanko.or.jp/web/edit.html?id=cat02_summer_neputa",
   "sources": [
-   "https://ja.wikipedia.org/wiki/弘前ねぷた"
+   "https://ja.wikipedia.org/wiki/弘前ねぷた",
+   "https://www.hirosaki-kanko.or.jp/web/edit.html?id=cat02_summer_neputa"
   ],
   "region": "도호쿠"
  },
@@ -5000,12 +5030,14 @@ window.SPOTS = [
   "walking": "보통",
   "fit": "조건부",
   "condition": "벚꽃 개화 시기에만 진가. 개화는 해마다 앞뒤로 움직임",
-  "caution": "천수는 석벽 보수로 옮겨져 있다가 원래 천수대로 되돌리는 공사 중(완료 2027년 가을 무렵으로 연기). 공사 중 관람 범위는 공식 확인",
+  "caution": "천수는 석벽 보수로 옮겨져 있다가 원래 천수대로 되돌리는 공사 중(완료 2027년 가을 무렵으로 연기). 천수 내부 공개는 2025-11-23부터 일시 중지(2026년 8월 천수 되돌리기 행사 진행). 본마루·기타노쿠루와 유료 구역(약 320엔)은 11/24~3/31 무료",
   "lat": 40.608,
   "lng": 140.4638,
   "url": "https://www.hirosakipark.jp/",
   "sources": [
-   "https://ja.wikipedia.org/wiki/弘前城"
+   "https://ja.wikipedia.org/wiki/弘前城",
+   "https://www.hirosakipark.jp/21600.html",
+   "https://www.hirosakipark.jp/price.html"
   ],
   "region": "도호쿠"
  },
@@ -5324,9 +5356,10 @@ window.SPOTS = [
   "caution": "게이비케이 뱃놀이와 같은 날 묶기 좋음",
   "lat": 38.9431,
   "lng": 141.0507,
-  "url": "",
+  "url": "https://www.ichitabi.jp/feature/special/genbi/",
   "sources": [
-   "https://ja.wikipedia.org/wiki/厳美渓"
+   "https://ja.wikipedia.org/wiki/厳美渓",
+   "https://www.ichitabi.jp/feature/special/genbi/"
   ],
   "region": "도호쿠"
  },
@@ -5364,10 +5397,11 @@ window.SPOTS = [
   "caution": "아나토오시이소는 버스 정류장에서 도보 약 25분. 좌표는 아나토오시이소 기준",
   "lat": 39.0074,
   "lng": 141.7353,
-  "url": "",
+  "url": "https://goishi.info/",
   "sources": [
    "https://ja.wikipedia.org/wiki/碁石海岸",
-   "https://rurubu.jp/andmore/spot/80002665"
+   "https://rurubu.jp/andmore/spot/80002665",
+   "https://goishi.info/"
   ],
   "region": "도호쿠"
  },
@@ -5524,13 +5558,14 @@ window.SPOTS = [
   "walking": "적음",
   "fit": "매우 잘 맞음",
   "condition": "4월 하순~10월 하순만 영업(쥬카이 라인 동계 폐쇄)",
-  "caution": "노천탕 대부분이 혼욕(여성 전용 1곳). 자가발전·전화선 없음, 휴대폰 전파 약함",
+  "caution": "영업은 4월 하순~10월 하순만(2026년 시즌 종료) / 노천탕 대부분이 혼욕(여성 전용 1곳). 자가발전·전화선 없음, 휴대폰 전파 약함",
   "lat": 39.9412,
   "lng": 140.8599,
-  "url": "",
+  "url": "https://toushichi.com/",
   "sources": [
    "https://ja.wikipedia.org/wiki/藤七温泉",
-   "https://rurubu.jp/andmore/spot/80002909"
+   "https://rurubu.jp/andmore/spot/80002909",
+   "https://toushichi.com/"
   ],
   "region": "도호쿠"
  },
@@ -5568,10 +5603,11 @@ window.SPOTS = [
   "caution": "숙소 3곳 중 쇼후소는 2023년 11월 폐업. 버스 편수가 적어 시간표 사전 확인. 곰 출몰 지역",
   "lat": 39.8717,
   "lng": 140.9098,
-  "url": "",
+  "url": "https://www.hachimantai.or.jp/area/area04.html",
   "sources": [
    "https://ja.wikipedia.org/wiki/松川温泉",
-   "https://mb.jorudan.co.jp/os/bus/301/line/30061.html"
+   "https://mb.jorudan.co.jp/os/bus/301/line/30061.html",
+   "https://www.hachimantai.or.jp/area/area04.html"
   ],
   "region": "도호쿠"
  },
@@ -5648,9 +5684,10 @@ window.SPOTS = [
   "caution": "",
   "lat": 39.6762,
   "lng": 141.0226,
-  "url": "",
+  "url": "http://www.tsunagionsen.com/",
   "sources": [
-   "https://ja.wikipedia.org/wiki/盛岡つなぎ温泉"
+   "https://ja.wikipedia.org/wiki/盛岡つなぎ温泉",
+   "http://www.tsunagionsen.com/"
   ],
   "region": "도호쿠"
  },
@@ -5811,10 +5848,11 @@ window.SPOTS = [
   "caution": "기타카미선은 편수가 적어(하루 수 편) 왕복 시각 확인 필수",
   "lat": 39.3146,
   "lng": 140.7758,
-  "url": "",
+  "url": "https://www.nishiwaga.biz/hot-spring/%e3%81%bb%e3%81%a3%e3%81%a8%e3%82%86%e3%81%a0/",
   "sources": [
    "https://ja.wikipedia.org/wiki/湯田温泉峡",
-   "https://www.mapple.net/station/282687/spot/"
+   "https://www.mapple.net/station/282687/spot/",
+   "https://www.nishiwaga.biz/hot-spring/%e3%81%bb%e3%81%a3%e3%81%a8%e3%82%86%e3%81%a0/"
   ],
   "region": "도호쿠"
  },
@@ -5883,16 +5921,18 @@ window.SPOTS = [
   "best_time": "외그루 벚꽃 4월 하순~5월 초, 초록 목초지 5~9월",
   "event": "",
   "duration": "반나절",
-  "cost": "입장 유료(천 엔 안팎, 시즌별 공식 확인)",
+  "cost": "입장 약 800엔(그린 시즌)",
   "walking": "보통",
   "fit": "조건부",
   "condition": "맑은 날 이와테산이 보여야 제맛",
-  "caution": "외그루 벚나무는 목장 안 다른 위치라 마키바엔에서 걷거나 차로 이동. 겨울 영업은 공식 확인",
+  "caution": "외그루 벚나무는 목장 안 다른 위치라 마키바엔에서 걷거나 차로 이동. 그린 시즌(4월~11월 중순) 9:00~17:00(입장 16:00까지), 그 뒤 겨울엔 운영 방식이 바뀜",
   "lat": 39.7505,
   "lng": 141.0171,
   "url": "https://www.koiwai.co.jp/makiba/",
   "sources": [
-   "https://ja.wikipedia.org/wiki/小岩井農場"
+   "https://ja.wikipedia.org/wiki/小岩井農場",
+   "https://www.koiwaifarm.com/guide/entry/",
+   "https://www.koiwaifarm.com/guide/hours/"
   ],
   "region": "도호쿠"
  },
@@ -6002,7 +6042,7 @@ window.SPOTS = [
   "best_time": "연중(동굴 안은 기온이 일정)",
   "event": "",
   "duration": "반나절",
-  "cost": "입장 유료(천 엔 안팎, 공식 확인)",
+  "cost": "입동료 약 1,100엔",
   "walking": "보통",
   "fit": "조건부",
   "condition": "큰비 뒤엔 수위 상승으로 관람 제한 가능",
@@ -6011,7 +6051,8 @@ window.SPOTS = [
   "lng": 141.7973,
   "url": "https://www.iwate-ryusendo.jp/",
   "sources": [
-   "https://ja.wikipedia.org/wiki/龍泉洞"
+   "https://ja.wikipedia.org/wiki/龍泉洞",
+   "https://www.iwate-ryusendo.jp/"
   ],
   "region": "도호쿠"
  },
@@ -6243,7 +6284,7 @@ window.SPOTS = [
   "walking": "보통",
   "fit": "백업",
   "condition": "맑은 날 전망",
-  "caution": "",
+  "caution": "2026/5/28 곰 출몰로 임시 휴관 공지(재개일 미발표) — 방문 전 확인",
   "lat": 39.2566,
   "lng": 141.901,
   "url": "http://kamaishi-daikannon.com/",
@@ -6481,16 +6522,18 @@ window.SPOTS = [
   "best_time": "연중. 동화마을은 저녁 라이트업 시즌이 있음",
   "event": "",
   "duration": "반나절",
-  "cost": "기념관 수백 엔 수준",
+  "cost": "기념관 약 350엔(주변 시설 공통권 있음)",
   "walking": "보통",
   "fit": "백업",
   "condition": "",
-  "caution": "기념관은 언덕 9합목 무렵이라 계단·오르막 있음. 요금·시간은 공식 확인",
+  "caution": "기념관은 언덕 9합목 무렵이라 계단·오르막 있음. 9:00~16:30, 화요일(공휴일이면 다음 평일)·12/28~1/3 휴관",
   "lat": 39.4015,
   "lng": 141.1614,
-  "url": "",
+  "url": "https://www.city.hanamaki.iwate.jp/miyazawakenji/kinenkan/index.html",
   "sources": [
-   "https://ja.wikipedia.org/wiki/胡四王山"
+   "https://ja.wikipedia.org/wiki/胡四王山",
+   "https://www.city.hanamaki.iwate.jp/miyazawakenji/kinenkan/1003991.html",
+   "https://www.city.hanamaki.iwate.jp/miyazawakenji/kinenkan/index.html"
   ],
   "region": "도호쿠"
  },
@@ -6520,16 +6563,18 @@ window.SPOTS = [
   "best_time": "봄·가을",
   "event": "",
   "duration": "반나절",
-  "cost": "입장료 유료(공식 확인)",
+  "cost": "입장 약 1,000엔(2027/4/1부터 약 1,200엔)",
   "walking": "보통",
   "fit": "백업",
   "condition": "",
   "caution": "역에서 오는 노선버스가 적어 돌아가는 버스 시각을 먼저 확인",
   "lat": 39.1944,
   "lng": 141.1889,
-  "url": "",
+  "url": "https://www.fujiwaranosato.com/",
   "sources": [
-   "https://ja.wikipedia.org/wiki/えさし藤原の郷"
+   "https://ja.wikipedia.org/wiki/えさし藤原の郷",
+   "https://www.fujiwaranosato.com/information/",
+   "https://www.fujiwaranosato.com/"
   ],
   "region": "도호쿠"
  },
@@ -6687,9 +6732,10 @@ window.SPOTS = [
   "caution": "구구나리하마는 차가 못 들어가 산길 도보 약 20분. 가메야마 모노레일은 2026년 7월 개통으로 알려짐(운행 정보 현지 확인)",
   "lat": 38.8617,
   "lng": 141.6289,
-  "url": "",
+  "url": "https://kesennuma-kanko.jp/oshima-trip/",
   "sources": [
-   "https://ja.wikipedia.org/wiki/大島_(宮城県気仙沼市)"
+   "https://ja.wikipedia.org/wiki/大島_(宮城県気仙沼市)",
+   "https://kesennuma-kanko.jp/oshima-trip/"
   ],
   "region": "도호쿠"
  },
@@ -6805,13 +6851,13 @@ window.SPOTS = [
   "walking": "적음",
   "fit": "매우 잘 맞음",
   "condition": "악천후 시 운휴 / 수빙 상태는 해마다 다름",
-  "caution": "예약 권장(전 시즌엔 11/1부터 접수). 2026-27 시즌 일정은 공식 확인. 영하 10도 이하 대비 방한",
+  "caution": "예약제(11/1부터 접수). 2026-27 시즌은 2026/12/19~2027/3/7, 하루 2편(11:30·13:30 출발, 약 1시간 40분~2시간). 영하 10도 이하 대비 방한",
   "lat": 38.1333,
   "lng": 140.4917,
   "url": "http://www.zao-sumikawa.jp/",
   "sources": [
    "https://ja.wikipedia.org/wiki/すみかわスノーパーク",
-   "https://www.walkerplus.com/spot/ar0204s34602/"
+   "https://www.zao-sumikawa.jp/tour"
   ],
   "region": "도호쿠"
  },
@@ -6847,12 +6893,13 @@ window.SPOTS = [
   "walking": "적음",
   "fit": "매우 잘 맞음",
   "condition": "",
-  "caution": "증류소 견학은 예약제 여부 공식 확인",
+  "caution": "니카 미야기쿄 증류소 가이드 투어는 무료·사전 예약제(마지막 14:30). 예약 없이도 비지터센터(9:00~16:00)·저장고는 볼 수 있음. 2026/12/23~2027/1/31 휴업",
   "lat": 38.3316,
   "lng": 140.6135,
   "url": "",
   "sources": [
-   "https://ja.wikipedia.org/wiki/作並温泉"
+   "https://ja.wikipedia.org/wiki/作並温泉",
+   "https://www.nikka.com/distilleries/miyagikyo/visit/"
   ],
   "region": "도호쿠"
  },
@@ -6929,9 +6976,10 @@ window.SPOTS = [
   "caution": "",
   "lat": 38.2251,
   "lng": 140.72,
-  "url": "",
+  "url": "https://www.akiuonsenkumiai.com/",
   "sources": [
-   "https://ja.wikipedia.org/wiki/秋保温泉"
+   "https://ja.wikipedia.org/wiki/秋保温泉",
+   "https://www.akiuonsenkumiai.com/"
   ],
   "region": "도호쿠"
  },
@@ -7810,16 +7858,18 @@ window.SPOTS = [
   "best_time": "연중",
   "event": "",
   "duration": "1~2시간",
-  "cost": "입관료 유료(공식 확인)",
+  "cost": "입관료 약 1,300엔",
   "walking": "적음",
   "fit": "백업",
   "condition": "",
-  "caution": "",
+  "caution": "2026/10/19~2027/1/8 리뉴얼 공사로 전관 휴관. 2027/1/9부터 1~2층만 부분 개관, 3층은 2027년 4월 상순까지 폐쇄",
   "lat": 38.4296,
   "lng": 141.3107,
-  "url": "",
+  "url": "https://www.mangattan.jp/manga/",
   "sources": [
-   "https://ja.wikipedia.org/wiki/石ノ森萬画館"
+   "https://ja.wikipedia.org/wiki/石ノ森萬画館",
+   "https://www.mangattan.jp/manga/ticket/",
+   "https://www.mangattan.jp/manga/mangattan_info/29621/"
   ],
   "region": "도호쿠"
  },
@@ -7973,9 +8023,10 @@ window.SPOTS = [
   "caution": "아키타 나이리쿠선은 사철(JR 패스 불가)이고 밤 열차가 적어 귀가편 확인 필수. 같은 날 가리와노 줄다리기와 시간이 겹침",
   "lat": 39.8148,
   "lng": 140.5842,
-  "url": "",
+  "url": "http://www.city.semboku.akita.jp/sightseeing/spot/06_kamifuusen.html",
   "sources": [
-   "https://ja.wikipedia.org/wiki/上桧木内の紙風船上げ"
+   "https://ja.wikipedia.org/wiki/上桧木内の紙風船上げ",
+   "http://www.city.semboku.akita.jp/sightseeing/spot/06_kamifuusen.html"
   ],
   "region": "도호쿠"
  },
@@ -8051,9 +8102,10 @@ window.SPOTS = [
   "caution": "열탕·황화수소 위험으로 산책로 밖 출입 금지",
   "lat": 39.9752,
   "lng": 140.8003,
-  "url": "",
+  "url": "https://www.goshougake.com/",
   "sources": [
-   "https://ja.wikipedia.org/wiki/後生掛温泉"
+   "https://ja.wikipedia.org/wiki/後生掛温泉",
+   "https://www.goshougake.com/"
   ],
   "region": "도호쿠"
  },
@@ -8227,7 +8279,7 @@ window.SPOTS = [
   "summary": "pH 1점대의 일본 최강급 산성천이 98℃로 대량 분출하는 탕치장. 김이 오르는 지열지대에 돗자리를 깔고 눕는 노천 암반욕이 독특하다.",
   "do": "자연연구로를 걸으며 분출구 '오부케'와 지열지대를 보고, 강산성 온천 입욕",
   "station": "다자와코역 (田沢湖)",
-  "access": "다자와코역에서 우고교통 버스 약 1시간 15분. 겨울엔 버스가 인근 신타마가와 온천까지만 가는 등 운행이 달라지므로 공식 확인",
+  "access": "다자와코역에서 우고교통 버스 약 1시간 15분. 2026/10/19부터 하루 4편(다자와코역 7:50·9:30·12:25·14:25발, 다마가와 온천 9:30·11:00·14:00·15:55발). 겨울엔 운행이 또 달라짐",
   "jr_pass": [
    "JR 동일본 패스",
    "JR 도호쿠·미나미홋카이도 레일패스",
@@ -8241,7 +8293,7 @@ window.SPOTS = [
   "best_time": "5~10월",
   "event": "",
   "duration": "1박 추천",
-  "cost": "당일 입욕 요금은 공식 확인",
+  "cost": "당일 입욕 약 1,000엔",
   "walking": "보통",
   "fit": "매우 잘 맞음",
   "condition": "겨울엔 접근·영업이 제한됨(신타마가와 온천은 겨울에도 이용 가능 여부 공식 확인)",
@@ -8250,7 +8302,8 @@ window.SPOTS = [
   "lng": 140.7245,
   "url": "https://www.tamagawa-onsen.jp/",
   "sources": [
-   "https://ja.wikipedia.org/wiki/玉川温泉_(秋田県)"
+   "https://ja.wikipedia.org/wiki/玉川温泉_(秋田県)",
+   "https://www.tamagawa-onsen.jp/information/page.php?id=78"
   ],
   "region": "도호쿠"
  },
@@ -8320,7 +8373,7 @@ window.SPOTS = [
   "best_time": "단풍 10월 중순~하순, 설경 1~2월",
   "event": "",
   "duration": "하루",
-  "cost": "나이리쿠선 운임 별도(공식 확인)",
+  "cost": "나이리쿠선 1일 전 구간 프리패스 약 2,500엔(2일 약 3,500엔, 급행 탑승 가능)",
   "walking": "적음",
   "fit": "매우 잘 맞음",
   "condition": "폭설·폭우 시 운휴 가능",
@@ -8329,7 +8382,8 @@ window.SPOTS = [
   "lng": 140.4013,
   "url": "https://www.akita-nairiku.com/",
   "sources": [
-   "https://ja.wikipedia.org/wiki/秋田内陸縦貫鉄道"
+   "https://ja.wikipedia.org/wiki/秋田内陸縦貫鉄道",
+   "https://www.akita-nairiku.com/ticket/"
   ],
   "region": "도호쿠"
  },
@@ -8489,10 +8543,11 @@ window.SPOTS = [
   "caution": "사철이라 JR 패스로 탈 수 없음. 마고코로 열차는 하루 1왕복이라 시간표 확인",
   "lat": 39.2304,
   "lng": 140.1389,
-  "url": "",
+  "url": "https://www.obako5.com/",
   "sources": [
    "https://ja.wikipedia.org/wiki/由利高原鉄道鳥海山ろく線",
-   "https://ja.wikipedia.org/wiki/矢島駅"
+   "https://ja.wikipedia.org/wiki/矢島駅",
+   "https://www.obako5.com/"
   ],
   "region": "도호쿠"
  },
@@ -8528,10 +8583,11 @@ window.SPOTS = [
   "caution": "",
   "lat": 39.1654,
   "lng": 140.4927,
-  "url": "",
+  "url": "https://www.city-yuzawa.jp/site/yuzawatrip/687.html",
   "sources": [
    "https://summer.walkerplus.com/odekake/detail_e/ar0205e601113/data.html",
-   "https://tabi-mag.jp/tanabata-edourou/"
+   "https://tabi-mag.jp/tanabata-edourou/",
+   "https://www.city-yuzawa.jp/site/yuzawatrip/687.html"
   ],
   "region": "도호쿠"
  },
@@ -8567,9 +8623,10 @@ window.SPOTS = [
   "caution": "축제 기간 숙소 부족, 하나와선 편수 적음",
   "lat": 40.1895,
   "lng": 140.7858,
-  "url": "",
+  "url": "http://hanawabayashi.jp/",
   "sources": [
-   "https://ja.wikipedia.org/wiki/花輪ばやし"
+   "https://ja.wikipedia.org/wiki/花輪ばやし",
+   "http://hanawabayashi.jp/"
   ],
   "region": "도호쿠"
  },
@@ -8921,12 +8978,14 @@ window.SPOTS = [
   "walking": "보통",
   "fit": "조건부",
   "condition": "맑은 저녁에 노을",
-  "caution": "전망실 운영 시간 공식 확인",
+  "caution": "전망실 9:00~21:00(입장 20:50까지)",
   "lat": 39.7527,
   "lng": 140.061,
-  "url": "",
+  "url": "https://www.selion-akita.com/",
   "sources": [
-   "https://ja.wikipedia.org/wiki/セリオン_(秋田市)"
+   "https://ja.wikipedia.org/wiki/セリオン_(秋田市)",
+   "https://www.selion-akita.com/facility/",
+   "https://www.selion-akita.com/"
   ],
   "region": "도호쿠"
  },
@@ -9321,10 +9380,11 @@ window.SPOTS = [
   "caution": "마을 버스 편수가 적어 당일치기는 예약 버스 이용이나 숙박 권장",
   "lat": 38.4911,
   "lng": 139.9997,
-  "url": "",
+  "url": "https://gassan-shizuonsen.net/yukihatago/",
   "sources": [
    "https://ja.wikipedia.org/wiki/月山志津温泉",
-   "https://rurubu.jp/andmore/spot/20004296"
+   "https://rurubu.jp/andmore/spot/20004296",
+   "https://gassan-shizuonsen.net/yukihatago/"
   ],
   "region": "도호쿠"
  },
@@ -9485,9 +9545,10 @@ window.SPOTS = [
   "caution": "축제 기간 숙소 부족",
   "lat": 38.767,
   "lng": 140.2935,
-  "url": "",
+  "url": "http://shinjo-matsuri.jp/",
   "sources": [
-   "https://ja.wikipedia.org/wiki/新庄まつり"
+   "https://ja.wikipedia.org/wiki/新庄まつり",
+   "http://shinjo-matsuri.jp/"
   ],
   "region": "도호쿠"
  },
@@ -9526,9 +9587,10 @@ window.SPOTS = [
   "caution": "우에쓰 본선 편수가 적음",
   "lat": 38.6153,
   "lng": 139.611,
-  "url": "",
+  "url": "https://www.atsumi-spa.or.jp/",
   "sources": [
-   "https://ja.wikipedia.org/wiki/温海温泉"
+   "https://ja.wikipedia.org/wiki/温海温泉",
+   "https://www.atsumi-spa.or.jp/"
   ],
   "region": "도호쿠"
  },
@@ -9566,9 +9628,10 @@ window.SPOTS = [
   "caution": "",
   "lat": 38.051,
   "lng": 140.1649,
-  "url": "",
+  "url": "https://www.akayu-onsen.com/",
   "sources": [
-   "https://ja.wikipedia.org/wiki/赤湯温泉_(山形県)"
+   "https://ja.wikipedia.org/wiki/赤湯温泉_(山形県)",
+   "https://www.akayu-onsen.com/"
   ],
   "region": "도호쿠"
  },
@@ -9729,9 +9792,10 @@ window.SPOTS = [
   "caution": "버스 편수가 적음. 겨울은 적설 수 m",
   "lat": 38.6091,
   "lng": 140.167,
-  "url": "",
+  "url": "https://hijiori.jp/",
   "sources": [
-   "https://ja.wikipedia.org/wiki/肘折温泉"
+   "https://ja.wikipedia.org/wiki/肘折温泉",
+   "https://hijiori.jp/"
   ],
   "region": "도호쿠"
  },
@@ -10086,12 +10150,14 @@ window.SPOTS = [
   "walking": "보통",
   "fit": "조건부",
   "condition": "맑은 날 조망, 강풍 시 운휴",
-  "caution": "여름철 로프웨이·리프트 운행 기간 공식 확인",
+  "caution": "그린 시즌 로프웨이는 6월 중순~11/3, 여름 리프트는 6월 중순~10월 하순(2026년 기준). 강풍으로 로프웨이가 서면 걸어 내려와야 함",
   "lat": 37.7749,
   "lng": 140.135,
-  "url": "",
+  "url": "https://www.tengendai.jp/",
   "sources": [
-   "https://ja.wikipedia.org/wiki/天元台高原"
+   "https://ja.wikipedia.org/wiki/天元台高原",
+   "https://www.green.tengendai.jp/ropeway-lift",
+   "https://www.tengendai.jp/"
   ],
   "region": "도호쿠"
  },
@@ -10242,7 +10308,7 @@ window.SPOTS = [
   "best_time": "연중(비 오는 날 대체지로 좋음)",
   "event": "",
   "duration": "1~2시간",
-  "cost": "입관료 공식 확인",
+  "cost": "입관료 약 1,500엔",
   "walking": "적음",
   "fit": "백업",
   "condition": "",
@@ -10251,7 +10317,8 @@ window.SPOTS = [
   "lng": 139.7246,
   "url": "https://kamo-kurage.jp/",
   "sources": [
-   "https://ja.wikipedia.org/wiki/鶴岡市立加茂水族館"
+   "https://ja.wikipedia.org/wiki/鶴岡市立加茂水族館",
+   "https://kamo-kurage.jp/nyukan"
   ],
   "region": "도호쿠"
  },
@@ -10528,16 +10595,18 @@ window.SPOTS = [
   "best_time": "연중",
   "event": "",
   "duration": "1~2시간",
-  "cost": "입관료 공식 확인",
+  "cost": "입관료 약 1,000엔",
   "walking": "적음",
   "fit": "백업",
   "condition": "",
   "caution": "",
   "lat": 38.7283,
   "lng": 139.8213,
-  "url": "",
+  "url": "https://www.chido.jp/",
   "sources": [
-   "https://ja.wikipedia.org/wiki/致道博物館"
+   "https://ja.wikipedia.org/wiki/致道博物館",
+   "https://www.chido.jp/guide-2/",
+   "https://www.chido.jp/"
   ],
   "region": "도호쿠"
  },
@@ -10764,7 +10833,7 @@ window.SPOTS = [
   "walking": "적음",
   "fit": "매우 잘 맞음",
   "condition": "폭설 시 다다미선 운휴 가능",
-  "caution": "열차가 하루 몇 편뿐이라 마을 숙박 권장. 겨울엔 국도 252호가 막혀 니가타 쪽은 열차만 가능. 반에쓰사이선 이나와시로~아이즈와카마쓰 2026년 8월 운휴 이후 상황 확인",
+  "caution": "열차가 하루 몇 편뿐이라 마을 숙박 권장. / 겨울엔 국도 252호가 막혀 니가타 쪽은 열차만 가능. / 반에쓰사이선 이나와시로~아이즈와카마쓰는 2026년 8월 성토 붕괴로 운휴했다가 8월 하순 재개(큰비 때 운휴 잦으니 JR 운행 정보 확인)",
   "lat": 37.3501,
   "lng": 139.315,
   "url": "",
@@ -10887,10 +10956,11 @@ window.SPOTS = [
   "caution": "본축제일 혼잡, 조반선 편수 확인",
   "lat": 37.6242,
   "lng": 140.9587,
-  "url": "",
+  "url": "https://soma-nomaoi.jp/",
   "sources": [
    "https://ja.wikipedia.org/wiki/相馬野馬追",
-   "https://media.jreast.co.jp/articles/6029"
+   "https://media.jreast.co.jp/articles/6029",
+   "https://soma-nomaoi.jp/"
   ],
   "region": "도호쿠"
  },
@@ -10963,13 +11033,14 @@ window.SPOTS = [
   "walking": "보통",
   "fit": "매우 잘 맞음",
   "condition": "눈이 쌓여 있어야 분위기 최고",
-  "caution": "2026년 8월 반에쓰사이선 이나와시로~아이즈와카마쓰 구간이 성토 붕괴로 운휴(8월 말 재개 예정 보도, 재개 여부 미확인) → JR 운행 정보 확인",
+  "caution": "큰비 때 운휴가 잦으니 JR 운행 정보 확인 / 반에쓰사이선 이나와시로~아이즈와카마쓰는 2026년 8월 성토 붕괴로 운휴했다가 8월 하순 재개(큰비 때 운휴 잦으니 JR 운행 정보 확인)",
   "lat": 37.4914,
   "lng": 139.9434,
-  "url": "",
+  "url": "https://www.aizu.com/erousoku/",
   "sources": [
    "https://ja.wikipedia.org/wiki/会津絵ろうそくまつり",
-   "https://ja.wikipedia.org/wiki/御薬園"
+   "https://ja.wikipedia.org/wiki/御薬園",
+   "https://delay.fteinfo.com/train/20/l-11225/"
   ],
   "region": "도호쿠"
  },
@@ -11004,7 +11075,7 @@ window.SPOTS = [
   "walking": "적음",
   "fit": "매우 잘 맞음",
   "condition": "",
-  "caution": "아이즈철도 구간은 JR 패스 적용 안 됨. 운행일은 매년 팸플릿 확인. 반에쓰사이선 이나와시로~아이즈와카마쓰가 2026년 8월 성토 붕괴로 운휴(8월 말 재개 예상 보도, 이후 상황 미확인) → 고리야마에서 갈 땐 JR 운행 정보 확인",
+  "caution": "아이즈철도 구간은 JR 패스 적용 안 됨. / 운행일은 매년 팸플릿 확인. / 반에쓰사이선 이나와시로~아이즈와카마쓰는 2026년 8월 성토 붕괴로 운휴했다가 8월 하순 재개(큰비 때 운휴 잦으니 JR 운행 정보 확인)",
   "lat": 37.2034,
   "lng": 139.7738,
   "url": "https://aizutetsudo.jp/ozatoro/",
@@ -11086,10 +11157,11 @@ window.SPOTS = [
   "caution": "",
   "lat": 37.304,
   "lng": 139.8952,
-  "url": "",
+  "url": "https://yunokami.com/",
   "sources": [
    "https://ja.wikipedia.org/wiki/湯野上温泉駅",
-   "https://ja.wikipedia.org/wiki/湯野上温泉"
+   "https://ja.wikipedia.org/wiki/湯野上温泉",
+   "https://yunokami.com/"
   ],
   "region": "도호쿠"
  },
@@ -11124,9 +11196,10 @@ window.SPOTS = [
   "caution": "공동탕은 물이 매우 뜨거운 편",
   "lat": 37.8326,
   "lng": 140.4522,
-  "url": "",
+  "url": "https://iizaka.com/",
   "sources": [
-   "https://ja.wikipedia.org/wiki/飯坂温泉"
+   "https://ja.wikipedia.org/wiki/飯坂温泉",
+   "https://iizaka.com/"
   ],
   "region": "도호쿠"
  },
@@ -11164,10 +11237,11 @@ window.SPOTS = [
   "caution": "반다이아즈마 스카이라인은 11월 중순~4월 하순 폐쇄. 화산 활동에 따른 통행 규제 확인",
   "lat": 37.7222,
   "lng": 140.2542,
-  "url": "",
+  "url": "https://www.env.go.jp/park/bandai/guide/joudodaira/index.html",
   "sources": [
    "https://ja.wikipedia.org/wiki/浄土平",
-   "https://www.env.go.jp/park/bandai/guide/joudodaira/access/index.html"
+   "https://www.env.go.jp/park/bandai/guide/joudodaira/access/index.html",
+   "https://www.env.go.jp/park/bandai/guide/joudodaira/index.html"
   ],
   "region": "도호쿠"
  },
@@ -11312,16 +11386,17 @@ window.SPOTS = [
   "best_time": "강안개 6~8월 이른 아침·저녁, 단풍 10월 하순",
   "event": "",
   "duration": "반나절",
-  "cost": "요금 공식 확인(예약 시)",
+  "cost": "작은 배 대절(5일 전까지 예약): 유람 약 45분 2명까지 약 6,000엔·3명 이상 1인 약 3,000엔, 산책 플랜 약 90분 2명까지 약 12,000엔",
   "walking": "적음",
   "fit": "조건부",
   "condition": "안개는 기온 차 큰 날 아침·저녁에만. 증수·강풍 시 운휴. 운항 4월 하순~11월 중순",
-  "caution": "다다미선 편수가 매우 적어 왕복 시간 맞추기 필수. 반에쓰사이선 이나와시로~아이즈와카마쓰 구간 2026년 8월 운휴 보도 → 운행 정보 확인",
+  "caution": "다다미선 편수가 매우 적어 왕복 시간 맞추기 필수. / 12월~4월 중순 겨울 운휴. / 반에쓰사이선 이나와시로~아이즈와카마쓰는 2026년 8월 성토 붕괴로 운휴했다가 8월 하순 재개(큰비 때 운휴 잦으니 JR 운행 정보 확인)",
   "lat": 37.4642,
   "lng": 139.5933,
-  "url": "",
+  "url": "https://www.mugenkyo.info/",
   "sources": [
-   "https://ja.wikipedia.org/wiki/霧幻峡の渡し"
+   "https://ja.wikipedia.org/wiki/霧幻峡の渡し",
+   "https://www.mugenkyo.info/"
   ],
   "region": "도호쿠"
  },
@@ -11432,17 +11507,18 @@ window.SPOTS = [
   "best_time": "단풍 10월 상중순",
   "event": "",
   "duration": "하루",
-  "cost": "로프웨이 요금 공식 확인",
+  "cost": "로프웨이 왕복 약 2,200엔",
   "walking": "보통",
   "fit": "조건부",
   "condition": "강풍 시 운휴, 맑은 날 조망",
-  "caution": "로프웨이 운행 기간·오쿠다케행 버스 운행일 공식 확인",
+  "caution": "로프웨이 정기 운행 4/11~11/23, 8:30~16:30(산기슭 마지막 15:50). 니혼마쓰역~오쿠다케 노선버스는 평일만 하루 1왕복(약 45분), 단풍철 주말엔 임시편",
   "lat": 37.6235,
   "lng": 140.3252,
-  "url": "",
+  "url": "https://www.adatara-resort.com/",
   "sources": [
    "https://ja.wikipedia.org/wiki/岳温泉",
-   "https://ja.wikipedia.org/wiki/安達太良山"
+   "https://www.adatara-resort.com/green/about/index.html",
+   "https://www.adatara-resort.com/green/access/index.html"
   ],
   "region": "도호쿠"
  },
@@ -11513,7 +11589,7 @@ window.SPOTS = [
   "walking": "보통",
   "fit": "조건부",
   "condition": "",
-  "caution": "다다미선은 하루 3왕복 수준이라 열차 시간에 맞춰야 함. 반에쓰사이선 이나와시로~아이즈와카마쓰가 2026년 8월 성토 붕괴로 운휴(재개 여부 출발 전 확인)",
+  "caution": "다다미선은 하루 3왕복 수준이라 열차 시간에 맞춰야 함. / 반에쓰사이선 이나와시로~아이즈와카마쓰는 2026년 8월 성토 붕괴로 운휴했다가 8월 하순 재개(큰비 때 운휴 잦으니 JR 운행 정보 확인)",
   "lat": 37.5331,
   "lng": 139.7247,
   "url": "",
@@ -11631,7 +11707,7 @@ window.SPOTS = [
   "walking": "보통",
   "fit": "백업",
   "condition": "",
-  "caution": "라멘집마다 휴무일·조기 마감. 반에쓰사이선 2026년 8월 일부 구간 운휴 보도 → 운행 정보 확인",
+  "caution": "라멘집마다 휴무일·조기 마감. / 반에쓰사이선 이나와시로~아이즈와카마쓰는 2026년 8월 성토 붕괴로 운휴했다가 8월 하순 재개(큰비 때 운휴 잦으니 JR 운행 정보 확인)",
   "lat": 37.6517,
   "lng": 139.8712,
   "url": "",
@@ -11826,7 +11902,7 @@ window.SPOTS = [
   "best_time": "연중(비 오는 날 대체지)",
   "event": "",
   "duration": "반나절",
-  "cost": "입관료 공식 확인",
+  "cost": "입관료 약 1,850엔",
   "walking": "적음",
   "fit": "백업",
   "condition": "",
@@ -11836,7 +11912,7 @@ window.SPOTS = [
   "url": "https://www.aquamarine.or.jp/",
   "sources": [
    "https://ja.wikipedia.org/wiki/アクアマリンふくしま",
-   "https://ja.wikipedia.org/wiki/いわき・ら・ら・ミュウ"
+   "https://www.aquamarine.or.jp/guide/info/"
   ],
   "region": "도호쿠"
  },
@@ -11912,7 +11988,7 @@ window.SPOTS = [
   "walking": "보통",
   "fit": "백업",
   "condition": "",
-  "caution": "반에쓰사이선 이나와시로~아이즈와카마쓰 구간 2026년 8월 운휴 보도 → 운행 정보 확인",
+  "caution": "반에쓰사이선 이나와시로~아이즈와카마쓰는 2026년 8월 성토 붕괴로 운휴했다가 8월 하순 재개(큰비 때 운휴 잦으니 JR 운행 정보 확인)",
   "lat": 37.5045,
   "lng": 139.954,
   "url": "",
@@ -11995,7 +12071,7 @@ window.SPOTS = [
   "walking": "적음",
   "fit": "백업",
   "condition": "",
-  "caution": "반에쓰사이선 이나와시로~아이즈와카마쓰 구간 2026년 8월 운휴 보도 → 운행 정보 확인",
+  "caution": "반에쓰사이선 이나와시로~아이즈와카마쓰는 2026년 8월 성토 붕괴로 운휴했다가 8월 하순 재개(큰비 때 운휴 잦으니 JR 운행 정보 확인)",
   "lat": 37.4797,
   "lng": 139.9608,
   "url": "",
@@ -12152,10 +12228,11 @@ window.SPOTS = [
   "caution": "스이군선은 열차 편수가 적어 시간표 확인 필수. 후쿠로다 폭포와 같은 노선이라 묶어 가기 좋음",
   "lat": 36.8102,
   "lng": 140.3741,
-  "url": "",
+  "url": "https://www.ibarakiguide.jp/spot.php?mode=detail&code=122",
   "sources": [
    "https://ja.wikipedia.org/wiki/月待の滝",
-   "https://msearch.gsi.go.jp/address-search/AddressSearch?q=月待の滝"
+   "https://msearch.gsi.go.jp/address-search/AddressSearch?q=月待の滝",
+   "https://www.ibarakiguide.jp/spot.php?mode=detail&code=122"
   ],
   "region": "간토"
  },
@@ -12234,10 +12311,11 @@ window.SPOTS = [
   "caution": "",
   "lat": 36.8334,
   "lng": 140.8034,
-  "url": "",
+  "url": "https://www.ibarakiguide.jp/spot.php?mode=detail&code=6",
   "sources": [
    "https://ja.wikipedia.org/wiki/五浦海岸",
-   "https://nominatim.openstreetmap.org/search?q=六角堂 北茨城&countrycodes=jp&format=json"
+   "https://nominatim.openstreetmap.org/search?q=六角堂 北茨城&countrycodes=jp&format=json",
+   "https://www.ibarakiguide.jp/spot.php?mode=detail&code=6"
   ],
   "region": "간토"
  },
@@ -12502,10 +12580,11 @@ window.SPOTS = [
   "caution": "대중교통이 거의 없음 — 노선버스 평일 하루 1왕복 수준. 단풍철 주말은 도로 정체가 심함",
   "lat": 36.7337,
   "lng": 140.6176,
-  "url": "",
+  "url": "https://www.ibarakiguide.jp/spot.php?mode=detail&code=236",
   "sources": [
    "https://ja.wikipedia.org/wiki/花園花貫県立自然公園",
-   "https://weathernews.jp/koyo/spot/24006/"
+   "https://weathernews.jp/koyo/spot/24006/",
+   "https://www.ibarakiguide.jp/spot.php?mode=detail&code=236"
   ],
   "region": "간토"
  },
@@ -12718,7 +12797,7 @@ window.SPOTS = [
   "summary": "일본 우주개발의 거점. 무료 전시관 '스페이스 돔'에 실물 크기 '기보' 실험동과 위성·로켓 모형이 늘어서 있다.",
   "do": "스페이스 돔 무료 관람, 예약제 투어로 우주비행사 훈련시설·기보 관제실 견학",
   "station": "쓰쿠바역 (つくば, 쓰쿠바 익스프레스)",
-  "access": "아키하바라에서 쓰쿠바 익스프레스로 쓰쿠바역, 노선버스 또는 택시 약 10분(정류장은 공식 확인)",
+  "access": "아키하바라에서 쓰쿠바 익스프레스로 쓰쿠바역, 간테쓰버스 '아라카와오키역'행으로 '붓시쓰자이료켄큐키코(物質材料研究機構)' 하차 도보 1분, 또는 택시 약 10분",
   "jr_pass": [],
   "seasons": [
    "봄",
@@ -12733,13 +12812,14 @@ window.SPOTS = [
   "walking": "적음",
   "fit": "백업",
   "condition": "비 오는 날 대안",
-  "caution": "휴관일·투어 예약은 공식 확인",
+  "caution": "전시관 10:00~17:00(무료). 비정기 휴관·연말연시(12/29~1/3) 휴관이 있어 개관 캘린더 확인. 가이드 투어는 웹 완전 사전 예약제(유료, 18세 이상)",
   "lat": 36.0658,
   "lng": 140.1298,
-  "url": "",
+  "url": "https://visit-tsukuba.jaxa.jp/",
   "sources": [
-   "https://ja.wikipedia.org/wiki/筑波宇宙センター",
-   "https://nominatim.openstreetmap.org/search?q=JAXA筑波宇宙センター&countrycodes=jp&format=json"
+   "https://nominatim.openstreetmap.org/search?q=JAXA筑波宇宙センター&countrycodes=jp&format=json",
+   "https://visit-tsukuba.jaxa.jp/access.html",
+   "https://visit-tsukuba.jaxa.jp/guideline.html"
   ],
   "region": "간토"
  },
@@ -12853,10 +12933,11 @@ window.SPOTS = [
   "caution": "",
   "lat": 35.9689,
   "lng": 140.6315,
-  "url": "",
+  "url": "https://www.ibarakiguide.jp/spot.php?mode=detail&code=1200",
   "sources": [
    "https://ja.wikipedia.org/wiki/鹿島神宮",
-   "https://nominatim.openstreetmap.org/search?q=鹿島神宮&countrycodes=jp&format=json"
+   "https://nominatim.openstreetmap.org/search?q=鹿島神宮&countrycodes=jp&format=json",
+   "https://www.ibarakiguide.jp/spot.php?mode=detail&code=1200"
   ],
   "region": "간토"
  },
@@ -13075,16 +13156,17 @@ window.SPOTS = [
   "best_time": "연중",
   "event": "",
   "duration": "반나절",
-  "cost": "입장 유료(공식 확인)",
+  "cost": "대불 내부 포함 약 900엔, 정원만 약 600엔",
   "walking": "적음",
   "fit": "백업",
   "condition": "",
   "caution": "평일 버스가 매우 적어 시간표 확인 필수(택시 병용 고려)",
   "lat": 35.9825,
   "lng": 140.2203,
-  "url": "",
+  "url": "https://www.ibarakiguide.jp/spot.php?mode=detail&code=1468",
   "sources": [
-   "https://ja.wikipedia.org/wiki/牛久大仏"
+   "https://ja.wikipedia.org/wiki/牛久大仏",
+   "https://www.ibarakiguide.jp/spot.php?mode=detail&code=1468"
   ],
   "region": "간토"
  },
@@ -13122,10 +13204,11 @@ window.SPOTS = [
   "caution": "음식점·매장 영업은 바뀌어 온 적이 있어 공식 확인",
   "lat": 35.9778,
   "lng": 140.1473,
-  "url": "",
+  "url": "https://www.ushiku-chateau.com/",
   "sources": [
    "https://ja.wikipedia.org/wiki/牛久シャトー",
-   "https://nominatim.openstreetmap.org/search?q=牛久シャトー&countrycodes=jp&format=json"
+   "https://nominatim.openstreetmap.org/search?q=牛久シャトー&countrycodes=jp&format=json",
+   "https://www.ushiku-chateau.com/"
   ],
   "region": "간토"
  },
@@ -13240,13 +13323,14 @@ window.SPOTS = [
   "walking": "적음",
   "fit": "매우 잘 맞음",
   "condition": "SL 검사 등으로 디젤기관차(DL 다이주)가 대신 달리는 날 있음",
-  "caution": "도쿄 와이드 패스는 시모이마이치~기누가와온센 운임을 포함하지만 SL 좌석지정권은 별도. 운행일은 공식 확인",
+  "caution": "도쿄 와이드 패스는 시모이마이치~기누가와온센 운임을 포함하지만 SL 좌석지정권(약 1,000엔)은 별도. 2026년 가을은 거의 매일 운행(하루 최대 8편)이지만 날짜마다 다이어가 달라 운전일 캘린더를 보고 갈 것",
   "lat": 36.7256,
   "lng": 139.6932,
-  "url": "",
+  "url": "https://www.tobu.co.jp/sl/",
   "sources": [
-   "https://ja.wikipedia.org/wiki/SL大樹",
-   "https://en.japantravel.com/article/jr-tokyo-wide-pass/31282"
+   "https://en.japantravel.com/article/jr-tokyo-wide-pass/31282",
+   "https://www.tobu.co.jp/sl/guide/",
+   "https://www.tobu.co.jp/sl/ticket/"
   ],
   "region": "간토"
  },
@@ -13599,10 +13683,11 @@ window.SPOTS = [
   "caution": "협곡 바닥까지 계단 오르내림이 많음. 단풍철 매우 혼잡",
   "lat": 36.8633,
   "lng": 139.7139,
-  "url": "",
+  "url": "https://www.nikko-kankou.org/spot/42",
   "sources": [
    "https://ja.wikipedia.org/wiki/竜王峡",
-   "https://msearch.gsi.go.jp/address-search/AddressSearch?q=龍王峡"
+   "https://msearch.gsi.go.jp/address-search/AddressSearch?q=龍王峡",
+   "https://www.nikko-kankou.org/spot/42"
   ],
   "region": "간토"
  },
@@ -13637,9 +13722,10 @@ window.SPOTS = [
   "caution": "전 구간을 걸으면 몇 시간 걸림. 일부만 걷고 버스로 돌아와도 됨",
   "lat": 36.7785,
   "lng": 139.4428,
-  "url": "",
+  "url": "https://www.nikko-kankou.org/spot/10",
   "sources": [
-   "https://ja.wikipedia.org/wiki/戦場ヶ原"
+   "https://ja.wikipedia.org/wiki/戦場ヶ原",
+   "https://www.nikko-kankou.org/spot/10"
   ],
   "region": "간토"
  },
@@ -13717,9 +13803,10 @@ window.SPOTS = [
   "caution": "강가 무인 노천탕(이와노유 등)은 혼욕이고 탈의 공간도 남녀 구분 없음",
   "lat": 36.9685,
   "lng": 139.8231,
-  "url": "",
+  "url": "https://www.siobara.or.jp/",
   "sources": [
-   "https://ja.wikipedia.org/wiki/塩原温泉郷"
+   "https://ja.wikipedia.org/wiki/塩原温泉郷",
+   "https://www.siobara.or.jp/"
   ],
   "region": "간토"
  },
@@ -13797,9 +13884,10 @@ window.SPOTS = [
   "caution": "",
   "lat": 36.8065,
   "lng": 139.4244,
-  "url": "",
+  "url": "https://www.nikko-kankou.org/spot/17",
   "sources": [
-   "https://ja.wikipedia.org/wiki/日光湯元温泉"
+   "https://ja.wikipedia.org/wiki/日光湯元温泉",
+   "https://www.nikko-kankou.org/spot/17"
   ],
   "region": "간토"
  },
@@ -13874,10 +13962,11 @@ window.SPOTS = [
   "caution": "천공회랑은 1,000단 넘는 계단(중간 우회로 있음)",
   "lat": 36.8075,
   "lng": 139.5945,
-  "url": "",
+  "url": "https://www.nikko-kankou.org/spot/595",
   "sources": [
    "https://ja.wikipedia.org/wiki/霧降高原",
-   "https://nominatim.openstreetmap.org/search?q=霧降高原キスゲ平&countrycodes=jp&format=json"
+   "https://nominatim.openstreetmap.org/search?q=霧降高原キスゲ平&countrycodes=jp&format=json",
+   "https://www.nikko-kankou.org/spot/595"
   ],
   "region": "간토"
  },
@@ -14291,16 +14380,17 @@ window.SPOTS = [
   "best_time": "10월 하순~11월 초 단풍",
   "event": "",
   "duration": "1~2시간",
-  "cost": "다리 건너기 유료(수백 엔)",
+  "cost": "다리 건너기 약 300엔",
   "walking": "적음",
   "fit": "백업",
   "condition": "",
   "caution": "",
   "lat": 36.7534,
   "lng": 139.604,
-  "url": "",
+  "url": "https://www.nikko-kankou.org/spot/21",
   "sources": [
-   "https://ja.wikipedia.org/wiki/神橋"
+   "https://ja.wikipedia.org/wiki/神橋",
+   "https://www.nikko-kankou.org/spot/21"
   ],
   "region": "간토"
  },
@@ -14328,17 +14418,18 @@ window.SPOTS = [
   "best_time": "가을 단풍철엔 와타라세 계곡 철도와 연계",
   "event": "",
   "duration": "반나절",
-  "cost": "입장 유료(천 엔 안팎)",
+  "cost": "입갱료 약 830엔",
   "walking": "보통",
   "fit": "백업",
   "condition": "",
   "caution": "",
   "lat": 36.6332,
   "lng": 139.4397,
-  "url": "",
+  "url": "https://www.nikko-kankou.org/spot/28",
   "sources": [
    "https://ja.wikipedia.org/wiki/足尾銅山",
-   "https://nominatim.openstreetmap.org/search?q=足尾銅山観光&countrycodes=jp&format=json"
+   "https://nominatim.openstreetmap.org/search?q=足尾銅山観光&countrycodes=jp&format=json",
+   "https://www.nikko-kankou.org/spot/28"
   ],
   "region": "간토"
  },
@@ -14656,17 +14747,18 @@ window.SPOTS = [
   "best_time": "12~3월 설경, 10월 하순 단풍",
   "event": "",
   "duration": "반나절",
-  "cost": "당일 입욕 약 1,500엔(게재 정보 기준)",
+  "cost": "당일 입욕 약 1,500엔",
   "walking": "보통",
   "fit": "매우 잘 맞음",
   "condition": "",
-  "caution": "당일 입욕 시간(약 10~16시)·요금은 변동 가능, 공식 확인",
+  "caution": "당일 입욕은 10:00~16:30(최종 접수 16:00)",
   "lat": 36.8478,
   "lng": 139.0478,
-  "url": "",
+  "url": "https://www.takaragawa.com/",
   "sources": [
    "https://nominatim.openstreetmap.org/search?q=汪泉閣&countrycodes=jp&format=json",
-   "https://rurubu.jp/andmore/spot/80008324"
+   "https://rurubu.jp/andmore/spot/80008324",
+   "https://www.takaragawa.com/higaeri.html"
   ],
   "region": "간토"
  },
@@ -14898,7 +14990,7 @@ window.SPOTS = [
   "best_time": "맑은 날, 신록·단풍철",
   "event": "",
   "duration": "1~2시간",
-  "cost": "입원료 별도 (공식 확인)",
+  "cost": "입원료 약 700엔",
   "walking": "보통",
   "fit": "매우 잘 맞음",
   "condition": "맑은 날 아사마산 전망",
@@ -14908,7 +15000,8 @@ window.SPOTS = [
   "url": "https://www.princehotels.co.jp/amuse/onioshidashi/",
   "sources": [
    "https://ja.wikipedia.org/wiki/鬼押出し園",
-   "https://msearch.gsi.go.jp/address-search/AddressSearch?q=鬼押出し園"
+   "https://msearch.gsi.go.jp/address-search/AddressSearch?q=鬼押出し園",
+   "https://www.princehotels.co.jp/amuse/onioshidashi/"
   ],
   "region": "간토"
  },
@@ -14978,16 +15071,17 @@ window.SPOTS = [
   "best_time": "5월 신록, 11월 단풍",
   "event": "",
   "duration": "하루",
-  "cost": "운임 + 토롯코 정리권 편도 520엔",
+  "cost": "운임 + 토롯코 정리권 편도 약 700엔(2026-09 인상)",
   "walking": "적음",
   "fit": "매우 잘 맞음",
   "condition": "토롯코는 4~11월 토·일·공휴일 중심, 겨울은 일부 날짜만",
-  "caution": "JR 패스는 기류역까지만. 와타라세 계곡 철도 운임·정리권은 별도, 운행일 공식 확인",
+  "caution": "JR 패스는 기류역까지만. 와타라세 계곡 철도 운임·토롯코 정리권(2026-09부터 편도 700엔)은 별도, 운행일 공식 확인",
   "lat": 36.5375,
   "lng": 139.3564,
   "url": "https://www.watetsu.com/",
   "sources": [
-   "https://ja.wikipedia.org/wiki/わたらせ渓谷鐵道わたらせ渓谷線"
+   "https://ja.wikipedia.org/wiki/わたらせ渓谷鐵道わたらせ渓谷線",
+   "https://www.watetsu.com/rail-info/ticket_torokko.php"
   ],
   "region": "간토"
  },
@@ -15099,17 +15193,18 @@ window.SPOTS = [
   "best_time": "12~3월 설경, 10월 하순 단풍",
   "event": "",
   "duration": "1박 추천",
-  "cost": "당일 입욕 유료(공식 확인)",
+  "cost": "당일 입욕 약 1,500엔",
   "walking": "적음",
   "fit": "매우 잘 맞음",
   "condition": "",
-  "caution": "호시노유는 혼욕(탈의실만 남녀 구분). 당일 입욕은 10:30~13:30 접수, 수요일 휴무. 버스 편수 매우 적음",
+  "caution": "호시노유는 혼욕(탈의실만 남녀 구분). 당일 입욕은 11:00~14:00(접수 13:30까지), 수요일·부정기 휴무. 버스 편수 매우 적음",
   "lat": 36.7441,
   "lng": 138.8302,
-  "url": "",
+  "url": "https://www.hoshi-onsen.com/",
   "sources": [
    "https://ja.wikipedia.org/wiki/法師温泉",
-   "https://nominatim.openstreetmap.org/search?q=法師温泉 長寿館&countrycodes=jp&format=json"
+   "https://nominatim.openstreetmap.org/search?q=法師温泉 長寿館&countrycodes=jp&format=json",
+   "https://www.hoshi-onsen.com/"
   ],
   "region": "간토"
  },
@@ -15843,11 +15938,11 @@ window.SPOTS = [
   "caution": "주말 라이트업은 사전 예약제 운영. 얼음길 미끄럼 주의",
   "lat": 35.9766,
   "lng": 139.136,
-  "url": "",
+  "url": "https://chocotabi-saitama.jp/event/5197/",
   "sources": [
    "https://ja.wikipedia.org/wiki/あしがくぼの氷柱",
-   "https://ja.wikipedia.org/wiki/芦ヶ久保駅",
-   "https://www.gltjp.com/ja/directory/item/11428/"
+   "https://www.gltjp.com/ja/directory/item/11428/",
+   "https://chocotabi-saitama.jp/event/5197/"
   ],
   "region": "간토"
  },
@@ -16137,9 +16232,10 @@ window.SPOTS = [
   "caution": "산간 노선버스라 편수 적음. 차도 옆을 걷게 되는 구간 주의",
   "lat": 35.9774,
   "lng": 138.8398,
-  "url": "",
+  "url": "https://chocotabi-saitama.jp/spot/52407/",
   "sources": [
-   "https://ja.wikipedia.org/wiki/中津峡"
+   "https://ja.wikipedia.org/wiki/中津峡",
+   "https://chocotabi-saitama.jp/spot/52407/"
   ],
   "region": "간토"
  },
@@ -16699,9 +16795,10 @@ window.SPOTS = [
   "caution": "",
   "lat": 36.1283,
   "lng": 139.4794,
-  "url": "",
+  "url": "https://sakitama-muse.spec.ed.jp/",
   "sources": [
-   "https://ja.wikipedia.org/wiki/埼玉古墳群"
+   "https://ja.wikipedia.org/wiki/埼玉古墳群",
+   "https://sakitama-muse.spec.ed.jp/"
   ],
   "region": "간토"
  },
@@ -16886,7 +16983,7 @@ window.SPOTS = [
   "best_time": "평일",
   "event": "",
   "duration": "반나절",
-  "cost": "입관료 약 1,600엔 안팎(공식 확인)",
+  "cost": "입관료 약 1,600엔(사전 구매 약 1,500엔)",
   "walking": "보통",
   "fit": "백업",
   "condition": "",
@@ -16895,7 +16992,8 @@ window.SPOTS = [
   "lng": 139.6183,
   "url": "https://www.railway-museum.jp/",
   "sources": [
-   "https://ja.wikipedia.org/wiki/鉄道博物館_(さいたま市)"
+   "https://ja.wikipedia.org/wiki/鉄道博物館_(さいたま市)",
+   "https://www.railway-museum.jp/information/"
   ],
   "region": "간토"
  },
@@ -17056,9 +17154,10 @@ window.SPOTS = [
   "caution": "우치보선 남부 구간 열차 편수가 적음",
   "lat": 35.07667,
   "lng": 140.10444,
-  "url": "",
+  "url": "https://maruchiba.jp/spot/detail_10385.html",
   "sources": [
-   "https://ja.wikipedia.org/wiki/仁右衛門島"
+   "https://ja.wikipedia.org/wiki/仁右衛門島",
+   "https://maruchiba.jp/spot/detail_10385.html"
   ],
   "region": "간토"
  },
@@ -17135,9 +17234,10 @@ window.SPOTS = [
   "caution": "해안 대부분은 낙석·사유지로 출입 금지, 마리나 앞 유보도에서 관람",
   "lat": 35.7075,
   "lng": 140.79,
-  "url": "",
+  "url": "https://maruchiba.jp/spot/detail_10186.html",
   "sources": [
-   "https://ja.wikipedia.org/wiki/屏風ヶ浦"
+   "https://ja.wikipedia.org/wiki/屏風ヶ浦",
+   "https://maruchiba.jp/spot/detail_10186.html"
   ],
   "region": "간토"
  },
@@ -17251,7 +17351,7 @@ window.SPOTS = [
   "caution": "논두렁은 사유지라 출입 금지. 라이트업 후 돌아오는 버스 편수 적음",
   "lat": 35.1302,
   "lng": 139.9735,
-  "url": "",
+  "url": "https://maruchiba.jp/spot/detail_10374.html",
   "sources": [
    "https://maruchiba.jp/spot/detail_10374.html",
    "https://ja.wikipedia.org/wiki/大山千枚田"
@@ -17452,9 +17552,10 @@ window.SPOTS = [
   "caution": "버스 편수 적음",
   "lat": 35.31278,
   "lng": 139.7855,
-  "url": "",
+  "url": "https://maruchiba.jp/spot/detail_10337.html",
   "sources": [
-   "https://ja.wikipedia.org/wiki/富津岬"
+   "https://ja.wikipedia.org/wiki/富津岬",
+   "https://maruchiba.jp/spot/detail_10337.html"
   ],
   "region": "간토"
  },
@@ -17489,10 +17590,11 @@ window.SPOTS = [
   "caution": "구루리선 구루리~가즈사카메야마 구간은 2027년 4월 폐지·버스 전환 예정이고 열차가 하루 몇 편뿐. 방문 시점 교통 확인",
   "lat": 35.23,
   "lng": 140.08556,
-  "url": "",
+  "url": "https://maruchiba.jp/spot/detail_10342.html",
   "sources": [
    "https://ja.wikipedia.org/wiki/亀山ダム",
-   "https://www.chibanippo.co.jp//articles/1577288"
+   "https://www.chibanippo.co.jp//articles/1577288",
+   "https://maruchiba.jp/spot/detail_10342.html"
   ],
   "region": "간토"
  },
@@ -17684,9 +17786,10 @@ window.SPOTS = [
   "caution": "버스 종점에서 왕복 약 50분 걷기",
   "lat": 34.99106,
   "lng": 139.82553,
-  "url": "",
+  "url": "https://maruchiba.jp/spot/detail_10426.html",
   "sources": [
-   "https://ja.wikipedia.org/wiki/沖ノ島_(千葉県)"
+   "https://ja.wikipedia.org/wiki/沖ノ島_(千葉県)",
+   "https://maruchiba.jp/spot/detail_10426.html"
   ],
   "region": "간토"
  },
@@ -17955,7 +18058,7 @@ window.SPOTS = [
   "best_time": "벚꽃 4월 초(성터 공원)",
   "event": "",
   "duration": "반나절",
-  "cost": "상설전 1,000엔 안팎(공식 확인)",
+  "cost": "상설전 약 900엔",
   "walking": "보통",
   "fit": "백업",
   "condition": "",
@@ -17964,7 +18067,8 @@ window.SPOTS = [
   "lng": 140.21908,
   "url": "https://www.rekihaku.ac.jp/",
   "sources": [
-   "https://ja.wikipedia.org/wiki/国立歴史民俗博物館"
+   "https://ja.wikipedia.org/wiki/国立歴史民俗博物館",
+   "https://www.rekihaku.ac.jp/information/basicinfo/"
   ],
   "region": "간토"
  },
@@ -17996,13 +18100,14 @@ window.SPOTS = [
   "walking": "적음",
   "fit": "백업",
   "condition": "",
-  "caution": "예약제. 휴관일(주말·공휴일 휴관 안내 있음)은 공식 확인",
+  "caution": "완전 예약제(전날 영업일까지 웹·전화, 당일 불가). 토·일·공휴일, 매월 넷째 월요일, 골든위크·오봉·연말연시 휴관. 견학 약 60분",
   "lat": 35.9415,
   "lng": 139.8707,
   "url": "https://www.kikkoman.co.jp/",
   "sources": [
    "https://ja.wikipedia.org/wiki/キッコーマン",
-   "https://ja.wikipedia.org/wiki/野田市駅"
+   "https://ja.wikipedia.org/wiki/野田市駅",
+   "https://www.kikkoman.com/jp/shokuiku/factory/noda/"
   ],
   "region": "간토"
  },
@@ -18726,12 +18831,13 @@ window.SPOTS = [
   "walking": "적음",
   "fit": "조건부",
   "condition": "파도 높으면 배가 접안하지 못하고 통과(겨울엔 접안률 50% 아래도)",
-  "caution": "숙소 사전 예약 필수(없으면 상륙 불가), 여름은 만실 잦음. 국립공원이라 캠핑·노숙 금지. 투어 운영 기간은 공식 확인",
+  "caution": "숙소 사전 예약 필수(없으면 상륙 불가), 여름은 만실 잦음. 국립공원이라 캠핑·노숙 금지. 돌고래 투어는 숙소 예약 때 함께 신청(숙소 소유·제휴 배 이용, 관광협회는 접수 안 함), 운영 기간도 숙소에 문의",
   "lat": 33.8742,
   "lng": 139.6019,
-  "url": "",
+  "url": "https://mikura-isle.com/",
   "sources": [
-   "https://ja.wikipedia.org/wiki/御蔵島"
+   "https://ja.wikipedia.org/wiki/御蔵島",
+   "https://mikura-isle.com/ocean/"
   ],
   "region": "간토"
  },
@@ -20375,7 +20481,7 @@ window.SPOTS = [
   "best_time": "벚꽃 4월 초, 단풍 11월 하순~12월 초",
   "event": "",
   "duration": "반나절",
-  "cost": "입원료 약 900엔 안팎(공식 확인)",
+  "cost": "입원료 약 900엔",
   "walking": "보통",
   "fit": "백업",
   "condition": "",
@@ -20384,7 +20490,8 @@ window.SPOTS = [
   "lng": 139.65889,
   "url": "https://www.sankeien.or.jp/",
   "sources": [
-   "https://ja.wikipedia.org/wiki/三溪園"
+   "https://ja.wikipedia.org/wiki/三溪園",
+   "https://www.sankeien.or.jp/price-service/"
   ],
   "region": "간토"
  },
@@ -20762,19 +20869,20 @@ window.SPOTS = [
    "가을"
   ],
   "best_time": "9월 둘째 금·토요일",
-  "event": "매년 9월 둘째 금요일과 다음 날(2024년부터, 이전엔 9/9~10 고정). 날짜는 매년 공식 확인",
+  "event": "매년 9월 둘째 금요일과 다음 날(2024년부터, 이전엔 9/9~10 고정). 2027년은 9/10~11",
   "duration": "하루",
-  "cost": "관람석은 유료 좌석과 무료 구역(공식 확인)",
+  "cost": "사지키(유료 관람석) 당일권 1인 약 5,500엔(2026년 기준, 사전 판매분은 매진)",
   "walking": "보통",
   "fit": "매우 잘 맞음",
   "condition": "비·강풍 시 순연·중지 가능",
   "caution": "숙소는 나가오카·오지야에 일찍 잡을 것. 귀가 버스 매우 혼잡",
   "lat": 37.3697,
   "lng": 138.7745,
-  "url": "",
+  "url": "https://katakaimachi-enkakyokai.info/",
   "sources": [
    "https://ja.wikipedia.org/wiki/片貝まつり",
-   "https://ja.wikipedia.org/wiki/浅原神社"
+   "https://ja.wikipedia.org/wiki/浅原神社",
+   "https://katakaimachi-enkakyokai.info/"
   ],
   "region": "고신에쓰"
  },
@@ -20888,9 +20996,10 @@ window.SPOTS = [
   "caution": "호쿠호쿠선은 사철(별도 요금). 버스 편수 적음",
   "lat": 37.0661,
   "lng": 138.603,
-  "url": "",
+  "url": "https://www.matsunoyama.com/",
   "sources": [
-   "https://ja.wikipedia.org/wiki/松之山温泉"
+   "https://ja.wikipedia.org/wiki/松之山温泉",
+   "https://www.matsunoyama.com/"
   ],
   "region": "고신에쓰"
  },
@@ -21047,9 +21156,10 @@ window.SPOTS = [
   "caution": "",
   "lat": 38.2143,
   "lng": 139.4395,
-  "url": "",
+  "url": "https://www.senami.or.jp/",
   "sources": [
-   "https://ja.wikipedia.org/wiki/瀬波温泉"
+   "https://ja.wikipedia.org/wiki/瀬波温泉",
+   "https://www.senami.or.jp/"
   ],
   "region": "고신에쓰"
  },
@@ -21081,7 +21191,7 @@ window.SPOTS = [
   "walking": "보통",
   "fit": "매우 잘 맞음",
   "condition": "",
-  "caution": "반에쓰사이선은 편수가 적어 축제 후 귀가 열차 시간을 미리 확인",
+  "caution": "반에쓰사이선 이나와시로~아이즈와카마쓰는 2026년 8월 성토 붕괴로 운휴했다가 8월 하순 재개(큰비 때 운휴 잦으니 JR 운행 정보 확인)",
   "lat": 37.6762,
   "lng": 139.4501,
   "url": "",
@@ -21197,17 +21307,18 @@ window.SPOTS = [
   "best_time": "맑은 날(묘코산·동해 조망), 가을 단풍",
   "event": "토·휴일 중심 하루 1왕복. 12~2월은 이토이가와→조에쓰묘코 1편만 특별 운행",
   "duration": "반나절",
-  "cost": "식사 포함 편도 약 17,500엔(2018년 기준, 현재 요금 공식 확인)",
+  "cost": "식사 포함 1인 약 29,800엔(대인·소인 동일, 2026년)",
   "walking": "적음",
   "fit": "매우 잘 맞음",
   "condition": "흐리면 산 조망이 줄어듦",
-  "caution": "에치고도키메키철도 여행상품이라 JR 패스 미적용. 전화 등으로 사전 예약 필수, 2026년 운행일 공식 확인",
+  "caution": "에치고도키메키철도 여행상품이라 JR 패스 미적용. 운행일 3개월 전 1일부터 인터넷(출발 3일 전 정오까지)·전화로 사전 예약 필수. 2026년은 오전·오후 정기편 9/19~11/29, 겨울 정기편 12/12~2/28(조에쓰묘코발 하루 1편)",
   "lat": 37.0815,
   "lng": 138.2488,
-  "url": "",
+  "url": "https://www.echigo-tokimeki.co.jp/setsugekka/",
   "sources": [
    "https://ja.wikipedia.org/wiki/えちごトキめきリゾート雪月花",
-   "https://msearch.gsi.go.jp/address-search/AddressSearch?q=上越妙高駅"
+   "https://msearch.gsi.go.jp/address-search/AddressSearch?q=上越妙高駅",
+   "https://www.echigo-tokimeki.co.jp/setsugekka/reserve.html"
   ],
   "region": "고신에쓰"
  },
@@ -21356,7 +21467,7 @@ window.SPOTS = [
   "best_time": "10월 상순~11월 상순 단풍 운행",
   "event": "",
   "duration": "반나절",
-  "cost": "왕복 승차권 유료(공식 확인)",
+  "cost": "드라곤도라 왕복(또는 다시로 로프웨이와 편도씩 주유) 대인 약 4,000엔(2026년 가을 기준)",
   "walking": "적음",
   "fit": "조건부",
   "condition": "단풍기 한정 운행 / 강풍 시 운휴",
@@ -21366,7 +21477,8 @@ window.SPOTS = [
   "url": "",
   "sources": [
    "https://ja.wikipedia.org/wiki/ドラゴンドラ",
-   "https://ja.wikipedia.org/wiki/苗場スキー場"
+   "https://ja.wikipedia.org/wiki/苗場スキー場",
+   "https://www.princehotels.co.jp/ski/naeba/dragondola/autumn/"
   ],
   "region": "고신에쓰"
  },
@@ -21467,7 +21579,7 @@ window.SPOTS = [
    "겨울"
   ],
   "best_time": "2월 중순",
-  "event": "매년 2월 중순 약 3일간. 날짜는 매년 공식 확인",
+  "event": "매년 2월 중순 약 3일간. 2027년(제78회)은 2/19~21",
   "duration": "하루",
   "cost": "관람 무료(일부 유료 행사)",
   "walking": "보통",
@@ -21476,10 +21588,11 @@ window.SPOTS = [
   "caution": "대형 설상 카니발은 2019년 눈 조각 붕괴 사고 이후 중단된 적이 있어 그해 프로그램은 공식 확인. 눈길용 신발 필요",
   "lat": 37.1346,
   "lng": 138.7562,
-  "url": "",
+  "url": "https://snowfes.jp/hp/",
   "sources": [
    "https://ja.wikipedia.org/wiki/十日町雪まつり",
-   "https://nominatim.openstreetmap.org/search?q=十日町駅&countrycodes=jp&format=json"
+   "https://nominatim.openstreetmap.org/search?q=十日町駅&countrycodes=jp&format=json",
+   "https://niigata-kankou.or.jp/event/detail_3599.html"
   ],
   "region": "고신에쓰"
  },
@@ -21667,17 +21780,18 @@ window.SPOTS = [
   "best_time": "10월 하순~11월 초 단풍",
   "event": "",
   "duration": "반나절",
-  "cost": "로프웨이 왕복 요금은 공식 확인",
+  "cost": "왕복 대인 약 3,000엔(10/1~11/15는 약 3,200엔, 2026년)",
   "walking": "적음",
   "fit": "조건부",
   "condition": "맑은 날 전망 / 강풍이면 운휴",
-  "caution": "그린시즌 운행 기간과 버스 편수는 공식 확인. 정상 등산은 산정역에서 편도 약 3시간",
+  "caution": "2026년 그린시즌 운행은 4/25~11/15, 8:00~16:00(하행 막차 16:30). 산기슭행 노선버스 시간표는 미리 챙길 것. 정상 등산은 산정역에서 편도 약 3시간",
   "lat": 37.1212,
   "lng": 138.9878,
-  "url": "",
+  "url": "https://princehotels.co.jp/ski/hakkaisan/summer/",
   "sources": [
    "https://ja.wikipedia.org/wiki/八海山ロープウェー",
-   "https://msearch.gsi.go.jp/address-search/AddressSearch?q=八海山ロープウェー"
+   "https://msearch.gsi.go.jp/address-search/AddressSearch?q=八海山ロープウェー",
+   "https://princehotels.co.jp/ski/hakkaisan/summer/"
   ],
   "region": "고신에쓰"
  },
@@ -22028,9 +22142,10 @@ window.SPOTS = [
   "caution": "가을 포도철엔 온천이 붐빔",
   "lat": 35.6748,
   "lng": 138.7368,
-  "url": "",
+  "url": "https://www.budounooka.com/",
   "sources": [
-   "https://ja.wikipedia.org/wiki/ぶどうの丘"
+   "https://ja.wikipedia.org/wiki/ぶどうの丘",
+   "https://www.budounooka.com/"
   ],
   "region": "고신에쓰"
  },
@@ -22065,10 +22180,11 @@ window.SPOTS = [
   "caution": "주말엔 매우 혼잡, 전용 주차장 없음",
   "lat": 35.5256,
   "lng": 138.7624,
-  "url": "",
+  "url": "https://www.yamanashi-kankou.jp/kankou/spot/p1_4534.html",
   "sources": [
    "https://nominatim.openstreetmap.org/search?q=もみじ回廊 富士河口湖町&countrycodes=jp&format=json",
-   "https://kaibutsu-blog.com/fujikawaguchiko-koyo-matsuri-2026/"
+   "https://kaibutsu-blog.com/fujikawaguchiko-koyo-matsuri-2026/",
+   "https://www.yamanashi-kankou.jp/kankou/spot/p1_4534.html"
   ],
   "region": "고신에쓰"
  },
@@ -22182,12 +22298,13 @@ window.SPOTS = [
   "walking": "많음",
   "fit": "매우 잘 맞음",
   "condition": "겨울엔 일부 구간 통행금지, 비 온 뒤 미끄러움",
-  "caution": "일주 약 4시간 산길(바위·계단 많음). 버스 편수 적음",
+  "caution": "일주 약 4시간 산길(바위·계단 많음). 버스 편수 적음. 12/1~4월 하순은 동계 폐쇄(적설에 따라 변동)",
   "lat": 35.8646,
   "lng": 138.732,
-  "url": "",
+  "url": "https://www.yamanashi-kankou.jp/kankou/spot/p1_4536.html",
   "sources": [
-   "https://ja.wikipedia.org/wiki/西沢渓谷"
+   "https://ja.wikipedia.org/wiki/西沢渓谷",
+   "https://www.yamanashi-kankou.jp/kankou/spot/p1_4536.html"
   ],
   "region": "고신에쓰"
  },
@@ -22260,7 +22377,7 @@ window.SPOTS = [
   "caution": "당일 미노부선 증편이 있지만 귀로 열차가 매우 혼잡, 고후 숙박 권장. 실시·순연은 전날 오후 5시 판정",
   "lat": 35.5704,
   "lng": 138.4872,
-  "url": "",
+  "url": "https://www.yamanashi-kankou.jp/ichikawamisato/event/shinmei-hanabi.html",
   "sources": [
    "https://www.yamanashi-kankou.jp/ichikawamisato/event/shinmei-hanabi.html",
    "https://msearch.gsi.go.jp/address-search/AddressSearch?q=三郡西橋"
@@ -23315,13 +23432,14 @@ window.SPOTS = [
   "walking": "적음",
   "fit": "매우 잘 맞음",
   "condition": "흐리면 별 관측 안내 없음",
-  "caution": "전석 지정이라 패스 이용 시에도 지정석 확보 필요. 2026년 이후 운행 계획 공식 확인",
+  "caution": "전석 지정이라 패스 이용 시에도 지정석 확보 필요. 2026년 여름(7~9월)에도 1호(고부치자와 10:39발)·2호(고모로 14:46발)와 야간 'HIGH RAIL 星空'가 운행됨. 2026년 겨울 이후 운행일은 미발표",
   "lat": 36.3264,
   "lng": 138.4223,
   "url": "",
   "sources": [
    "https://ja.wikipedia.org/wiki/HIGH_RAIL_1375",
-   "https://msearch.gsi.go.jp/address-search/AddressSearch?q=小諸駅"
+   "https://msearch.gsi.go.jp/address-search/AddressSearch?q=小諸駅",
+   "https://www.tetsudo.com/event/60075/"
   ],
   "region": "고신에쓰"
  },
@@ -23363,46 +23481,6 @@ window.SPOTS = [
   "sources": [
    "https://www.kamikochi.or.jp/access/train",
    "https://ja.wikipedia.org/wiki/上高地"
-  ],
-  "region": "고신에쓰"
- },
- {
-  "id": "nagano-norikura-tatamidaira",
-  "name_ko": "노리쿠라 다타미다이라",
-  "name_ja": "乗鞍岳 畳平",
-  "pref": "나가노",
-  "area": "노리쿠라",
-  "categories": [
-   "view",
-   "volcano",
-   "nature"
-  ],
-  "summary": "해발 약 2,700m, 일본에서 버스로 갈 수 있는 가장 높은 곳 가운데 하나인 화산 노리쿠라다케의 고원. 고산 꽃밭과 일출 명소이고 일반 차량은 다닐 수 없다.",
-  "do": "셔틀버스로 올라 꽃밭 데크 산책, 후지미다케 등 짧은 등산, 여름엔 일출 버스",
-  "station": "마쓰모토역 (松本) / 다카야마역 (高山)",
-  "access": "나가노 쪽: 신시마시마 → 노리쿠라고원 → 고원 주차장에서 셔틀버스. 기후 쪽: 다카야마 → 노히버스로 히라유 → 아칸다나·호오노키다이라 주차장에서 셔틀버스",
-  "jr_pass": [
-   "JR 동일본 패스",
-   "알펜·다카야마·마쓰모토 지역 투어리스트 패스",
-   "다카야마·호쿠리쿠 지역 투어리스트 패스"
-  ],
-  "seasons": [
-   "여름",
-   "가을"
-  ],
-  "best_time": "6월 말~8월 중순 고산 꽃, 9월 하순 단풍",
-  "event": "",
-  "duration": "하루",
-  "cost": "셔틀버스 왕복 유료(공식 확인)",
-  "walking": "보통",
-  "fit": "매우 잘 맞음",
-  "condition": "맑은 날 북알프스 전망 / 고지대라 여름에도 추움, 뇌우 주의",
-  "caution": "기후 쪽은 5월 15일, 나가노 쪽은 7월 초에 전 구간 개통(겨울 폐쇄). 2003년부터 일반 차량 통행 금지라 버스·택시만. 고산병 주의",
-  "lat": 36.1064,
-  "lng": 137.5536,
-  "url": "",
-  "sources": [
-   "https://ja.wikipedia.org/wiki/畳平"
   ],
   "region": "고신에쓰"
  },
@@ -23484,9 +23562,10 @@ window.SPOTS = [
   "caution": "우에다전철은 JR 패스 미적용",
   "lat": 36.3527,
   "lng": 138.1617,
-  "url": "",
+  "url": "https://www.bessho-spa.jp/",
   "sources": [
-   "https://ja.wikipedia.org/wiki/別所温泉"
+   "https://ja.wikipedia.org/wiki/別所温泉",
+   "https://www.bessho-spa.jp/"
   ],
   "region": "고신에쓰"
  },
@@ -23601,9 +23680,10 @@ window.SPOTS = [
   "caution": "버스 편수가 적고 계절별로 운행이 달라짐(겨울은 축소·환승 가능) — 시간표 확인. 사철·버스는 JR 패스 미적용",
   "lat": 36.1522,
   "lng": 137.6276,
-  "url": "",
+  "url": "https://shirahone.org/",
   "sources": [
-   "https://ja.wikipedia.org/wiki/白骨温泉"
+   "https://ja.wikipedia.org/wiki/白骨温泉",
+   "https://shirahone.org/"
   ],
   "region": "고신에쓰"
  },
@@ -23641,9 +23721,10 @@ window.SPOTS = [
   "caution": "외탕은 기본적으로 숙박객용(열쇠). 나가노전철은 JR 패스 미적용",
   "lat": 36.7344,
   "lng": 138.4331,
-  "url": "",
+  "url": "https://www.shibuonsen.net/",
   "sources": [
-   "https://ja.wikipedia.org/wiki/渋温泉"
+   "https://ja.wikipedia.org/wiki/渋温泉",
+   "https://www.shibuonsen.net/"
   ],
   "region": "고신에쓰"
  },
@@ -23681,9 +23762,10 @@ window.SPOTS = [
   "caution": "JR 패스는 나가노역까지, 나가노전철·버스 별도. 버스 편수 적어 시간표 확인",
   "lat": 36.6721,
   "lng": 138.4246,
-  "url": "",
+  "url": "https://shinshu-takayama-onsenkyo.com/yamada_spa/",
   "sources": [
-   "https://ja.wikipedia.org/wiki/山田温泉_(長野県)"
+   "https://ja.wikipedia.org/wiki/山田温泉_(長野県)",
+   "https://shinshu-takayama-onsenkyo.com/yamada_spa/"
   ],
   "region": "고신에쓰"
  },
@@ -23910,16 +23992,17 @@ window.SPOTS = [
   "best_time": "5~10월 맑은 날. 매년 8월 하순 무렵 특별 공개",
   "event": "특별 공개: 매년 8월 하순 무렵. 날짜는 매년 공식 확인",
   "duration": "반나절",
-  "cost": "견학 조건은 공식 확인",
+  "cost": "견학 무료(예약 불필요, 접수처에서 등록)",
   "walking": "보통",
   "fit": "조건부",
   "condition": "고원이라 날씨 변화가 크고 아침저녁 쌀쌀함",
-  "caution": "고우미선은 편수가 적어 열차 시간에 맞춰 일정 짜기. 견학 가능 시간은 공식 확인",
+  "caution": "고우미선은 편수가 적어 열차 시간에 맞춰 일정 짜기. 견학은 8:30~17:00, 12/29~1/3과 기상 경보 발령 시 불가",
   "lat": 35.941,
   "lng": 138.4702,
-  "url": "",
+  "url": "https://www.nro.nao.ac.jp/",
   "sources": [
-   "https://ja.wikipedia.org/wiki/野辺山宇宙電波観測所"
+   "https://ja.wikipedia.org/wiki/野辺山宇宙電波観測所",
+   "https://www.nro.nao.ac.jp/"
   ],
   "region": "고신에쓰"
  },
@@ -23954,13 +24037,14 @@ window.SPOTS = [
   "walking": "적음",
   "fit": "조건부",
   "condition": "강풍 시 결항",
-  "caution": "JR 패스는 나가노역·이이야마역까지. 시나노철도·버스는 별도 요금. 운항 시간은 공식 확인",
+  "caution": "JR 패스는 나가노역·이이야마역까지. 시나노철도·버스는 별도 요금. 대형 유람선 '雅'는 10:00·11:30·13:00 출항(2026년), 요금은 2026/5/2 개정",
   "lat": 36.824,
   "lng": 138.224,
-  "url": "",
+  "url": "https://www.nojiriko.co.jp/",
   "sources": [
    "https://ja.wikipedia.org/wiki/野尻湖",
-   "https://www.nap-camp.com/mag/30613"
+   "https://www.nap-camp.com/mag/30613",
+   "https://www.nojiriko.co.jp/"
   ],
   "region": "고신에쓰"
  },
@@ -24954,17 +25038,18 @@ window.SPOTS = [
   "best_time": "11월 단풍, 1~2월 설경",
   "event": "",
   "duration": "반나절",
-  "cost": "유람선 유료(코스별, 공식 확인). 오마키 온천 숙박 별도",
+  "cost": "오마키 온천 코스 왕복 약 3,400엔(약 60분, 오마키 온천 예약자만 하선 가능), 나가사키바시 주유 코스 약 1,500엔(약 25분). 오마키 온천 숙박 별도",
   "walking": "적음",
   "fit": "매우 잘 맞음",
   "condition": "수위·기상에 따라 결항 가능",
   "caution": "버스 하루 약 4왕복이라 왕복 시간표 먼저 확인. 버스는 JR 패스 미적용",
   "lat": 36.5567,
   "lng": 137.0083,
-  "url": "",
+  "url": "https://shogawa-yuran.co.jp/",
   "sources": [
    "https://ja.wikipedia.org/wiki/小牧ダム",
-   "https://ja.wikipedia.org/wiki/庄川峡"
+   "https://ja.wikipedia.org/wiki/庄川峡",
+   "https://shogawa-yuran.co.jp/wp/timetable/"
   ],
   "region": "호쿠리쿠"
  },
@@ -25289,10 +25374,11 @@ window.SPOTS = [
   "caution": "JR 패스는 도야마역까지이고 아이노카제도야마철도 도야마 이동 구간은 별도 요금. 심야 출항이라 대중교통 없음",
   "lat": 36.7741,
   "lng": 137.3445,
-  "url": "",
+  "url": "https://hotaruikamuseum.com/",
   "sources": [
    "https://ja.wikipedia.org/wiki/ホタルイカ群遊海面",
-   "https://nominatim.openstreetmap.org/search?q=ほたるいかミュージアム&countrycodes=jp&format=json"
+   "https://nominatim.openstreetmap.org/search?q=ほたるいかミュージアム&countrycodes=jp&format=json",
+   "https://hotaruikamuseum.com/"
   ],
   "region": "호쿠리쿠"
  },
@@ -25774,16 +25860,17 @@ window.SPOTS = [
   "best_time": "5~10월 신록·여름",
   "event": "",
   "duration": "1~2시간",
-  "cost": "무료(자연관 이용 조건은 공식 확인)",
+  "cost": "무료(사와스기 자연관도 무료)",
   "walking": "보통",
   "fit": "백업",
   "condition": "",
-  "caution": "JR 패스는 도야마역까지, 도야마~니시뉴젠 아이노카제도야마철도 별도 요금. 자연관 개관 기간 공식 확인",
+  "caution": "JR 패스는 도야마역까지, 도야마~니시뉴젠 아이노카제도야마철도 별도 요금. 자연관은 9:00~17:00, 월요일·공휴일 다음 날·겨울(12/28~2월 말) 휴관",
   "lat": 36.9425,
   "lng": 137.4725,
-  "url": "",
+  "url": "https://www.nyuzen-kanko.jp/miru/264/",
   "sources": [
-   "https://ja.wikipedia.org/wiki/杉沢の沢スギ"
+   "https://ja.wikipedia.org/wiki/杉沢の沢スギ",
+   "https://www.nyuzen-kanko.jp/miru/264/"
   ],
   "region": "호쿠리쿠"
  },
@@ -26062,11 +26149,11 @@ window.SPOTS = [
   "caution": "노토 지진(2024) 피해 지역. 주변 숙박이 매우 적어 일찍 예약하거나 와쿠라·아나미즈에서 이동. 막차 시간 확인",
   "lat": 37.3103,
   "lng": 137.1477,
-  "url": "",
+  "url": "https://www.town.noto.lg.jp/kakuka/1009/gyomu/20/1/1258.html",
   "sources": [
-   "https://ja.wikipedia.org/wiki/あばれ祭",
    "https://summer.walkerplus.com/odekake/detail_e/ar0517e602279/",
-   "https://ja.wikipedia.org/wiki/能登町"
+   "https://ja.wikipedia.org/wiki/能登町",
+   "https://www.town.noto.lg.jp/kakuka/1009/gyomu/20/1/1258.html"
   ],
   "region": "호쿠리쿠"
  },
@@ -26189,10 +26276,11 @@ window.SPOTS = [
   "caution": "고소유는 비누·샴푸 사용 불가(옛 방식)",
   "lat": 36.289,
   "lng": 136.3615,
-  "url": "",
+  "url": "https://www.yamashiro-spa.or.jp/",
   "sources": [
    "https://nominatim.openstreetmap.org/search?q=山代温泉%20古総湯",
-   "https://ja.wikipedia.org/wiki/山代温泉"
+   "https://ja.wikipedia.org/wiki/山代温泉",
+   "https://www.yamashiro-spa.or.jp/"
   ],
   "region": "호쿠리쿠"
  },
@@ -26221,7 +26309,7 @@ window.SPOTS = [
    "겨울"
   ],
   "best_time": "10월 등불 축제, 겨울 설경",
-  "event": "매년 10월 '유와쿠 본보리 마쓰리'(등불 축제), 날짜는 매년 공식 확인",
+  "event": "매년 10월 '유와쿠 본보리 마쓰리'(등불 축제). 2026년은 10/17(점등식 7/19)",
   "duration": "반나절",
   "cost": "공동탕 약 500엔 전후",
   "walking": "적음",
@@ -26230,9 +26318,10 @@ window.SPOTS = [
   "caution": "버스 편수가 많지 않아 돌아오는 시간 확인",
   "lat": 36.4867,
   "lng": 136.7561,
-  "url": "",
+  "url": "https://www.yuwaku.gr.jp/",
   "sources": [
-   "https://ja.wikipedia.org/wiki/湯涌温泉"
+   "https://ja.wikipedia.org/wiki/湯涌温泉",
+   "https://www.yuwaku.gr.jp/"
   ],
   "region": "호쿠리쿠"
  },
@@ -26491,16 +26580,17 @@ window.SPOTS = [
   "best_time": "4~11월 맑은 날",
   "event": "",
   "duration": "반나절",
-  "cost": "곤돌라 왕복 요금 별도(공식 확인)",
+  "cost": "곤돌라 왕복 약 710엔(편도 약 500엔, 2027년 4월 요금 개정 예정)",
   "walking": "적음",
   "fit": "조건부",
   "condition": "맑은 날 전망 / 강풍이면 곤돌라·패러글라이딩 중단",
-  "caution": "겨울 운행 여부는 공식 확인",
+  "caution": "곤돌라는 4월 중순~11월 하순만 운행(12~3월 운휴), 10:00~17:00(상행 막차 16:30)",
   "lat": 36.4461,
   "lng": 136.6484,
-  "url": "",
+  "url": "https://city-hakusan.com/shishiku/",
   "sources": [
-   "https://ja.wikipedia.org/wiki/獅子吼高原"
+   "https://ja.wikipedia.org/wiki/獅子吼高原",
+   "https://city-hakusan.com/shishiku/"
   ],
   "region": "호쿠리쿠"
  },
@@ -27023,7 +27113,7 @@ window.SPOTS = [
   "best_time": "봄·가을",
   "event": "",
   "duration": "1~2시간",
-  "cost": "배관료 별도",
+  "cost": "배관료 약 500엔",
   "walking": "보통",
   "fit": "백업",
   "condition": "",
@@ -27374,10 +27464,11 @@ window.SPOTS = [
   "caution": "2026년 대회는 중지됨 — 2027년 개최 여부를 공식 확인 / 귀가 열차가 매우 혼잡. 아와라 온천 숙박 추천",
   "lat": 36.2226,
   "lng": 136.1348,
-  "url": "",
+  "url": "https://mikuni-hanabi.jp/",
   "sources": [
    "https://ja.wikipedia.org/wiki/三国花火大会",
-   "https://ja.wikipedia.org/wiki/三国海水浴場"
+   "https://ja.wikipedia.org/wiki/三国海水浴場",
+   "https://mikuni-hanabi.jp/"
   ],
   "region": "호쿠리쿠"
  },
@@ -27476,7 +27567,7 @@ window.SPOTS = [
   "summary": "나라 도다이지 '오미즈토리'에 쓰일 물을 오바마에서 보내는 1,200년 된 의식. 횃불 행렬이 진구지에서 강가 '우노세'까지 이어진다.",
   "do": "진구지 경내 큰 불 의식과 수백 명 횃불 행렬을 따라 강가 송수 의식 보기",
   "station": "오바마역 (小浜, JR 오바마선)",
-  "access": "오바마역에서 버스·택시 약 15분 진구지. 행사 당일 교통편은 공식 확인",
+  "access": "오바마역에서 버스·택시 약 15분 진구지. 행사 당일엔 오바마역 17:45발 진구지행 셔틀버스(편도 약 1,000엔, 역 앞 관광안내소에서 승차권), 귀가는 21:30부터 우노세 쪽 포켓파크→오바마역 셔틀(2026년 기준)",
   "jr_pass": [
    "호쿠리쿠 패스",
    "간사이 호쿠리쿠 패스"
@@ -27494,10 +27585,11 @@ window.SPOTS = [
   "caution": "횃불 행렬을 따라 진구지~우노세 약 2km를 밤길로 걸음. 귀가 교통이 적어 오바마 숙박 추천",
   "lat": 35.4597,
   "lng": 135.783,
-  "url": "",
+  "url": "https://wakasa-obama.jp/special/wakasa-omizuokuri/",
   "sources": [
    "https://ja.wikipedia.org/wiki/若狭神宮寺",
-   "https://ja.wikipedia.org/wiki/遠敷川"
+   "https://ja.wikipedia.org/wiki/遠敷川",
+   "https://wakasa-obama.jp/special/wakasa-omizuokuri/"
   ],
   "region": "호쿠리쿠"
  },
@@ -27693,13 +27785,14 @@ window.SPOTS = [
   "walking": "적음",
   "fit": "조건부",
   "condition": "맑은 날 전망 / 강풍이면 리프트 운휴 가능",
-  "caution": "버스가 없어 택시 필수. 영업시간·휴업일은 계절별로 공식 확인",
+  "caution": "버스가 없어 택시 필수. 영업 9:00~17:00(12~2월은 ~16:30, 리프트·케이블 상행 막차 30분 전), 2026/12/31~2027/1/2·2027/2/1~5 휴업",
   "lat": 35.6011,
   "lng": 135.8689,
-  "url": "",
+  "url": "https://mikatagoko.com/",
   "sources": [
    "https://nominatim.openstreetmap.org/search?q=梅丈岳",
-   "https://ja.wikipedia.org/wiki/三方五湖レインボーライン"
+   "https://ja.wikipedia.org/wiki/三方五湖レインボーライン",
+   "https://mikatagoko.com/park-information/"
   ],
   "region": "호쿠리쿠"
  },
@@ -28168,13 +28261,14 @@ window.SPOTS = [
   "walking": "보통",
   "fit": "백업",
   "condition": "궂은 날 대안",
-  "caution": "휴관일(주로 수요일) 공식 확인",
+  "caution": "아카렌가 창고는 매주 수요일(공휴일이면 다음 날)·12/30~1/2 휴관. 지오라마관 9:30~17:30(입관 17:00까지)",
   "lat": 35.6619,
   "lng": 136.0746,
-  "url": "",
+  "url": "https://tsuruga-akarenga.jp/",
   "sources": [
    "https://ja.wikipedia.org/wiki/敦賀赤レンガ倉庫",
-   "https://ja.wikipedia.org/wiki/人道の港_敦賀ムゼウム"
+   "https://ja.wikipedia.org/wiki/人道の港_敦賀ムゼウム",
+   "https://tsuruga-akarenga.jp/modules/info/index.php?action=PageView&page_id=5"
   ],
   "region": "호쿠리쿠"
  },
@@ -28659,10 +28753,11 @@ window.SPOTS = [
   "caution": "정상역에서 천수까지 오르막 약 10분",
   "lat": 35.4341,
   "lng": 136.7822,
-  "url": "",
+  "url": "https://www.kinkazan.co.jp/",
   "sources": [
    "https://ja.wikipedia.org/wiki/岐阜城",
-   "https://nominatim.openstreetmap.org/search?q=金華山ロープウェー"
+   "https://nominatim.openstreetmap.org/search?q=金華山ロープウェー",
+   "https://www.kinkazan.co.jp/"
   ],
   "region": "도카이"
  },
@@ -28734,16 +28829,58 @@ window.SPOTS = [
   "best_time": "신록·여름 은어철·단풍철",
   "event": "",
   "duration": "반나절",
-  "cost": "운임 + 관광열차 요금, 식사 플랜은 별도 (공식 확인)",
+  "cost": "뷰 플랜: 승차 구간 운임 + 승차정리권 510엔 / 런치 플랜(1호) 약 18,000엔부터 / 스위츠 플랜(2호) 약 6,800엔부터",
   "walking": "적음",
   "fit": "매우 잘 맞음",
   "condition": "",
   "caution": "운행일이 주로 주말·공휴일이고 사전 예약제. 운행 일정 공식 확인",
   "lat": 35.4457,
   "lng": 137.0194,
+  "url": "https://www.nagatetsu.co.jp/nagara/",
+  "sources": [
+   "https://ja.wikipedia.org/wiki/美濃太田駅",
+   "https://www.nagatetsu.co.jp/nagara/"
+  ],
+  "region": "도카이"
+ },
+ {
+  "id": "nagano-norikura-tatamidaira",
+  "name_ko": "노리쿠라 다타미다이라",
+  "name_ja": "乗鞍岳 畳平",
+  "pref": "기후",
+  "area": "다카야마 (노리쿠라 다타미다이라)",
+  "categories": [
+   "view",
+   "volcano",
+   "nature"
+  ],
+  "summary": "해발 약 2,700m, 일본에서 버스로 갈 수 있는 가장 높은 곳 가운데 하나인 화산 노리쿠라다케의 고원. 고산 꽃밭과 일출 명소이고 일반 차량은 다닐 수 없다.",
+  "do": "셔틀버스로 올라 꽃밭 데크 산책, 후지미다케 등 짧은 등산, 여름엔 일출 버스",
+  "station": "마쓰모토역 (松本) / 다카야마역 (高山)",
+  "access": "나가노 쪽: 신시마시마 → 노리쿠라고원 → 고원 주차장에서 셔틀버스. 기후 쪽: 다카야마 → 노히버스로 히라유 → 아칸다나·호오노키다이라 주차장에서 셔틀버스",
+  "jr_pass": [
+   "JR 동일본 패스",
+   "알펜·다카야마·마쓰모토 지역 투어리스트 패스",
+   "다카야마·호쿠리쿠 지역 투어리스트 패스"
+  ],
+  "seasons": [
+   "여름",
+   "가을"
+  ],
+  "best_time": "6월 말~8월 중순 고산 꽃, 9월 하순 단풍",
+  "event": "",
+  "duration": "하루",
+  "cost": "셔틀버스 왕복: 노리쿠라 관광센터~다타미다이라 약 4,700엔(사전 예약제), 히라유·호오노키다이라~다타미다이라 약 3,400엔(2026년)",
+  "walking": "보통",
+  "fit": "매우 잘 맞음",
+  "condition": "맑은 날 북알프스 전망 / 고지대라 여름에도 추움, 뇌우 주의",
+  "caution": "2026년 노히버스 노리쿠라선은 10/28로 운행 종료(노리쿠라 스카이라인 적설 폐쇄, 다음 개통은 보통 5월 중순). 나가노 쪽 에코라인은 2026/7/10부터 낙석으로 일부 통행 제한, 관광센터 셔틀은 사전 예약제 / 다타미다이라는 기후현 쪽. 나가노(마쓰모토) 쪽 셔틀버스로도 갈 수 있음 / 기후 쪽은 5월 15일, 나가노 쪽은 7월 초에 전 구간 개통(겨울 폐쇄). 2003년부터 일반 차량 통행 금지라 버스·택시만. 고산병 주의",
+  "lat": 36.1064,
+  "lng": 137.5536,
   "url": "",
   "sources": [
-   "https://ja.wikipedia.org/wiki/美濃太田駅"
+   "https://ja.wikipedia.org/wiki/畳平",
+   "https://www.pref.nagano.lg.jp/matsuchi/matsuchi-kankyo/documents/norikuraannai.pdf"
   ],
   "region": "도카이"
  },
@@ -28942,10 +29079,11 @@ window.SPOTS = [
   "caution": "다이쇼 로망호는 하루 1왕복, 월요일(공휴일 제외) 운행 없음. 식당차는 사전 예약 필수",
   "lat": 35.3049,
   "lng": 137.3904,
-  "url": "",
+  "url": "https://www.aketetsu.co.jp/",
   "sources": [
    "https://ja.wikipedia.org/wiki/明知鉄道明知線",
-   "https://ja.wikipedia.org/wiki/日本大正村"
+   "https://ja.wikipedia.org/wiki/日本大正村",
+   "https://www.aketetsu.co.jp/"
   ],
   "region": "도카이"
  },
@@ -29097,10 +29235,11 @@ window.SPOTS = [
   "caution": "겨울 눈길 대비 미끄럼 방지 신발. 신호타카 로프웨이와 묶기 좋음",
   "lat": 36.1922,
   "lng": 137.5525,
-  "url": "",
+  "url": "https://www.hirayuonsen.or.jp/",
   "sources": [
    "https://ja.wikipedia.org/wiki/平湯温泉",
-   "https://ja.wikipedia.org/wiki/平湯大滝"
+   "https://ja.wikipedia.org/wiki/平湯大滝",
+   "https://www.hirayuonsen.or.jp/"
   ],
   "region": "도카이"
  },
@@ -29479,12 +29618,13 @@ window.SPOTS = [
   "walking": "적음",
   "fit": "백업",
   "condition": "비 오는 날 대체로 적합",
-  "caution": "휴관일은 공식 확인",
+  "caution": "월요일 휴관(공휴일이면 다음 평일), 연말연시 휴관. 9:00~17:00(입관 16:30까지)",
   "lat": 35.2991,
   "lng": 137.1595,
-  "url": "",
+  "url": "https://www.mosaictile-museum.jp/",
   "sources": [
-   "https://ja.wikipedia.org/wiki/多治見市モザイクタイルミュージアム"
+   "https://ja.wikipedia.org/wiki/多治見市モザイクタイルミュージアム",
+   "https://www.mosaictile-museum.jp/"
   ],
   "region": "도카이"
  },
@@ -29781,9 +29921,10 @@ window.SPOTS = [
   "caution": "주말 열차·도로 매우 혼잡",
   "lat": 34.7475,
   "lng": 138.9961,
-  "url": "",
+  "url": "https://kawazuzakura.jp/",
   "sources": [
-   "https://ja.wikipedia.org/wiki/河津駅"
+   "https://ja.wikipedia.org/wiki/河津駅",
+   "https://kawazuzakura.jp/"
   ],
   "region": "도카이"
  },
@@ -30058,9 +30199,10 @@ window.SPOTS = [
   "caution": "폭포 아래로 내려가는 계단 있음",
   "lat": 35.3129,
   "lng": 138.5873,
-  "url": "",
+  "url": "https://fujinomiya.gr.jp/guide/170/",
   "sources": [
-   "https://ja.wikipedia.org/wiki/白糸の滝_(静岡県)"
+   "https://ja.wikipedia.org/wiki/白糸の滝_(静岡県)",
+   "https://fujinomiya.gr.jp/guide/170/"
   ],
   "region": "도카이"
  },
@@ -30099,10 +30241,11 @@ window.SPOTS = [
   "caution": "언덕 마을이라 오르막이 많음. 해상 불꽃대회 날은 숙소 매우 혼잡",
   "lat": 35.099,
   "lng": 139.0729,
-  "url": "",
+  "url": "https://www.ataminews.gr.jp/",
   "sources": [
    "https://ja.wikipedia.org/wiki/熱海温泉",
-   "https://ja.wikipedia.org/wiki/熱海駅"
+   "https://ja.wikipedia.org/wiki/熱海駅",
+   "https://www.ataminews.gr.jp/"
   ],
   "region": "도카이"
  },
@@ -30216,17 +30359,18 @@ window.SPOTS = [
   "best_time": "신록·단풍철",
   "event": "",
   "duration": "반나절",
-  "cost": "운임 + SL 요금 (공식 확인)",
+  "cost": "SL(토마스호·퍼시호) 신카나야~이에야마·사사마도 왕복 약 6,000엔(편도 약 3,000엔, 운임 포함)",
   "walking": "적음",
   "fit": "매우 잘 맞음",
   "condition": "",
-  "caution": "2022년 태풍 피해로 가와네온센사사마도~센즈 구간 운휴 중(전 구간 재개는 2029년 봄 전망, 이에야마에서 정영 버스 대체). SL 운행 구간·운행일은 공식 확인, 사전 예약 필요",
+  "caution": "2022년 태풍 피해로 가와네온센사사마도~센즈 구간 운휴 중(전 구간 재개는 2029년 봄 전망, 이에야마에서 정영 버스 대체). SL은 현재 '토마스호·퍼시호'로 신카나야~사사마도 구간 운행, 운행일은 이벤트 캘린더(2027년 3월분까지 공개)에서 고르고 ASOVIEW로 사전 예약",
   "lat": 34.8257,
   "lng": 138.1378,
   "url": "https://daitetsu.jp/",
   "sources": [
    "https://daitetsu.jp/",
-   "https://nominatim.openstreetmap.org/search?q=新金谷駅"
+   "https://nominatim.openstreetmap.org/search?q=新金谷駅",
+   "https://thomas.daitetsu.jp/schedule"
   ],
   "region": "도카이"
  },
@@ -30341,10 +30485,11 @@ window.SPOTS = [
   "caution": "골든위크라 숙소 일찍 예약. 좌표는 연 광장 인근 나카타지마 사구 기준",
   "lat": 34.6606,
   "lng": 137.7397,
-  "url": "",
+  "url": "https://hamamatsu-daisuki.net/matsuri/",
   "sources": [
    "https://ja.wikipedia.org/wiki/浜松まつり",
-   "https://ja.wikipedia.org/wiki/中田島砂丘"
+   "https://ja.wikipedia.org/wiki/中田島砂丘",
+   "https://hamamatsu-daisuki.net/matsuri/"
   ],
   "region": "도카이"
  },
@@ -30382,10 +30527,11 @@ window.SPOTS = [
   "caution": "성수기 배 만석 가능",
   "lat": 35.0389,
   "lng": 139.1694,
-  "url": "",
+  "url": "https://www.hatsushima.jp/",
   "sources": [
    "https://ja.wikipedia.org/wiki/初島",
-   "https://iko-yo.net/facilities/20306"
+   "https://iko-yo.net/facilities/20306",
+   "https://www.hatsushima.jp/"
   ],
   "region": "도카이"
  },
@@ -30536,13 +30682,14 @@ window.SPOTS = [
   "walking": "적음",
   "fit": "조건부",
   "condition": "",
-  "caution": "패스는 가케가와역까지, 덴하마선은 별도 운임. 투어 시간은 공식 확인",
+  "caution": "패스는 가케가와역까지, 덴하마선은 별도 운임. 전차대·철도역사관 견학 투어는 매일(시간 지정, 예약 불필요), 밤 전차대 투어는 매월 둘째 토요일",
   "lat": 34.8595,
   "lng": 137.8198,
-  "url": "",
+  "url": "https://www.tenhama.co.jp/events/9349/",
   "sources": [
    "https://ja.wikipedia.org/wiki/天竜二俣駅",
-   "https://www.mapple.net/station/286557/spot/"
+   "https://www.mapple.net/station/286557/spot/",
+   "https://www.tenhama.co.jp/events/9349/"
   ],
   "region": "도카이"
  },
@@ -31146,9 +31293,10 @@ window.SPOTS = [
   "caution": "원천이 말라 지금은 이웃 미야 온천에서 운반한 탕을 데워 씀",
   "lat": 34.7672,
   "lng": 137.1721,
-  "url": "",
+  "url": "http://www.nishiuraonsen.com/",
   "sources": [
-   "https://ja.wikipedia.org/wiki/西浦温泉"
+   "https://ja.wikipedia.org/wiki/西浦温泉",
+   "http://www.nishiuraonsen.com/"
   ],
   "region": "도카이"
  },
@@ -31171,7 +31319,7 @@ window.SPOTS = [
    "여름"
   ],
   "best_time": "7월 중순 금~일",
-  "event": "매년 7월 중순 금~일 (금 저녁 데즈쓰 하나비, 토 저녁 타상 불꽃, 일 신여 행렬). 날짜는 매년 공식 확인",
+  "event": "매년 7월 중순 금~일 (금 저녁 데즈쓰 하나비, 토 저녁 타상 불꽃, 일 신여 행렬). 2026년은 7/17~19였음, 2027년은 미발표",
   "duration": "반나절",
   "cost": "관람 무료 (유료석 있을 수 있음)",
   "walking": "보통",
@@ -31180,10 +31328,11 @@ window.SPOTS = [
   "caution": "경내가 좁아 데즈쓰 하나비는 일찍 자리 잡아야 함",
   "lat": 34.7703,
   "lng": 137.3899,
-  "url": "",
+  "url": "https://www.toyohashigion.org/",
   "sources": [
    "https://ja.wikipedia.org/wiki/豊橋祇園祭",
-   "https://ja.wikipedia.org/wiki/吉田神社_(豊橋市)"
+   "https://ja.wikipedia.org/wiki/吉田神社_(豊橋市)",
+   "https://www.toyohashigion.org/"
   ],
   "region": "도카이"
  },
@@ -31261,9 +31410,10 @@ window.SPOTS = [
   "caution": "배 편수가 적어 돌아오는 시간 확인 필수",
   "lat": 34.7292,
   "lng": 137.0417,
-  "url": "",
+  "url": "https://www.sakushima.com/",
   "sources": [
-   "https://ja.wikipedia.org/wiki/佐久島"
+   "https://ja.wikipedia.org/wiki/佐久島",
+   "https://www.sakushima.com/"
   ],
   "region": "도카이"
  },
@@ -31405,7 +31555,7 @@ window.SPOTS = [
   "best_time": "연중. 전망대 10:00~21:00(토요일 21:40까지)",
   "event": "",
   "duration": "1~2시간",
-  "cost": "전망대 유료 (요금은 공식 확인)",
+  "cost": "전망대 약 1,300엔 (이벤트 때는 다름)",
   "walking": "적음",
   "fit": "매우 잘 맞음",
   "condition": "맑은 밤 야경 / 행사 때 낮·밤 2부제 영업",
@@ -31415,7 +31565,8 @@ window.SPOTS = [
   "url": "https://www.nagoya-tv-tower.co.jp/",
   "sources": [
    "https://www.nagoya-tv-tower.co.jp/",
-   "https://ja.wikipedia.org/wiki/名古屋テレビ塔"
+   "https://ja.wikipedia.org/wiki/名古屋テレビ塔",
+   "https://www.nagoya-tv-tower.co.jp/fee/"
   ],
   "region": "도카이"
  },
@@ -31542,7 +31693,7 @@ window.SPOTS = [
   "summary": "1921년 불을 밝힌 아이치현에서 가장 오래된 등대. 이세만으로 지는 노을 명소이고, 철책에 연인들이 자물쇠를 거는 곳으로도 알려졌다.",
   "do": "해변에 선 흰 등대 앞에서 이세만 너머로 지는 해 보기",
   "station": "노마역 (野間, 메이테쓰 지타신선)",
-  "access": "메이테쓰 나고야역에서 지타신선 노마역까지 약 1시간, 등대까지 약 3km(도보 약 40분) 또는 미하마정 마을버스",
+  "access": "메이테쓰 나고야역에서 지타신선 노마역까지 약 1시간, 등대까지 약 3km(도보 약 40분) 또는 미하마정 순회 미니버스 서부 코스 '노마토다이' 정류장 하차",
   "jr_pass": [],
   "seasons": [
    "봄",
@@ -31560,9 +31711,10 @@ window.SPOTS = [
   "caution": "역에서 약 3km 떨어져 걷기 길다. 마을버스 편수는 미확인이라 현지 시간표 확인",
   "lat": 34.7578,
   "lng": 136.8445,
-  "url": "",
+  "url": "https://www.aichinow.pref.aichi.jp/spots/detail/115/",
   "sources": [
-   "https://ja.wikipedia.org/wiki/野間埼灯台"
+   "https://ja.wikipedia.org/wiki/野間埼灯台",
+   "https://www.aichinow.pref.aichi.jp/spots/detail/115/"
   ],
   "region": "도카이"
  },
@@ -31622,7 +31774,7 @@ window.SPOTS = [
    "가을"
   ],
   "best_time": "11월 하순",
-  "event": "소부에 이초 황엽 축제: 매년 11월 하순 약 1주 (2025년 11/22~30, 라이트업 17~20시). 날짜는 매년 공식 확인",
+  "event": "소부에 이초 황엽 축제: 매년 11월 하순 약 1주. 2026년은 11/21~29, 라이트업 11/21~28 17~20시",
   "duration": "1~2시간",
   "cost": "무료",
   "walking": "적음",
@@ -31914,7 +32066,7 @@ window.SPOTS = [
   "best_time": "봄·가을. 여름엔 더위, 겨울엔 휴관일 확인",
   "event": "",
   "duration": "하루",
-  "cost": "입장 유료 (약 2,000엔 안팎, 공식 확인)",
+  "cost": "입촌료 약 2,500엔",
   "walking": "많음",
   "fit": "백업",
   "condition": "비 오면 실외 이동이 많아 불편",
@@ -31923,7 +32075,8 @@ window.SPOTS = [
   "lng": 136.9893,
   "url": "https://www.meijimura.com/",
   "sources": [
-   "https://ja.wikipedia.org/wiki/博物館明治村"
+   "https://ja.wikipedia.org/wiki/博物館明治村",
+   "https://www.meijimura.com/guide/price/"
   ],
   "region": "도카이"
  },
@@ -32173,7 +32326,7 @@ window.SPOTS = [
   "best_time": "연중. 날짜 지정 사전 예매 필수",
   "event": "",
   "duration": "하루",
-  "cost": "구역별 날짜 지정 티켓 (공식 확인)",
+  "cost": "날짜 지정 티켓. 오산포 티켓 스탠더드 약 3,300엔(평일)~3,800엔(주말), 프리미엄(5구역) 약 7,300~7,800엔, 사토야마 산포 티켓 약 1,000~1,500엔",
   "walking": "많음",
   "fit": "백업",
   "condition": "",
@@ -32182,7 +32335,8 @@ window.SPOTS = [
   "lng": 137.0897,
   "url": "https://ghibli-park.jp/",
   "sources": [
-   "https://ja.wikipedia.org/wiki/ジブリパーク"
+   "https://ja.wikipedia.org/wiki/ジブリパーク",
+   "https://ghibli-park.jp/ticket/"
   ],
   "region": "도카이"
  },
@@ -32445,12 +32599,13 @@ window.SPOTS = [
   "walking": "보통",
   "fit": "매우 잘 맞음",
   "condition": "강풍 시 참관 중지될 수 있음",
-  "caution": "",
+  "caution": "등대 참관은 수리 공사로 2026년 12월 초~2027년 2월 말 중지 (공사 진행에 따라 변동). 평소 참관 9~12시·13~16시 (3~10월 주말·공휴일은 16:30까지), 점심시간 휴무",
   "lat": 34.2761,
   "lng": 136.8994,
-  "url": "",
+  "url": "https://www.tokokai.org/tourlight/tourlight09/",
   "sources": [
-   "https://ja.wikipedia.org/wiki/大王埼灯台"
+   "https://ja.wikipedia.org/wiki/大王埼灯台",
+   "https://www.tokokai.org/tourlight/tourlight09/"
   ],
   "region": "도카이"
  },
@@ -32677,9 +32832,10 @@ window.SPOTS = [
   "caution": "해녀 오두막은 사전 예약제. 버스 편수가 적으니 시간표 확인",
   "lat": 34.3887,
   "lng": 136.9018,
-  "url": "",
+  "url": "https://www.iseshima-kanko.jp/spot/1577",
   "sources": [
-   "https://www.city.toba.mie.jp/material/files/group/45/kamomebusrosen.pdf"
+   "https://www.city.toba.mie.jp/material/files/group/45/kamomebusrosen.pdf",
+   "https://www.iseshima-kanko.jp/spot/1577"
   ],
   "region": "도카이"
  },
@@ -32715,10 +32871,11 @@ window.SPOTS = [
   "caution": "버스가 없어 도보면 편도 40분 안팎 산길. 택시 이용 권장",
   "lat": 34.3244,
   "lng": 136.788,
-  "url": "",
+  "url": "https://chubu.env.go.jp/nature/yokoyama/",
   "sources": [
    "https://ja.wikipedia.org/wiki/横山展望台",
-   "https://www.env.go.jp/park/iseshima/data/mankitsu/yokoyama_01.pdf"
+   "https://www.env.go.jp/park/iseshima/data/mankitsu/yokoyama_01.pdf",
+   "https://www.kanko-shima.com/purpose/965/"
   ],
   "region": "도카이"
  },
@@ -33097,7 +33254,7 @@ window.SPOTS = [
   "best_time": "연중. 비 오는 날 대안",
   "event": "",
   "duration": "반나절",
-  "cost": "입장 유료 (공식 확인)",
+  "cost": "입관 약 2,800엔",
   "walking": "보통",
   "fit": "백업",
   "condition": "실내라 날씨 무관",
@@ -33106,7 +33263,8 @@ window.SPOTS = [
   "lng": 136.8458,
   "url": "https://aquarium.co.jp/",
   "sources": [
-   "https://ja.wikipedia.org/wiki/鳥羽水族館"
+   "https://ja.wikipedia.org/wiki/鳥羽水族館",
+   "https://aquarium.co.jp/ryoukin/"
   ],
   "region": "도카이"
  },
@@ -33176,7 +33334,7 @@ window.SPOTS = [
   "best_time": "연중",
   "event": "",
   "duration": "1~2시간",
-  "cost": "입장 유료 (공식 확인)",
+  "cost": "입장 약 1,650엔 (해녀 실연 견학 포함)",
   "walking": "적음",
   "fit": "백업",
   "condition": "악천후 시 해녀 실연 중지",
@@ -33185,7 +33343,8 @@ window.SPOTS = [
   "lng": 136.8469,
   "url": "https://www.mikimoto-pearl-island.jp",
   "sources": [
-   "https://ja.wikipedia.org/wiki/ミキモト真珠島"
+   "https://ja.wikipedia.org/wiki/ミキモト真珠島",
+   "https://www.mikimoto-pearl-island.jp/営業案内"
   ],
   "region": "도카이"
  },
@@ -33594,7 +33753,7 @@ window.SPOTS = [
   "best_time": "봄~가을. 여름 저녁 크루즈",
   "event": "",
   "duration": "1~2시간",
-  "cost": "승선료 코스별 유료 (공식 확인)",
+  "cost": "60분 코스 약 2,800엔, 90분 코스 약 3,400엔, 나이트 크루즈 약 3,600엔",
   "walking": "적음",
   "fit": "매우 잘 맞음",
   "condition": "강풍·악천후 시 결항",
@@ -33603,7 +33762,8 @@ window.SPOTS = [
   "lng": 135.8671,
   "url": "https://www.biwakokisen.co.jp/cruise/michigan/",
   "sources": [
-   "https://www.biwakokisen.co.jp/cruise/michigan/"
+   "https://www.biwakokisen.co.jp/cruise/michigan/",
+   "https://www.biwakokisen.co.jp/cruise/michigan/price_time/"
   ],
   "region": "간사이"
  },
@@ -33749,16 +33909,17 @@ window.SPOTS = [
   "best_time": "봄~가을 평일·토요일",
   "event": "",
   "duration": "반나절",
-  "cost": "통선 왕복 소액",
+  "cost": "통선 편도 약 500엔 (약 10분, 하루 12왕복)",
   "walking": "보통",
   "fit": "매우 잘 맞음",
   "condition": "강풍 시 결항",
   "caution": "호리키리항행 버스는 일·공휴일 운행 없음(토요일은 아카콘 버스만). 섬에 상점이 적음",
   "lat": 35.2078,
   "lng": 136.0661,
-  "url": "",
+  "url": "http://www.omi8.com/city-transport/okishima",
   "sources": [
-   "https://ja.wikipedia.org/wiki/沖島"
+   "https://ja.wikipedia.org/wiki/沖島",
+   "http://www.omi8.com/city-transport/okishima"
   ],
   "region": "간사이"
  },
@@ -34132,7 +34293,7 @@ window.SPOTS = [
   "best_time": "11월 중순~하순",
   "event": "",
   "duration": "반나절",
-  "cost": "배관 유료 (공식 확인)",
+  "cost": "참배료 약 600엔",
   "walking": "보통",
   "fit": "조건부",
   "condition": "단풍철 한정 진가",
@@ -34141,7 +34302,8 @@ window.SPOTS = [
   "lng": 136.3196,
   "url": "https://eigenji-t.jp/",
   "sources": [
-   "https://ja.wikipedia.org/wiki/永源寺"
+   "https://ja.wikipedia.org/wiki/永源寺",
+   "https://eigenji-t.jp/contact/"
   ],
   "region": "간사이"
  },
@@ -34283,7 +34445,7 @@ window.SPOTS = [
   "best_time": "연중",
   "event": "",
   "duration": "1~2시간",
-  "cost": "입장 유료 (공식 확인)",
+  "cost": "입관 약 800엔",
   "walking": "보통",
   "fit": "백업",
   "condition": "",
@@ -34292,7 +34454,8 @@ window.SPOTS = [
   "lng": 136.1674,
   "url": "https://www.kouka-ninjya.com/",
   "sources": [
-   "https://ja.wikipedia.org/wiki/甲賀流忍術屋敷"
+   "https://ja.wikipedia.org/wiki/甲賀流忍術屋敷",
+   "https://www.kouka-ninjya.com/info/"
   ],
   "region": "간사이"
  },
@@ -34510,7 +34673,7 @@ window.SPOTS = [
   "best_time": "벚꽃 4월 초, 단풍 11월",
   "event": "",
   "duration": "1~2시간",
-  "cost": "입장 유료 (공식 확인)",
+  "cost": "입산료 약 800엔",
   "walking": "보통",
   "fit": "백업",
   "condition": "",
@@ -34519,7 +34682,8 @@ window.SPOTS = [
   "lng": 135.8529,
   "url": "http://www.shiga-miidera.or.jp/",
   "sources": [
-   "https://ja.wikipedia.org/wiki/園城寺"
+   "https://ja.wikipedia.org/wiki/園城寺",
+   "http://www.shiga-miidera.or.jp/guide/index.htm"
   ],
   "region": "간사이"
  },
@@ -34627,7 +34791,7 @@ window.SPOTS = [
   "best_time": "벚꽃 4월 초, 단풍 11월 (야간 라이트업이 열리는 해도 있음)",
   "event": "",
   "duration": "1~2시간",
-  "cost": "입산 유료 (공식 확인)",
+  "cost": "입산료 약 600엔",
   "walking": "보통",
   "fit": "백업",
   "condition": "",
@@ -34636,7 +34800,8 @@ window.SPOTS = [
   "lng": 135.9056,
   "url": "https://www.ishiyamadera.or.jp/",
   "sources": [
-   "https://ja.wikipedia.org/wiki/石山寺"
+   "https://ja.wikipedia.org/wiki/石山寺",
+   "https://www.ishiyamadera.or.jp/guide/fee"
   ],
   "region": "간사이"
  },
@@ -34705,7 +34870,7 @@ window.SPOTS = [
   "best_time": "벚꽃 4월 초, 단풍 11월. 가을엔 야간 개장 행사",
   "event": "",
   "duration": "반나절",
-  "cost": "입장 유료 (겐큐엔 포함 세트, 공식 확인)",
+  "cost": "히코네성(겐큐엔 포함) 약 1,000엔, 박물관 세트 약 1,500엔",
   "walking": "보통",
   "fit": "백업",
   "condition": "",
@@ -34716,7 +34881,7 @@ window.SPOTS = [
   "sources": [
    "https://hikonecastle.com/",
    "https://ja.wikipedia.org/wiki/彦根城",
-   "https://ja.wikipedia.org/wiki/玄宮園"
+   "https://www.city.hikone.lg.jp/kakuka/kanko_bunka/8/2_1/3/4586.html"
   ],
   "region": "간사이"
  },
@@ -34788,9 +34953,10 @@ window.SPOTS = [
   "caution": "금연 해변. 모래가 더러워지면 소리가 안 나므로 쓰레기 주의",
   "lat": 35.7014,
   "lng": 135.0467,
-  "url": "",
+  "url": "https://www.pref.kyoto.jp/tango/tango-doboku/miryoku_kotohiki.html",
   "sources": [
-   "https://ja.wikipedia.org/wiki/琴引浜"
+   "https://ja.wikipedia.org/wiki/琴引浜",
+   "https://www.pref.kyoto.jp/tango/tango-doboku/miryoku_kotohiki.html"
   ],
   "region": "간사이"
  },
@@ -34826,10 +34992,11 @@ window.SPOTS = [
   "caution": "버스가 길고 편수가 적음. 정류장에서 등대까지 오르막 약 30분, 등대 주변 화장실 없음",
   "lat": 35.7772,
   "lng": 135.2233,
-  "url": "",
+  "url": "https://www.kyotango.gr.jp/sightseeing/681/",
   "sources": [
    "https://ja.wikipedia.org/wiki/経ヶ岬",
-   "https://www.minnacamera.com/spots/1985"
+   "https://www.minnacamera.com/spots/1985",
+   "https://www.kyotango.gr.jp/sightseeing/681/"
   ],
   "region": "간사이"
  },
@@ -35216,7 +35383,7 @@ window.SPOTS = [
   "best_time": "연중. 일몰 전후 (전망실 10:30~21:00 기준, 변동 가능)",
   "event": "",
   "duration": "1~2시간",
-  "cost": "전망실 유료 (공식 확인)",
+  "cost": "전망실 약 1,000엔",
   "walking": "적음",
   "fit": "조건부",
   "condition": "맑은 날 전망 / 흐리면 야경만",
@@ -35225,7 +35392,8 @@ window.SPOTS = [
   "lng": 135.7594,
   "url": "https://www.kyoto-tower.jp/",
   "sources": [
-   "https://ja.wikipedia.org/wiki/京都タワー"
+   "https://ja.wikipedia.org/wiki/京都タワー",
+   "https://www.kyoto-tower.jp/fee/"
   ],
   "region": "간사이"
  },
@@ -35409,12 +35577,13 @@ window.SPOTS = [
   "walking": "보통",
   "fit": "조건부",
   "condition": "단풍 절정 한정 진가",
-  "caution": "단풍철엔 입장 대기 행렬이 길고, 최근 단풍철엔 쓰텐교 위 사진 촬영을 금지해 왔음(공식 확인). 아침 개문 직후 추천",
+  "caution": "단풍철엔 입장 대기 행렬이 길다. 가을 특별 공개 기간(2026년은 11/14~12/6)엔 혼잡으로 쓰텐교·가운교 위 촬영을 자제시키는 경우가 있음. 이 기간 쓰텐교는 8:30 개문이라 아침 일찍 추천",
   "lat": 34.9771,
   "lng": 135.7741,
   "url": "https://tofukuji.jp/",
   "sources": [
-   "https://ja.wikipedia.org/wiki/東福寺"
+   "https://ja.wikipedia.org/wiki/東福寺",
+   "https://tofukuji.jp/guide/"
   ],
   "region": "간사이"
  },
@@ -35710,7 +35879,7 @@ window.SPOTS = [
   "best_time": "연중. 벚꽃철 야간 라이트업 행사",
   "event": "",
   "duration": "1~2시간",
-  "cost": "입성료 + 니노마루 어전 관람료 (공식 확인)",
+  "cost": "입성료 약 800엔 + 니노마루 어전 약 500엔 (세트권 약 1,300엔)",
   "walking": "보통",
   "fit": "백업",
   "condition": "",
@@ -35719,7 +35888,8 @@ window.SPOTS = [
   "lng": 135.7475,
   "url": "https://nijo-jocastle.city.kyoto.lg.jp/",
   "sources": [
-   "https://ja.wikipedia.org/wiki/二条城"
+   "https://ja.wikipedia.org/wiki/二条城",
+   "https://nijo-jocastle.city.kyoto.lg.jp/admission/fee/"
   ],
   "region": "간사이"
  },
@@ -36373,10 +36543,11 @@ window.SPOTS = [
   "caution": "역에서 다리까지 산길 오르막 30분 이상. 운동화 필수",
   "lat": 34.7528,
   "lng": 135.6853,
-  "url": "",
+  "url": "https://o-wonderforest.com/hoshida/",
   "sources": [
    "https://ja.wikipedia.org/wiki/星のブランコ",
-   "https://ja.wikipedia.org/wiki/星田_(交野市)"
+   "https://ja.wikipedia.org/wiki/星田_(交野市)",
+   "https://o-wonderforest.com/hoshida/"
   ],
   "region": "간사이"
  },
@@ -36441,7 +36612,7 @@ window.SPOTS = [
    "겨울"
   ],
   "best_time": "5월·10월 장미, 12월 일루미네이션",
-  "event": "겨울 빛 축제 '오사카 히카리노 르네상스'는 매년 12월 (날짜는 매년 공식 확인)",
+  "event": "겨울 빛 축제 'OSAKA 히카리노 르네상스'는 매년 12월. 2026년은 12/11~25 (나카노시마 일루미네이션 스트리트는 11/3~12/31, 17~25시)",
   "duration": "1~2시간",
   "cost": "무료 (공회당 내부 견학은 별도)",
   "walking": "보통",
@@ -36453,7 +36624,8 @@ window.SPOTS = [
   "url": "https://osaka-chuokokaido.jp/",
   "sources": [
    "https://ja.wikipedia.org/wiki/大阪市中央公会堂",
-   "https://ja.wikipedia.org/wiki/中之島公園"
+   "https://ja.wikipedia.org/wiki/中之島公園",
+   "https://www.city.osaka.lg.jp/hodoshiryo/keizaisenryaku/0000687506.html"
   ],
   "region": "간사이"
  },
@@ -37363,16 +37535,17 @@ window.SPOTS = [
   "best_time": "4~6월 꽃, 여름·가을 야간 영업",
   "event": "",
   "duration": "반나절",
-  "cost": "로프웨이 왕복+입원 약 2,000엔 안팎",
+  "cost": "로프웨이 왕복(허브원 입장 포함) 약 2,500엔, 17시 이후 야간 왕복 약 2,000엔",
   "walking": "보통",
   "fit": "매우 잘 맞음",
   "condition": "강풍 시 로프웨이 운휴",
-  "caution": "야간 영업일은 시즌별로 다르니 공식 확인",
+  "caution": "야간 영업(17시 이후)은 3/14~7/10·9/4~11/6 토·일·공휴일, 7/11~8/30 매일, 11/7~12/10 금·토·일·공휴일, 12/11~12/28 매일. 12/29~3/12엔 야간 영업 없음",
   "lat": 34.7144,
   "lng": 135.1919,
   "url": "https://www.kobeherb.com/",
   "sources": [
-   "https://ja.wikipedia.org/wiki/布引ハーブ園"
+   "https://ja.wikipedia.org/wiki/布引ハーブ園",
+   "https://www.kobeherb.com/infomation/hours_fare/"
   ],
   "region": "간사이"
  },
@@ -37559,7 +37732,7 @@ window.SPOTS = [
   "best_time": "연중 해 진 뒤. 겨울 공기가 맑을 때",
   "event": "",
   "duration": "반나절",
-  "cost": "케이블 왕복 요금 별도 (공식 확인), 전망대 무료",
+  "cost": "롯코 케이블 편도 약 800엔·왕복 약 1,550엔, 전망대 무료",
   "walking": "적음",
   "fit": "매우 잘 맞음",
   "condition": "맑은 날 야경. 산 위는 시내보다 5~6도 낮음",
@@ -37569,7 +37742,8 @@ window.SPOTS = [
   "url": "https://www.rokkosan.com/",
   "sources": [
    "https://ja.wikipedia.org/wiki/六甲山上駅",
-   "https://ja.wikipedia.org/wiki/六甲山"
+   "https://ja.wikipedia.org/wiki/六甲山",
+   "https://www.rokkocable.com/"
   ],
   "region": "간사이"
  },
@@ -37639,17 +37813,18 @@ window.SPOTS = [
   "best_time": "연중. 해 질 무렵 노을과 다리 조명",
   "event": "",
   "duration": "1~2시간",
-  "cost": "프롬나드 입장 소액 (공식 확인), 공원 무료",
+  "cost": "프롬나드 평일 약 250엔·주말 약 300엔, 공원 무료",
   "walking": "적음",
   "fit": "매우 잘 맞음",
   "condition": "맑은 날 아와지섬까지 보임",
   "caution": "",
   "lat": 34.6313,
   "lng": 135.0357,
-  "url": "",
+  "url": "https://hyogo-maikopark.jp/facility/f01/",
   "sources": [
    "https://ja.wikipedia.org/wiki/舞子公園",
-   "https://en.wikipedia.org/wiki/Akashi_Kaikyo_Bridge"
+   "https://en.wikipedia.org/wiki/Akashi_Kaikyo_Bridge",
+   "https://hyogo-maikopark.jp/facility/f01/"
   ],
   "region": "간사이"
  },
@@ -37682,17 +37857,18 @@ window.SPOTS = [
   "best_time": "연중 해 진 뒤",
   "event": "",
   "duration": "1~2시간",
-  "cost": "공원 무료, 포트 타워 전망대 약 1,000엔 안팎 (옥상 데크 포함권 별도)",
+  "cost": "공원 무료, 포트 타워 전망 플로어+옥상 데크 약 1,200엔",
   "walking": "보통",
   "fit": "매우 잘 맞음",
   "condition": "",
-  "caution": "포트 타워는 2024년 리뉴얼 재개장. 요금은 공식 확인",
+  "caution": "포트 타워는 2024년 리뉴얼 재개장. 전망 플로어·옥상 데크는 일시 지정 티켓제 (9~23시, 입장 마감 22:30)",
   "lat": 34.6826,
   "lng": 135.1867,
   "url": "https://kobe-port-tower.com/",
   "sources": [
    "https://ja.wikipedia.org/wiki/メリケンパーク",
-   "https://ja.wikipedia.org/wiki/神戸ポートタワー"
+   "https://ja.wikipedia.org/wiki/神戸ポートタワー",
+   "https://www.kobe-port-tower.com/ticket/"
   ],
   "region": "간사이"
  },
@@ -37759,7 +37935,7 @@ window.SPOTS = [
   "best_time": "봄 벚꽃(스마우라 공원), 맑은 날",
   "event": "",
   "duration": "1~2시간",
-  "cost": "탈것 코스권 (공식 확인)",
+  "cost": "로프웨이·카레이터·전망각·리프트 회유권 세트 약 2,100엔",
   "walking": "적음",
   "fit": "매우 잘 맞음",
   "condition": "강풍 시 운휴",
@@ -37769,7 +37945,8 @@ window.SPOTS = [
   "url": "https://www.sumaura-yuen.jp/",
   "sources": [
    "https://ja.wikipedia.org/wiki/須磨浦山上遊園",
-   "https://www.sumaura-yuen.jp/"
+   "https://www.sumaura-yuen.jp/",
+   "https://www.sumaura-yuen.jp/time_price.html"
   ],
   "region": "간사이"
  },
@@ -37883,10 +38060,11 @@ window.SPOTS = [
   "caution": "열차 간격이 길어 왕복 시간표 먼저 확인. 역에서 지상 마을까지는 언덕길(엘리베이터 있음)",
   "lat": 35.6497,
   "lng": 134.5603,
-  "url": "",
+  "url": "https://web.pref.hyogo.lg.jp/ks05/soranoeki.html",
   "sources": [
    "https://ja.wikipedia.org/wiki/余部橋梁",
-   "https://ja.wikipedia.org/wiki/餘部駅"
+   "https://ja.wikipedia.org/wiki/餘部駅",
+   "https://web.pref.hyogo.lg.jp/ks05/soranoeki.html"
   ],
   "region": "간사이"
  },
@@ -37921,12 +38099,13 @@ window.SPOTS = [
   "walking": "적음",
   "fit": "매우 잘 맞음",
   "condition": "맑은 날 노을",
-  "caution": "당일 입욕 가능한 숙소는 공식 확인",
+  "caution": "당일 입욕은 긴파소·조사이키라라 쇼키치·돈카이로·가메노이 호텔 아코·아코 파크 호텔·가쿠이소 등 관광협회가 '당일 온천'으로 안내하는 숙소에서 (요금·시간은 숙소별)",
   "lat": 34.727,
   "lng": 134.4068,
-  "url": "",
+  "url": "https://ako-kankou.jp/onsen/",
   "sources": [
-   "https://ja.wikipedia.org/wiki/赤穂御崎温泉"
+   "https://ja.wikipedia.org/wiki/赤穂御崎温泉",
+   "https://ako-kankou.jp/onsen/"
   ],
   "region": "간사이"
  },
@@ -38001,10 +38180,11 @@ window.SPOTS = [
   "caution": "버스 편수 적음. 아라유 물은 매우 뜨거워 손 넣기 금지",
   "lat": 35.5549,
   "lng": 134.488,
-  "url": "",
+  "url": "https://www.yumura.gr.jp/",
   "sources": [
    "https://en.wikipedia.org/wiki/Yumura_Onsen",
-   "https://www.wikidata.org/wiki/Q8061163"
+   "https://www.wikidata.org/wiki/Q8061163",
+   "https://www.yumura.gr.jp/"
   ],
   "region": "간사이"
  },
@@ -38420,7 +38600,7 @@ window.SPOTS = [
    "겨울"
   ],
   "best_time": "연중. 음력 설 춘절제",
-  "event": "춘절제는 매년 음력 설 무렵 (날짜는 매년 공식 확인)",
+  "event": "춘절제는 매년 음력 설 무렵. 2027년은 2/7, 2/11~14 (5일간)",
   "duration": "1~2시간",
   "cost": "먹거리 500~2,000엔",
   "walking": "적음",
@@ -38431,7 +38611,8 @@ window.SPOTS = [
   "lng": 135.1881,
   "url": "https://www.nankinmachi.or.jp/",
   "sources": [
-   "https://ja.wikipedia.org/wiki/南京町_(神戸市)"
+   "https://ja.wikipedia.org/wiki/南京町_(神戸市)",
+   "https://www.nankinmachi.or.jp/news/detail/171"
   ],
   "region": "간사이"
  },
@@ -38535,7 +38716,7 @@ window.SPOTS = [
   "best_time": "4~5월 꽃",
   "event": "",
   "duration": "반나절",
-  "cost": "백단원 산책 무료, 식물관 입장 약 750엔 (공식 확인)",
+  "cost": "백단원 산책 무료, 온실(아와지 그린관) 약 750엔",
   "walking": "보통",
   "fit": "백업",
   "condition": "",
@@ -38544,7 +38725,8 @@ window.SPOTS = [
   "lng": 135.0069,
   "url": "https://www.yumebutai.co.jp/",
   "sources": [
-   "https://ja.wikipedia.org/wiki/淡路夢舞台"
+   "https://ja.wikipedia.org/wiki/淡路夢舞台",
+   "https://www.yumebutai.co.jp/"
   ],
   "region": "간사이"
  },
@@ -38612,7 +38794,7 @@ window.SPOTS = [
   "best_time": "여름 피서(갱도 안이 서늘함), 가을 단풍",
   "event": "",
   "duration": "반나절",
-  "cost": "입장료 유료 (공식 확인)",
+  "cost": "입장 약 1,200엔",
   "walking": "보통",
   "fit": "백업",
   "condition": "",
@@ -38622,7 +38804,8 @@ window.SPOTS = [
   "url": "https://www.ikuno-ginzan.co.jp/",
   "sources": [
    "https://ja.wikipedia.org/wiki/生野銀山",
-   "https://www.ikuno-ginzan.co.jp/"
+   "https://www.ikuno-ginzan.co.jp/",
+   "https://www.ikuno-ginzan.co.jp/ryokin/ryokin.html"
   ],
   "region": "간사이"
  },
@@ -38882,7 +39065,7 @@ window.SPOTS = [
   "best_time": "11월 단풍(2026년 단풍 축제 10/1~12/6), 봄 벚꽃",
   "event": "게마리 축제: 매년 4월 29일·11월 3일",
   "duration": "반나절",
-  "cost": "입장료 유료 (공식 확인)",
+  "cost": "입장 약 700엔",
   "walking": "보통",
   "fit": "조건부",
   "condition": "단풍철에 진가",
@@ -38892,7 +39075,8 @@ window.SPOTS = [
   "url": "https://www.tanzan.or.jp/",
   "sources": [
    "https://ja.wikipedia.org/wiki/談山神社",
-   "https://www.tanzan.or.jp/"
+   "https://www.tanzan.or.jp/",
+   "https://www.tanzan.or.jp/haikan.html"
   ],
   "region": "간사이"
  },
@@ -39074,8 +39258,8 @@ window.SPOTS = [
   "fit": "조건부",
   "condition": "맑은 날 전망 / 강풍 시 로프웨이 운휴",
   "caution": "",
-  "lat": 34.4561,
-  "lng": 135.6822,
+  "lat": 34.4623,
+  "lng": 135.7045,
   "url": "https://www.kintetsu.co.jp/senden/katsuragisanropeway/",
   "sources": [
    "https://ja.wikipedia.org/wiki/大和葛城山",
@@ -39562,12 +39746,13 @@ window.SPOTS = [
   "walking": "적음",
   "fit": "백업",
   "condition": "",
-  "caution": "오층탑은 대규모 수리 중으로 장기간 가림막에 덮여 있음 (공식 확인)",
+  "caution": "오층탑은 약 120년 만의 대수리 중으로, 2031년(상륜 재설치 예정)까지 가설 지붕에 덮여 탑 모습을 볼 수 없음",
   "lat": 34.6833,
   "lng": 135.8312,
   "url": "https://www.kohfukuji.com/",
   "sources": [
-   "https://ja.wikipedia.org/wiki/興福寺"
+   "https://ja.wikipedia.org/wiki/興福寺",
+   "https://kumanichi.com/articles/1980828"
   ],
   "region": "간사이"
  },
@@ -39639,7 +39824,7 @@ window.SPOTS = [
    "겨울"
   ],
   "best_time": "10월 말~11월 중순 쇼소인전",
-  "event": "쇼소인전 매년 10월 말~11월 중순 (날짜는 매년 공식 확인)",
+  "event": "쇼소인전 매년 10월 말~11월 중순. 2026년(제78회)은 10/24~11/9",
   "duration": "1~2시간",
   "cost": "명품전 약 700엔, 쇼소인전은 별도 요금·예약제",
   "walking": "적음",
@@ -39650,7 +39835,8 @@ window.SPOTS = [
   "lng": 135.8364,
   "url": "https://www.narahaku.go.jp/",
   "sources": [
-   "https://ja.wikipedia.org/wiki/奈良国立博物館"
+   "https://ja.wikipedia.org/wiki/奈良国立博物館",
+   "https://bijutsutecho.com/magazine/news/exhibition/33202?page=5"
   ],
   "region": "간사이"
  },
@@ -39717,16 +39903,17 @@ window.SPOTS = [
   "best_time": "4월 하순~5월 초 모란, 4월 14일 네리쿠요",
   "event": "네리쿠요 에시키(보살 가면 행렬): 매년 4월 14일",
   "duration": "1~2시간",
-  "cost": "본당 등 입장료 유료 (공식 확인)",
+  "cost": "가람 3당(본당·금당·강당) 약 1,000엔, 나카노보 약 500엔",
   "walking": "보통",
   "fit": "백업",
   "condition": "",
   "caution": "",
   "lat": 34.5161,
   "lng": 135.6946,
-  "url": "",
+  "url": "http://www.taimadera.org/",
   "sources": [
-   "https://ja.wikipedia.org/wiki/當麻寺"
+   "https://ja.wikipedia.org/wiki/當麻寺",
+   "http://www.taimadera.org/guide/p2.html"
   ],
   "region": "간사이"
  },
@@ -39954,10 +40141,11 @@ window.SPOTS = [
   "caution": "버스 편수가 적어 시오노미사키와 묶을 땐 시간표 확인",
   "lat": 33.4714,
   "lng": 135.8619,
-  "url": "",
+  "url": "https://kankou-kushimoto.jp/spots/%e6%a8%ab%e9%87%8e%e5%9f%bc%e7%81%af%e5%8f%b0",
   "sources": [
    "https://ja.wikipedia.org/wiki/樫野埼灯台",
-   "https://ja.wikipedia.org/wiki/紀伊大島"
+   "https://ja.wikipedia.org/wiki/紀伊大島",
+   "https://kankou-kushimoto.jp/spots/%e6%a8%ab%e9%87%8e%e5%9f%bc%e7%81%af%e5%8f%b0"
   ],
   "region": "간사이"
  },
@@ -40120,7 +40308,7 @@ window.SPOTS = [
   "caution": "전날까지 예약 필수, 최소 3명 출항 기준으로 소개됨 (2명이면 문의). 하루 2편 수준, 12~2월은 단체 상담",
   "lat": 33.8062,
   "lng": 135.8724,
-  "url": "",
+  "url": "https://www.pref.wakayama.lg.jp/prefg/081300/d00214779.html",
   "sources": [
    "https://www.pref.wakayama.lg.jp/prefg/081300/d00214779.html",
    "https://ja.wikipedia.org/wiki/熊野川町"
@@ -40321,9 +40509,10 @@ window.SPOTS = [
   "caution": "버스가 하루 몇 편뿐이라 당일치기보다 숙박 권장. 고야산~류진 구간 버스는 계절 운행",
   "lat": 33.9561,
   "lng": 135.5621,
-  "url": "",
+  "url": "https://www.ryujin-kanko.jp/",
   "sources": [
-   "https://ja.wikipedia.org/wiki/龍神温泉"
+   "https://ja.wikipedia.org/wiki/龍神温泉",
+   "https://www.ryujin-kanko.jp/"
   ],
   "region": "간사이"
  },
@@ -40356,7 +40545,7 @@ window.SPOTS = [
   "best_time": "연중. 센조지키는 해 질 무렵",
   "event": "",
   "duration": "반나절",
-  "cost": "절벽 위·센조지키 무료, 산단베키 동굴 입장 별도 (공식 확인)",
+  "cost": "절벽 위·센조지키 무료, 산단베키 동굴 약 1,500엔",
   "walking": "보통",
   "fit": "매우 잘 맞음",
   "condition": "맑은 날 노을. 높은 파도 때 바위 끝 접근 금지",
@@ -40367,7 +40556,7 @@ window.SPOTS = [
   "sources": [
    "https://sandanbeki.com/",
    "https://ja.wikipedia.org/wiki/三段壁",
-   "https://ja.wikipedia.org/wiki/千畳敷_(和歌山県)"
+   "https://sandanbeki.com/cave/"
   ],
   "region": "간사이"
  },
@@ -40565,13 +40754,14 @@ window.SPOTS = [
   "walking": "적음",
   "fit": "조건부",
   "condition": "",
-  "caution": "경매 견학 가능 여부·예약 방법은 2026년분 확인 못 함 — 관광협회 공식 확인",
+  "caution": "경매 견학은 나치카쓰우라 관광기구의 가이드 투어로 (가이드만 코스는 수·목·금, 전날 7시까지 예약. 화요일·시장 휴일엔 없음). 경매는 이른 아침",
   "lat": 33.6256,
   "lng": 135.9431,
   "url": "",
   "sources": [
    "https://ja.wikipedia.org/wiki/勝浦漁港_(和歌山県)",
-   "https://iko-yo.net/facilities/60625/news/103023"
+   "https://iko-yo.net/facilities/60625/news/103023",
+   "https://nachikan.jp/activity/4482/"
   ],
   "region": "간사이"
  },
@@ -40630,7 +40820,7 @@ window.SPOTS = [
   "summary": "혼슈 최남단 바다에 세운 해중 전망탑에서 창 너머 산호와 열대어를 보는 곳. 반잠수식 유리 바닥 배도 탄다.",
   "do": "해중 전망탑 계단을 내려가 바닷속 보기, 반잠수선으로 산호 군락 관찰",
   "station": "구시모토역 (串本, JR 기세이선)",
-  "access": "JR 구시모토역에서 무료 셔틀 또는 노선버스 약 15분 (셔틀 시간표 공식 확인)",
+  "access": "JR 구시모토역 앞 로터리에서 무료 셔틀버스(예약 불가·선착순 28석) 또는 커뮤니티버스 와부카선으로 약 15분",
   "jr_pass": [
    "간사이 와이드 패스",
    "간사이 히로시마 패스",
@@ -40654,7 +40844,8 @@ window.SPOTS = [
   "url": "https://www.kushimoto.co.jp/",
   "sources": [
    "https://www.kushimoto.co.jp/",
-   "https://ja.wikipedia.org/wiki/串本海中公園"
+   "https://ja.wikipedia.org/wiki/串本海中公園",
+   "https://www.kushimoto.co.jp/guide_access.php"
   ],
   "region": "간사이"
  },
@@ -40867,7 +41058,7 @@ window.SPOTS = [
   "summary": "어항을 둘러싼 비탈에 집들이 층층이 들어선 풍경 때문에 '일본의 아말피'로 불리는 와카우라 끝 어촌. 기이 수도로 지는 노을이 좋다.",
   "do": "언덕 골목과 전망 지점에서 어항 풍경을 보고 바다로 지는 해 기다리기",
   "station": "와카야마역 (和歌山, JR) / 와카야마시역 (和歌山市, 난카이)",
-  "access": "와카야마역·와카야마시역에서 와카야마버스 사이카자키 방면 노선",
+  "access": "와카야마역·와카야마시역에서 와카야마버스 사이카자키 방면 약 40분 (사이카자키·사이카자키유엔 등 하차)",
   "jr_pass": [
    "간사이 와이드 패스",
    "간사이 히로시마 패스",
@@ -40886,7 +41077,7 @@ window.SPOTS = [
   "walking": "보통",
   "fit": "조건부",
   "condition": "맑은 날 노을",
-  "caution": "버스 소요 시간·편수는 확인 필요. 언덕 골목은 계단이 많다",
+  "caution": "버스 편수는 와카야마버스 시간표로 미리 확인. 언덕 골목은 계단이 많다",
   "lat": 34.1901,
   "lng": 135.1435,
   "url": "",
@@ -41079,13 +41270,14 @@ window.SPOTS = [
   "walking": "적음",
   "fit": "백업",
   "condition": "",
-  "caution": "영업시간이 시즌별로 다르고 해체 쇼 시각은 공식 확인",
+  "caution": "영업시간은 시기별로 다름 (2026년 10~12월은 대체로 10~17시). 참치 해체 쇼는 매일 열리지만 시각은 공식 사이트에 없어 현장 안내 확인",
   "lat": 34.1542,
   "lng": 135.1768,
   "url": "https://www.kuroshioichiba.co.jp/",
   "sources": [
    "https://www.kuroshioichiba.co.jp/",
-   "https://ja.wikipedia.org/wiki/和歌山マリーナシティ"
+   "https://ja.wikipedia.org/wiki/和歌山マリーナシティ",
+   "https://www.kuroshioichiba.co.jp/guide/"
   ],
   "region": "간사이"
  },
@@ -41157,16 +41349,17 @@ window.SPOTS = [
   "best_time": "연중",
   "event": "",
   "duration": "1~2시간",
-  "cost": "입관료 유료 (공식 확인)",
+  "cost": "입관 약 1,800엔",
   "walking": "적음",
   "fit": "백업",
   "condition": "",
   "caution": "포경 관련 전시가 중심이라 호불호가 갈릴 수 있음",
   "lat": 33.6019,
   "lng": 135.9458,
-  "url": "",
+  "url": "https://www.kujirakan.jp/",
   "sources": [
-   "https://ja.wikipedia.org/wiki/くじらの博物館"
+   "https://ja.wikipedia.org/wiki/くじらの博物館",
+   "https://www.kujirakan.jp/use/"
   ],
   "region": "간사이"
  },
@@ -41418,10 +41611,11 @@ window.SPOTS = [
   "caution": "유메이칸은 월요일 휴관(공휴일이면 다음 날), 버스 편수 공식 확인",
   "lat": 35.3625,
   "lng": 133.7628,
-  "url": "",
+  "url": "https://yumeikan.com/",
   "sources": [
    "https://ja.wikipedia.org/wiki/関金温泉",
-   "https://rurubu.jp/andmore/spot/80032838"
+   "https://rurubu.jp/andmore/spot/80032838",
+   "https://yumeikan.com/"
   ],
   "region": "주고쿠"
  },
@@ -41629,7 +41823,7 @@ window.SPOTS = [
   "caution": "",
   "lat": 35.4781,
   "lng": 133.8827,
-  "url": "",
+  "url": "https://www.hawai-togo.jp/",
   "sources": [
    "https://ja.wikipedia.org/wiki/はわい温泉"
   ],
@@ -41789,7 +41983,7 @@ window.SPOTS = [
    "겨울"
   ],
   "best_time": "봄 꽃철, 12~1월 일루미네이션",
-  "event": "겨울 일루미네이션(12~1월, 13~21시 영업)",
+  "event": "겨울 일루미네이션(12~1월, 13~21시 영업). 2026~27 시즌 '플라워 일루미네이션'은 2026/11/14~2027/1/11",
   "duration": "반나절",
   "cost": "약 700~1,000엔(계절별)",
   "walking": "보통",
@@ -41800,7 +41994,8 @@ window.SPOTS = [
   "lng": 133.4235,
   "url": "https://www.tottorihanakairou.or.jp/",
   "sources": [
-   "https://ja.wikipedia.org/wiki/とっとり花回廊"
+   "https://ja.wikipedia.org/wiki/とっとり花回廊",
+   "https://www.tottorihanakairou.or.jp/"
   ],
   "region": "주고쿠"
  },
@@ -41873,19 +42068,20 @@ window.SPOTS = [
    "봄"
   ],
   "best_time": "음력 3월 3일 행사일(양력 3월 하순~4월)",
-  "event": "나가시비나: 매년 음력 3월 3일. 날짜는 매년 공식 확인",
+  "event": "나가시비나: 매년 음력 3월 3일. 2027년은 4/9(금)",
   "duration": "반나절",
-  "cost": "행사 관람 무료, 인형관 입관료 별도(공식 확인)",
+  "cost": "행사 관람 무료, 인형관 입관료 약 300엔",
   "walking": "적음",
   "fit": "조건부",
   "condition": "행사일에만 진가 / 비 오면 축소 가능",
   "caution": "보통 날은 특급이 서지 않음",
   "lat": 35.3431,
   "lng": 134.2018,
-  "url": "",
+  "url": "https://nagashibinanoyakata.jp/",
   "sources": [
    "https://ja.wikipedia.org/wiki/流しびなの館",
-   "https://ja.wikipedia.org/wiki/用瀬駅"
+   "https://ja.wikipedia.org/wiki/用瀬駅",
+   "https://nagashibinanoyakata.jp/"
   ],
   "region": "주고쿠"
  },
@@ -41945,7 +42141,7 @@ window.SPOTS = [
   "summary": "103cm 망원경으로 밤하늘을 보는 산간 공공 천문대. 숙박 코티지가 있어 묵으며 관측할 수 있다.",
   "do": "야간 관측회에서 대형 망원경으로 행성·성운 보기",
   "station": "모치가세역 (用瀬)",
-  "access": "모치가세역에서 버스 약 20분(편수 적음). 밤 관측 후 돌아올 교통 없음 → 숙박 전제",
+  "access": "모치가세역에서 공조교통 버스 '사지 미래호'(사전 예약제, NPO 사지미래 0858-88-0228)로 이동. 밤 관측 후 돌아올 교통 없음 → 숙박(별 코티지 등) 전제",
   "jr_pass": [
    "돗토리・마쓰에 패스",
    "간사이 와이드 패스",
@@ -41966,13 +42162,14 @@ window.SPOTS = [
   "walking": "적음",
   "fit": "조건부",
   "condition": "흐리면 관측 대신 플라네타리움",
-  "caution": "교통 불편, 관측회 일정·예약 공식 확인",
+  "caution": "야간 개관: 4~10월 금·토 22시까지, 11~3월 토 21시까지(그 외 개관일도 사전 예약 시 19~21시). 월요일·공휴일 다음 날 휴관(11~3월은 화요일도, 4~10월은 셋째 화요일도), 12/29~1/3 휴관",
   "lat": 35.3419,
   "lng": 134.1196,
-  "url": "",
+  "url": "https://www.city.tottori.lg.jp/site/saji-tenmon/",
   "sources": [
-   "https://ja.wikipedia.org/wiki/鳥取市さじアストロパーク",
-   "https://www.pref.tottori.lg.jp/318191.htm"
+   "https://www.pref.tottori.lg.jp/318191.htm",
+   "https://www.city.tottori.lg.jp/site/saji-tenmon/6289.html",
+   "https://www.city.tottori.lg.jp/site/saji-tenmon/33963.html"
   ],
   "region": "주고쿠"
  },
@@ -42012,7 +42209,7 @@ window.SPOTS = [
   "caution": "JR 패스는 고게역까지만",
   "lat": 35.3452,
   "lng": 134.3983,
-  "url": "",
+  "url": "https://wakatetsu.co.jp/",
   "sources": [
    "https://ja.wikipedia.org/wiki/若桜駅"
   ],
@@ -42031,7 +42228,7 @@ window.SPOTS = [
   "summary": "람사르 습지 나카우미에 면한 야생 조류 공원. 서일본 최대 고니 월동지로, 겨울엔 최대 약 1만 마리 새가 모인다.",
   "do": "관찰관 망원경으로 고니 무리 관찰, 해 질 녘 다이센 배경 노을",
   "station": "요나고역 (米子)",
-  "access": "요나고역에서 노선버스 또는 택시 약 15분(버스 편수 공식 확인)",
+  "access": "요나고역에서 히노마루 버스 우치하마선(45계통) '시모요시쓰'행 약 20분 '노리코시' 하차 후 걸어서 약 20분(1.4km). 택시면 요나고역에서 약 10분",
   "jr_pass": [
    "돗토리・마쓰에 패스",
    "간사이 산인 패스",
@@ -42052,9 +42249,10 @@ window.SPOTS = [
   "caution": "",
   "lat": 35.4414,
   "lng": 133.2875,
-  "url": "",
+  "url": "https://yonago-mizutori.com/",
   "sources": [
-   "https://ja.wikipedia.org/wiki/米子水鳥公園"
+   "https://ja.wikipedia.org/wiki/米子水鳥公園",
+   "https://yonago-mizutori.com/user_guide/"
   ],
   "region": "주고쿠"
  },
@@ -42093,7 +42291,7 @@ window.SPOTS = [
   "caution": "",
   "lat": 35.4253,
   "lng": 133.324,
-  "url": "",
+  "url": "https://yonagocastle.com/",
   "sources": [
    "https://ja.wikipedia.org/wiki/米子城"
   ],
@@ -42127,16 +42325,17 @@ window.SPOTS = [
   "best_time": "맑고 바람 없는 날",
   "event": "",
   "duration": "1~2시간",
-  "cost": "입장료 있음(공식 확인)",
+  "cost": "입장료 약 1,000엔",
   "walking": "적음",
   "fit": "조건부",
   "condition": "맑은 날 다이센 조망",
   "caution": "12~2월 겨울 휴관, 화요일 휴관",
   "lat": 35.3899,
   "lng": 133.4358,
-  "url": "",
+  "url": "https://www.houki-town.jp/ueda/",
   "sources": [
-   "https://ja.wikipedia.org/wiki/植田正治写真美術館"
+   "https://ja.wikipedia.org/wiki/植田正治写真美術館",
+   "https://www.houki-town.jp/ueda/information/"
   ],
   "region": "주고쿠"
  },
@@ -42256,7 +42455,7 @@ window.SPOTS = [
   "best_time": "전시 기간 중(제17기 2026/4/24~2027/1/3). 전시 교체기 휴관",
   "event": "",
   "duration": "1~2시간",
-  "cost": "입장료 약 800엔 안팎(공식 확인)",
+  "cost": "입장료 약 800엔",
   "walking": "적음",
   "fit": "백업",
   "condition": "비 오는 날 사구 대신 실내 대안",
@@ -42266,7 +42465,8 @@ window.SPOTS = [
   "url": "https://www.sand-museum.jp/",
   "sources": [
    "https://ja.wikipedia.org/wiki/砂の美術館",
-   "https://summer.walkerplus.com/odekake/detail_e/ar0831e594573/"
+   "https://summer.walkerplus.com/odekake/detail_e/ar0831e594573/",
+   "https://www.sand-museum.jp/information/"
   ],
   "region": "주고쿠"
  },
@@ -42303,10 +42503,10 @@ window.SPOTS = [
   "walking": "보통",
   "fit": "백업",
   "condition": "",
-  "caution": "진푸카쿠(仁風閣)는 보존수리로 휴관, 재개관은 2028년도 이후 예정(공식 확인)",
+  "caution": "진푸카쿠(仁風閣)는 보존수리로 2023년 12월부터 장기 휴관, 재개관은 2028년도(레이와 10년도) 중 예정. 휴관 중에도 호류인 정원은 공개",
   "lat": 35.5072,
   "lng": 134.2375,
-  "url": "",
+  "url": "https://www.tbz.or.jp/jinpuukaku/",
   "sources": [
    "https://ja.wikipedia.org/wiki/仁風閣",
    "https://www.pref.tottori.lg.jp/304420.htm"
@@ -42494,7 +42694,7 @@ window.SPOTS = [
   "summary": "도고호 호숫가에 중국 황실 정원을 본떠 만든 일본 최대의 중국 정원. 누각과 회랑, 호수 풍경이 어우러진다.",
   "do": "누각에 올라 도고호를 내려다보고 하와이 온천과 묶어 하루",
   "station": "구라요시역 (倉吉)",
-  "access": "구라요시역에서 도고호 방면 노선버스(소요·편수 공식 확인), 마쓰자키역에서 택시도 가능",
+  "access": "JR 마쓰자키역에서 걸어서 약 15분, 또는 구라요시역에서 택시 약 10분",
   "jr_pass": [
    "돗토리・마쓰에 패스",
    "간사이 와이드 패스",
@@ -42509,17 +42709,18 @@ window.SPOTS = [
   "best_time": "봄·가을",
   "event": "",
   "duration": "1~2시간",
-  "cost": "입원료 약 500엔(무료화 시행 기간 있음, 공식 확인)",
+  "cost": "입원료 약 500엔",
   "walking": "적음",
   "fit": "백업",
   "condition": "",
   "caution": "1·2월 넷째 화요일 휴원",
   "lat": 35.4659,
   "lng": 133.893,
-  "url": "",
+  "url": "https://www.encho-en.com/",
   "sources": [
-   "https://ja.wikipedia.org/wiki/燕趙園",
-   "https://www.pref.tottori.lg.jp/secure/1435270/shiryou4_enchoen.pdf"
+   "https://www.pref.tottori.lg.jp/secure/1435270/shiryou4_enchoen.pdf",
+   "https://www.encho-en.com/enchoen/access/",
+   "https://www.encho-en.com/enchoen/information/"
   ],
   "region": "주고쿠"
  },
@@ -42552,17 +42753,18 @@ window.SPOTS = [
   "best_time": "가을 단풍",
   "event": "",
   "duration": "반나절",
-  "cost": "이시타니가 주택 입장료 있음(공식 확인)",
+  "cost": "이시타니가 주택 입장료 약 600엔",
   "walking": "보통",
   "fit": "백업",
   "condition": "",
   "caution": "",
   "lat": 35.2704,
   "lng": 134.23,
-  "url": "",
+  "url": "https://www.ifs.or.jp/",
   "sources": [
    "https://ja.wikipedia.org/wiki/石谷家住宅",
-   "https://ja.wikipedia.org/wiki/智頭駅"
+   "https://ja.wikipedia.org/wiki/智頭駅",
+   "https://www.ifs.or.jp/"
   ],
   "region": "주고쿠"
  },
@@ -42623,7 +42825,7 @@ window.SPOTS = [
   "summary": "시마네 반도 북쪽 해안의 해식 동굴. 작은 배로 바다 동굴을 관통하고, 신화 속 신이 태어났다는 '신 동굴'과 아이 영혼을 달래는 '옛 동굴'을 돈다.",
   "do": "약 50분 유람선으로 바다 동굴을 배로 통과하고 옛 동굴에 상륙",
   "station": "마쓰에역 (松江)",
-  "access": "마쓰에역에서 노선버스로 가카(マリンプラザしまね) 방면 약 1시간(편수 공식 확인)",
+  "access": "마쓰에역에서 이치바타·시영버스 가와쓰선 → 가와쓰에서 시마네 커뮤니티 버스로 환승, '마린플라자 앞'까지 약 1시간 10분~1시간 40분. 마쓰에역 출발 평일 5편·토일공휴일 3편(2026/4 개정)",
   "jr_pass": [
    "돗토리・마쓰에 패스",
    "간사이 산인 패스",
@@ -42638,17 +42840,18 @@ window.SPOTS = [
   "best_time": "3~11월 잔잔한 날",
   "event": "",
   "duration": "반나절",
-  "cost": "유람선 약 1,500엔(공식 확인)",
+  "cost": "유람선 약 2,000엔",
   "walking": "적음",
   "fit": "매우 잘 맞음",
   "condition": "파도 높으면 결항 또는 동굴 통과 불가",
   "caution": "12~2월 휴업, 버스 편수 적음",
   "lat": 35.577,
   "lng": 133.0494,
-  "url": "",
+  "url": "https://kukedo.com/boat/course-01/",
   "sources": [
-   "https://ja.wikipedia.org/wiki/加賀の潜戸",
-   "https://rurubu.jp/andmore/spot/80033180"
+   "https://rurubu.jp/andmore/spot/80033180",
+   "https://kukedo.com/boat/course-01/",
+   "https://kukedo.com/access/"
   ],
   "region": "주고쿠"
  },
@@ -42731,7 +42934,7 @@ window.SPOTS = [
   "caution": "",
   "lat": 35.4674,
   "lng": 133.0459,
-  "url": "",
+  "url": "https://www.shinjiko-onsen.jp/",
   "sources": [
    "https://ja.wikipedia.org/wiki/松江しんじ湖温泉"
   ],
@@ -42811,12 +43014,13 @@ window.SPOTS = [
   "walking": "보통",
   "fit": "매우 잘 맞음",
   "condition": "",
-  "caution": "공동탕·숙소 영업 현황 공식 확인, 버스 편수 적음",
+  "caution": "외탕 3곳(고젠유·사쓰키유·야요이유) 영업 중, 3탕 공통 1일 입욕권 있음. 고젠유는 화요일 휴무(그날은 사쓰키유가 7~22시 영업). 버스 편수 적음",
   "lat": 34.9404,
   "lng": 132.2007,
-  "url": "",
+  "url": "https://gotsu-kanko.jp/52/kankou/1843",
   "sources": [
-   "https://ja.wikipedia.org/wiki/有福温泉"
+   "https://ja.wikipedia.org/wiki/有福温泉",
+   "https://gotsu-kanko.jp/52/kankou/1843"
   ],
   "region": "주고쿠"
  },
@@ -43048,7 +43252,7 @@ window.SPOTS = [
   "summary": "시마네 반도 산속 계곡에 자리한 천태종 고찰. 돌계단과 이끼 낀 경내가 단풍철에 특히 아름답다.",
   "do": "계곡 따라 돌계단 오르며 단풍 속 본당 참배",
   "station": "운슈히라타역 (雲州平田)",
-  "access": "운슈히라타역에서 택시 약 20분(마을버스는 편수 매우 적음, 공식 확인)",
+  "access": "운슈히라타역에서 히라타 생활버스 가쿠엔선 약 25분 '가쿠엔지 주차장' 하차 후 오르막 걸어서 약 15분(생활버스 편수 매우 적음). 택시면 약 20분",
   "jr_pass": [
    "돗토리・마쓰에 패스",
    "간사이 산인 패스",
@@ -43068,9 +43272,10 @@ window.SPOTS = [
   "caution": "대중교통 불편, 택시 왕복 고려",
   "lat": 35.4233,
   "lng": 132.7494,
-  "url": "",
+  "url": "https://www.izumo-kankou.gr.jp/683",
   "sources": [
-   "https://ja.wikipedia.org/wiki/鰐淵寺"
+   "https://ja.wikipedia.org/wiki/鰐淵寺",
+   "https://www.izumo-kankou.gr.jp/683"
   ],
   "region": "주고쿠"
  },
@@ -43183,12 +43388,14 @@ window.SPOTS = [
   "walking": "보통",
   "fit": "조건부",
   "condition": "큰비 뒤 산책로 통제 가능",
-  "caution": "버스 편수 공식 확인",
+  "caution": "이치바타 버스 스사선: 이즈모시역 출발 평일 7편·토일공휴일 5편(10:00·12:40·14:24·16:32·18:00), 약 28분 (2024/8 개정 시간표)",
   "lat": 35.2963,
   "lng": 132.737,
   "url": "",
   "sources": [
-   "https://ja.wikipedia.org/wiki/立久恵峡"
+   "https://ja.wikipedia.org/wiki/立久恵峡",
+   "https://bus.ichibata.co.jp/rosen/susa/",
+   "https://bus.ichibata.co.jp/media/time_susa_0-1.pdf"
   ],
   "region": "주고쿠"
  },
@@ -43206,7 +43413,7 @@ window.SPOTS = [
   "summary": "시마네 반도 동쪽 끝 항구 마을. 에비스 신앙 총본사 미호 신사, 비 오면 푸르게 빛나는 돌길 '아오이시다타미도리', 반도 끝 등대가 있다.",
   "do": "신사 참배 후 돌길 골목 걷고 등대까지 가서 바다 조망",
   "station": "마쓰에역 (松江)",
-  "access": "JR 마쓰에역 또는 사카이미나토역에서 버스 환승(미호노세키 터미널 경유), 편수 공식 확인",
+  "access": "JR 사카이미나토역에서 미호신사행 직행 버스(요나고공항~사카이미나토역~미호노세키, 약 500엔), 또는 JR 마쓰에역에서 이치바타 버스 → 미호노세키 커뮤니티 버스 환승. 편수 적어 미호신사 교통 안내의 시간표 확인",
   "jr_pass": [
    "돗토리・마쓰에 패스",
    "간사이 산인 패스",
@@ -43228,10 +43435,11 @@ window.SPOTS = [
   "caution": "버스 환승 필요",
   "lat": 35.5623,
   "lng": 133.306,
-  "url": "",
+  "url": "http://mihojinja.or.jp/",
   "sources": [
    "https://ja.wikipedia.org/wiki/美保神社",
-   "https://ja.wikipedia.org/wiki/美保関灯台"
+   "https://ja.wikipedia.org/wiki/美保関灯台",
+   "http://mihojinja.or.jp/kotsu/"
   ],
   "region": "주고쿠"
  },
@@ -43267,7 +43475,7 @@ window.SPOTS = [
   "walking": "보통",
   "fit": "조건부",
   "condition": "맑은 날 조망 / 강풍·겨울은 리프트 운휴",
-  "caution": "버스 편수 적음",
+  "caution": "관광 리프트 운휴 보도가 있음(시기 미확인) — 출발 전 운행 확인 / 버스 편수 적음",
   "lat": 35.1405,
   "lng": 132.6215,
   "url": "",
@@ -43348,7 +43556,7 @@ window.SPOTS = [
   "best_time": "가을 단풍, 겨울 설경",
   "event": "",
   "duration": "반나절",
-  "cost": "입장료 약 2,000엔대(공식 확인)",
+  "cost": "입장료 약 2,500엔",
   "walking": "적음",
   "fit": "조건부",
   "condition": "",
@@ -43357,7 +43565,8 @@ window.SPOTS = [
   "lng": 133.1941,
   "url": "https://www.adachi-museum.or.jp/",
   "sources": [
-   "https://ja.wikipedia.org/wiki/足立美術館"
+   "https://ja.wikipedia.org/wiki/足立美術館",
+   "https://www.adachi-museum.or.jp/"
   ],
   "region": "주고쿠"
  },
@@ -43430,17 +43639,18 @@ window.SPOTS = [
   "best_time": "4~10월 맑은 날 일몰",
   "event": "",
   "duration": "1박 추천",
-  "cost": "유람선 약 3,000~4,000엔(공식 확인)",
+  "cost": "유람선 약 4,000엔",
   "walking": "적음",
   "fit": "조건부",
   "condition": "파도·흐림이면 결항·노을 불가, 출항률 낮음",
   "caution": "예약 필수(오키노시마초 관광협회), 섬 숙박 필요",
   "lat": 36.3124,
   "lng": 133.2106,
-  "url": "",
+  "url": "https://www.e-oki.net/experience/6313/",
   "sources": [
    "https://ja.wikipedia.org/wiki/ローソク島",
-   "https://tabi-mag.jp/sm0134/"
+   "https://tabi-mag.jp/sm0134/",
+   "https://www.e-oki.net/experience/6313/"
   ],
   "region": "주고쿠"
  },
@@ -43457,7 +43667,7 @@ window.SPOTS = [
   "summary": "나카우미의 다이콘섬에 있는 일본 정원. 연중 모란을 볼 수 있고 연못에 모란을 띄우는 '이케이즈미 모란'과 야간 라이트업 행사가 유명.",
   "do": "모란 정원 산책, 행사 기간엔 야간 라이트업",
   "station": "마쓰에역 (松江)",
-  "access": "마쓰에역에서 노선버스 약 50분 (편수 공식 확인)",
+  "access": "마쓰에역에서 마쓰에 시영버스 야쓰카초(大海崎·八束町) 방면 약 45분(편수 적음). 2026 일루미네이션 기간 중 12/24~26엔 마쓰에역 남쪽 출구에서 무료 셔틀버스",
   "jr_pass": [
    "돗토리・마쓰에 패스",
    "간사이 산인 패스",
@@ -43481,7 +43691,9 @@ window.SPOTS = [
   "lng": 133.1753,
   "url": "https://www.yuushien.com/",
   "sources": [
-   "https://ja.wikipedia.org/wiki/由志園"
+   "https://ja.wikipedia.org/wiki/由志園",
+   "https://www.yuushien.com/access/",
+   "https://www.yuushien.com/cgi-bin/disp.cgi?no=1&mode=one&code=10260"
   ],
   "region": "주고쿠"
  },
@@ -43638,16 +43850,17 @@ window.SPOTS = [
   "best_time": "연중",
   "event": "",
   "duration": "1~2시간",
-  "cost": "공식 확인",
+  "cost": "역사 입관료 약 300엔",
   "walking": "보통",
   "fit": "백업",
   "condition": "",
-  "caution": "공개 시간·휴관일 공식 확인",
+  "caution": "보존수리를 마치고 2026/4/15 리뉴얼 오픈. 9:00~16:30, 수요일 휴관(공휴일이면 다음 평일)",
   "lat": 35.3867,
   "lng": 132.6902,
-  "url": "",
+  "url": "https://www.city.izumo.shimane.jp/www/contents/1443234597105/index.html",
   "sources": [
-   "https://ja.wikipedia.org/wiki/大社駅"
+   "https://ja.wikipedia.org/wiki/大社駅",
+   "https://www.city.izumo.shimane.jp/www/contents/1774490872516/files/shiryo3.pdf"
   ],
   "region": "주고쿠"
  },
@@ -43769,7 +43982,7 @@ window.SPOTS = [
   "caution": "JR 패스는 이즈모시역까지",
   "lat": 35.4378,
   "lng": 132.8208,
-  "url": "",
+  "url": "https://www.izumo-kankou.gr.jp/5294",
   "sources": [
    "https://ja.wikipedia.org/wiki/木綿街道",
    "https://ja.wikipedia.org/wiki/雲州平田駅"
@@ -43845,7 +44058,7 @@ window.SPOTS = [
   "best_time": "연중",
   "event": "",
   "duration": "반나절",
-  "cost": "입장료 있음(공식 확인)",
+  "cost": "입장료 약 1,700엔~",
   "walking": "적음",
   "fit": "백업",
   "condition": "비 오는 날 대안",
@@ -43854,7 +44067,8 @@ window.SPOTS = [
   "lng": 132.1446,
   "url": "https://www.aquas.or.jp/",
   "sources": [
-   "https://ja.wikipedia.org/wiki/島根県立しまね海洋館"
+   "https://ja.wikipedia.org/wiki/島根県立しまね海洋館",
+   "https://aquas.or.jp/guide/"
   ],
   "region": "주고쿠"
  },
@@ -43894,7 +44108,7 @@ window.SPOTS = [
   "caution": "",
   "lat": 35.4793,
   "lng": 133.0494,
-  "url": "",
+  "url": "https://www.hearn-museum-matsue.jp/residence/",
   "sources": [
    "https://ja.wikipedia.org/wiki/塩見縄手",
    "https://ja.wikipedia.org/wiki/小泉八雲旧居"
@@ -43980,7 +44194,7 @@ window.SPOTS = [
   "caution": "",
   "lat": 35.429,
   "lng": 133.0737,
-  "url": "",
+  "url": "https://yaegakijinja.or.jp/",
   "sources": [
    "https://ja.wikipedia.org/wiki/八重垣神社"
   ],
@@ -44085,7 +44299,7 @@ window.SPOTS = [
   "summary": "옛 어촌 골목이 그대로 남은 가사오카 제도의 섬. 사람보다 고양이가 많다는 '고양이 섬'이자 영화 로케지.",
   "do": "좁은 돌담 골목과 항구 산책, 고양이 보기",
   "station": "가사오카역 (笠岡)",
-  "access": "가사오카역 근처 스미요시항에서 여객선 약 1시간 안팎(편수 공식 확인)",
+  "access": "가사오카역 근처 스미요시항에서 산요기선 여객선으로 고속선 약 45분·보통선 약 1시간 5분. 스미요시 출발 하루 8편(첫배 5:55, 막배 17:47), 섬 출발 막배 18:55",
   "jr_pass": [
    "간사이 히로시마 패스",
    "산요 산인 패스",
@@ -44100,17 +44314,18 @@ window.SPOTS = [
   "best_time": "봄·가을 맑은 날",
   "event": "",
   "duration": "하루",
-  "cost": "뱃삯 별도",
+  "cost": "뱃삯 편도 보통선 약 1,040엔·고속선 약 1,790엔",
   "walking": "보통",
   "fit": "매우 잘 맞음",
   "condition": "강풍 시 결항",
   "caution": "섬에 가게 적음, 돌아오는 배 시간 확인",
   "lat": 34.3539,
   "lng": 133.5778,
-  "url": "",
+  "url": "https://www.kasaoka-kankou.jp/island/manabeshima",
   "sources": [
    "https://ja.wikipedia.org/wiki/真鍋島",
-   "https://msearch.gsi.go.jp/address-search/AddressSearch?q=真鍋島"
+   "https://msearch.gsi.go.jp/address-search/AddressSearch?q=真鍋島",
+   "https://www.kasaoka-kankou.jp/access/ship"
   ],
   "region": "주고쿠"
  },
@@ -44191,7 +44406,7 @@ window.SPOTS = [
   "caution": "버스 하루 2~4왕복",
   "lat": 35.223,
   "lng": 133.9202,
-  "url": "",
+  "url": "https://www.kagamino.holiday/spot/entry-215.html",
   "sources": [
    "https://ja.wikipedia.org/wiki/奥津温泉",
    "https://ja.wikipedia.org/wiki/奥津渓"
@@ -44320,7 +44535,7 @@ window.SPOTS = [
   "caution": "기신선 열차 편수 적음",
   "lat": 34.9931,
   "lng": 134.135,
-  "url": "",
+  "url": "https://spa-yunogo.or.jp/",
   "sources": [
    "https://ja.wikipedia.org/wiki/湯郷温泉"
   ],
@@ -44439,7 +44654,7 @@ window.SPOTS = [
   "caution": "",
   "lat": 34.7964,
   "lng": 134.2195,
-  "url": "",
+  "url": "https://shizutani.jp/",
   "sources": [
    "https://ja.wikipedia.org/wiki/閑谷学校"
   ],
@@ -44458,7 +44673,7 @@ window.SPOTS = [
   "summary": "오사카성 석축 돌도 캤다는 화강암 '돌의 섬'. 깊게 파 들어간 채석장에 물이 고인 절벽 호수와 돌 공방이 볼거리.",
   "do": "채석장과 절벽 호수 전망, 돌 체험·자료 시설 둘러보기",
   "station": "가사오카역 (笠岡)",
-  "access": "가사오카 스미요시항에서 여객선 약 35분~1시간(항구·편수 공식 확인)",
+  "access": "가사오카 스미요시항에서 산요기선 여객선으로 오우라항까지 고속선 약 35분·보통선 약 50분(스미요시 출발 하루 7편, 대부분 오우라항 정차·구스노키항은 13:45편만). 페리는 후시고에항에서 출발하니 주의",
   "jr_pass": [
    "간사이 히로시마 패스",
    "산요 산인 패스",
@@ -44473,17 +44688,18 @@ window.SPOTS = [
   "best_time": "봄·가을",
   "event": "",
   "duration": "하루",
-  "cost": "뱃삯 별도",
+  "cost": "뱃삯 편도 보통선 약 800엔·고속선 약 1,430엔",
   "walking": "보통",
   "fit": "조건부",
   "condition": "강풍 시 결항",
   "caution": "섬 안 이동 수단 적음",
   "lat": 34.3819,
   "lng": 133.5364,
-  "url": "",
+  "url": "https://www.kasaoka-kankou.jp/island/kitagishima",
   "sources": [
    "https://ja.wikipedia.org/wiki/北木島",
-   "https://msearch.gsi.go.jp/address-search/AddressSearch?q=岡山県笠岡市北木島町"
+   "https://msearch.gsi.go.jp/address-search/AddressSearch?q=岡山県笠岡市北木島町",
+   "https://www.kasaoka-kankou.jp/access/ship"
   ],
   "region": "주고쿠"
  },
@@ -44500,7 +44716,7 @@ window.SPOTS = [
   "summary": "오카야마현 최남단 섬. 언덕 위 등대 주변으로 겨울 수선화가 피고, 소설 '옥문도'의 무대로도 알려져 있다.",
   "do": "항구에서 언덕 위 등대까지 걸어 바다 조망, 겨울엔 수선화 길",
   "station": "가사오카역 (笠岡)",
-  "access": "가사오카 스미요시항에서 여객선 약 1시간 이상(편수 적음, 공식 확인)",
+  "access": "가사오카 스미요시항에서 산요기선 여객선(도비시마 경유) 약 40분~1시간. 스미요시 출발 하루 4편(7:05·8:50·13:20·16:40), 섬 출발 4편(막배 17:35 무렵)",
   "jr_pass": [
    "간사이 히로시마 패스",
    "산요 산인 패스",
@@ -44514,17 +44730,18 @@ window.SPOTS = [
   "best_time": "1~2월 수선화철",
   "event": "",
   "duration": "하루",
-  "cost": "뱃삯 별도",
+  "cost": "뱃삯 편도 약 1,280엔",
   "walking": "보통",
   "fit": "조건부",
   "condition": "수선화철에 진가 / 강풍 시 결항",
   "caution": "배 하루 몇 편, 섬에 가게 거의 없음",
   "lat": 34.3041,
   "lng": 133.5318,
-  "url": "",
+  "url": "https://www.kasaoka-kankou.jp/island/mushima",
   "sources": [
    "https://ja.wikipedia.org/wiki/六島_(岡山県)",
-   "https://msearch.gsi.go.jp/address-search/AddressSearch?q=六島灯台"
+   "https://msearch.gsi.go.jp/address-search/AddressSearch?q=六島灯台",
+   "https://www.kasaoka-kankou.jp/access/ship"
   ],
   "region": "주고쿠"
  },
@@ -44565,7 +44782,7 @@ window.SPOTS = [
   "caution": "버스 정류장에서 오르막 약 2km, 목요일 휴관, 이바라 철도는 JR 패스 불가",
   "lat": 34.672,
   "lng": 133.5454,
-  "url": "",
+  "url": "https://www.bao.city.ibara.okayama.jp/",
   "sources": [
    "https://ja.wikipedia.org/wiki/美星天文台"
   ],
@@ -44679,19 +44896,20 @@ window.SPOTS = [
    "겨울"
   ],
   "best_time": "2월 셋째 토요일 밤",
-  "event": "매년 2월 셋째 토요일, 보물 나무 투하 22시(날짜는 매년 공식 확인)",
+  "event": "매년 2월 셋째 토요일, 보물 나무 투하 22시. 2027년은 쟁탈전 없이 개최(날짜는 공식 확인)",
   "duration": "반나절",
   "cost": "관람석 별도",
   "walking": "적음",
   "fit": "조건부",
   "condition": "축제 당일만",
-  "caution": "2026년 사고로 2027년 보물 나무 쟁탈 중지 발표(위키 기준) → 개최 형태 공식 확인. 매우 혼잡",
+  "caution": "2026년 참가자 2명 사망 사고로, 2027년은 보물 나무(宝木) 쟁탈전과 지오시(地押し)를 중지(2026/10/20 봉찬회 결정). 행사 자체는 열리지만 하이라이트는 없음. 매우 혼잡",
   "lat": 34.6536,
   "lng": 134.038,
-  "url": "",
+  "url": "https://www.saidaiji.jp/eyou/",
   "sources": [
    "https://ja.wikipedia.org/wiki/西大寺会陽",
-   "https://ja.wikipedia.org/wiki/西大寺_(岡山市)"
+   "https://ja.wikipedia.org/wiki/西大寺_(岡山市)",
+   "https://news.ksb.co.jp/article/16978547"
   ],
   "region": "주고쿠"
  },
@@ -44891,16 +45109,17 @@ window.SPOTS = [
   "best_time": "봄·가을",
   "event": "",
   "duration": "하루",
-  "cost": "미술관 입장료 별도(공식 확인)",
+  "cost": "미술관(정련소 미술관·이에 프로젝트·식물원 공통권) 약 2,100엔(온라인)~2,300엔(창구)",
   "walking": "보통",
   "fit": "조건부",
   "condition": "파도 높으면 배 결항",
   "caution": "미술관 휴관일(화요일 등)·겨울 휴관 확인",
   "lat": 34.5627,
   "lng": 134.1018,
-  "url": "",
+  "url": "https://benesse-artsite.jp/island/inujima/",
   "sources": [
-   "https://ja.wikipedia.org/wiki/犬島"
+   "https://ja.wikipedia.org/wiki/犬島",
+   "https://benesse-artsite.jp/art/seirensho.html"
   ],
   "region": "주고쿠"
  },
@@ -45013,12 +45232,13 @@ window.SPOTS = [
   "walking": "적음",
   "fit": "조건부",
   "condition": "맑은 날 고원 자전거",
-  "caution": "버스 편수 공식 확인",
+  "caution": "주고쿠카쓰야마역에서 버스로 약 80분 걸리고 편수 적음. 휴가무라 히루젠고원 숙박이면 JR 네우역에서 송영버스(예약제) 이용 가능",
   "lat": 35.3032,
   "lng": 133.664,
   "url": "",
   "sources": [
-   "https://ja.wikipedia.org/wiki/蒜山高原"
+   "https://ja.wikipedia.org/wiki/蒜山高原",
+   "https://www.okayama-kanko.jp/spot/detail_12086.html"
   ],
   "region": "주고쿠"
  },
@@ -45171,16 +45391,17 @@ window.SPOTS = [
   "best_time": "연중",
   "event": "",
   "duration": "1~2시간",
-  "cost": "입관료 약 수백 엔",
+  "cost": "입관료 약 310엔",
   "walking": "적음",
   "fit": "백업",
   "condition": "비 오는 날 대안 일부",
-  "caution": "월요일 휴관 등 공식 확인",
+  "caution": "월요일(공휴일이면 다음 날)·12/29~31 휴관, 9:00~16:00. 선형 기관차고 내부는 들어갈 수 없음",
   "lat": 35.0541,
   "lng": 134.0008,
-  "url": "",
+  "url": "https://www.tsuyamakan.jp/manabi/",
   "sources": [
-   "https://ja.wikipedia.org/wiki/津山まなびの鉄道館"
+   "https://ja.wikipedia.org/wiki/津山まなびの鉄道館",
+   "https://www.tsuyamakan.jp/manabi/"
   ],
   "region": "주고쿠"
  },
@@ -45382,7 +45603,7 @@ window.SPOTS = [
   "best_time": "연중",
   "event": "",
   "duration": "1~2시간",
-  "cost": "입장료 약 2,000엔 안팎(공식 확인)",
+  "cost": "입장료 약 2,000엔",
   "walking": "적음",
   "fit": "백업",
   "condition": "비 오는 날 대안",
@@ -45391,7 +45612,8 @@ window.SPOTS = [
   "lng": 133.7706,
   "url": "https://www.ohara.or.jp/",
   "sources": [
-   "https://ja.wikipedia.org/wiki/大原美術館"
+   "https://ja.wikipedia.org/wiki/大原美術館",
+   "https://www.ohara.or.jp/visitor_info/"
   ],
   "region": "주고쿠"
  },
@@ -45602,7 +45824,7 @@ window.SPOTS = [
   "caution": "",
   "lat": 34.2736,
   "lng": 132.2554,
-  "url": "",
+  "url": "https://miyahamaonsen.com/",
   "sources": [
    "https://ja.wikipedia.org/wiki/宮浜温泉"
   ],
@@ -45809,7 +46031,7 @@ window.SPOTS = [
   "best_time": "맑은 날",
   "event": "",
   "duration": "반나절",
-  "cost": "입장료 약 1,400엔대(공식 확인)",
+  "cost": "입장료 약 1,800엔",
   "walking": "보통",
   "fit": "조건부",
   "condition": "맑은 날 흰 대리석과 하늘",
@@ -45818,7 +46040,8 @@ window.SPOTS = [
   "lng": 133.0903,
   "url": "https://www.kousanji.or.jp/",
   "sources": [
-   "https://ja.wikipedia.org/wiki/耕三寺"
+   "https://ja.wikipedia.org/wiki/耕三寺",
+   "https://www.kousanji.or.jp/info.html"
   ],
   "region": "주고쿠"
  },
@@ -45877,7 +46100,7 @@ window.SPOTS = [
   "summary": "석회암 협곡으로, 자연이 만든 거대한 돌다리 '오바시(雄橋)'와 협곡 호수 신류호 유람선이 볼거리.",
   "do": "협곡 산책로로 돌다리까지 걷고 신류호 유람선 타기",
   "station": "도조역 (東城)",
-  "access": "도조역에서 버스·택시(버스 편수 매우 적음, 공식 확인)",
+  "access": "도조역에서 택시로 가미타이샤쿠 약 20분·신류코 지역 약 10분(관광협회 안내는 택시 기준, 노선버스 안내 없음). 히로시마역·버스센터에서 도조역 앞까지 고속버스도 있음",
   "jr_pass": [
    "산요 산인 패스",
    "JR서일본 전지역 패스"
@@ -45896,9 +46119,10 @@ window.SPOTS = [
   "caution": "산책로 왕복 길고, 게이비선 열차·버스 모두 편수 적음",
   "lat": 34.8461,
   "lng": 133.2261,
-  "url": "",
+  "url": "http://taishakukyo.com/",
   "sources": [
-   "https://ja.wikipedia.org/wiki/帝釈峡"
+   "https://ja.wikipedia.org/wiki/帝釈峡",
+   "http://taishakukyo.com/access/"
   ],
   "region": "주고쿠"
  },
@@ -45936,7 +46160,7 @@ window.SPOTS = [
   "caution": "매우 혼잡",
   "lat": 34.3892,
   "lng": 132.4626,
-  "url": "",
+  "url": "https://toukasan.jp/",
   "sources": [
    "https://ja.wikipedia.org/wiki/とうかさん"
   ],
@@ -46036,7 +46260,7 @@ window.SPOTS = [
   "summary": "에도 시대 바람과 조류를 기다리던 배들의 기항지로 번성한 섬마을. 중요전통적건조물군보존지구로 옛 집과 등대가 남아 있다.",
   "do": "섬 항구 골목과 옛 상가 산책, 도비시마 해도 다리 건너기",
   "station": "히로역 (広)",
-  "access": "히로역 또는 구레역에서 도비시마 해도 경유 노선버스 약 1시간 이상(편수 공식 확인)",
+  "access": "히로역 앞에서 세토우치산코 버스(주고쿠로사이병원~오키토모텐만구 노선)로 도비시마 해도를 건너 약 1시간 이상 '미타라이' 부근. 오키토모텐만구 발착 평일 24편·토일 21편(왕복 합계). 히로시마 직통 '도비시마 라이너'는 2024/3 폐지",
   "jr_pass": [
    "간사이 히로시마 패스",
    "산요 산인 패스",
@@ -46060,7 +46284,8 @@ window.SPOTS = [
   "lng": 132.8298,
   "url": "",
   "sources": [
-   "https://ja.wikipedia.org/wiki/大崎下島"
+   "https://ja.wikipedia.org/wiki/大崎下島",
+   "https://www.city.kure.lg.jp/uploaded/attachment/92757.pdf"
   ],
   "region": "주고쿠"
  },
@@ -46174,7 +46399,7 @@ window.SPOTS = [
   "best_time": "해 질 녘",
   "event": "",
   "duration": "1~2시간",
-  "cost": "전망대 약 2,000엔대(공식 확인)",
+  "cost": "전망대 약 2,200엔",
   "walking": "적음",
   "fit": "조건부",
   "condition": "맑은 날 노을·야경",
@@ -46183,7 +46408,8 @@ window.SPOTS = [
   "lng": 132.4547,
   "url": "https://www.orizurutower.jp/",
   "sources": [
-   "https://ja.wikipedia.org/wiki/おりづるタワー"
+   "https://ja.wikipedia.org/wiki/おりづるタワー",
+   "https://www.orizurutower.jp/user-guide/ticket/"
   ],
   "region": "주고쿠"
  },
@@ -46308,7 +46534,7 @@ window.SPOTS = [
   "caution": "숙소 일부(가지카소)는 2023년부터 휴업, 버스 편수 확인",
   "lat": 34.4733,
   "lng": 132.2395,
-  "url": "",
+  "url": "https://yuki-yunoyama.jp/yuki-onsen/",
   "sources": [
    "https://ja.wikipedia.org/wiki/湯来温泉"
   ],
@@ -46395,7 +46621,7 @@ window.SPOTS = [
   "caution": "미야지마 방문세 별도",
   "lat": 34.2919,
   "lng": 132.3185,
-  "url": "",
+  "url": "https://daisho-in.com/",
   "sources": [
    "https://ja.wikipedia.org/wiki/大聖院_(宮島)"
   ],
@@ -46428,7 +46654,7 @@ window.SPOTS = [
    "겨울"
   ],
   "best_time": "10월 사케 축제",
-  "event": "사이조 사케 축제 매년 10월 주말(날짜는 매년 공식 확인)",
+  "event": "사이조 사케 축제 매년 10월 주말(2026년은 10/10~11)",
   "duration": "반나절",
   "cost": "시음 일부 유료",
   "walking": "보통",
@@ -46439,7 +46665,8 @@ window.SPOTS = [
   "lng": 132.7436,
   "url": "",
   "sources": [
-   "https://ja.wikipedia.org/wiki/西条駅_(広島県)"
+   "https://ja.wikipedia.org/wiki/西条駅_(広島県)",
+   "https://sakematsuri.com/"
   ],
   "region": "주고쿠"
  },
@@ -46498,7 +46725,7 @@ window.SPOTS = [
   "summary": "도비시마 해도 첫 섬의 옛 조선통신사 기항지 산노세. 정원 쇼토엔에 통신사 자료관과 옛 민가가 옮겨져 있다.",
   "do": "다리로 섬에 건너 옛 항구 거리와 정원·통신사 자료관 관람",
   "station": "히로역 (広)",
-  "access": "히로역 또는 구레역에서 도비시마 방면 노선버스 약 30~40분 '산노세'(편수 공식 확인)",
+  "access": "히로역 앞에서 세토우치산코 버스(주고쿠로사이병원~오키토모텐만구 노선) 약 30~40분 '산노세'. 이 노선은 평일 약 12왕복·토일 약 10왕복. 히로시마 직통 '도비시마 라이너'는 2024/3 폐지",
   "jr_pass": [
    "간사이 히로시마 패스",
    "산요 산인 패스",
@@ -46523,7 +46750,8 @@ window.SPOTS = [
   "url": "",
   "sources": [
    "https://ja.wikipedia.org/wiki/松濤園",
-   "https://ja.wikipedia.org/wiki/下蒲刈島"
+   "https://ja.wikipedia.org/wiki/下蒲刈島",
+   "https://www.city.kure.lg.jp/uploaded/attachment/92757.pdf"
   ],
   "region": "주고쿠"
  },
@@ -46604,13 +46832,14 @@ window.SPOTS = [
   "walking": "보통",
   "fit": "백업",
   "condition": "",
-  "caution": "견학 시간 정해져 있음(평일 3회·주말 4회 안팎), 외국인 견학 조건·일정 공식 확인",
+  "caution": "예약 없이 당일 정문 접수(시작 30분 전부터). 가이드 동행 투어만 가능: 평일 3회(11:15·13:30·15:15), 토일공휴일 4회(9:30 추가), 각 약 1시간 반·걷기 약 1.2~1.5km, 중간 이탈 불가. 안내는 일본어만, 교육참고관 내부 촬영 금지. 행사·훈련·악천후 땐 중지 → 월별 견학 일정 확인",
   "lat": 34.2444,
   "lng": 132.4723,
   "url": "https://www.mod.go.jp/msdf/onemss/",
   "sources": [
-   "https://ja.wikipedia.org/wiki/海上自衛隊第1術科学校",
-   "https://www.mod.go.jp/msdf/onemss/"
+   "https://www.mod.go.jp/msdf/onemss/",
+   "https://www.mod.go.jp/msdf/onemss/kengaku/index8.html",
+   "https://www.mod.go.jp/msdf/onemss/notice/notice.html"
   ],
   "region": "주고쿠"
  },
@@ -46772,7 +47001,7 @@ window.SPOTS = [
   "caution": "",
   "lat": 34.491,
   "lng": 133.3611,
-  "url": "",
+  "url": "https://fukuyamajo.jp/",
   "sources": [
    "https://ja.wikipedia.org/wiki/福山城_(備後国)"
   ],
@@ -46895,7 +47124,7 @@ window.SPOTS = [
   "caution": "",
   "lat": 34.137,
   "lng": 130.9387,
-  "url": "",
+  "url": "https://www.kawatana.com/",
   "sources": [
    "https://ja.wikipedia.org/wiki/川棚温泉"
   ],
@@ -47024,7 +47253,7 @@ window.SPOTS = [
   "caution": "버스 편수 적음, 여관 대부분 내탕 없음",
   "lat": 34.2914,
   "lng": 131.1013,
-  "url": "",
+  "url": "https://www.tawarayamaonsen.com/",
   "sources": [
    "https://ja.wikipedia.org/wiki/俵山温泉"
   ],
@@ -47153,7 +47382,7 @@ window.SPOTS = [
   "caution": "",
   "lat": 34.1643,
   "lng": 131.4555,
-  "url": "",
+  "url": "https://yudaonsen.com/",
   "sources": [
    "https://ja.wikipedia.org/wiki/湯田温泉"
   ],
@@ -47172,7 +47401,7 @@ window.SPOTS = [
   "summary": "스오나다 끝의 작은 섬. 바람을 막는 돌·흙 담장 '네리베이'가 골목을 이루고, 산 위엔 한 사람이 쌓은 거대한 돌 계단식 논이 있다.",
   "do": "네리베이 골목 산책, 섬 언덕의 돌 계단식 논까지 걷기",
   "station": "야나이항역 (柳井港)",
-  "access": "야나이항에서 정기선 약 1시간 10분(하루 약 3왕복, 공식 확인)",
+  "access": "야나이항에서 정기선 '이와이' 약 1시간 10분. 야나이항 출발 하루 2편(9:30·15:45), 섬 출발 야나이행 2편(6:45·12:30). 당일치기면 섬 체류 약 2시간 (2019/10 개정 시간표 기준)",
   "jr_pass": [
    "산요 산인 패스",
    "히로시마 야마구치 패스",
@@ -47186,7 +47415,7 @@ window.SPOTS = [
   "best_time": "봄·가을 맑은 날",
   "event": "",
   "duration": "하루",
-  "cost": "뱃삯 별도",
+  "cost": "뱃삯 편도 약 1,610엔",
   "walking": "많음",
   "fit": "매우 잘 맞음",
   "condition": "강풍·파도 시 결항",
@@ -47195,8 +47424,9 @@ window.SPOTS = [
   "lng": 131.9906,
   "url": "",
   "sources": [
-   "https://ja.wikipedia.org/wiki/祝島",
-   "https://yamaguchi-tourism.jp/access/detail_11765.html"
+   "https://yamaguchi-tourism.jp/access/detail_11765.html",
+   "https://www.town.kaminoseki.lg.jp/wp-content/uploads/2024/09/iwaisimaunntinn20191001.pdf",
+   "https://www.town.kaminoseki.lg.jp/%E9%9B%A2%E5%B3%B6%E8%88%AA%E8%B7%AF.html"
   ],
   "region": "주고쿠"
  },
@@ -47322,7 +47552,7 @@ window.SPOTS = [
   "caution": "",
   "lat": 34.4125,
   "lng": 131.4261,
-  "url": "",
+  "url": "https://www.hagishi.com/search/detail.php?d=100073",
   "sources": [
    "https://ja.wikipedia.org/wiki/東光寺_(萩市)"
   ],
@@ -47363,7 +47593,7 @@ window.SPOTS = [
   "caution": "대중교통 불편 → 쓰노시마 대교와 묶은 관광택시·투어 고려",
   "lat": 34.4197,
   "lng": 131.0628,
-  "url": "",
+  "url": "https://nanavi.jp/sightseeing/motonosumiinarijinja/",
   "sources": [
    "https://ja.wikipedia.org/wiki/元乃隅神社"
   ],
@@ -47446,9 +47676,10 @@ window.SPOTS = [
   "caution": "산인 본선 열차 편수 매우 적음",
   "lat": 34.6474,
   "lng": 131.5961,
-  "url": "",
+  "url": "https://www.hagishi.com/search/detail.php?d=1100198",
   "sources": [
-   "https://ja.wikipedia.org/wiki/須佐ホルンフェルス"
+   "https://ja.wikipedia.org/wiki/須佐ホルンフェルス",
+   "https://www.hagishi.com/search/detail.php?d=1100198"
   ],
   "region": "주고쿠"
  },
@@ -47573,7 +47804,7 @@ window.SPOTS = [
   "caution": "",
   "lat": 33.9693,
   "lng": 132.1084,
-  "url": "",
+  "url": "https://yamaguchi-tourism.jp/spot/detail_15062.html",
   "sources": [
    "https://ja.wikipedia.org/wiki/柳井市古市金屋伝統的建造物群保存地区"
   ],
@@ -47714,7 +47945,7 @@ window.SPOTS = [
   "summary": "바다와 땅속으로 이어져 바닷물고기가 사는 연못 묘진이케와, 그 뒤 높이 약 100m대의 작은 화산 가사야마. 정상에 작은 분화구가 남아 있다.",
   "do": "연못의 바닷물고기 보고 가사야마 정상 분화구와 바다 전망",
   "station": "히가시하기역 (東萩)",
-  "access": "히가시하기역에서 택시 약 10~15분 (하기 순환버스 노선은 공식 확인)",
+  "access": "히가시하기역에서 택시 약 10~15분. 관광협회 안내는 차 기준(시내에서 약 15분)이고 순환 마루버스 정류장 안내는 없음. 노선버스(보초버스)는 하기 버스센터·히가시하기역에서 '고시가하마' 정류장까지(가사야마 북단 동백 군생림은 거기서 걸어서 약 40분)",
   "jr_pass": [
    "산요 산인 패스",
    "히로시마 야마구치 패스",
@@ -47735,9 +47966,11 @@ window.SPOTS = [
   "caution": "",
   "lat": 34.4488,
   "lng": 131.4091,
-  "url": "",
+  "url": "https://www.hagishi.com/search/detail.php?d=100048",
   "sources": [
-   "https://ja.wikipedia.org/wiki/明神池_(萩市)"
+   "https://ja.wikipedia.org/wiki/明神池_(萩市)",
+   "https://www.hagishi.com/search/detail.php?d=100048",
+   "https://www.hagishi.com/search/detail.php?d=100090"
   ],
   "region": "주고쿠"
  },
@@ -47814,13 +48047,14 @@ window.SPOTS = [
   "walking": "보통",
   "fit": "백업",
   "condition": "",
-  "caution": "지붕 교체 공사 완료·가설 덮개 철거 여부 2026/10 시점 미확인 → 공식 확인",
+  "caution": "약 70년 만의 '레이와 대수리'(노송나무 껍질 지붕 전면 교체) 완료. 2026년 10~12월 지정일엔 탑 내부 특별 공개",
   "lat": 34.1898,
   "lng": 131.4718,
-  "url": "",
+  "url": "https://yamaguchi-city.jp/details/aa_ruri_tou.html",
   "sources": [
    "https://ja.wikipedia.org/wiki/瑠璃光寺",
-   "https://www.city.yamaguchi.lg.jp/uploaded/attachment/98937.pdf"
+   "https://www.city.yamaguchi.lg.jp/uploaded/attachment/98937.pdf",
+   "https://tetsudo-ch.com/13039282.html"
   ],
   "region": "주고쿠"
  },
@@ -47944,7 +48178,7 @@ window.SPOTS = [
   "caution": "",
   "lat": 34.4122,
   "lng": 131.4173,
-  "url": "",
+  "url": "https://www.hagishi.com/search/detail.php?d=100009",
   "sources": [
    "https://ja.wikipedia.org/wiki/松下村塾"
   ],
@@ -47986,7 +48220,7 @@ window.SPOTS = [
   "caution": "",
   "lat": 33.9597,
   "lng": 130.9485,
-  "url": "",
+  "url": "https://akama-jingu.com/",
   "sources": [
    "https://ja.wikipedia.org/wiki/赤間神宮"
   ],
@@ -48005,7 +48239,7 @@ window.SPOTS = [
   "summary": "도쿠야마항 앞바다 섬. 2차대전 인간어뢰 '가이텐' 훈련 기지 터널과 발사장 유적, 기념관이 남아 있다.",
   "do": "배로 섬에 건너 훈련 기지 터널과 발사장 터를 걸어 보고 기념관 관람",
   "station": "도쿠야마역 (徳山)",
-  "access": "도쿠야마역에서 걸어서 도쿠야마항 → 여객선 약 20~45분",
+  "access": "도쿠야마역 미나토 출구에서 걸어서 약 5분 도쿠야마항 → 바시마항까지 여객선 약 18~34분·페리 약 44분 → 걸어서 약 10분",
   "jr_pass": [
    "산요 산인 패스",
    "히로시마 야마구치 패스",
@@ -48020,17 +48254,18 @@ window.SPOTS = [
   "best_time": "연중 맑은 날",
   "event": "",
   "duration": "반나절",
-  "cost": "기념관 약 수백 엔, 뱃삯 별도",
+  "cost": "기념관 약 310엔, 뱃삯 별도",
   "walking": "보통",
   "fit": "백업",
   "condition": "강풍 시 결항",
-  "caution": "기념관 휴관일 공식 확인",
+  "caution": "기념관은 수요일·연말연시(12/29~1/3) 휴관, 8:30~16:30. 오후 늦은 배로 가면 기념관부터 볼 것",
   "lat": 33.9933,
   "lng": 131.7174,
-  "url": "",
+  "url": "https://www.city.shunan.lg.jp/site/kaiten/",
   "sources": [
-   "https://ja.wikipedia.org/wiki/回天記念館",
-   "https://ja.wikipedia.org/wiki/大津島"
+   "https://ja.wikipedia.org/wiki/大津島",
+   "https://www.city.shunan.lg.jp/site/kaiten/",
+   "https://www.city.shunan.lg.jp/site/kaiten/14476.html"
   ],
   "region": "주고쿠"
  },
@@ -48068,7 +48303,7 @@ window.SPOTS = [
   "caution": "",
   "lat": 33.9959,
   "lng": 130.9819,
-  "url": "",
+  "url": "http://kouzanji.org/",
   "sources": [
    "https://ja.wikipedia.org/wiki/功山寺"
   ],
@@ -48108,7 +48343,7 @@ window.SPOTS = [
   "caution": "산인 본선 열차 편수 적음(신야마구치에서 버스도 있음)",
   "lat": 34.4176,
   "lng": 131.3825,
-  "url": "",
+  "url": "https://www.hagishi.com/search/detail.php?d=100049",
   "sources": [
    "https://ja.wikipedia.org/wiki/萩城"
   ],
@@ -48139,7 +48374,7 @@ window.SPOTS = [
    "가을"
   ],
   "best_time": "2~3월 매화, 11월 축제",
-  "event": "고진코사이(하다카보 축제) 매년 11월 넷째 토요일 무렵(날짜는 매년 공식 확인)",
+  "event": "고진코사이(하다카보 축제) 매년 11월 넷째 토요일 무렵. 2026년은 11/28(토)~29(일)",
   "duration": "1~2시간",
   "cost": "무료",
   "walking": "보통",
@@ -48148,9 +48383,10 @@ window.SPOTS = [
   "caution": "",
   "lat": 34.0633,
   "lng": 131.5741,
-  "url": "",
+  "url": "https://www.hofutenmangu.com/",
   "sources": [
-   "https://ja.wikipedia.org/wiki/防府天満宮"
+   "https://ja.wikipedia.org/wiki/防府天満宮",
+   "https://www.hofutenmangu.com/1004"
   ],
   "region": "주고쿠"
  },
@@ -48206,7 +48442,7 @@ window.SPOTS = [
   "summary": "차가 없는 작은 섬에 접이식 마루 '밋세'를 단 옛 어촌 집들이 그대로 남은 마을. 중요 전통 건조물군 보존지구.",
   "do": "작은 연락선을 타고 건너가 골목 마을과 섬 둘레 산책길을 걷는다",
   "station": "무기역 (牟岐)",
-  "access": "JR 무기선 무기역에서 도보 약 10분 무기항 → 연락선 '오이세마루' 약 15분",
+  "access": "JR 무기선 무기역에서 도보 약 10분 무기항 → 연락선 '오쇼마루(大生丸)' 약 15분",
   "jr_pass": [
    "올 시코쿠 레일패스"
   ],
@@ -48222,13 +48458,14 @@ window.SPOTS = [
   "walking": "보통",
   "fit": "매우 잘 맞음",
   "condition": "파도가 높으면 결항",
-  "caution": "배 시간표는 무기초 관광협회 등에서 사전 확인. 섬에 가게가 거의 없음",
+  "caution": "연락선은 하루 6왕복 수준이라 시간표를 미리 확인(8~9월은 운임 소폭 인상). 섬에 가게가 거의 없음",
   "lat": 33.6317,
   "lng": 134.4242,
-  "url": "",
+  "url": "https://www.awanavi.jp/archives/spot/2915",
   "sources": [
-   "https://ja.wikipedia.org/wiki/出羽島",
-   "https://www.mapple.net/original/407443/"
+   "https://www.mapple.net/original/407443/",
+   "https://www.awanavi.jp/archives/spot/2915",
+   "https://www.awanavi.jp/archives/spot/2903"
   ],
   "region": "시코쿠"
  },
@@ -48301,9 +48538,10 @@ window.SPOTS = [
   "caution": "",
   "lat": 34.0926,
   "lng": 134.207,
-  "url": "",
+  "url": "https://www.awanavi.jp/archives/spot/19024",
   "sources": [
-   "https://ja.wikipedia.org/wiki/阿波の土柱"
+   "https://ja.wikipedia.org/wiki/阿波の土柱",
+   "https://www.awanavi.jp/archives/spot/19024"
   ],
   "region": "시코쿠"
  },
@@ -48371,16 +48609,17 @@ window.SPOTS = [
   "best_time": "5~6월 신록, 10~11월 단풍",
   "event": "",
   "duration": "하루",
-  "cost": "다리 통행료 약 500엔대",
+  "cost": "다리 통행료 약 550엔",
   "walking": "보통",
   "fit": "매우 잘 맞음",
   "condition": "겨울(12~3월 무렵)에는 통행 중지 기간이 있음",
-  "caution": "버스가 하루 몇 편뿐이라 왕복 시간을 미리 짜야 함. 개장 기간 공식 확인",
+  "caution": "버스가 하루 몇 편뿐이라 왕복 시간을 미리 짜야 함. 4~11월만 개장(12~3월 겨울 폐쇄), 9:00~17:00(7~8월은 8:00~18:00)",
   "lat": 33.8535,
   "lng": 134.0457,
-  "url": "",
+  "url": "https://miyoshi-tourism.jp/spot/24353/",
   "sources": [
-   "https://ja.wikipedia.org/wiki/奥祖谷二重かずら橋"
+   "https://ja.wikipedia.org/wiki/奥祖谷二重かずら橋",
+   "https://miyoshi-tourism.jp/spot/24353/"
   ],
   "region": "시코쿠"
  },
@@ -48456,9 +48695,10 @@ window.SPOTS = [
   "caution": "좁은 벼랑길이라 차를 조심. 버스는 노선·시간을 사전 확인",
   "lat": 33.9236,
   "lng": 133.8185,
-  "url": "",
+  "url": "https://miyoshi-tourism.jp/spot/65/",
   "sources": [
-   "https://ja.wikipedia.org/wiki/祖谷渓"
+   "https://ja.wikipedia.org/wiki/祖谷渓",
+   "https://miyoshi-tourism.jp/spot/65/"
   ],
   "region": "시코쿠"
  },
@@ -48495,9 +48735,10 @@ window.SPOTS = [
   "caution": "대중교통으로 가기 어려움. 택시 왕복 예약 권장",
   "lat": 33.8348,
   "lng": 134.7503,
-  "url": "",
+  "url": "https://www.awanavi.jp/archives/spot/2912",
   "sources": [
-   "https://ja.wikipedia.org/wiki/蒲生田岬"
+   "https://ja.wikipedia.org/wiki/蒲生田岬",
+   "https://www.awanavi.jp/archives/spot/2912"
   ],
   "region": "시코쿠"
  },
@@ -48533,10 +48774,11 @@ window.SPOTS = [
   "caution": "버스 막차가 이르니 시간표 확인",
   "lat": 33.9721,
   "lng": 134.3699,
-  "url": "",
+  "url": "https://kamiyama-spa.com/",
   "sources": [
    "https://ja.wikipedia.org/wiki/神山温泉",
-   "https://ja.wikipedia.org/wiki/神山町"
+   "https://ja.wikipedia.org/wiki/神山町",
+   "https://kamiyama-spa.com/"
   ],
   "region": "시코쿠"
  },
@@ -48611,9 +48853,10 @@ window.SPOTS = [
   "caution": "전망대까지 편도 1시간 반 산길. 바다에서 보는 유람선은 2026년 운항 여부 확인 못 함",
   "lat": 33.7091,
   "lng": 134.525,
-  "url": "",
+  "url": "https://www.awanavi.jp/archives/spot/2911",
   "sources": [
-   "https://ja.wikipedia.org/wiki/千羽海崖"
+   "https://ja.wikipedia.org/wiki/千羽海崖",
+   "https://www.awanavi.jp/archives/spot/2911"
   ],
   "region": "시코쿠"
  },
@@ -48686,13 +48929,14 @@ window.SPOTS = [
   "walking": "적음",
   "fit": "조건부",
   "condition": "",
-  "caution": "2026-10-15 공식 사이트에 'DMV 전편 운휴' 공지가 올라와 있음. 사유·재개일 확인 못 함 → 방문 전 반드시 운행 여부 확인",
+  "caution": "2026-10-16부터 차량 불량으로 DMV 전편 운휴 중(당분간, 재개일 미정 — 공식·예약 사이트 공지). 방문 전 운행 재개 여부 확인",
   "lat": 33.6065,
   "lng": 134.3509,
   "url": "https://asatetu.com/",
   "sources": [
    "https://ja.wikipedia.org/wiki/阿佐海岸鉄道阿佐東線",
-   "https://asatetu.com/archives/3157/"
+   "https://asatetu.com/archives/3157/",
+   "https://secure.j-bus.co.jp/hon/RouteList/List?uncd=3610"
   ],
   "region": "시코쿠"
  },
@@ -48764,9 +49008,10 @@ window.SPOTS = [
   "caution": "산란기 야간엔 조명·접근 제한 등 관찰 규칙 준수",
   "lat": 33.7346,
   "lng": 134.541,
-  "url": "",
+  "url": "https://caretta.town.minami.lg.jp/",
   "sources": [
-   "https://ja.wikipedia.org/wiki/日和佐うみがめ博物館カレッタ"
+   "https://ja.wikipedia.org/wiki/日和佐うみがめ博物館カレッタ",
+   "https://caretta.town.minami.lg.jp/"
   ],
   "region": "시코쿠"
  },
@@ -48880,9 +49125,10 @@ window.SPOTS = [
   "caution": "버스 편수가 매우 적어 돌아오는 편을 먼저 확인. 마을 안은 급경사 길이라 많이 오르내림",
   "lat": 33.8824,
   "lng": 133.9346,
-  "url": "",
+  "url": "https://miyoshi-tourism.jp/spot/119/",
   "sources": [
-   "https://nominatim.openstreetmap.org/search?q=落合+三好市"
+   "https://nominatim.openstreetmap.org/search?q=落合+三好市",
+   "https://miyoshi-tourism.jp/spot/119/"
   ],
   "region": "시코쿠"
  },
@@ -48918,9 +49164,10 @@ window.SPOTS = [
   "caution": "",
   "lat": 34.1647,
   "lng": 134.4991,
-  "url": "",
+  "url": "https://doitsukan.com/",
   "sources": [
-   "https://ja.wikipedia.org/wiki/鳴門市ドイツ館"
+   "https://ja.wikipedia.org/wiki/鳴門市ドイツ館",
+   "https://doitsukan.com/"
   ],
   "region": "시코쿠"
  },
@@ -48954,9 +49201,10 @@ window.SPOTS = [
   "caution": "",
   "lat": 34.0752,
   "lng": 134.5551,
-  "url": "",
+  "url": "https://www.city.tokushima.tokushima.jp/shisetsu/park/chuo.html",
   "sources": [
-   "https://ja.wikipedia.org/wiki/徳島中央公園"
+   "https://ja.wikipedia.org/wiki/徳島中央公園",
+   "https://www.city.tokushima.tokushima.jp/shisetsu/park/chuo.html"
   ],
   "region": "시코쿠"
  },
@@ -48992,9 +49240,10 @@ window.SPOTS = [
   "caution": "",
   "lat": 34.1598,
   "lng": 134.5026,
-  "url": "",
+  "url": "https://88shikokuhenro.jp/01ryozenji/",
   "sources": [
-   "https://ja.wikipedia.org/wiki/霊山寺_(鳴門市)"
+   "https://ja.wikipedia.org/wiki/霊山寺_(鳴門市)",
+   "https://88shikokuhenro.jp/01ryozenji/"
   ],
   "region": "시코쿠"
  },
@@ -49030,9 +49279,10 @@ window.SPOTS = [
   "caution": "",
   "lat": 34.0373,
   "lng": 134.0641,
-  "url": "",
+  "url": "https://www.awanavi.jp/archives/spot/2851",
   "sources": [
-   "https://ja.wikipedia.org/wiki/貞光町"
+   "https://ja.wikipedia.org/wiki/貞光町",
+   "https://www.awanavi.jp/archives/spot/2851"
   ],
   "region": "시코쿠"
  },
@@ -49061,16 +49311,17 @@ window.SPOTS = [
   "best_time": "연중 (공연 시간에 맞춰)",
   "event": "",
   "duration": "1~2시간",
-  "cost": "입장 약 400~500엔대",
+  "cost": "입장 약 410엔",
   "walking": "적음",
   "fit": "백업",
   "condition": "비 오는 날 대체 장소로 좋음",
-  "caution": "공연 시간은 공식 확인",
+  "caution": "시설 개수 공사로 2026-10-27~2027년 4월 상순 장기 휴관. 재개관 뒤 인형 조루리 정기 공연은 공식 사이트 공연 일정표 참고",
   "lat": 34.0916,
   "lng": 134.584,
-  "url": "",
+  "url": "https://joruri.info/jurobe/",
   "sources": [
-   "https://ja.wikipedia.org/wiki/阿波十郎兵衛屋敷"
+   "https://ja.wikipedia.org/wiki/阿波十郎兵衛屋敷",
+   "https://joruri.info/jurobe/"
   ],
   "region": "시코쿠"
  },
@@ -49145,10 +49396,11 @@ window.SPOTS = [
   "caution": "",
   "lat": 34.0295,
   "lng": 133.809,
-  "url": "",
+  "url": "https://miyoshi-tourism.jp/spot/145/",
   "sources": [
    "https://ja.wikipedia.org/wiki/阿波池田駅",
-   "https://nominatim.openstreetmap.org/search?q=阿波池田うだつの家"
+   "https://nominatim.openstreetmap.org/search?q=阿波池田うだつの家",
+   "https://miyoshi-tourism.jp/spot/145/"
   ],
   "region": "시코쿠"
  },
@@ -49178,16 +49430,18 @@ window.SPOTS = [
   "best_time": "연중",
   "event": "",
   "duration": "반나절",
-  "cost": "입장·체험 별도",
+  "cost": "입장 약 300엔, 쪽염색 체험 약 1,000엔~",
   "walking": "적음",
   "fit": "백업",
   "condition": "",
   "caution": "",
   "lat": 34.1156,
   "lng": 134.4823,
-  "url": "",
+  "url": "https://ainoyakata.jp/",
   "sources": [
-   "https://ja.wikipedia.org/wiki/藍の館"
+   "https://ja.wikipedia.org/wiki/藍の館",
+   "https://ainoyakata.jp/",
+   "https://www.awanavi.jp/archives/spot/2884"
   ],
   "region": "시코쿠"
  },
@@ -49224,9 +49478,10 @@ window.SPOTS = [
   "caution": "",
   "lat": 33.7323,
   "lng": 134.5276,
-  "url": "",
+  "url": "https://88shikokuhenro.jp/23yakuoji/",
   "sources": [
-   "https://nominatim.openstreetmap.org/search?q=薬王寺+美波町"
+   "https://nominatim.openstreetmap.org/search?q=薬王寺+美波町",
+   "https://88shikokuhenro.jp/23yakuoji/"
   ],
   "region": "시코쿠"
  },
@@ -49300,9 +49555,10 @@ window.SPOTS = [
   "caution": "",
   "lat": 34.0706,
   "lng": 134.1493,
-  "url": "",
+  "url": "https://www.awanavi.jp/archives/spot/19082",
   "sources": [
-   "https://ja.wikipedia.org/wiki/脇町"
+   "https://ja.wikipedia.org/wiki/脇町",
+   "https://www.awanavi.jp/archives/spot/19082"
   ],
   "region": "시코쿠"
  },
@@ -49338,10 +49594,11 @@ window.SPOTS = [
   "caution": "",
   "lat": 33.8811,
   "lng": 133.7601,
-  "url": "",
+  "url": "https://miyoshi-tourism.jp/spot/75/",
   "sources": [
    "https://ja.wikipedia.org/wiki/大歩危",
-   "https://nominatim.openstreetmap.org/search?q=道の駅大歩危"
+   "https://nominatim.openstreetmap.org/search?q=道の駅大歩危",
+   "https://miyoshi-tourism.jp/spot/75/"
   ],
   "region": "시코쿠"
  },
@@ -49370,17 +49627,18 @@ window.SPOTS = [
   "best_time": "봄~가을. 저녁엔 수변 보드워크 조명",
   "event": "",
   "duration": "1~2시간",
-  "cost": "요금 소액 (현지 확인)",
+  "cost": "약 800엔 (야간 크루즈 약 1,000엔)",
   "walking": "적음",
   "fit": "백업",
   "condition": "우천·강풍·증수 시 운휴",
-  "caution": "운항 시간·요일은 현지 확인",
+  "caution": "낮 편은 11:00~15:40 약 40분 간격(약 30분 코스), 야간 크루즈는 17:00~19:40. 비 등 날씨에 따라 운휴할 수 있음",
   "lat": 34.0693,
   "lng": 134.5506,
-  "url": "",
+  "url": "https://www.awanavi.jp/archives/spot/2542",
   "sources": [
    "https://ja.wikipedia.org/wiki/新町川",
-   "https://ja.wikipedia.org/wiki/新町川水際公園"
+   "https://ja.wikipedia.org/wiki/新町川水際公園",
+   "https://www.awanavi.jp/archives/spot/2542"
   ],
   "region": "시코쿠"
  },
@@ -49494,12 +49752,14 @@ window.SPOTS = [
   "walking": "많음",
   "fit": "매우 잘 맞음",
   "condition": "맑은 날 전망 / 안개·비면 효과 반감",
-  "caution": "본궁까지 가파른 계단 참배길이 길다(편도 약 50분)",
+  "caution": "본궁까지 가파른 계단 참배길이 길다(편도 약 50분). 2026-09-28~12-25 본궁행 임도가 법면 공사로 전면 통행금지, 토·일·공휴일 셔틀버스도 운휴 → 이 기간엔 하궁에서 걸어서만 참배 가능",
   "lat": 34.1608,
   "lng": 133.6549,
-  "url": "",
+  "url": "https://www.my-kagawa.jp/point/4483",
   "sources": [
-   "https://ja.wikipedia.org/wiki/高屋神社_(観音寺市)"
+   "https://ja.wikipedia.org/wiki/高屋神社_(観音寺市)",
+   "https://www.my-kagawa.jp/point/4483",
+   "https://www.city.kanonji.kagawa.jp/soshiki/21/32697.html"
   ],
   "region": "시코쿠"
  },
@@ -49574,9 +49834,10 @@ window.SPOTS = [
   "caution": "배·버스 시간표 사전 확인",
   "lat": 34.2722,
   "lng": 133.6333,
-  "url": "",
+  "url": "https://www.pref.kagawa.lg.jp/chiiki/seto-island/detail/awashima.html",
   "sources": [
-   "https://ja.wikipedia.org/wiki/粟島_(香川県)"
+   "https://ja.wikipedia.org/wiki/粟島_(香川県)",
+   "https://www.pref.kagawa.lg.jp/chiiki/seto-island/detail/awashima.html"
   ],
   "region": "시코쿠"
  },
@@ -49612,9 +49873,10 @@ window.SPOTS = [
   "caution": "마을 전체가 경사 골목·계단이라 많이 오름",
   "lat": 34.4284,
   "lng": 134.061,
-  "url": "",
+  "url": "https://www.my-kagawa.jp/point/473",
   "sources": [
-   "https://ja.wikipedia.org/wiki/男木島"
+   "https://ja.wikipedia.org/wiki/男木島",
+   "https://www.my-kagawa.jp/point/473"
   ],
   "region": "시코쿠"
  },
@@ -49650,9 +49912,10 @@ window.SPOTS = [
   "caution": "",
   "lat": 34.3842,
   "lng": 133.7692,
-  "url": "",
+  "url": "https://www.my-kagawa.jp/point/115/",
   "sources": [
-   "https://ja.wikipedia.org/wiki/本島_(香川県)"
+   "https://ja.wikipedia.org/wiki/本島_(香川県)",
+   "https://www.my-kagawa.jp/point/115/"
   ],
   "region": "시코쿠"
  },
@@ -49689,9 +49952,10 @@ window.SPOTS = [
   "caution": "공연 준비 기간엔 견학 불가",
   "lat": 34.1846,
   "lng": 133.818,
-  "url": "",
+  "url": "https://www.konpirakabuki.jp/index.html",
   "sources": [
-   "https://ja.wikipedia.org/wiki/旧金毘羅大芝居"
+   "https://ja.wikipedia.org/wiki/旧金毘羅大芝居",
+   "https://www.konpirakabuki.jp/index.html"
   ],
   "region": "시코쿠"
  },
@@ -49833,16 +50097,18 @@ window.SPOTS = [
   "best_time": "여름 해수욕, 봄 벚꽃",
   "event": "",
   "duration": "반나절",
-  "cost": "페리·동굴 입장 별도",
+  "cost": "페리 왕복 약 740엔, 동굴행 버스 왕복 약 1,000엔",
   "walking": "보통",
   "fit": "조건부",
   "condition": "맑은 날 전망",
   "caution": "",
   "lat": 34.3953,
   "lng": 134.05,
-  "url": "",
+  "url": "https://www.onigasima.jp/",
   "sources": [
-   "https://ja.wikipedia.org/wiki/女木島"
+   "https://ja.wikipedia.org/wiki/女木島",
+   "https://www.onigasima.jp/",
+   "https://www.onigasima.jp/access/"
   ],
   "region": "시코쿠"
  },
@@ -49915,9 +50181,10 @@ window.SPOTS = [
   "caution": "셔틀이 없는 시기엔 버스 정류장에서 산 위까지 걸어 올라가야 함. 벚꽃철 마이카는 예약제라 도로 혼잡",
   "lat": 34.2447,
   "lng": 133.5956,
-  "url": "",
+  "url": "https://www.mitoyo-kanko.com/mt-shiude/",
   "sources": [
-   "https://ja.wikipedia.org/wiki/紫雲出山"
+   "https://ja.wikipedia.org/wiki/紫雲出山",
+   "https://www.mitoyo-kanko.com/mt-shiude/"
   ],
   "region": "시코쿠"
  },
@@ -49955,10 +50222,11 @@ window.SPOTS = [
   "caution": "셔틀버스 막차 시간 확인",
   "lat": 34.3557,
   "lng": 134.1044,
-  "url": "",
+  "url": "https://www.my-kagawa.jp/point/298",
   "sources": [
    "https://ja.wikipedia.org/wiki/屋島",
-   "https://ja.wikipedia.org/wiki/屋島寺"
+   "https://ja.wikipedia.org/wiki/屋島寺",
+   "https://www.my-kagawa.jp/point/298"
   ],
   "region": "시코쿠"
  },
@@ -50029,12 +50297,14 @@ window.SPOTS = [
   "walking": "보통",
   "fit": "조건부",
   "condition": "파도 높으면 결항",
-  "caution": "배가 하루 몇 편뿐이고 섬에 식당이 거의 없음. 언덕길 많음",
+  "caution": "배가 간온지항발 하루 5편 정도뿐이고 섬에 식당이 거의 없음. 언덕길 많음",
   "lat": 34.1303,
   "lng": 133.5356,
-  "url": "",
+  "url": "https://www.city.kanonji.kagawa.jp/soshiki/21/23191.html",
   "sources": [
-   "https://ja.wikipedia.org/wiki/伊吹島"
+   "https://ja.wikipedia.org/wiki/伊吹島",
+   "https://www.city.kanonji.kagawa.jp/soshiki/21/23191.html",
+   "https://www.city.kanonji.kagawa.jp/soshiki/14/423.html"
   ],
   "region": "시코쿠"
  },
@@ -50070,9 +50340,10 @@ window.SPOTS = [
   "caution": "왕복 약 2시간 등산",
   "lat": 34.2743,
   "lng": 133.846,
-  "url": "",
+  "url": "https://www.city.marugame.lg.jp/page/3063.html",
   "sources": [
-   "https://ja.wikipedia.org/wiki/飯野山"
+   "https://ja.wikipedia.org/wiki/飯野山",
+   "https://www.city.marugame.lg.jp/page/3063.html"
   ],
   "region": "시코쿠"
  },
@@ -50143,7 +50414,7 @@ window.SPOTS = [
   "caution": "공연일 외에는 무대만 볼 수 있음",
   "lat": 34.5075,
   "lng": 134.2262,
-  "url": "",
+  "url": "https://www.pref.kagawa.lg.jp/tochikai/midori_info/festival/nouson_kabuki.html",
   "sources": [
    "https://www.pref.kagawa.lg.jp/tochikai/midori_info/festival/nouson_kabuki.html",
    "https://news.ksb.co.jp/article/15256948"
@@ -50295,9 +50566,10 @@ window.SPOTS = [
   "caution": "",
   "lat": 34.4859,
   "lng": 134.1869,
-  "url": "",
+  "url": "https://www.town.tonosho.kagawa.jp/kanko/sightseeing/581.html",
   "sources": [
-   "https://ja.wikipedia.org/wiki/土渕海峡"
+   "https://ja.wikipedia.org/wiki/土渕海峡",
+   "https://www.town.tonosho.kagawa.jp/kanko/sightseeing/581.html"
   ],
   "region": "시코쿠"
  },
@@ -50372,9 +50644,10 @@ window.SPOTS = [
   "caution": "2018년 호우로 무너진 석담 복구 공사로 일부 구역 통행 제한이 있을 수 있음. 천수까지 급한 언덕길",
   "lat": 34.2862,
   "lng": 133.8002,
-  "url": "",
+  "url": "https://www.city.marugame.lg.jp/site/castle/",
   "sources": [
-   "https://ja.wikipedia.org/wiki/丸亀城"
+   "https://ja.wikipedia.org/wiki/丸亀城",
+   "https://www.city.marugame.lg.jp/site/castle/"
   ],
   "region": "시코쿠"
  },
@@ -50447,9 +50720,10 @@ window.SPOTS = [
   "caution": "버스 편수가 적음",
   "lat": 34.1914,
   "lng": 134.2068,
-  "url": "",
+  "url": "https://88shikokuhenro.jp/88ookuboji/",
   "sources": [
-   "https://ja.wikipedia.org/wiki/大窪寺"
+   "https://ja.wikipedia.org/wiki/大窪寺",
+   "https://88shikokuhenro.jp/88ookuboji/"
   ],
   "region": "시코쿠"
  },
@@ -50486,9 +50760,10 @@ window.SPOTS = [
   "caution": "",
   "lat": 34.1341,
   "lng": 133.6423,
-  "url": "",
+  "url": "https://www.city.kanonji.kagawa.jp/soshiki/21/333.html",
   "sources": [
-   "https://ja.wikipedia.org/wiki/銭形砂絵"
+   "https://ja.wikipedia.org/wiki/銭形砂絵",
+   "https://www.city.kanonji.kagawa.jp/soshiki/21/333.html"
   ],
   "region": "시코쿠"
  },
@@ -50524,9 +50799,10 @@ window.SPOTS = [
   "caution": "",
   "lat": 34.2251,
   "lng": 133.7741,
-  "url": "",
+  "url": "https://zentsuji.com/",
   "sources": [
-   "https://ja.wikipedia.org/wiki/善通寺"
+   "https://ja.wikipedia.org/wiki/善通寺",
+   "https://zentsuji.com/"
   ],
   "region": "시코쿠"
  },
@@ -50671,17 +50947,18 @@ window.SPOTS = [
   "best_time": "대조기 낮",
   "event": "",
   "duration": "반나절",
-  "cost": "약 1,800엔 (최신 요금 확인)",
+  "cost": "약 2,000엔",
   "walking": "적음",
   "fit": "매우 잘 맞음",
   "condition": "조류에 맞춰 출항 시간이 매일 바뀜 / 12~2월은 5명 이상 예약제",
-  "caution": "출항 시간은 당일 조류에 따라 다르니 미리 문의",
+  "caution": "약 60~75분 간격 운항이지만 조류·예약 상황에 따라 출항 시각이 바뀌므로 웹 예약 페이지에서 시각 확인. 승선 수속은 출항 30분 전까지 요시우미 이키이키칸에서. 악천후 시 결항",
   "lat": 34.1275,
   "lng": 133.0219,
-  "url": "",
+  "url": "https://imabari-shimanami.jp/kyuuryuu/",
   "sources": [
    "https://tabi-mag.jp/ah0150/",
-   "https://ja.wikipedia.org/wiki/来島海峡"
+   "https://ja.wikipedia.org/wiki/来島海峡",
+   "https://imabari-shimanami.jp/kyuuryuu/"
   ],
   "region": "시코쿠"
  },
@@ -50719,11 +50996,11 @@ window.SPOTS = [
   "caution": "월요일 휴무(공휴일이면 다음 날). 09~15시 대략 1시간 간격",
   "lat": 34.1689,
   "lng": 133.0876,
-  "url": "",
+  "url": "https://www.city.imabari.ehime.jp/museum/suigun/",
   "sources": [
-   "https://ja.wikipedia.org/wiki/今治市村上海賊ミュージアム",
    "https://ja.wikipedia.org/wiki/能島",
-   "https://nominatim.openstreetmap.org/search?q=村上水軍博物館"
+   "https://nominatim.openstreetmap.org/search?q=村上水軍博物館",
+   "https://www.city.imabari.ehime.jp/museum/suigun/"
   ],
   "region": "시코쿠"
  },
@@ -50747,7 +51024,7 @@ window.SPOTS = [
    "가을"
   ],
   "best_time": "10월 중순",
-  "event": "매년 10월 16~18일 (일부 지구는 15일부터, 일부 지구는 주말 개최). 일정은 매년 공식 확인",
+  "event": "매년 10월 16~18일 (일부 지구는 15일부터, 일부 지구는 주말 개최). 일정은 매년 공식 확인. 2026년은 10월 15~18일 운행.",
   "duration": "하루",
   "cost": "무료 (유료 관람석 있음)",
   "walking": "보통",
@@ -50756,10 +51033,11 @@ window.SPOTS = [
   "caution": "축제 기간 숙소가 빨리 참. 지구마다 일정·장소가 달라 미리 확인",
   "lat": 33.9618,
   "lng": 133.2796,
-  "url": "",
+  "url": "https://www.city.niihama.lg.jp/soshiki/kankou/taikomatsuri.html",
   "sources": [
    "https://ja.wikipedia.org/wiki/新居浜太鼓祭り",
-   "https://ja.wikipedia.org/wiki/一宮神社_(新居浜市)"
+   "https://ja.wikipedia.org/wiki/一宮神社_(新居浜市)",
+   "https://www.city.niihama.lg.jp/soshiki/kankou/taikomatsuri.html"
   ],
   "region": "시코쿠"
  },
@@ -50898,7 +51176,7 @@ window.SPOTS = [
    "여름"
   ],
   "best_time": "7월 24일 밤",
-  "event": "매년 7월 22~24일 (와레이 대제는 23~24일). 날짜는 매년 공식 확인",
+  "event": "매년 7월 22~24일 (와레이 대제는 23~24일). 날짜는 매년 공식 확인. 2026년은 제60회 7월 22~24일.",
   "duration": "1박 추천",
   "cost": "무료",
   "walking": "보통",
@@ -50907,9 +51185,10 @@ window.SPOTS = [
   "caution": "축제 기간 숙소가 일찍 찬다",
   "lat": 33.2297,
   "lng": 132.5653,
-  "url": "",
+  "url": "https://ushioni.gaina.ne.jp/",
   "sources": [
-   "https://ja.wikipedia.org/wiki/和霊大祭"
+   "https://ja.wikipedia.org/wiki/和霊大祭",
+   "https://ushioni.gaina.ne.jp/"
   ],
   "region": "시코쿠"
  },
@@ -51102,9 +51381,10 @@ window.SPOTS = [
   "caution": "버스 환승이 필요하고 하루 편수가 매우 적음. 주민 생활 공간이니 조용히",
   "lat": 32.9362,
   "lng": 132.4771,
-  "url": "",
+  "url": "https://www.town.ainan.ehime.jp/kanko/sightseeing/zekkei/ishigakinosato.html",
   "sources": [
-   "https://ja.wikipedia.org/wiki/外泊"
+   "https://ja.wikipedia.org/wiki/外泊",
+   "https://www.town.ainan.ehime.jp/kanko/sightseeing/zekkei/ishigakinosato.html"
   ],
   "region": "시코쿠"
  },
@@ -51179,9 +51459,10 @@ window.SPOTS = [
   "caution": "배가 하루 2편 안팎이라 사실상 섬 체류 시간이 정해짐. 섬에 가게·식당 없음. 정원 초과 시 승선 못 할 수 있음",
   "lat": 33.7361,
   "lng": 132.4872,
-  "url": "",
+  "url": "https://www.city.ozu.ehime.jp/soshiki/nagahamash/0375.html",
   "sources": [
-   "https://ja.wikipedia.org/wiki/青島_(愛媛県)"
+   "https://ja.wikipedia.org/wiki/青島_(愛媛県)",
+   "https://www.city.ozu.ehime.jp/soshiki/nagahamash/0375.html"
   ],
   "region": "시코쿠"
  },
@@ -51293,10 +51574,11 @@ window.SPOTS = [
   "caution": "대회일 외엔 볼 것 없음",
   "lat": 33.2274,
   "lng": 132.5727,
-  "url": "",
+  "url": "https://www.tougyu.com/",
   "sources": [
    "https://ja.wikipedia.org/wiki/宇和島市営闘牛場",
-   "https://ja.wikipedia.org/wiki/宇和島市"
+   "https://ja.wikipedia.org/wiki/宇和島市",
+   "https://www.tougyu.com/"
   ],
   "region": "시코쿠"
  },
@@ -51330,9 +51612,10 @@ window.SPOTS = [
   "caution": "버스 편수 적음. 밭 안에는 들어가지 않기",
   "lat": 33.2068,
   "lng": 132.4554,
-  "url": "",
+  "url": "https://www.uwajima.org/spot/index8.html",
   "sources": [
-   "https://ja.wikipedia.org/wiki/遊子水荷浦の段畑"
+   "https://ja.wikipedia.org/wiki/遊子水荷浦の段畑",
+   "https://www.uwajima.org/spot/index8.html"
   ],
   "region": "시코쿠"
  },
@@ -51369,9 +51652,10 @@ window.SPOTS = [
   "caution": "해안선은 열차가 드물어 돌아오는 열차 시간 확인",
   "lat": 33.6852,
   "lng": 132.6342,
-  "url": "",
+  "url": "https://www.futamiseaside.com/",
   "sources": [
-   "https://ja.wikipedia.org/wiki/ふたみシーサイド公園"
+   "https://ja.wikipedia.org/wiki/ふたみシーサイド公園",
+   "https://www.futamiseaside.com/"
   ],
   "region": "시코쿠"
  },
@@ -51406,10 +51690,11 @@ window.SPOTS = [
   "caution": "발생 여부는 날씨에 좌우. 이른 아침이라 숙박지 위치 고려",
   "lat": 33.6112,
   "lng": 132.4862,
-  "url": "",
+  "url": "https://www.city.ozu.ehime.jp/site/kanko/1190.html",
   "sources": [
    "https://ja.wikipedia.org/wiki/肱川あらし",
-   "https://ja.wikipedia.org/wiki/長浜大橋"
+   "https://ja.wikipedia.org/wiki/長浜大橋",
+   "https://www.city.ozu.ehime.jp/site/kanko/1190.html"
   ],
   "region": "시코쿠"
  },
@@ -51445,9 +51730,10 @@ window.SPOTS = [
   "caution": "",
   "lat": 33.5063,
   "lng": 132.5501,
-  "url": "",
+  "url": "https://www.city.ozu.ehime.jp/site/bunkazai/0190.html",
   "sources": [
-   "https://ja.wikipedia.org/wiki/臥龍山荘"
+   "https://ja.wikipedia.org/wiki/臥龍山荘",
+   "https://www.city.ozu.ehime.jp/site/bunkazai/0190.html"
   ],
   "region": "시코쿠"
  },
@@ -51562,12 +51848,13 @@ window.SPOTS = [
   "walking": "보통",
   "fit": "백업",
   "condition": "",
-  "caution": "영업일·시간은 공식 확인",
+  "caution": "시장 영업은 약 8:00~16:00, 정기 휴일 없이 부정기 휴무(휴시일에도 일부 점포는 영업)",
   "lat": 33.4549,
   "lng": 132.4092,
-  "url": "",
+  "url": "https://do-ya-ichiba.jp/",
   "sources": [
-   "https://ja.wikipedia.org/wiki/八幡浜市"
+   "https://ja.wikipedia.org/wiki/八幡浜市",
+   "https://do-ya-ichiba.jp/"
   ],
   "region": "시코쿠"
  },
@@ -51603,9 +51890,10 @@ window.SPOTS = [
   "caution": "버스 편수 확인",
   "lat": 34.2479,
   "lng": 133.0058,
-  "url": "",
+  "url": "https://oomishimagu.jp/",
   "sources": [
-   "https://ja.wikipedia.org/wiki/大山祇神社"
+   "https://ja.wikipedia.org/wiki/大山祇神社",
+   "https://oomishimagu.jp/"
   ],
   "region": "시코쿠"
  },
@@ -51641,9 +51929,10 @@ window.SPOTS = [
   "caution": "",
   "lat": 33.51,
   "lng": 132.54,
-  "url": "",
+  "url": "https://ozucastle.jp/",
   "sources": [
-   "https://ja.wikipedia.org/wiki/大洲城"
+   "https://ja.wikipedia.org/wiki/大洲城",
+   "https://ozucastle.jp/"
   ],
   "region": "시코쿠"
  },
@@ -51680,9 +51969,10 @@ window.SPOTS = [
   "caution": "",
   "lat": 33.3639,
   "lng": 132.5132,
-  "url": "",
+  "url": "https://www.city.seiyo.ehime.jp/miryoku/uwachonomachinami/index.html",
   "sources": [
-   "https://ja.wikipedia.org/wiki/宇和町卯之町"
+   "https://ja.wikipedia.org/wiki/宇和町卯之町",
+   "https://www.city.seiyo.ehime.jp/miryoku/uwachonomachinami/index.html"
   ],
   "region": "시코쿠"
  },
@@ -51719,9 +52009,10 @@ window.SPOTS = [
   "caution": "",
   "lat": 33.2198,
   "lng": 132.5647,
-  "url": "",
+  "url": "https://www.city.uwajima.ehime.jp/site/uwajima-jo/",
   "sources": [
-   "https://ja.wikipedia.org/wiki/宇和島城"
+   "https://ja.wikipedia.org/wiki/宇和島城",
+   "https://www.city.uwajima.ehime.jp/site/uwajima-jo/"
   ],
   "region": "시코쿠"
  },
@@ -51796,9 +52087,10 @@ window.SPOTS = [
   "caution": "",
   "lat": 34.0633,
   "lng": 133.0068,
-  "url": "",
+  "url": "https://www.city.imabari.ehime.jp/museum/imabarijo/",
   "sources": [
-   "https://ja.wikipedia.org/wiki/今治城"
+   "https://ja.wikipedia.org/wiki/今治城",
+   "https://www.city.imabari.ehime.jp/museum/imabarijo/"
   ],
   "region": "시코쿠"
  },
@@ -51834,9 +52126,10 @@ window.SPOTS = [
   "caution": "",
   "lat": 33.8479,
   "lng": 132.7965,
-  "url": "",
+  "url": "https://88shikokuhenro.jp/51ishiteji/",
   "sources": [
-   "https://ja.wikipedia.org/wiki/石手寺"
+   "https://ja.wikipedia.org/wiki/石手寺",
+   "https://88shikokuhenro.jp/51ishiteji/"
   ],
   "region": "시코쿠"
  },
@@ -51910,9 +52203,10 @@ window.SPOTS = [
   "caution": "운행일 한정·좌석 사전 예약 필수",
   "lat": 33.5672,
   "lng": 133.5437,
-  "url": "",
+  "url": "https://www.jr-shikoku.co.jp/yoakenomonogatari/",
   "sources": [
-   "https://ja.wikipedia.org/wiki/志国土佐_時代の夜明けのものがたり"
+   "https://ja.wikipedia.org/wiki/志国土佐_時代の夜明けのものがたり",
+   "https://www.jr-shikoku.co.jp/yoakenomonogatari/"
   ],
   "region": "시코쿠"
  },
@@ -51947,10 +52241,11 @@ window.SPOTS = [
   "caution": "버스 편수가 적음. 산책로 계단·바위길",
   "lat": 33.5613,
   "lng": 133.1341,
-  "url": "",
+  "url": "https://niyodoblue.jp/spot/detail.php?id=151",
   "sources": [
    "https://ja.wikipedia.org/wiki/仁淀川",
-   "https://rurubu.jp/andmore/spot/80037485/"
+   "https://rurubu.jp/andmore/spot/80037485/",
+   "https://niyodoblue.jp/spot/detail.php?id=151"
   ],
   "region": "시코쿠"
  },
@@ -51987,10 +52282,11 @@ window.SPOTS = [
   "caution": "버스 편수가 적어 아시즈리곶과 묶어 1박 권장",
   "lat": 32.786,
   "lng": 132.8601,
-  "url": "",
+  "url": "https://www.a-sea.net/",
   "sources": [
    "https://ja.wikipedia.org/wiki/竜串",
-   "https://ja.wikipedia.org/wiki/足摺海底館"
+   "https://ja.wikipedia.org/wiki/足摺海底館",
+   "https://www.a-sea.net/"
   ],
   "region": "시코쿠"
  },
@@ -52025,10 +52321,11 @@ window.SPOTS = [
   "caution": "혼잡. 귀가 열차 시간 확인",
   "lat": 33.5457,
   "lng": 133.7242,
-  "url": "",
+  "url": "https://www.ekingura.com/",
   "sources": [
    "https://summer.walkerplus.com/odekake/detail_e/ar0939e603237/",
-   "https://ja.wikipedia.org/wiki/赤岡町"
+   "https://ja.wikipedia.org/wiki/赤岡町",
+   "https://www.ekingura.com/"
   ],
   "region": "시코쿠"
  },
@@ -52224,10 +52521,11 @@ window.SPOTS = [
   "caution": "밤 야경은 버스 막차 시간 확인",
   "lat": 33.5466,
   "lng": 133.5775,
-  "url": "",
+  "url": "https://www.city.kochi.kochi.jp/site/kanko/godaisan.html",
   "sources": [
    "https://ja.wikipedia.org/wiki/竹林寺_(高知市)",
-   "https://ja.wikipedia.org/wiki/五台山_(高知市)"
+   "https://ja.wikipedia.org/wiki/五台山_(高知市)",
+   "https://www.city.kochi.kochi.jp/site/kanko/godaisan.html"
   ],
   "region": "시코쿠"
  },
@@ -52263,10 +52561,11 @@ window.SPOTS = [
   "caution": "오픈데크 차량이 붙는 열차를 시간표로 확인",
   "lat": 33.5344,
   "lng": 133.7543,
-  "url": "",
+  "url": "https://www.tosakuro.com/",
   "sources": [
    "https://ja.wikipedia.org/wiki/土佐くろしお鉄道ごめん・なはり線",
-   "https://ja.wikipedia.org/wiki/夜須駅"
+   "https://ja.wikipedia.org/wiki/夜須駅",
+   "https://www.tosakuro.com/"
   ],
   "region": "시코쿠"
  },
@@ -52295,16 +52594,18 @@ window.SPOTS = [
   "best_time": "수련 철(대략 5~10월)",
   "event": "",
   "duration": "반나절",
-  "cost": "입장료 별도",
+  "cost": "입장 약 1,000엔",
   "walking": "보통",
   "fit": "조건부",
   "condition": "수련은 맑은 오전에 활짝",
-  "caution": "버스 편수가 적어 나하리역 환승 시간 확인. 겨울 휴원·휴원일 확인",
+  "caution": "버스 편수가 적어 나하리역 환승 시간 확인. 겨울(12월~2월) 휴원이며 2026~27 겨울은 정원 공사로 2026-12-01~2027-03-12 휴원(3/13 개원). 6~10월 첫째·셋째 수요일 휴원",
   "lat": 33.4401,
   "lng": 134.0329,
-  "url": "",
+  "url": "https://www.kjmonet.jp/",
   "sources": [
-   "https://nominatim.openstreetmap.org/search?q=モネの庭+北川村"
+   "https://nominatim.openstreetmap.org/search?q=モネの庭+北川村",
+   "https://www.kjmonet.jp/",
+   "https://www.kjmonet.jp/info/"
   ],
   "region": "시코쿠"
  },
@@ -52453,10 +52754,11 @@ window.SPOTS = [
   "caution": "버스가 하루 몇 편뿐. 미니 열차는 운행일 한정(공식 확인)",
   "lat": 33.5554,
   "lng": 134.0483,
-  "url": "",
+  "url": "https://umajimura.jp/",
   "sources": [
    "https://ja.wikipedia.org/wiki/馬路村",
-   "https://ja.wikipedia.org/wiki/魚梁瀬森林鉄道"
+   "https://ja.wikipedia.org/wiki/魚梁瀬森林鉄道",
+   "https://umajimura.jp/"
   ],
   "region": "시코쿠"
  },
@@ -52566,7 +52868,7 @@ window.SPOTS = [
   "best_time": "연중",
   "event": "",
   "duration": "1~2시간",
-  "cost": "입장료 별도",
+  "cost": "입장 약 900엔 (고교생 이하 무료)",
   "walking": "적음",
   "fit": "백업",
   "condition": "",
@@ -52575,7 +52877,8 @@ window.SPOTS = [
   "lng": 133.5718,
   "url": "https://ryoma-kinenkan.jp/",
   "sources": [
-   "https://ja.wikipedia.org/wiki/高知県立坂本龍馬記念館"
+   "https://ja.wikipedia.org/wiki/高知県立坂本龍馬記念館",
+   "https://ryoma-kinenkan.jp/"
   ],
   "region": "시코쿠"
  },
@@ -52729,9 +53032,10 @@ window.SPOTS = [
   "caution": "동굴 안 계단·젖은 바닥",
   "lat": 33.6032,
   "lng": 133.7452,
-  "url": "",
+  "url": "https://ryugadou.or.jp/",
   "sources": [
-   "https://ja.wikipedia.org/wiki/龍河洞"
+   "https://ja.wikipedia.org/wiki/龍河洞",
+   "https://ryugadou.or.jp/"
   ],
   "region": "시코쿠"
  },
@@ -52879,10 +53183,11 @@ window.SPOTS = [
   "caution": "",
   "lat": 33.5158,
   "lng": 133.9115,
-  "url": "",
+  "url": "https://www.city.aki.kochi.jp/life/dtl.php?hdnKey=42",
   "sources": [
    "https://ja.wikipedia.org/wiki/土居廓中",
-   "https://ja.wikipedia.org/wiki/野良時計"
+   "https://ja.wikipedia.org/wiki/野良時計",
+   "https://www.city.aki.kochi.jp/life/dtl.php?hdnKey=42"
   ],
   "region": "시코쿠"
  },
@@ -52956,9 +53261,10 @@ window.SPOTS = [
   "caution": "버스 편수가 적어 1박 권장. 근처 시코쿠 카르스트는 대중교통으로 어렵다",
   "lat": 33.3922,
   "lng": 132.927,
-  "url": "",
+  "url": "https://www.town.yusuhara.lg.jp/",
   "sources": [
-   "https://ja.wikipedia.org/wiki/檮原町"
+   "https://ja.wikipedia.org/wiki/檮原町",
+   "https://www.town.yusuhara.lg.jp/"
   ],
   "region": "시코쿠"
  },
@@ -52992,12 +53298,13 @@ window.SPOTS = [
   "walking": "적음",
   "fit": "백업",
   "condition": "",
-  "caution": "",
+  "caution": "시설 개수 공사로 2026-11-16~2027-03-31 임시 휴관. 평소 월요일 휴관",
   "lat": 33.5478,
   "lng": 133.423,
-  "url": "",
+  "url": "https://kamihaku.com/",
   "sources": [
-   "https://ja.wikipedia.org/wiki/いの町紙の博物館"
+   "https://ja.wikipedia.org/wiki/いの町紙の博物館",
+   "https://kamihaku.com/"
   ],
   "region": "시코쿠"
  },
@@ -53033,9 +53340,10 @@ window.SPOTS = [
   "caution": "",
   "lat": 33.208,
   "lng": 133.1346,
-  "url": "",
+  "url": "https://iwamotoji.or.jp/",
   "sources": [
-   "https://ja.wikipedia.org/wiki/岩本寺"
+   "https://ja.wikipedia.org/wiki/岩本寺",
+   "https://iwamotoji.or.jp/"
   ],
   "region": "시코쿠"
  },
@@ -53114,7 +53422,7 @@ window.SPOTS = [
   "caution": "통행 시간 6~22시. 산요 산인 패스·서일본 전지역 패스는 시모노세키 쪽 기준",
   "lat": 33.9635,
   "lng": 130.9593,
-  "url": "",
+  "url": "https://www.crossroadfukuoka.jp/spot/11798",
   "sources": [
    "https://ja.wikipedia.org/wiki/関門トンネル_(国道2号)"
   ],
@@ -53277,7 +53585,7 @@ window.SPOTS = [
   "caution": "섬 안 버스 편수가 적어 돌아오는 편 먼저 확인",
   "lat": 33.675,
   "lng": 130.3,
-  "url": "",
+  "url": "https://www.crossroadfukuoka.jp/spot/12478",
   "sources": [
    "https://ja.wikipedia.org/wiki/志賀島"
   ],
@@ -53352,10 +53660,11 @@ window.SPOTS = [
   "caution": "불꽃·연기가 가까이 튀므로 거리 두기. 2025년은 사고 영향으로 중지된 적 있음",
   "lat": 33.0307,
   "lng": 130.4409,
-  "url": "",
+  "url": "https://www.crossroadfukuoka.jp/event/13542",
   "sources": [
    "https://ja.wikipedia.org/wiki/大蛇山_(祭り)",
-   "https://www.pref.fukuoka.lg.jp/press-release/omuta-daijyayama-2026.html"
+   "https://www.pref.fukuoka.lg.jp/press-release/omuta-daijyayama-2026.html",
+   "https://www.crossroadfukuoka.jp/event/13542"
   ],
   "region": "규슈"
  },
@@ -53431,7 +53740,7 @@ window.SPOTS = [
   "caution": "공동탕엔 비누·수건이 없을 수 있어 챙겨 가기",
   "lat": 33.4919,
   "lng": 130.5132,
-  "url": "",
+  "url": "https://www.crossroadfukuoka.jp/spot/12649",
   "sources": [
    "https://ja.wikipedia.org/wiki/二日市温泉_(筑紫野市)"
   ],
@@ -53619,7 +53928,7 @@ window.SPOTS = [
   "best_time": "공기 맑은 날(오키노시마는 맑을 때만 보임)",
   "event": "",
   "duration": "반나절",
-  "cost": "배 요금은 공식 확인",
+  "cost": "배 편도 약 570엔",
   "walking": "보통",
   "fit": "조건부",
   "condition": "맑은 날에만 오키노시마 조망 / 풍랑 시 결항",
@@ -53628,7 +53937,8 @@ window.SPOTS = [
   "lng": 130.4256,
   "url": "",
   "sources": [
-   "https://ja.wikipedia.org/wiki/大島_(福岡県)"
+   "https://ja.wikipedia.org/wiki/大島_(福岡県)",
+   "https://www.crossroadfukuoka.jp/spot/15835"
   ],
   "region": "규슈"
  },
@@ -53665,7 +53975,7 @@ window.SPOTS = [
   "caution": "빛의 길 시기 해 질 녘엔 계단 관람석이 일찍 참",
   "lat": 33.7799,
   "lng": 130.4864,
-  "url": "",
+  "url": "https://www.miyajidake.or.jp/",
   "sources": [
    "https://ja.wikipedia.org/wiki/宮地嶽神社"
   ],
@@ -53738,7 +54048,7 @@ window.SPOTS = [
   "best_time": "연중. 봄·가을이 걷기 좋음",
   "event": "",
   "duration": "반나절",
-  "cost": "정기선 요금은 공식 확인",
+  "cost": "정기선 편도 약 480엔",
   "walking": "보통",
   "fit": "조건부",
   "condition": "파도 높으면 결항",
@@ -53747,7 +54057,8 @@ window.SPOTS = [
   "lng": 130.3651,
   "url": "",
   "sources": [
-   "https://ja.wikipedia.org/wiki/相島_(福岡県)"
+   "https://ja.wikipedia.org/wiki/相島_(福岡県)",
+   "https://www.crossroadfukuoka.jp/event/11636"
   ],
   "region": "규슈"
  },
@@ -53901,9 +54212,10 @@ window.SPOTS = [
   "caution": "2026년 중지. 당일 구루메역 주변 매우 혼잡, 귀가 열차 혼잡 각오",
   "lat": 33.322,
   "lng": 130.4985,
-  "url": "",
+  "url": "https://www.crossroadfukuoka.jp/feature/chikugogawa",
   "sources": [
-   "https://ja.wikipedia.org/wiki/筑後川花火大会"
+   "https://ja.wikipedia.org/wiki/筑後川花火大会",
+   "https://www.crossroadfukuoka.jp/feature/chikugogawa"
   ],
   "region": "규슈"
  },
@@ -53976,7 +54288,7 @@ window.SPOTS = [
   "best_time": "맑은 날 일몰 전후. 크리스마스 시즌 조명",
   "event": "",
   "duration": "1~2시간",
-  "cost": "전망실 입장 유료 (약 1,000엔대, 공식 확인)",
+  "cost": "전망실 약 1,000엔",
   "walking": "적음",
   "fit": "조건부",
   "condition": "맑은 날 노을·야경 / 흐리면 시야 좁음",
@@ -53985,7 +54297,8 @@ window.SPOTS = [
   "lng": 130.3514,
   "url": "https://www.fukuokatower.co.jp/",
   "sources": [
-   "https://ja.wikipedia.org/wiki/福岡タワー"
+   "https://ja.wikipedia.org/wiki/福岡タワー",
+   "https://www.fukuokatower.co.jp/charge/"
   ],
   "region": "규슈"
  },
@@ -54591,7 +54904,7 @@ window.SPOTS = [
   "caution": "버스 편수 적음, 귀가편 먼저 확인",
   "lat": 33.5557,
   "lng": 129.8463,
-  "url": "",
+  "url": "https://www.asobo-saga.jp/spots/detail/00ecd501-157f-4301-96f1-cf08595b0ae7",
   "sources": [
    "https://ja.wikipedia.org/wiki/波戸岬"
   ],
@@ -54814,18 +55127,19 @@ window.SPOTS = [
    "가을"
   ],
   "best_time": "11월 중순 공개 기간",
-  "event": "가을 일반 공개: 매년 11월 중 약 9일, 봄 공개: 5월 약 3일 (날짜는 매년 공식 확인)",
+  "event": "가을 일반 공개: 매년 11월 중 약 9일, 봄 공개: 5월 약 3일 (날짜는 매년 공식 확인). 2026년 가을은 11/14~29",
   "duration": "1~2시간",
-  "cost": "공개 요금은 공식 확인",
+  "cost": "약 1,000엔 (고교생 이상)",
   "walking": "적음",
   "fit": "조건부",
   "condition": "공개 기간에만 입장 가능",
   "caution": "공개 기간엔 매우 붐빔. 기간 외엔 들어갈 수 없음",
   "lat": 33.3576,
   "lng": 130.3639,
-  "url": "",
+  "url": "https://www.city.kanzaki.saga.jp/main/8138.html",
   "sources": [
-   "https://ja.wikipedia.org/wiki/九年庵"
+   "https://ja.wikipedia.org/wiki/九年庵",
+   "https://www.city.kanzaki.saga.jp/main/17597.html"
   ],
   "region": "규슈"
  },
@@ -54904,7 +55218,7 @@ window.SPOTS = [
   "caution": "다라역은 열차 편수 적음",
   "lat": 33.0302,
   "lng": 130.1757,
-  "url": "",
+  "url": "https://www.asobo-saga.jp/spots/detail/77cdd864-c6d2-43d5-9b23-b352a48ac680",
   "sources": [
    "https://ja.wikipedia.org/wiki/大魚神社"
   ],
@@ -54963,7 +55277,7 @@ window.SPOTS = [
   "summary": "아리아케해로 튀어나온 작은 섬. 명물 '다케자키 꽃게'를 먹을 수 있고, 성터 전망대에서 바다를 내려다본다. 1월 초엔 국가 중요무형민속문화재 '오니마쓰리'가 열린다.",
   "do": "다케자키 꽃게 요리 먹고 성터 전망대에서 아리아케해 보기",
   "station": "히젠오우라역 (肥前大浦) / 히젠카시마역 (肥前鹿島)",
-  "access": "가시마 버스센터(히젠카시마역 근처)에서 유토쿠 버스 '竹崎港'행. 편수는 공식 확인",
+  "access": "히젠카시마역 앞에서 유토쿠자동차 다라선 '竹崎港'행 종점 하차(정류장 50여 개를 도는 완행이라 시간 넉넉히). 편수가 적어 시간표 먼저 확인",
   "jr_pass": [
    "JR 큐슈 레일패스(전큐슈)",
    "JR 큐슈 레일패스(북큐슈)"
@@ -54986,7 +55300,8 @@ window.SPOTS = [
   "lng": 130.2191,
   "url": "",
   "sources": [
-   "https://ja.wikipedia.org/wiki/竹崎島"
+   "https://ja.wikipedia.org/wiki/竹崎島",
+   "https://mb.jorudan.co.jp/os/bus/4104/line/43604.html"
   ],
   "region": "규슈"
  },
@@ -55194,7 +55509,7 @@ window.SPOTS = [
   "summary": "람사르 협약에 등록된 아리아케해 갯벌. 가을이면 국내 최대 군락의 염생식물 시치멘소가 붉게 물들고, 겨울엔 도요새 떼가 날아든다.",
   "do": "제방 산책로에서 붉게 물든 시치멘소와 갯벌 노을 보기, 비지터센터 전망동 오르기",
   "station": "사가역 (佐賀)",
-  "access": "JR 사가역 버스센터에서 사가 시영버스 히가시요카 방면(노선·편수는 공식 확인), 사가역에서 차로 약 30~35분",
+  "access": "JR 사가역 버스센터에서 사가 시영버스 '東与賀'행 '東与賀町役場前' 하차 후 택시 약 10분. 사가역에서 차로 약 30~35분",
   "jr_pass": [
    "JR 큐슈 레일패스(전큐슈)",
    "JR 큐슈 레일패스(북큐슈)"
@@ -55213,10 +55528,11 @@ window.SPOTS = [
   "caution": "버스 편수가 적을 수 있어 돌아오는 편 먼저 확인",
   "lat": 33.1774,
   "lng": 130.2599,
-  "url": "",
+  "url": "https://www.asobo-saga.jp/spots/detail/c4433ee2-6f4f-4eb5-8a6d-48913f79d086",
   "sources": [
    "https://ja.wikipedia.org/wiki/東よか干潟",
-   "https://ja.wikipedia.org/wiki/東与賀町"
+   "https://ja.wikipedia.org/wiki/東与賀町",
+   "https://www.asobo-saga.jp/spots/detail/c4433ee2-6f4f-4eb5-8a6d-48913f79d086"
   ],
   "region": "규슈"
  },
@@ -55286,16 +55602,17 @@ window.SPOTS = [
   "best_time": "연중. 비 오는 날 대체지",
   "event": "",
   "duration": "1~2시간",
-  "cost": "상설전 무료 또는 소액 (공식 확인)",
+  "cost": "상설전 무료 (특별기획전은 유료)",
   "walking": "적음",
   "fit": "백업",
   "condition": "",
-  "caution": "월요일 휴관 여부 공식 확인",
+  "caution": "월요일(공휴일이면 다음 평일)·연말연시(12/29~1/3) 휴관. 9~17시(입관 16:30)",
   "lat": 33.1789,
   "lng": 129.8807,
-  "url": "",
+  "url": "https://saga-museum.jp/ceramic/",
   "sources": [
-   "https://ja.wikipedia.org/wiki/佐賀県立九州陶磁文化館"
+   "https://ja.wikipedia.org/wiki/佐賀県立九州陶磁文化館",
+   "https://saga-museum.jp/ceramic/docs/kyushuceramic_schedule2026.pdf"
   ],
   "region": "규슈"
  },
@@ -55324,16 +55641,17 @@ window.SPOTS = [
   "best_time": "봄 벚꽃·가을 맑은 날",
   "event": "",
   "duration": "반나절",
-  "cost": "성터 무료, 박물관 무료 또는 소액 (공식 확인)",
+  "cost": "성터 무료, 박물관 상설전 무료 (특별기획전은 유료)",
   "walking": "보통",
   "fit": "백업",
   "condition": "",
   "caution": "임진왜란 침략 거점이라는 역사 배경을 알고 방문. 성터 안 오르막",
   "lat": 33.53,
   "lng": 129.8694,
-  "url": "",
+  "url": "https://saga-museum.jp/nagoya/",
   "sources": [
-   "https://ja.wikipedia.org/wiki/名護屋城"
+   "https://ja.wikipedia.org/wiki/名護屋城",
+   "https://www.museum.or.jp/museum/7107"
   ],
   "region": "규슈"
  },
@@ -55370,7 +55688,7 @@ window.SPOTS = [
   "caution": "숲 안 도로에 차가 다니므로 보행 주의",
   "lat": 33.4466,
   "lng": 130.0283,
-  "url": "",
+  "url": "https://www.asobo-saga.jp/spots/detail/a32d011b-20b3-46b7-95ea-604444826f92",
   "sources": [
    "https://ja.wikipedia.org/wiki/虹の松原",
    "https://www.wikidata.org/wiki/Q5370854"
@@ -55568,7 +55886,7 @@ window.SPOTS = [
   "caution": "오후엔 노점이 거의 없음. 좌표는 옛 요부코정 청사 기준(시장 거리 근처)",
   "lat": 33.5434,
   "lng": 129.8932,
-  "url": "",
+  "url": "https://www.asobo-saga.jp/spots/detail/358d07ba-acf4-4be5-9573-9f73abc8dba1",
   "sources": [
    "https://ja.wikipedia.org/wiki/呼子朝市",
    "https://ja.wikipedia.org/wiki/呼子町"
@@ -55846,7 +56164,7 @@ window.SPOTS = [
   "caution": "인기 공연장은 매우 혼잡. 공연 일정표 미리 확인",
   "lat": 32.7541,
   "lng": 129.8821,
-  "url": "",
+  "url": "https://nagasaki-kunchi.com/",
   "sources": [
    "https://ja.wikipedia.org/wiki/長崎くんち"
   ],
@@ -56087,7 +56405,7 @@ window.SPOTS = [
   "caution": "JR 역에서 멀어 버스 이동이 김. 마쓰우라철도·버스는 JR 패스 적용 안 됨",
   "lat": 33.3687,
   "lng": 129.5575,
-  "url": "",
+  "url": "https://www.hirado-net.com/",
   "sources": [
    "https://ja.wikipedia.org/wiki/平戸城",
    "https://www.wikidata.org/wiki/Q1191029"
@@ -56240,12 +56558,13 @@ window.SPOTS = [
   "walking": "적음",
   "fit": "조건부",
   "condition": "소용돌이는 조류가 빠른 시간에만",
-  "caution": "조석표로 시간 맞추기. 버스 노선·편수 공식 확인",
+  "caution": "조석표로 시간 맞추기. 사세보역에서 사이히 버스 약 50분 '西海橋西口' 또는 '西海橋東口' 하차",
   "lat": 33.0531,
   "lng": 129.7578,
-  "url": "",
+  "url": "https://saikaibashi.com/",
   "sources": [
-   "https://ja.wikipedia.org/wiki/西海橋"
+   "https://ja.wikipedia.org/wiki/西海橋",
+   "https://saikaibashi.com/pages/4/"
   ],
   "region": "규슈"
  },
@@ -56481,16 +56800,17 @@ window.SPOTS = [
   "best_time": "연중. 맑은 날 헤이세이 신잔이 잘 보임",
   "event": "",
   "duration": "1~2시간",
-  "cost": "유료 전시 구역 있음 (공식 확인)",
+  "cost": "상설 전시 약 1,050엔 (1층 미디어 라이브러리는 무료)",
   "walking": "적음",
   "fit": "조건부",
   "condition": "",
   "caution": "시마바라철도·버스는 JR 패스 적용 안 됨. 개관 9:00~18:00(최종 입장 17:00)",
   "lat": 32.7436,
   "lng": 130.3757,
-  "url": "",
+  "url": "https://udmh.jp/",
   "sources": [
-   "https://ja.wikipedia.org/wiki/雲仙岳災害記念館"
+   "https://ja.wikipedia.org/wiki/雲仙岳災害記念館",
+   "https://udmh.jp/visit/info/"
   ],
   "region": "규슈"
  },
@@ -56641,7 +56961,7 @@ window.SPOTS = [
   "best_time": "가을~겨울 일루미네이션 시즌 저녁. 봄 튤립",
   "event": "",
   "duration": "하루",
-  "cost": "1일 패스포트 수천 엔대 (오후 입장권 있음, 공식 확인)",
+  "cost": "1일 패스포트 약 7,600엔~(날짜별 변동), 오후 3시 이후 입장권 약 5,900엔~",
   "walking": "많음",
   "fit": "조건부",
   "condition": "일루미네이션은 해 진 뒤",
@@ -56650,7 +56970,8 @@ window.SPOTS = [
   "lng": 129.7899,
   "url": "https://www.huistenbosch.co.jp/",
   "sources": [
-   "https://ja.wikipedia.org/wiki/ハウステンボス"
+   "https://ja.wikipedia.org/wiki/ハウステンボス",
+   "https://www.huistenbosch.co.jp/ticket/"
   ],
   "region": "규슈"
  },
@@ -56682,7 +57003,7 @@ window.SPOTS = [
   "best_time": "맑은 날. 여름·겨울 야간 개원 시기",
   "event": "",
   "duration": "1~2시간",
-  "cost": "입원 유료 (약 600엔대, 공식 확인)",
+  "cost": "입원료 약 1,300엔",
   "walking": "보통",
   "fit": "백업",
   "condition": "",
@@ -56691,7 +57012,8 @@ window.SPOTS = [
   "lng": 129.8691,
   "url": "https://www.glover-garden.jp/",
   "sources": [
-   "https://ja.wikipedia.org/wiki/グラバー園"
+   "https://ja.wikipedia.org/wiki/グラバー園",
+   "https://glover-garden.jp/guide"
   ],
   "region": "규슈"
  },
@@ -56728,7 +57050,7 @@ window.SPOTS = [
   "caution": "",
   "lat": 32.742,
   "lng": 129.8757,
-  "url": "",
+  "url": "https://www.at-nagasaki.jp/spot/111",
   "sources": [
    "https://ja.wikipedia.org/wiki/長崎新地中華街"
   ],
@@ -56767,7 +57089,7 @@ window.SPOTS = [
   "caution": "한국인 피폭자 관련 전시·위령비도 있음",
   "lat": 32.7727,
   "lng": 129.8645,
-  "url": "",
+  "url": "https://www.at-nagasaki.jp/spot/126",
   "sources": [
    "https://ja.wikipedia.org/wiki/長崎原爆資料館"
   ],
@@ -56847,7 +57169,7 @@ window.SPOTS = [
   "caution": "",
   "lat": 32.7472,
   "lng": 129.8801,
-  "url": "",
+  "url": "https://www.at-nagasaki.jp/spot/95",
   "sources": [
    "https://ja.wikipedia.org/wiki/眼鏡橋_(長崎市)"
   ],
@@ -56926,7 +57248,7 @@ window.SPOTS = [
   "caution": "언덕길·계단, 배리어프리 아님. 미사·행사 중엔 견학 제한",
   "lat": 32.7342,
   "lng": 129.8701,
-  "url": "",
+  "url": "https://www.at-nagasaki.jp/spot/102",
   "sources": [
    "https://ja.wikipedia.org/wiki/大浦天主堂"
   ],
@@ -57172,7 +57494,7 @@ window.SPOTS = [
   "caution": "2026-07-28 구마모토 지진 후 숙소·도로 상황 확인. 버스 편수 확인",
   "lat": 33.1826,
   "lng": 131.0343,
-  "url": "",
+  "url": "http://tsuetate-onsen.com/",
   "sources": [
    "https://ja.wikipedia.org/wiki/杖立温泉"
   ],
@@ -57212,7 +57534,7 @@ window.SPOTS = [
   "caution": "업체 여러 곳, 예약 권장. 좌표는 쓰지시마 기준(후타에항 바로 앞)",
   "lat": 32.5511,
   "lng": 130.1147,
-  "url": "",
+  "url": "https://kumamoto.guide/spots/detail/2184",
   "sources": [
    "https://ja.wikipedia.org/wiki/通詞島",
    "https://rurubu.jp/andmore/spot/80040206"
@@ -57293,7 +57615,7 @@ window.SPOTS = [
   "caution": "버스 편수 적음. 2026-07 지진 후 숙소 영업 확인",
   "lat": 32.1475,
   "lng": 130.4396,
-  "url": "",
+  "url": "https://kumamoto.guide/spots/detail/1767",
   "sources": [
    "https://ja.wikipedia.org/wiki/湯の鶴温泉"
   ],
@@ -57396,7 +57718,7 @@ window.SPOTS = [
   "summary": "구마강 변 성하마을의 온천. 약 50곳 원천이 있고 '모토유'·'신온센' 같은 옛 공동탕이 남아 있다.",
   "do": "쇼와 분위기 공동탕 순례 후 구마강 변 산책",
   "station": "히토요시역 (人吉, JR 열차 운휴 중)",
-  "access": "JR 히사쓰선은 2020년 호우 이후 운휴가 이어져 열차로 못 감. 구마모토에서 고속버스 이용(시간표 공식 확인). 구마가와 철도는 2026-09-20 운행 재개",
+  "access": "JR 히사쓰선은 2020년 호우 이후 운휴가 이어져 열차로 못 감. 구마모토역·사쿠라마치 버스터미널에서 산코버스 고속버스 '난푸호'(하루 약 9편, 약 1시간 45분~2시간, 人吉IC 하차) 또는 '기리시마호'. 신칸센 신야쓰시로역에서 연계 버스 'B&S 미야자키'도 있음. 구마가와 철도는 2026-09-20 운행 재개",
   "jr_pass": [],
   "seasons": [
    "봄",
@@ -57410,13 +57732,14 @@ window.SPOTS = [
   "walking": "적음",
   "fit": "매우 잘 맞음",
   "condition": "",
-  "caution": "히사쓰선 운휴로 접근은 버스뿐. 구마강 뱃놀이·래프팅 운항 상황은 미확인",
+  "caution": "히사쓰선 운휴로 접근은 버스뿐. 구마강 뱃놀이는 2026년에도 운항(세이류 코스 약 50분·약 3,500엔, 유람선 약 30분·약 2,500엔)하나 증수·악천후 시 결항·코스 변경, 운항일이 정해져 있어 예약 필수(0966-22-5555)",
   "lat": 32.214,
   "lng": 130.7574,
   "url": "https://www.hitoyoshionsen.net/",
   "sources": [
-   "https://ja.wikipedia.org/wiki/人吉温泉",
-   "https://ja.wikipedia.org/wiki/人吉駅"
+   "https://ja.wikipedia.org/wiki/人吉駅",
+   "https://www.sankobus.jp/bus/nanpu/jikoku/",
+   "https://www.kumagawa.co.jp/kumagawa/"
   ],
   "region": "규슈"
  },
@@ -57433,7 +57756,7 @@ window.SPOTS = [
   "summary": "히토요시온센~유노마에 24.8km를 달리는 작은 지방 철도. 2020년 호우로 다리가 떠내려가 끊겼다가 2026년 9월 20일 6년 만에 전 구간이 다시 이어졌다.",
   "do": "히토요시온센역에서 유노마에까지 구마 분지 논밭 사이를 달리며 종점 마을 둘러보기",
   "station": "히토요시온센역 (人吉温泉, 구마가와 철도)",
-  "access": "JR 히사쓰선은 히토요시 구간 운휴 중이라 구마모토·가고시마 방면에서 고속버스로 히토요시(편수·소요는 공식 확인) → 히토요시온센역",
+  "access": "JR 히사쓰선은 히토요시 구간 운휴 중이라 구마모토역·사쿠라마치에서 산코버스 고속버스 '난푸호'(하루 약 9편, 약 1시간 45분~2시간, 人吉IC 하차) 등으로 히토요시 → 히토요시온센역",
   "jr_pass": [],
   "seasons": [
    "봄",
@@ -57453,9 +57776,9 @@ window.SPOTS = [
   "lng": 130.7538,
   "url": "",
   "sources": [
-   "https://ja.wikipedia.org/wiki/くま川鉄道湯前線",
    "https://kumanichi.com/articles/2037988",
-   "https://trafficnews.jp/post/648159"
+   "https://trafficnews.jp/post/648159",
+   "https://www.sankobus.jp/bus/nanpu/jikoku/"
   ],
   "region": "규슈"
  },
@@ -57566,7 +57889,7 @@ window.SPOTS = [
   "best_time": "초여름 신록, 비 온 뒤 수량 많을 때",
   "event": "",
   "duration": "1~2시간",
-  "cost": "입원료는 공식 확인",
+  "cost": "약 300엔 (고교생 이상), 웹 사전 구매제",
   "walking": "보통",
   "fit": "조건부",
   "condition": "큰비 뒤엔 출입 제한 가능",
@@ -57575,7 +57898,8 @@ window.SPOTS = [
   "lng": 131.0357,
   "url": "",
   "sources": [
-   "https://ja.wikipedia.org/wiki/鍋ヶ滝"
+   "https://ja.wikipedia.org/wiki/鍋ヶ滝",
+   "https://www.gltjp.com/ja/directory/item/18026/"
   ],
   "region": "규슈"
  },
@@ -57693,12 +58017,13 @@ window.SPOTS = [
   "walking": "적음",
   "fit": "조건부",
   "condition": "방수일에만 진가 / 농번기엔 방수 없음",
-  "caution": "다리 위 관람은 방수일 사전 예약·인원 제한. 2016년 지진 피해는 2020년 복구 완료, 2026-07 지진 영향은 미확인",
+  "caution": "2026년 구마모토 지진 영향 조사로 다리 위 관람은 2026년 연내 중지, 방수도 일부 취소됨. 2027년도 방수·관람 방침은 미정(공식 발표 대기)",
   "lat": 32.6817,
   "lng": 130.9937,
-  "url": "",
+  "url": "https://tsujunbridge.jp/",
   "sources": [
-   "https://ja.wikipedia.org/wiki/通潤橋"
+   "https://ja.wikipedia.org/wiki/通潤橋",
+   "https://tsujunbridge.jp/"
   ],
   "region": "규슈"
  },
@@ -57730,17 +58055,18 @@ window.SPOTS = [
   "best_time": "맑은 날 해 질 녘",
   "event": "",
   "duration": "반나절",
-  "cost": "유람선 유료 (공식 확인)",
+  "cost": "아마쿠사 섬 순회 유람선 약 2,000엔·약 30분 (웹 할인 약 1,800엔)",
   "walking": "적음",
   "fit": "조건부",
   "condition": "맑은 날 전망·노을 / 파도 높으면 유람선 결항",
   "caution": "2026-07 지진 진원(우키·야쓰시로)과 가까운 지역이라 시설 상황 확인",
   "lat": 32.5303,
   "lng": 130.4154,
-  "url": "",
+  "url": "https://kumamoto.guide/spots/detail/11529",
   "sources": [
    "https://ja.wikipedia.org/wiki/天草松島",
-   "https://www.wikidata.org/wiki/Q17191779"
+   "https://www.wikidata.org/wiki/Q17191779",
+   "https://www.seacruise.jp/gokyo/"
   ],
   "region": "규슈"
  },
@@ -57854,13 +58180,14 @@ window.SPOTS = [
   "walking": "보통",
   "fit": "조건부",
   "condition": "축제 이틀만",
-  "caution": "2026-07-28 지진(야쓰시로 진도 6강)으로 신사 누문이 쓰러지는 등 큰 피해, 2026년 신코 행렬·관련 행사는 중지(신사는 일부 진행). 2027년 이후 재개 여부 공식 확인",
+  "caution": "2026-07-28 지진(야쓰시로 진도 6강)으로 신사 누문이 쓰러지는 등 큰 피해, 2026년 묘켄사이는 중지(9/3 발표). 대신 11/1~12/1 부흥 기원 라이트업. 2027년 개최 여부는 미발표",
   "lat": 32.5006,
   "lng": 130.641,
-  "url": "",
+  "url": "http://www.myouken.com/",
   "sources": [
    "https://kumanichi.com/articles/2032105",
-   "https://www.wikidata.org/wiki/Q11390558"
+   "https://www.wikidata.org/wiki/Q11390558",
+   "http://www.myouken.com/"
   ],
   "region": "규슈"
  },
@@ -57899,7 +58226,7 @@ window.SPOTS = [
   "caution": "공연 날엔 내부 견학 제한",
   "lat": 33.0169,
   "lng": 130.6893,
-  "url": "",
+  "url": "https://yamaga.site/?page_id=2",
   "sources": [
    "https://ja.wikipedia.org/wiki/八千代座"
   ],
@@ -58099,12 +58426,13 @@ window.SPOTS = [
   "walking": "적음",
   "fit": "백업",
   "condition": "",
-  "caution": "2026-07-28 지진 후 구마모토성은 8/13 재개. 조사이엔 개별 가게 영업은 미확인",
+  "caution": "2026-07-28 지진 후 구마모토성은 8/13 재개. 조사이엔 가게도 영업 중(2026-09 실버위크엔 매출이 예년 수준으로 회복했다는 보도)",
   "lat": 32.8094,
   "lng": 130.6996,
   "url": "",
   "sources": [
-   "https://ja.wikipedia.org/wiki/桜の馬場_城彩苑"
+   "https://ja.wikipedia.org/wiki/桜の馬場_城彩苑",
+   "https://www.kab.co.jp/news/article/16906698"
   ],
   "region": "규슈"
  },
@@ -58222,13 +58550,14 @@ window.SPOTS = [
   "walking": "보통",
   "fit": "백업",
   "condition": "",
-  "caution": "2026-07 지진에 따른 신사 피해 여부는 미확인 (몬젠마치 상점가는 10월 현재 활동 중)",
+  "caution": "2026-07 지진에 따른 피해·참배 제한 공지는 신사 공식 사이트에 없음(2026-10 기준). 몬젠마치 상점가는 10월 현재 활동 중",
   "lat": 32.9478,
   "lng": 131.116,
-  "url": "",
+  "url": "https://asojinja.or.jp/",
   "sources": [
    "https://ja.wikipedia.org/wiki/阿蘇神社",
-   "https://kumanichi.com/theme/2026earthquake?page=1"
+   "https://kumanichi.com/theme/2026earthquake?page=1",
+   "https://asojinja.or.jp/"
   ],
   "region": "규슈"
  },
@@ -58337,7 +58666,7 @@ window.SPOTS = [
   "caution": "원천 약 39℃로 겨울엔 나오면 추움. 동굴탕은 외딴 료칸 '후쿠모토야' 시설이라 입욕 조건은 숙소에 확인",
   "lat": 33.204,
   "lng": 131.1683,
-  "url": "",
+  "url": "https://www.visit-oita.jp/spots/detail/4745",
   "sources": [
    "https://ja.wikipedia.org/wiki/壁湯温泉",
    "https://msearch.gsi.go.jp/address-search/AddressSearch?q=壁湯"
@@ -58652,17 +58981,18 @@ window.SPOTS = [
   "best_time": "맑은 날. 관측회는 공식 일정 확인",
   "event": "",
   "duration": "반나절",
-  "cost": "해성관 요금은 공식 확인",
+  "cost": "1층 전망대·전시 무료, 천체관측실 약 630엔, 플라네타리움 약 540엔",
   "walking": "많음",
   "fit": "매우 잘 맞음",
   "condition": "맑은 날 시코쿠까지 조망 / 흐리면 별 관측 불가",
-  "caution": "등대까지 왕복 계단 약 300단. 해성관은 2024년 여름 리뉴얼 재개관, 영업시간 공식 확인. 버스 종점 이후 택시 필요",
+  "caution": "등대까지 왕복 계단 약 300단. 해성관은 화요일(공휴일이면 다음 평일)·연말연시 휴관, 평일 10~18시, 금·토·일·공휴일과 8월은 22시까지 열고 야간 관측회. 버스 종점 이후 택시 필요",
   "lat": 33.2667,
   "lng": 131.9022,
-  "url": "",
+  "url": "https://www.kaiseikan.jp/",
   "sources": [
    "https://ja.wikipedia.org/wiki/関崎灯台",
-   "https://www.city.oita.oita.jp/o029/shisejoho/kohokocho/koho/shihooita/documents/20200401.pdf"
+   "https://www.city.oita.oita.jp/o029/shisejoho/kohokocho/koho/shihooita/documents/20200401.pdf",
+   "https://kaiseikan.jp/user-guide/"
   ],
   "region": "규슈"
  },
@@ -58779,7 +59109,7 @@ window.SPOTS = [
   "caution": "역에서 온천가까지 멀어 택시 예약 권장. 2020년 호우로 공동탕 '스나유'가 유실됨",
   "lat": 33.1923,
   "lng": 131.3254,
-  "url": "",
+  "url": "https://www.visit-oita.jp/spots/detail/4513",
   "sources": [
    "https://ja.wikipedia.org/wiki/湯平温泉"
   ],
@@ -59249,12 +59579,13 @@ window.SPOTS = [
   "walking": "적음",
   "fit": "조건부",
   "condition": "여름 시즌만 / 비·증수 시 운휴",
-  "caution": "야카타부네는 대개 예약제. 운항 시즌은 업체 공식 확인",
+  "caution": "야카타부네는 3일 전까지 예약 필수(식사 플랜은 4인 이상). 우카이는 매년 5/20~10월 말, 11월~2월은 주말·공휴일 유람만(약 1,500엔)",
   "lat": 33.3122,
   "lng": 130.9319,
   "url": "https://www.oidehita.com/",
   "sources": [
-   "https://ja.wikipedia.org/wiki/日田温泉"
+   "https://ja.wikipedia.org/wiki/日田温泉",
+   "https://yakatabune.oidehita.com/"
   ],
   "region": "규슈"
  },
@@ -59834,11 +60165,11 @@ window.SPOTS = [
   "best_time": "신록·단풍철 맑은 날",
   "event": "",
   "duration": "1~2시간",
-  "cost": "약 2,000~2,300엔 (2026-04 요금 개정, 카트 요금은 공식 확인)",
+  "cost": "약 2,300엔 (자료관 세트 약 2,800엔)",
   "walking": "적음",
   "fit": "매우 잘 맞음",
   "condition": "악천후 운휴 가능",
-  "caution": "매월 셋째 목요일 정비 휴무. 단체 대절로 만석일 때가 있어 예약·운행시간 공식 확인",
+  "caution": "매월 셋째 목요일 정비 휴무. 사전 예약 불가 — 당일 8:40 개원 때 다카치호역 창구에서 그날 전 편 승차권을 선착순 판매하고 만석 편부터 마감되므로 아침 일찍 가기",
   "lat": 32.7146,
   "lng": 131.3068,
   "url": "https://amaterasu-railway.jp/",
@@ -59963,7 +60294,7 @@ window.SPOTS = [
   "caution": "아야 시내에서 다리까지는 택시 필요. 고소공포 주의",
   "lat": 32.0298,
   "lng": 131.1943,
-  "url": "",
+  "url": "https://www.kanko-miyazaki.jp/spot/1004",
   "sources": [
    "https://ja.wikipedia.org/wiki/照葉大吊橋"
   ],
@@ -60339,7 +60670,7 @@ window.SPOTS = [
   "summary": "폭 약 40m의 넓은 폭포와, 상류 강바닥에 수천 개 구멍이 뚫린 세계 최대급 포트홀(돌개구멍) 군락. 국가 천연기념물.",
   "do": "폭포 앞 전망 후 상류 약 600m 강바닥의 기묘한 구멍 지형 보기",
   "station": "미야코노조역 (都城)",
-  "access": "미야코노조역에서 택시 이용이 현실적 (노선버스 유무는 공식 확인)",
+  "access": "미야코노조역에서 '霧島神宮'행 노선버스 약 35분 '関之尾滝' 하차 도보 5~10분. 1~2시간에 1편 수준이라 시간표 먼저 확인",
   "jr_pass": [
    "JR 큐슈 레일패스(전큐슈)",
    "JR 큐슈 레일패스(남큐슈)"
@@ -60359,9 +60690,11 @@ window.SPOTS = [
   "caution": "대중교통 접근이 약함",
   "lat": 31.7611,
   "lng": 130.9872,
-  "url": "",
+  "url": "https://miyakonojo.tv/archives/21525",
   "sources": [
-   "https://ja.wikipedia.org/wiki/関之尾滝"
+   "https://ja.wikipedia.org/wiki/関之尾滝",
+   "https://www.maff.go.jp/j/nousin/sekkei/midori/m_walk/course8/45myz/index.html",
+   "https://miyakonojo.tv/archives/21525"
   ],
   "region": "규슈"
  },
@@ -60696,7 +61029,7 @@ window.SPOTS = [
   "summary": "에도 말~다이쇼 시대 해운업으로 번성한 강어귀 항구 마을. 교토풍 상가와 방화 골목 '쓰키누케'가 남은 중요전통적건조물군보존지구로, '일본 해군 발상지' 비석이 있다.",
   "do": "세 갈래 옛길을 따라 회선 상가 건물 보며 산책, 강어귀 해안 바라보기",
   "station": "미미쓰역 (美々津)",
-  "access": "JR 닛포본선 미미쓰역에서 도보 또는 택시 (역~마을 거리 공식 확인)",
+  "access": "JR 닛포본선 미미쓰역에서 보존지구까지 도보 약 20분(약 1.6km) 또는 택시 약 3분",
   "jr_pass": [
    "JR 큐슈 레일패스(전큐슈)",
    "JR 큐슈 레일패스(남큐슈)"
@@ -60718,7 +61051,8 @@ window.SPOTS = [
   "lng": 131.6111,
   "url": "https://www.hyugacity.jp/",
   "sources": [
-   "https://ja.wikipedia.org/wiki/美々津"
+   "https://ja.wikipedia.org/wiki/美々津",
+   "https://www.navitime.co.jp/category/0710005/45/"
   ],
   "region": "규슈"
  },
@@ -60971,7 +61305,7 @@ window.SPOTS = [
   "summary": "아마미오시마 남쪽 오시마 해협 건너의 섬. 쇼돈의 데이고 가로수, 반얀나무, 맑은 해변과 옛 특공정 기지 터 등 조용한 섬마을 풍경이 이어진다.",
   "do": "고니야항에서 배로 건너가 해변·데이고 가로수·섬마을 둘러보기",
   "station": "",
-  "access": "아마미 공항에서 고니야항 직행버스 → 고니야에서 정 운영 페리 가케로마(세소 하루 4왕복·이켄마 3왕복) 또는 승합 해상택시. 섬 안 버스는 하루 1~4편",
+  "access": "아마미 공항에서 고니야항 직행버스 → 고니야에서 정 운영 페리 가케로마(세소 하루 4왕복·이켄마 3왕복) 또는 전세 해상택시(정기편 없음, 예약제). 섬 안 버스는 하루 1~4편",
   "jr_pass": [],
   "seasons": [
    "봄",
@@ -60981,7 +61315,7 @@ window.SPOTS = [
   "best_time": "5~10월 바다 시즌",
   "event": "",
   "duration": "1박 추천",
-  "cost": "페리·해상택시 운임은 공식 확인",
+  "cost": "페리 편도 약 360엔, 해상택시는 1척 전세 편도 약 3,000~4,000엔",
   "walking": "보통",
   "fit": "매우 잘 맞음",
   "condition": "강풍 시 페리 결항 잦음(해상택시는 운항하기도 함)",
@@ -60990,7 +61324,8 @@ window.SPOTS = [
   "lng": 129.2447,
   "url": "",
   "sources": [
-   "https://ja.wikipedia.org/wiki/加計呂麻島"
+   "https://ja.wikipedia.org/wiki/加計呂麻島",
+   "https://www.setouchi-welcome.com/shiptime"
   ],
   "region": "규슈"
  },
@@ -61028,7 +61363,7 @@ window.SPOTS = [
   "caution": "역~항구 연결 버스와 배 시간 맞추기. 섬 내 이동수단 사전 확보",
   "lat": 31.8681,
   "lng": 129.8732,
-  "url": "",
+  "url": "https://www.kagoshima-kankou.com/guide/52850",
   "sources": [
    "https://ja.wikipedia.org/wiki/甑島列島",
    "https://nominatim.openstreetmap.org/search?q=長目の浜&format=json"
@@ -61228,7 +61563,7 @@ window.SPOTS = [
   "caution": "온천버스 하루 몇 편뿐. 공항과 가까워 첫날·마지막 날 숙박에 좋음",
   "lat": 31.812,
   "lng": 130.7569,
-  "url": "",
+  "url": "https://www.kagoshima-kankou.com/guide/10128",
   "sources": [
    "https://ja.wikipedia.org/wiki/妙見温泉_(鹿児島県)"
   ],
@@ -61307,7 +61642,7 @@ window.SPOTS = [
   "caution": "버스 하차 후 오르막 도보 약 40분. 히라우치·오노아이다 온천과 묶으면 효율적",
   "lat": 30.2625,
   "lng": 130.5819,
-  "url": "",
+  "url": "https://www.kagoshima-kankou.com/guide/10712",
   "sources": [
    "https://ja.wikipedia.org/wiki/千尋の滝"
   ],
@@ -61448,7 +61783,7 @@ window.SPOTS = [
    "가을"
   ],
   "best_time": "11월 2~3일",
-  "event": "매년 11월 2~3일(본제는 11월 3일 문화의 날 고정). 2026년 세부 일정은 공식 확인",
+  "event": "매년 11월 2~3일(본제는 11월 3일 문화의 날 고정). 2026년은 11/2 밤 축제 약 18:50~20:20, 11/3 본 축제 약 10:20~15:25",
   "duration": "반나절",
   "cost": "무료",
   "walking": "보통",
@@ -61457,10 +61792,11 @@ window.SPOTS = [
   "caution": "축제 기간 시내 교통 통제·숙소 혼잡",
   "lat": 31.5907,
   "lng": 130.5556,
-  "url": "",
+  "url": "https://www.kagoshima-yokanavi.jp/event/10001",
   "sources": [
    "https://ja.wikipedia.org/wiki/おはら祭",
-   "https://msearch.gsi.go.jp/address-search/AddressSearch?q=天文館"
+   "https://msearch.gsi.go.jp/address-search/AddressSearch?q=天文館",
+   "https://www.kagoshima-yokanavi.jp/event/10001"
   ],
   "region": "규슈"
  },
@@ -62107,7 +62443,7 @@ window.SPOTS = [
   "best_time": "12~1월 (두루미 체류 10월 중순~3월)",
   "event": "",
   "duration": "반나절",
-  "cost": "관찰센터 유료 (수백 엔 수준, 공식 확인)",
+  "cost": "관찰센터 약 220엔",
   "walking": "적음",
   "fit": "조건부",
   "condition": "두루미 체류기(겨울)에만",
@@ -62117,7 +62453,8 @@ window.SPOTS = [
   "url": "",
   "sources": [
    "https://ja.wikipedia.org/wiki/鹿児島県のツルおよびその渡来地",
-   "https://www.pref.kagoshima.jp/am01/202606161.html"
+   "https://www.pref.kagoshima.jp/am01/202606161.html",
+   "https://www.mapple.net/region/a0704060000_g04020000/spot/"
   ],
   "region": "규슈"
  },
@@ -62543,10 +62880,11 @@ window.SPOTS = [
   "caution": "출입 금지 성지(우타키)가 있어 표지 준수, 돌·조개 등 반출 금지",
   "lat": 26.1578,
   "lng": 127.8867,
-  "url": "",
+  "url": "https://kudaka-island.com/",
   "sources": [
    "https://ja.wikipedia.org/wiki/久高島",
-   "https://nominatim.openstreetmap.org/search?q=安座真港"
+   "https://nominatim.openstreetmap.org/search?q=安座真港",
+   "https://kudaka-island.com/"
   ],
   "region": "오키나와"
  },
@@ -62730,9 +63068,10 @@ window.SPOTS = [
   "caution": "",
   "lat": 26.1978,
   "lng": 127.3644,
-  "url": "",
+  "url": "https://www.vill.tokashiki.okinawa.jp/",
   "sources": [
-   "https://ja.wikipedia.org/wiki/渡嘉敷島"
+   "https://ja.wikipedia.org/wiki/渡嘉敷島",
+   "https://www.vill.tokashiki.okinawa.jp/"
   ],
   "region": "오키나와"
  },
@@ -62756,7 +63095,7 @@ window.SPOTS = [
    "가을"
   ],
   "best_time": "축제 3일간 저녁",
-  "event": "매년 구정 백중(旧盆) 다음 주말 3일간. 날짜는 매년 공식 확인 (대개 8월 말~9월)",
+  "event": "매년 구정 백중(旧盆) 다음 주말 3일간. 날짜는 매년 공식 확인 (대개 8월 말~9월). 2027년은 8월 27~29일.",
   "duration": "하루",
   "cost": "일부 유료 관람석",
   "walking": "보통",
@@ -62765,10 +63104,11 @@ window.SPOTS = [
   "caution": "매우 혼잡, 귀가 버스 확인. 6월부터 주말마다 '에이사 나이트' 소규모 공연도 있음",
   "lat": 26.3332,
   "lng": 127.7884,
-  "url": "",
+  "url": "https://www.zentoeisa.com/",
   "sources": [
    "https://ja.wikipedia.org/wiki/沖縄全島エイサーまつり",
-   "https://ja.wikipedia.org/wiki/沖縄市陸上競技場"
+   "https://ja.wikipedia.org/wiki/沖縄市陸上競技場",
+   "https://www.zentoeisa.com/"
   ],
   "region": "오키나와"
  },
@@ -62802,9 +63142,10 @@ window.SPOTS = [
   "caution": "버스 편수 확인",
   "lat": 24.7361,
   "lng": 125.2611,
-  "url": "",
+  "url": "https://miyako-guide.net/spots/spots-785/",
   "sources": [
-   "https://ja.wikipedia.org/wiki/与那覇前浜"
+   "https://ja.wikipedia.org/wiki/与那覇前浜",
+   "https://miyako-guide.net/spots/spots-785/"
   ],
   "region": "오키나와"
  },
@@ -62876,10 +63217,11 @@ window.SPOTS = [
   "caution": "버스 편수가 적음",
   "lat": 24.8119,
   "lng": 125.1784,
-  "url": "",
+  "url": "https://miyako-guide.net/spots/spots-840/",
   "sources": [
-   "https://ja.wikipedia.org/wiki/伊良部大橋",
-   "https://ja.wikipedia.org/wiki/渡口の浜"
+   "https://ja.wikipedia.org/wiki/渡口の浜",
+   "https://miyako-guide.net/spots/spots-840/",
+   "https://miyako-guide.net/spots/spots-828/"
   ],
   "region": "오키나와"
  },
@@ -62952,9 +63294,10 @@ window.SPOTS = [
   "caution": "섬 면적 약 3분의 1이 미군 시설. 정상 계단이 가파름",
   "lat": 26.7257,
   "lng": 127.7934,
-  "url": "",
+  "url": "https://iejima.okinawa/",
   "sources": [
-   "https://ja.wikipedia.org/wiki/伊江島"
+   "https://ja.wikipedia.org/wiki/伊江島",
+   "https://iejima.okinawa/"
   ],
   "region": "오키나와"
  },
@@ -63131,16 +63474,17 @@ window.SPOTS = [
   "best_time": "1월 하순~2월 초 벚꽃",
   "event": "매년 1~2월 '나키진 구스쿠 벚꽃 축제' (야간 라이트업, 날짜는 매년 공식 확인)",
   "duration": "1~2시간",
-  "cost": "입장 소액",
+  "cost": "입장 약 1,000엔",
   "walking": "보통",
   "fit": "조건부",
   "condition": "",
   "caution": "",
   "lat": 26.6908,
   "lng": 127.9298,
-  "url": "",
+  "url": "https://www.nakijinjoseki-osi.jp/",
   "sources": [
-   "https://ja.wikipedia.org/wiki/今帰仁城"
+   "https://ja.wikipedia.org/wiki/今帰仁城",
+   "https://www.nakijinjoseki-osi.jp/"
   ],
   "region": "오키나와"
  },
@@ -63285,9 +63629,10 @@ window.SPOTS = [
   "caution": "귀가 버스 혼잡·막차 확인",
   "lat": 26.3162,
   "lng": 127.7567,
-  "url": "",
+  "url": "https://www.okinawa-americanvillage.com/",
   "sources": [
-   "https://ja.wikipedia.org/wiki/美浜タウンリゾート・アメリカンビレッジ"
+   "https://ja.wikipedia.org/wiki/美浜タウンリゾート・アメリカンビレッジ",
+   "https://www.okinawa-americanvillage.com/"
   ],
   "region": "오키나와"
  },
@@ -63361,10 +63706,11 @@ window.SPOTS = [
   "caution": "셔틀 무료 여부·시간표는 최신 정보 확인. 귀가 셔틀을 놓치면 역까지 걸어서 약 40분",
   "lat": 26.175,
   "lng": 127.6425,
-  "url": "",
+  "url": "https://www.umikajiterrace.com/",
   "sources": [
    "https://ja.wikipedia.org/wiki/瀬長島",
-   "https://mb.jorudan.co.jp/os/blim/oka/1023/"
+   "https://mb.jorudan.co.jp/os/blim/oka/1023/",
+   "https://www.umikajiterrace.com/"
   ],
   "region": "오키나와"
  },
@@ -63433,13 +63779,14 @@ window.SPOTS = [
   "walking": "적음",
   "fit": "조건부",
   "condition": "맑은 밤에만 관측",
-  "caution": "관측회는 토·일·공휴일 밤, 전화 예약제. 월·화 휴관",
+  "caution": "2026-10-31 현재 태풍 30호에 따른 통신 장애로 당분간 휴관(재개는 공식 사이트 공지). 평소 관측회는 토·일·공휴일 밤 예약제, 월·화 휴관. 대형 망원경 고장으로 당분간 옥상 40cm 망원경으로 관측회를 하며, 미취학 아동은 관측회 참가 불가",
   "lat": 24.3736,
   "lng": 124.1394,
-  "url": "",
+  "url": "https://murikabushi.jp/",
   "sources": [
    "https://ja.wikipedia.org/wiki/石垣島天文台",
-   "https://rurubu.jp/andmore/spot/80042742"
+   "https://rurubu.jp/andmore/spot/80042742",
+   "https://murikabushi.jp/"
   ],
   "region": "오키나와"
  },
@@ -63585,9 +63932,10 @@ window.SPOTS = [
   "caution": "대중교통으로는 어려움",
   "lat": 24.7192,
   "lng": 125.4686,
-  "url": "",
+  "url": "https://miyako-guide.net/spots/spots-866/",
   "sources": [
-   "https://ja.wikipedia.org/wiki/東平安名岬"
+   "https://ja.wikipedia.org/wiki/東平安名岬",
+   "https://miyako-guide.net/spots/spots-866/"
   ],
   "region": "오키나와"
  },
@@ -63770,10 +64118,11 @@ window.SPOTS = [
   "caution": "",
   "lat": 26.2129,
   "lng": 127.6918,
-  "url": "",
+  "url": "https://tuboya.com/",
   "sources": [
    "https://ja.wikipedia.org/wiki/壺屋焼",
-   "https://nominatim.openstreetmap.org/search?q=壺屋やちむん通り"
+   "https://nominatim.openstreetmap.org/search?q=壺屋やちむん通り",
+   "https://tuboya.com/"
   ],
   "region": "오키나와"
  },
@@ -63884,10 +64233,11 @@ window.SPOTS = [
   "caution": "",
   "lat": 26.0952,
   "lng": 127.7258,
-  "url": "",
+  "url": "https://heiwa-irei-okinawa.jp/",
   "sources": [
    "https://ja.wikipedia.org/wiki/平和の礎",
-   "https://ja.wikipedia.org/wiki/沖縄戦跡国定公園"
+   "https://ja.wikipedia.org/wiki/沖縄戦跡国定公園",
+   "https://heiwa-irei-okinawa.jp/"
   ],
   "region": "오키나와"
  }

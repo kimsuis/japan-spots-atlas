@@ -633,11 +633,11 @@ $("vt").onclick = () => {
 };
 
 syncUI(); render();
-requestAnimationFrame(() => {
+setTimeout(() => {  // rAF는 백그라운드 탭에서 멈춰 공유 링크(#id)가 안 열릴 수 있음
   map.invalidateSize();
   map.fitBounds([[31.0, 129.6], [45.4, 145.6]], { padding:[16,16] });  // 본토 4섬 기준 (낙도까지 넣으면 너무 멀어짐)
   const h = decodeURIComponent(location.hash.slice(1)); if (BY_ID.has(h)) openDetail(h);
-});
+}, 0);
 window.addEventListener("resize", () => map.invalidateSize());
 })();
 </script>
