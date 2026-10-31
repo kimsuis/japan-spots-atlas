@@ -170,6 +170,22 @@ main{flex:1;min-height:0;display:grid;grid-template-columns:minmax(360px,440px) 
 .note.ev{background:var(--accent-soft);color:var(--ink)} .note.ev b{color:var(--accent)}
 .note.cond{background:var(--mid-soft);color:var(--ink)} .note.cond b{color:var(--mid)}
 .note.warn{background:var(--warn-soft);color:var(--ink)} .note.warn b{color:var(--warn)}
+.fest{margin-top:22px;border:1px solid var(--line-2);border-radius:14px;overflow:hidden;background:var(--surface-2)}
+.fest-h{display:flex;align-items:center;gap:8px;flex-wrap:wrap;padding:12px 14px;border-bottom:1px solid var(--line-2)}
+.fest-h b{font-size:14px}
+.crowd{font-size:11.5px;font-weight:700;border-radius:6px;padding:2px 8px}
+.crowd.c3{background:var(--warn-soft);color:var(--warn)} .crowd.c2{background:var(--mid-soft);color:var(--mid)}
+.crowd.c1,.crowd.c0{background:var(--good-soft);color:var(--good)}
+.fest-h small{color:var(--muted);font-size:12.5px}
+.past{display:grid;grid-template-columns:auto 1fr;gap:6px 14px;padding:12px 14px;font-size:13.5px}
+.past dt{color:var(--muted);font-weight:700;font-variant-numeric:tabular-nums}
+.past dd{margin:0}
+.past dd i{font-style:normal;color:var(--warn);font-size:12.5px;margin-left:6px}
+.past .nx dt,.past .nx dd{color:var(--accent);font-weight:700}
+.tips{margin:0;padding:12px 14px 12px 32px;border-top:1px solid var(--line-2);font-size:14px;line-height:1.6;color:var(--ink-2)}
+.tips li{margin:3px 0}
+.tips-h{padding:10px 14px 0;border-top:1px solid var(--line-2);font-size:12px;font-weight:700;color:var(--muted)}
+.tips-h + .tips{border-top:0;padding-top:6px}
 .links{display:flex;flex-wrap:wrap;gap:8px;margin-top:22px}
 .btn{display:inline-flex;align-items:center;gap:6px;height:38px;padding:0 14px;border-radius:10px;font-size:13.5px;font-weight:600;
   text-decoration:none;border:1px solid var(--line);background:var(--surface)}
@@ -250,6 +266,7 @@ main{flex:1;min-height:0;display:grid;grid-template-columns:minmax(360px,440px) 
 <nav class="filters" aria-label="필터">
   <select class="pill" id="f-region" aria-label="지방"><option value="">전국</option></select>
   <select class="pill" id="f-season" aria-label="계절"><option value="">모든 계절</option></select>
+  <select class="pill" id="f-month" aria-label="축제 개최 월"><option value="">🎆 축제 달</option></select>
   <select class="pill" id="f-fit" aria-label="추천도"><option value="">모든 추천도</option></select>
   <select class="pill" id="f-pass" aria-label="JR 패스"><option value="">모든 패스</option></select>
   <span class="sep"></span>
@@ -325,7 +342,7 @@ const HUBS = [
 const favs = new Set((store.get("jsa.fav") || "").split("|").filter(Boolean));
 const saveFavs = () => { store.set("jsa.fav", [...favs].join("|")); $("favn").textContent = favs.size || ""; };
 
-const state = { q:"", region:"", season:"", fit:"", pass:"", walk:false, unv:false, fav:false, base:"", radius:0, cats:new Set(), sort: store.get("jsa.sort") || "region" };
+const state = { q:"", region:"", season:"", month:"", fit:"", pass:"", walk:false, unv:false, fav:false, base:"", radius:0, cats:new Set(), sort: store.get("jsa.sort") || "region" };
 if (state.sort === "dist") state.sort = "region";
 
 /* 필터 UI */
@@ -336,6 +353,12 @@ FITS.forEach(f => opt($("f-fit"), f, FIT_LABEL[f]));
 [...new Set(SPOTS.flatMap(s => s.jr_pass))].sort((a,b) => a.localeCompare(b,"ko")).forEach(p => opt($("f-pass"), p, p));
 opt($("f-pass"), "__none", "JR 패스 없이 (사철·버스·배)");
 HUBS.forEach(([n]) => opt($("f-base"), n, `📍 ${n} 거점`));
+const MONTHS = new Map();
+SPOTS.forEach(s => MONTHS.set(s.id, festMonths(s)));
+for (let m = 1; m <= 12; m++){
+  const n = SPOTS.filter(s => MONTHS.get(s.id).has(m)).length;
+  if (n) opt($("f-month"), String(m), `🎆 ${m}월 축제 (${n})`);
+}
 $("f-sort").value = state.sort;
 saveFavs();
 
@@ -348,7 +371,7 @@ Object.entries(CATS).forEach(([k,[label,color,e]]) => {
   cats.appendChild(b);
 });
 
-["region","season","fit","pass"].forEach(k => $("f-"+k).addEventListener("change", e => {
+["region","season","month","fit","pass"].forEach(k => $("f-"+k).addEventListener("change", e => {
   state[k] = e.target.value; syncUI(); render(k === "region");
 }));
 $("f-sort").addEventListener("change", e => { state.sort = e.target.value; if (state.sort !== "dist") store.set("jsa.sort", state.sort); render(); });
@@ -369,14 +392,14 @@ $("f-fav").onclick = () => { state.fav = !state.fav; syncUI(); render(); };
 if (visited.size){ $("f-unv").hidden = false; $("lg-been").hidden = false; }
 let qt; $("q").addEventListener("input", e => { clearTimeout(qt); qt = setTimeout(() => { state.q = e.target.value.trim().toLowerCase(); syncUI(); render(); }, 120); });
 $("reset").onclick = () => {
-  Object.assign(state, { q:"", region:"", season:"", fit:"", pass:"", walk:false, unv:false, fav:false }); state.cats.clear();
-  ["region","season","fit","pass"].forEach(k => $("f-"+k).value = ""); $("q").value = "";
+  Object.assign(state, { q:"", region:"", season:"", month:"", fit:"", pass:"", walk:false, unv:false, fav:false }); state.cats.clear();
+  ["region","season","month","fit","pass"].forEach(k => $("f-"+k).value = ""); $("q").value = "";
   if (state.base){ $("f-base").value = ""; $("f-base").dispatchEvent(new Event("change")); return; }
   syncUI(); render(true);
 };
-function active(){ return !!(state.q || state.region || state.season || state.fit || state.pass || state.walk || state.unv || state.fav || state.base || state.cats.size); }
+function active(){ return !!(state.q || state.region || state.season || state.month || state.fit || state.pass || state.walk || state.unv || state.fav || state.base || state.cats.size); }
 function syncUI(){
-  ["region","season","fit","pass","base"].forEach(k => $("f-"+k).classList.toggle("on", !!state[k]));
+  ["region","season","month","fit","pass","base"].forEach(k => $("f-"+k).classList.toggle("on", !!state[k]));
   $("f-radius").classList.toggle("on", !!state.radius);
   $("f-fav").classList.toggle("on", state.fav); $("f-fav").setAttribute("aria-pressed", state.fav);
   $("f-walk").classList.toggle("on", state.walk); $("f-walk").setAttribute("aria-pressed", state.walk);
@@ -466,6 +489,7 @@ function markSelected(s){
 function matches(s){
   if (state.region && s.region !== state.region) return false;
   if (state.season && !s.seasons.includes(state.season)) return false;
+  if (state.month && !MONTHS.get(s.id).has(+state.month)) return false;
   if (state.fit && s.fit !== state.fit) return false;
   if (state.pass === "__none" ? s.jr_pass.length : state.pass && !s.jr_pass.includes(state.pass)) return false;
   if (state.walk && s.walking !== "적음") return false;
@@ -491,7 +515,7 @@ function card(s){
         <button class="star${fav ? " on" : ""}" data-star="${esc(s.id)}" aria-pressed="${fav}" title="찜하기" aria-label="찜하기">${fav ? "★" : "☆"}</button></div>
       <div class="sub">${esc(s.pref)} · ${esc(s.area)} · ${s.categories.map(k => CATS[k]?.[0]).filter(Boolean).join(", ")}</div>
       <p class="sum">${esc(s.summary)}</p>
-      <div class="meta">${state.base ? `<span class="dist">📍 ${state.base}에서 ${Math.round(distOf(s))}km</span>` : ""}<span>⏱ ${esc(s.duration)}</span><span>🚶 걷기 ${esc(s.walking)}</span><span>${s.seasons.length === 4 ? "📅 사계절" : s.seasons.map(x => SEASON_E[x]).join("")+" "+s.seasons.join("·")}</span>${s.jr_pass.length ? `<span>🎫 패스 ${s.jr_pass.length}종</span>` : ""}${been(s) ? `<span class="been">✓ 가 본 지역</span>` : ""}</div>
+      <div class="meta">${state.base ? `<span class="dist">📍 ${state.base}에서 ${Math.round(distOf(s))}km</span>` : ""}<span>⏱ ${esc(s.duration)}</span><span>🚶 걷기 ${esc(s.walking)}</span><span>${s.seasons.length === 4 ? "📅 사계절" : s.seasons.map(x => SEASON_E[x]).join("")+" "+s.seasons.join("·")}</span>${s.jr_pass.length ? `<span>🎫 패스 ${s.jr_pass.length}종</span>` : ""}${s.fest?.past?.[0]?.dates ? `<span>🗓 ${esc(s.fest.past[0].year)} ${esc(s.fest.past[0].dates)}</span>` : ""}${s.fest?.crowd === "매우 혼잡" ? `<span>👥 매우 혼잡</span>` : ""}${been(s) ? `<span class="been">✓ 가 본 지역</span>` : ""}</div>
     </div></article>`;
 }
 let shown = [];
@@ -523,6 +547,7 @@ function render(fitRegion){
   cluster.clearLayers();
   cluster.addLayers(shown.map(s => markers.get(s.id)));
   drawBase();
+  if (!map.getSize().x) return;  // 지도가 숨겨져 크기가 0이면 맞추기 생략 (NaN 좌표 오류 방지)
   if (fitRegion && state.base && hub()){
     const h = hub();
     map.fitBounds(L.latLng(h[1], h[2]).toBounds((state.radius || 120) * 2000), { padding:[20,20] });
@@ -554,6 +579,30 @@ $("list").addEventListener("keydown", e => { if ((e.key === "Enter" || e.key ===
 /* 상세 */
 const km = (a,b) => { const R=6371, r=x=>x*Math.PI/180, dl=r(b.lat-a.lat), dg=r(b.lng-a.lng);
   const h=Math.sin(dl/2)**2+Math.cos(r(a.lat))*Math.cos(r(b.lat))*Math.sin(dg/2)**2; return 2*R*Math.asin(Math.sqrt(h)); };
+const CROWD_CLS = {"매우 혼잡":"c3","혼잡":"c2","보통":"c1","한산":"c0"};
+function festBlock(s){
+  const f = s.fest; if (!f) return "";
+  if (!f.past.length && !f.tips.length && !f.next && !f.visitors) return "";
+  const rows = (f.next ? `<div class="nx" style="display:contents"><dt>다음</dt><dd>${esc(f.next)}</dd></div>` : "")
+    + f.past.map(p => `<dt>${esc(p.year)}</dt><dd>${p.dates ? esc(p.dates) : "—"}${p.note ? `<i>${esc(p.note)}</i>` : ""}</dd>`).join("");
+  return `<section class="fest">
+    <div class="fest-h"><b>🗓 지난 개최 기록</b>${f.crowd ? `<span class="crowd ${CROWD_CLS[f.crowd]}">👥 ${esc(f.crowd)}</span>` : ""}${f.visitors ? `<small>방문 ${esc(f.visitors)}</small>` : ""}</div>
+    ${rows ? `<dl class="past">${rows}</dl>` : ""}
+    ${f.tips.length ? `<div class="tips-h">💬 다녀온 사람들 후기 요약</div><ul class="tips">${f.tips.map(t => `<li>${esc(t)}</li>`).join("")}</ul>` : ""}
+    ${f.sources.length ? `<div class="srcs" style="padding:0 14px 12px">근거 ${f.sources.map((u,i) => `<a href="${esc(u)}" target="_blank" rel="noopener">[${i+1}]</a>`).join("")}</div>` : ""}
+  </section>`;
+}
+// 지난 개최일("8/2~7", "12/1~2/28")에서 열리는 달을 뽑는다
+function festMonths(s){
+  const out = new Set();
+  (s.fest?.past || []).forEach(p => {
+    const m = String(p.dates || "").match(/(\d{1,2})\/\d{1,2}(?:\D+?(?:(\d{1,2})\/)?\d{1,2})?/);
+    if (!m) return;
+    const a = +m[1], b = m[2] ? +m[2] : a;
+    for (let k = a, n = 0; n < 12; k = k % 12 + 1, n++){ out.add(k); if (k === b) break; }
+  });
+  return out;
+}
 let currentId = null;
 function openDetail(id, opts = {}){
   const s = BY_ID.get(id); if (!s) return;
@@ -591,6 +640,7 @@ function openDetail(id, opts = {}){
         <div class="passes">${s.jr_pass.length ? s.jr_pass.map(p => `<span class="pass">🎫 ${esc(p)}</span>`).join("") : `<span class="pass none">JR 지역 패스 해당 없음</span>`}</div>
       </div>
       ${s.event ? `<div class="note ev"><b>🎆 행사·일정</b>${esc(s.event)}</div>` : ""}
+      ${festBlock(s)}
       ${s.condition ? `<div class="note cond"><b>🌤 날씨·조건</b>${esc(s.condition)}</div>` : ""}
       ${s.caution ? `<div class="note warn"><b>⚠️ 주의</b>${esc(s.caution)}</div>` : ""}
       <div class="links">
@@ -610,7 +660,7 @@ function openDetail(id, opts = {}){
   document.querySelectorAll(".card.sel").forEach(x => x.classList.remove("sel"));
   $("c-" + id)?.classList.add("sel");
   markSelected(s);
-  if (!opts.noFly) map.flyTo([s.lat, s.lng], Math.max(map.getZoom(), 10), { duration:.7 });
+  if (!opts.noFly && map.getSize().x) map.flyTo([s.lat, s.lng], Math.max(map.getZoom(), 10), { duration:.7 });
   if (location.hash !== "#" + id) history.replaceState(null, "", "#" + id);
 }
 function closeDetail(){
@@ -635,7 +685,7 @@ $("vt").onclick = () => {
 syncUI(); render();
 setTimeout(() => {  // rAF는 백그라운드 탭에서 멈춰 공유 링크(#id)가 안 열릴 수 있음
   map.invalidateSize();
-  map.fitBounds([[31.0, 129.6], [45.4, 145.6]], { padding:[16,16] });  // 본토 4섬 기준 (낙도까지 넣으면 너무 멀어짐)
+  if (map.getSize().x) map.fitBounds([[31.0, 129.6], [45.4, 145.6]], { padding:[16,16] });  // 본토 4섬 기준 (낙도까지 넣으면 너무 멀어짐)
   const h = decodeURIComponent(location.hash.slice(1)); if (BY_ID.has(h)) openDetail(h);
 }, 0);
 window.addEventListener("resize", () => map.invalidateSize());

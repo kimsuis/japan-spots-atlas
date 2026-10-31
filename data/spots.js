@@ -201,7 +201,41 @@ window.SPOTS = [
    "https://www.visit-hokkaido.jp/spot/detail_10157.html",
    "https://www.noboribetsu-spa.jp/"
   ],
-  "region": "홋카이도"
+  "region": "홋카이도",
+  "fest": {
+   "past": [
+    {
+     "year": 2026,
+     "dates": "6/1~9/24",
+     "note": "6월 매주 월·목, 7월·9월 매주 목, 8월은 없음"
+    },
+    {
+     "year": 2025,
+     "dates": "6/1~",
+     "note": "6/1 오프닝, 6월은 매주 월·목(2·5·9·12·16·19·23·26·30일). 7월 이후 일정은 확인 못 함"
+    },
+    {
+     "year": 2023,
+     "dates": "6/1~10월",
+     "note": "6/1~7/6 매주 월·목, 7/13·20·27, 10월 매주 목"
+    }
+   ],
+   "next": "",
+   "visitors": "",
+   "crowd": "",
+   "tips": [
+    "20시쯤 시작해 15~20분이면 끝나니 시작 전에 지옥계곡 전망대에 도착해 두기",
+    "유료 행사(대인 500엔, 초등생 이하 무료)라 18:30쯤부터는 입장권 없이 전망대·산책로에 못 들어간다",
+    "예약제는 아니고 입장 인원 2,000명 제한이 있었다(2023)",
+    "송영 없음, 주최 호텔에서 걸어서 약 15분",
+    "악천후면 중지될 수 있으니 당일 확인"
+   ],
+   "sources": [
+    "https://www.visit-hokkaido.jp/event/detail_11443.html",
+    "https://sp.jorudan.co.jp/hanabi/news/jrd_230607_1.html",
+    "https://www.nta.co.jp/kokunai/special/eventinfo/10625455.htm"
+   ]
+  }
  },
  {
   "id": "hokkaido-nemuro-cape-nosappu",
@@ -485,7 +519,35 @@ window.SPOTS = [
    "https://www.laketoya.com/event/fireworks/",
    "https://ja.wikipedia.org/wiki/洞爺湖温泉"
   ],
-  "region": "홋카이도"
+  "region": "홋카이도",
+  "fest": {
+   "past": [
+    {
+     "year": 2026,
+     "dates": "4/28~10/31",
+     "note": "제45회, 1일 약 450발"
+    },
+    {
+     "year": 2025,
+     "dates": "4/28~10/31",
+     "note": "제44회, 매일 20:45~21:05"
+    }
+   ],
+   "next": "",
+   "visitors": "",
+   "crowd": "",
+   "tips": [
+    "매일 20:45부터 약 20분, 무료. 온천가 호숫가 산책로에서 그냥 보면 된다",
+    "호수 쪽 객실이나 노천탕에서 보이는 호텔이 많아 숙소에서 보는 것도 방법",
+    "불꽃 관람선은 20:35 출항, 약 40분(2025년 대인 1,700엔)으로 호수 위에서 가까이 볼 수 있어 추천이 많다",
+    "비가 와도 하지만 바람이 불안정하면 그날은 중지될 수 있다"
+   ],
+   "sources": [
+    "https://www.asoview.com/note/5448/",
+    "https://www.walkerplus.com/article/1256514/",
+    "https://www.iwafu.com/jp/events/1016346"
+   ]
+  }
  },
  {
   "id": "hokkaido-toyotomi-onsen",
@@ -565,7 +627,25 @@ window.SPOTS = [
    "https://ja.wikipedia.org/wiki/十勝川温泉",
    "https://www.visit-hokkaido.jp/event/detail_11026.html"
   ],
-  "region": "홋카이도"
+  "region": "홋카이도",
+  "fest": {
+   "past": [
+    {
+     "year": 2026,
+     "dates": "1/24~2/15",
+     "note": "제35회, 도카치가오카 공원"
+    }
+   ],
+   "next": "",
+   "visitors": "",
+   "crowd": "",
+   "tips": [
+    "빛과 소리 쇼가 중심인 야간 행사라 해가 진 뒤에 가야 한다"
+   ],
+   "sources": [
+    "https://www.walkerplus.com/event_list/01/ar0101/"
+   ]
+  }
  },
  {
   "id": "hokkaido-kamifurano-tokachidake-onsen",
@@ -812,7 +892,52 @@ window.SPOTS = [
    "https://www.snowfes.com/",
    "https://ja.wikipedia.org/wiki/大通公園"
   ],
-  "region": "홋카이도"
+  "region": "홋카이도",
+  "fest": {
+   "past": [
+    {
+     "year": 2026,
+     "dates": "2/4~2/11",
+     "note": "제76회, 오도리·쓰도무 합계 253.9만 명(코로나 이후 최다)"
+    },
+    {
+     "year": 2025,
+     "dates": "2/4~2/11",
+     "note": "제75회, 오도리·쓰도무 합계 232.7만 명"
+    },
+    {
+     "year": 2024,
+     "dates": "2/4~2/11",
+     "note": "제74회, 4년 만에 오도리·쓰도무·스스키노 3회장 통상 규모"
+    },
+    {
+     "year": 2023,
+     "dates": "2/4~2/11",
+     "note": "제73회, 3년 만에 대설상 부활, 쓰도무 회장은 중지"
+    },
+    {
+     "year": 2022,
+     "dates": "2/5~2/28",
+     "note": "현장 개최 중지(제작 중 대설상 철거), 온라인 개최로 전환"
+    }
+   ],
+   "next": "2027년 2/4~2/11 예정. 자위대가 2027년부터 대설상을 1기로 줄이고 싶다고 삿포로시에 요청했다는 보도 있음",
+   "visitors": "약 253.9만 명 (2026, 오도리·쓰도무 합계)",
+   "crowd": "매우 혼잡",
+   "tips": [
+    "주말·공휴일과 첫날·마지막 날이 가장 붐빈다. 평일 아침이나 라이트업 끝나기 직전이 상대적으로 한산",
+    "오도리 회장은 저녁 라이트업 시간대(대략 18~22시)가 피크",
+    "쓰도무 회장은 운영 시간이 짧고(10~16시) 튜브 슬라이더는 정리권이 필요해 오전에 먼저 가는 게 낫다",
+    "스스키노 얼음 조각은 비교적 수월하게 볼 수 있고 밤늦게까지 불이 켜져 있다",
+    "삿포로 TV탑 전망대에서 밤에 회장을 내려다보는 것도 추천",
+    "식음 부스는 점심·저녁 시간에 줄이 길다"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/さっぽろ雪まつり",
+    "https://www.hokkaido-np.co.jp/article/1274091/",
+    "https://banzokubiology.com/sapporo-snow-festival-crowd/"
+   ]
+  }
  },
  {
   "id": "hokkaido-wakkanai-cape-soya",
@@ -889,7 +1014,28 @@ window.SPOTS = [
    "https://www.rinyu.co.jp/kurodake/",
    "https://sounkyo.net/hyoubaku/"
   ],
-  "region": "홋카이도"
+  "region": "홋카이도",
+  "fest": {
+   "past": [
+    {
+     "year": 2026,
+     "dates": "1/24~3/8",
+     "note": "제51회"
+    }
+   ],
+   "next": "2027년 1/23~3/7 예정 (제52회)",
+   "visitors": "",
+   "crowd": "",
+   "tips": [
+    "협력금 1,000엔. 평일은 17:00부터, 토일공휴일은 11:00부터 21:30까지(최종 입장 21:15)",
+    "회장이 매우 추우니 두꺼운 옷과 잘 안 미끄러지는 신발 필수. 장갑·미끄럼 방지구는 회장 휴게소에서도 판다",
+    "얼음 조형물 약 30기가 7색으로 라이트업되고 매일 불꽃도 예정돼 있어 밤 방문이 좋다"
+   ],
+   "sources": [
+    "https://sounkyo.net/hyoubaku/",
+    "https://www.walkerplus.com/event/ar0101e550922/"
+   ]
+  }
  },
  {
   "id": "hokkaido-shiretoko-five-lakes",
@@ -1010,7 +1156,22 @@ window.SPOTS = [
    "https://www.biei-hokkaido.jp/ja/27188",
    "https://www.biei-hokkaido.jp/ja/26910"
   ],
-  "region": "홋카이도"
+  "region": "홋카이도",
+  "fest": {
+   "past": [],
+   "next": "2026/10/22~2027/4/21 라이트업 (기존 데이터·관광 사이트 기준, 매년 10/22~이듬해 4/21 무렵)",
+   "visitors": "",
+   "crowd": "",
+   "tips": [
+    "점등 시작이 달마다 다르다: 10~11월·1월 17:00, 12월 16:30, 2월 17:30, 3월 18:00, 4월 18:30 (모두 21시까지)",
+    "주차장 보통차 1회 1,000엔",
+    "날씨에 따라 폐쇄될 수 있다",
+    "근처 시라히게 폭포는 연중 라이트업"
+   ],
+   "sources": [
+    "https://www.gutabi.jp/event/detail/672"
+   ]
+  }
  },
  {
   "id": "hokkaido-shikabe-geyser",
@@ -1095,7 +1256,41 @@ window.SPOTS = [
    "https://nominatim.openstreetmap.org/search?q=支笏湖温泉&format=json",
    "https://www.visit-hokkaido.jp/event/detail_11029.html"
   ],
-  "region": "홋카이도"
+  "region": "홋카이도",
+  "fest": {
+   "past": [
+    {
+     "year": 2026,
+     "dates": "1/31~2/23",
+     "note": "제48회, 처음으로 호수물 분수 등장"
+    },
+    {
+     "year": 2025,
+     "dates": "2/1~2/24",
+     "note": "제47회, 13만 1,072명"
+    },
+    {
+     "year": 2024,
+     "dates": "1/27~2/25",
+     "note": "제46회"
+    }
+   ],
+   "next": "2027년 1/30~2/23 예정 (기존 데이터)",
+   "visitors": "약 13.1만 명 (2025)",
+   "crowd": "",
+   "tips": [
+    "10:00~20:00, 라이트업은 16:30부터. 낮에는 시코쓰호 물빛 같은 푸른 얼음, 밤에는 조명 연출이라 둘 다 분위기가 다르다",
+    "높이 약 13m '블루 타워', 이끼 동굴을 얼음으로 재현한 동굴 등이 볼거리",
+    "회장 안 아이스 키친에서 따뜻한 음료를 판다",
+    "시코쓰코 온천 숙박객용으로 폐장 후 입장할 수 있는 프리미엄 타임 티켓이 나온 적이 있다(2024)"
+   ],
+   "sources": [
+    "https://www.walkerplus.com/event/ar0101e376801/",
+    "https://www.sapporo.travel/?p=101190",
+    "https://sp.jorudan.co.jp/illumi/news/jrd_231215_3.html",
+    "https://rurubu.jp/andmore/spot/20000957"
+   ]
+  }
  },
  {
   "id": "hokkaido-akanko-onsen",
@@ -1136,7 +1331,37 @@ window.SPOTS = [
    "https://www.visit-hokkaido.jp/event/detail_11028.html",
    "https://www.lake-akan.com/"
   ],
-  "region": "홋카이도"
+  "region": "홋카이도",
+  "fest": {
+   "past": [
+    {
+     "year": 2026,
+     "dates": "2/1~3/1",
+     "note": "불꽃만 3/2~3/15 계속(얼음 위 출입 불가)"
+    },
+    {
+     "year": 2025,
+     "dates": "1/17~3/2",
+     "note": ""
+    }
+   ],
+   "next": "",
+   "visitors": "",
+   "crowd": "혼잡",
+   "tips": [
+    "불꽃은 밤 8시 전후 시작해 5~15분 정도로 짧다. 호수 얼음 위에서 쏘아 올려 아주 가깝다",
+    "밤에는 영하 10도 아래로 내려가는 날도 있어 완전 방한 필수",
+    "시작 때 아이누 불의 의식·파이어 쇼가 있다",
+    "낮에는 얼음 위 스노모빌·빙어 낚시 등 체험 가능(빙어 낚시는 1시간 가까이 기다린 후기도 있음)",
+    "온천 호텔에서 걸어갈 수 있는 거리라 숙박하면 편하다",
+    "바람 없는 날이 불꽃이 선명하게 보인다"
+   ],
+   "sources": [
+    "https://4travel.jp/dm_shisetsu/11324600",
+    "https://www.gutabi.jp/spot/detail/3590",
+    "https://aumo.jp/articles/1396279"
+   ]
+  }
  },
  {
   "id": "hokkaido-onuma-park",
@@ -1313,7 +1538,53 @@ window.SPOTS = [
    "https://www.visit-hokkaido.jp/event/detail_11004.html",
    "https://otaru.gr.jp/"
   ],
-  "region": "홋카이도"
+  "region": "홋카이도",
+  "fest": {
+   "past": [
+    {
+     "year": 2026,
+     "dates": "2/7~2/14",
+     "note": "제28회, 25.3만 명(2023년 이후 최다)"
+    },
+    {
+     "year": 2025,
+     "dates": "2/8~2/15",
+     "note": "제27회, 24.4만 명. 눈보라·2/12 비로 종료 시각 앞당긴 날 있음"
+    },
+    {
+     "year": 2024,
+     "dates": "2/10~2/17",
+     "note": "제26회, 25.1만 명. 첫날 대설, 2/13~14 기록적 이상 고온 영향"
+    },
+    {
+     "year": 2023,
+     "dates": "2/11~2/18",
+     "note": "제25회, 25.2만 명. 3년 만에 통상 개최(데미야선 회장 축소, 아사리가와 온천 회장 중지)"
+    },
+    {
+     "year": 2022,
+     "dates": "2/11~2/13",
+     "note": "제24회, 3일로 단축. 만연방지조치로 메인 회장 없이 시내 곳곳 점등"
+    },
+    {
+     "year": 2021,
+     "dates": "",
+     "note": "중지 (코로나, 첫 전면 중지)"
+    }
+   ],
+   "next": "2027년 2/6~2/13 예정 (기존 데이터)",
+   "visitors": "약 25.3만 명 (2026)",
+   "crowd": "혼잡",
+   "tips": [
+    "17~21시, 무료. 운하 산책로에서 유리 부표 속 촛불이 수면에 비치는 장면이 하이라이트",
+    "오타루역에서 걸어서 10분 이내라 기차로 가면 된다",
+    "눈보라·비로 그날 종료가 앞당겨지는 경우가 있으니 공식 X(@otaru_yukiakari) 확인"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/小樽雪あかりの路",
+    "https://illumi.walkerplus.com/detail/ar0101e399739/data.html"
+   ]
+  }
  },
  {
   "id": "hokkaido-usuzan-ropeway",
@@ -1526,7 +1797,41 @@ window.SPOTS = [
    "https://ja.wikipedia.org/wiki/金森赤レンガ倉庫",
    "https://www.hokkaido-np.co.jp/article/1371099/"
   ],
-  "region": "홋카이도"
+  "region": "홋카이도",
+  "fest": {
+   "past": [
+    {
+     "year": 2025,
+     "dates": "11/29~12/25",
+     "note": "첫날은 18시부터"
+    },
+    {
+     "year": 2023,
+     "dates": "12/1~12/25",
+     "note": ""
+    },
+    {
+     "year": 2022,
+     "dates": "12/1~12/25",
+     "note": ""
+    }
+   ],
+   "next": "2026년 12/1~12/25 (기존 데이터)",
+   "visitors": "",
+   "crowd": "혼잡",
+   "tips": [
+    "매일 18시 트리 점등과 함께 불꽃이 오르는데 1분 정도로 짧으니 미리 자리 잡기",
+    "트리 정면에서는 불꽃이 건물에 가려질 수 있어, 트리를 보고 왼쪽(가네모리 양물관 쪽)이 잘 보였다는 후기",
+    "12/24는 매우 붐벼 자리 잡기 어렵고, 평일·일요일 밤은 비교적 한산",
+    "바닷가라 바람이 강해 방한 필수. 강풍으로 불꽃이 취소된 해도 있다",
+    "하치만자카·모토마치 공원에서도 불꽃이 보이지만 작다. 대신 덜 붐빈다",
+    "18:30·19:30·20:30에 각 15분 트리가 빨갛게 변하는 '프리미엄 레드 트리'(2022~2025)"
+   ],
+   "sources": [
+    "https://4travel.jp/dm_shisetsu/10217928",
+    "https://rurubu.jp/andmore/spot/20000665"
+   ]
+  }
  },
  {
   "id": "hokkaido-hakodate-mt-hakodate",
@@ -1607,7 +1912,19 @@ window.SPOTS = [
   "sources": [
    "https://ja.wikipedia.org/wiki/神居古潭"
   ],
-  "region": "홋카이도"
+  "region": "홋카이도",
+  "fest": {
+   "past": [],
+   "next": "",
+   "visitors": "",
+   "crowd": "",
+   "tips": [
+    "고탄 마쓰리는 매년 추분의 날에 열린다(위키피디아). 연도별 실제 일정·내용은 찾지 못함"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/神居古潭"
+   ]
+  }
  },
  {
   "id": "hokkaido-koshimizu-gensei-kaen",
@@ -1958,7 +2275,29 @@ window.SPOTS = [
    "https://ja.wikipedia.org/wiki/二十間道路桜並木",
    "https://www.visit-hokkaido.jp/spot/detail_10051.html"
   ],
-  "region": "홋카이도"
+  "region": "홋카이도",
+  "fest": {
+   "past": [
+    {
+     "year": 2026,
+     "dates": "4/25~4/30",
+     "note": "visit-hokkaido 기준. 다른 사이트(루루부)는 4/29~5/4 예정으로 표기"
+    }
+   ],
+   "next": "",
+   "visitors": "",
+   "crowd": "",
+   "tips": [
+    "전용 주차장이 없고 지정된 주차 구간을 써야 한다",
+    "시즈나이 버스터미널에서 임시버스로 약 25분",
+    "축제 기간과 만개가 어긋날 수 있다(예년 만개는 5월 상~중순). 개화 상황 보고 가기",
+    "회장에서 제철 먹거리·기간 한정 기념품을 판다"
+   ],
+   "sources": [
+    "https://www.visit-hokkaido.jp/event/detail_10051.html",
+    "https://rurubu.jp/andmore/spot/20001856"
+   ]
+  }
  },
  {
   "id": "hokkaido-hakodate-tachimachi-misaki",
@@ -2157,7 +2496,20 @@ window.SPOTS = [
    "https://www.visit-hokkaido.jp/access/in_hokkaido_1_8_6.html",
    "https://rurubu.jp/andmore/spot/20001852"
   ],
-  "region": "홋카이도"
+  "region": "홋카이도",
+  "fest": {
+   "past": [],
+   "next": "",
+   "visitors": "",
+   "crowd": "",
+   "tips": [
+    "약 250종의 벚꽃이 있어 품종별로 피는 시기가 달라 두 달 가까이 꽃을 볼 수 있다",
+    "공원 안 벚꽃 견본원에 약 140종 600그루가 모여 있다"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/松前公園"
+   ]
+  }
  },
  {
   "id": "hokkaido-sapporo-moerenuma-park",
@@ -2478,7 +2830,56 @@ window.SPOTS = [
    "https://www.hokkaido-np.co.jp/article/1317317/",
    "https://asahikawa-winterfes.jp/"
   ],
-  "region": "홋카이도"
+  "region": "홋카이도",
+  "fest": {
+   "past": [
+    {
+     "year": 2026,
+     "dates": "2/6~2/11",
+     "note": "제67회, 75.2만 명(첫날~둘째 날 악천후로 전년 대비 8.6% 감소)"
+    },
+    {
+     "year": 2025,
+     "dates": "2/6~2/11",
+     "note": "제66회, 82.3만 명"
+    },
+    {
+     "year": 2024,
+     "dates": "2/7~2/12",
+     "note": "제65회, 91.5만 명"
+    },
+    {
+     "year": 2023,
+     "dates": "",
+     "note": "제64회, 49.6만 명"
+    },
+    {
+     "year": 2022,
+     "dates": "",
+     "note": "제63회, 집객 이벤트 중지 (코로나)"
+    },
+    {
+     "year": 2021,
+     "dates": "",
+     "note": "제62회, 현장 개최 중지·온라인 전환 (코로나)"
+    }
+   ],
+   "next": "2027년 2/6~2/11 (제68회, 기존 데이터)",
+   "visitors": "약 75.2만 명 (2026)",
+   "crowd": "혼잡",
+   "tips": [
+    "대설상에서 내려오는 길이 80m 미끄럼틀이 명물",
+    "불꽃은 마지막 날(2/11) 대설상 뒤에서 쏘아 올린다",
+    "헤이와도리 회장 얼음 조각 세계대회 작품은 밤에 라이트업돼 밤에 보는 게 좋다",
+    "무료지만 주차장이 없으니 대중교통으로"
+   ],
+   "sources": [
+    "https://www.gutabi.jp/event/detail/1480",
+    "https://www.hokkaido-np.co.jp/article/1274480/",
+    "https://www.city.asahikawa.hokkaido.jp/700/723/729/d081204_d/fil/0212-05.pdf",
+    "https://ja.wikipedia.org/wiki/旭川冬まつり"
+   ]
+  }
  },
  {
   "id": "hokkaido-erimo-cape",
@@ -2559,7 +2960,35 @@ window.SPOTS = [
    "https://ja.wikipedia.org/wiki/江差町",
    "https://www.hkd.mlit.go.jp/hk/160305_oashisu.pdf"
   ],
-  "region": "홋카이도"
+  "region": "홋카이도",
+  "fest": {
+   "past": [
+    {
+     "year": 2026,
+     "dates": "9/18~9/20",
+     "note": "제62회, 18·19일 예선, 20일 결선"
+    },
+    {
+     "year": 2025,
+     "dates": "9/19~9/21",
+     "note": "제61회, 19·20일 예선, 21일 결선"
+    }
+   ],
+   "next": "",
+   "visitors": "",
+   "crowd": "",
+   "tips": [
+    "예선 이틀 뒤 마지막 날이 결선. 일본 최고를 가리는 장면을 보려면 마지막 날",
+    "회장은 에사시정 문화회관. 하코다테역에서 버스로 약 2시간, 하코다테 공항에서 차로 약 90분",
+    "무료 주차장 약 100대",
+    "회원 감소·고령화로 숙년부 출전 연령이 75세 이상으로 올라가고 출전 틀이 줄었다는 보도가 있다"
+   ],
+   "sources": [
+    "https://www.visit-hokkaido.jp/event/detail_11095.html",
+    "https://rurubu.jp/andmore/spot/20003201",
+    "https://www.hokkaido-np.co.jp/article/1264521/"
+   ]
+  }
  },
  {
   "id": "hokkaido-hakodate-esan",
@@ -2646,7 +3075,23 @@ window.SPOTS = [
    "https://ja.wikipedia.org/wiki/大通公園",
    "https://www.sapporo.travel/white-illumination/event/illumination/odori/"
   ],
-  "region": "홋카이도"
+  "region": "홋카이도",
+  "fest": {
+   "past": [],
+   "next": "제46회: 2026/11/20 시작. 오도리 회장 12/25까지, 역앞거리 2027/2/11까지, 미나미1조 거리 2027/3/14까지, 나카지마 공원 2027년 1월 상순~하순 예정 (2026년부터 아카렌가 청사·나카지마 공원 회장 추가)",
+   "visitors": "",
+   "crowd": "",
+   "tips": [
+    "점등 16:30~22:00, 12/23~25는 24시까지(기존 안내 기준)",
+    "오도리 회장은 크리스마스(12/25)에 끝나므로 상징 오브제를 보려면 그 전에 가야 한다",
+    "오도리 2초메에서 열리는 뮌헨 크리스마스 시장과 같이 둘러보기 좋다"
+   ],
+   "sources": [
+    "https://www.sapporo.travel/white-illumination/",
+    "https://www.visit-hokkaido.jp/event/detail/143",
+    "https://ja.wikipedia.org/wiki/さっぽろホワイトイルミネーション"
+   ]
+  }
  },
  {
   "id": "hokkaido-obihiro-banei-keiba",
@@ -3008,7 +3453,15 @@ window.SPOTS = [
   "sources": [
    "https://ja.wikipedia.org/wiki/五稜郭"
   ],
-  "region": "홋카이도"
+  "region": "홋카이도",
+  "fest": {
+   "past": [],
+   "next": "",
+   "visitors": "",
+   "crowd": "",
+   "tips": [],
+   "sources": []
+  }
  },
  {
   "id": "hokkaido-obihiro-kofuku-station",
@@ -3740,7 +4193,15 @@ window.SPOTS = [
   "sources": [
    "https://ja.wikipedia.org/wiki/池田ワイン城"
   ],
-  "region": "홋카이도"
+  "region": "홋카이도",
+  "fest": {
+   "past": [],
+   "next": "",
+   "visitors": "",
+   "crowd": "",
+   "tips": [],
+   "sources": []
+  }
  },
  {
   "id": "hokkaido-hakodate-morning-market",
@@ -3823,7 +4284,20 @@ window.SPOTS = [
   "sources": [
    "https://ja.wikipedia.org/wiki/北海道神宮"
   ],
-  "region": "홋카이도"
+  "region": "홋카이도",
+  "fest": {
+   "past": [],
+   "next": "",
+   "visitors": "",
+   "crowd": "",
+   "tips": [
+    "6/14 요미야제, 6/15 예제, 6/16 신코토교(약 1,000명이 호렌 4기·다시 9대와 함께 시내를 행진). 행렬을 보려면 16일",
+    "6/15는 삿포로 '향토의 날'로 시내 공립학교가 반일 휴업, 건설업계도 쉬는 관습이 있어 시내가 축제 분위기"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/札幌まつり"
+   ]
+  }
  },
  {
   "id": "hokkaido-sapporo-hitsujigaoka",
@@ -3952,7 +4426,50 @@ window.SPOTS = [
    "https://www.tachineputa.jp/fee",
    "https://www.tachineputa.jp/business-hours"
   ],
-  "region": "도호쿠"
+  "region": "도호쿠",
+  "fest": {
+   "past": [
+    {
+     "year": 2026,
+     "dates": "8/4~8/8",
+     "note": "공식 '令和8年度開催決定'. 전야 8/3 고쇼가와라 불꽃대회(19:20~21:00)"
+    },
+    {
+     "year": 2025,
+     "dates": "8/4~8/8",
+     "note": "기존 대형 3대+신작 중형 운행, 신작 대형은 제작장 개수로 없음(검색 요약 기준). 전야 불꽃 8/3"
+    },
+    {
+     "year": 2024,
+     "dates": "8/4~8/8",
+     "note": "개최 확인(공식 사진·영상), 날짜는 고정 일정 기준. 전야 불꽃 8/3"
+    },
+    {
+     "year": 2023,
+     "dates": "8/4~8/8",
+     "note": "개최 확인(공식 사진·영상), 날짜는 고정 일정 기준. 전야 불꽃 8/3"
+    },
+    {
+     "year": 2022,
+     "dates": "8/4~8/8",
+     "note": "개최 확인(공식 사진), 날짜는 고정 일정 기준. 전야 불꽃은 우천 연기 끝에 9/23 대체 개최"
+    }
+   ],
+   "next": "",
+   "visitors": "",
+   "crowd": "",
+   "tips": [
+    "전날 8/3 밤에 고쇼가와라 불꽃대회(19:20~21:00)가 있어 하루 일찍 들어가면 둘 다 볼 수 있다",
+    "유료 관람석은 4월 중순쯤 신청을 받기 시작한다(2026년은 4/17 공지)",
+    "전시관 다치네푸타노야카타는 대규모 개수로 2025.4~2026.6말(예정) 휴관했으니 재개관 여부를 확인하고 가자",
+    "JR 고쇼가와라역·쓰가루고쇼가와라역에서 걸어서 갈 수 있다"
+   ],
+   "sources": [
+    "http://tachineputa-official.jp/",
+    "https://hanabi.cloud/html/Tohoku/aomori/goshogawara-hanabi-taikai.html",
+    "https://ja.wikipedia.org/wiki/五所川原立佞武多"
+   ]
+  }
  },
  {
   "id": "aomori-tanesashi-coast",
@@ -4357,7 +4874,51 @@ window.SPOTS = [
   "sources": [
    "https://www.nebuta.jp/"
   ],
-  "region": "도호쿠"
+  "region": "도호쿠",
+  "fest": {
+   "past": [
+    {
+     "year": 2026,
+     "dates": "8/2~8/7",
+     "note": "8/7 아오모리 불꽃대회 19:15~20:45"
+    },
+    {
+     "year": 2025,
+     "dates": "8/2~8/7",
+     "note": "실행위 발표 인원 101만 명. 8/7 불꽃대회(제71회)"
+    },
+    {
+     "year": 2024,
+     "dates": "8/2~8/7",
+     "note": "출발 지점 2곳 방식 도입. 불꽃대회 8/7(제70회)"
+    },
+    {
+     "year": 2023,
+     "dates": "8/2~8/7",
+     "note": "날짜는 고정 일정 기준. 불꽃대회 8/7(제69회)"
+    },
+    {
+     "year": 2022,
+     "dates": "8/2~8/7",
+     "note": "2020·2021 코로나 중지 후 3년 만에 개최, 흘려보내기식 출발 방식"
+    }
+   ],
+   "next": "2027년 8/2~8/7 (공식 '매년 8월 2~7일' 고정 일정 기준)",
+   "visitors": "약 101만 명 (2025, 실행위 발표. 2023년부터 집계 방식 변경으로 이전 280만 명대와 직접 비교 불가)",
+   "crowd": "매우 혼잡",
+   "tips": [
+    "대형 네부타 야간 운행은 4~6일이 중심이고, 마지막 날 7일은 낮 운행 뒤 밤에 해상 운행과 불꽃대회가 이어진다",
+    "운행 코스를 편하게 보려면 공식 사이트의 유료 관람석을 미리 사 두는 편이 낫다",
+    "운행 코스는 JR 아오모리역에서 걸어서 15분 정도, 주변엔 유료 주차장만 있다",
+    "비가 와도 네부타에 비닐을 씌워 운행하지만 상황에 따라 중지될 수 있다"
+   ],
+   "sources": [
+    "https://www.nebuta.jp/",
+    "https://ja.wikipedia.org/wiki/青森ねぶた祭",
+    "https://www.walkerplus.com/event/ar0202e04763/data.html",
+    "https://hanabi.cloud/html/Tohoku/aomori/aomori-hanabi-taikai.html"
+   ]
+  }
  },
  {
   "id": "aomori-cape-oma",
@@ -4436,7 +4997,32 @@ window.SPOTS = [
    "https://ja.wikipedia.org/wiki/恐山",
    "https://ja.wikipedia.org/wiki/恐山菩提寺"
   ],
-  "region": "도호쿠"
+  "region": "도호쿠",
+  "fest": {
+   "past": [
+    {
+     "year": 2026,
+     "dates": "7/20~7/24",
+     "note": "여름 대제, 6:00~18:00"
+    },
+    {
+     "year": 2025,
+     "dates": "7/20~7/24",
+     "note": "아오모리현 교통 단체 행사 달력 기준(검색 요약, 원문 PDF는 열람 불가)"
+    }
+   ],
+   "next": "",
+   "visitors": "",
+   "crowd": "",
+   "tips": [
+    "이타코 구치요세(영매 의식)는 7월 여름 대제 기간에 볼 수 있다",
+    "대제 기간 개방 시간은 6:00~18:00",
+    "가을 대제도 있지만 날짜는 매년 따로 확인해야 한다(문의 0175-22-3825)"
+   ],
+   "sources": [
+    "https://www.iwafu.com/en/events/1066788"
+   ]
+  }
  },
  {
   "id": "aomori-owani-onsen",
@@ -4557,7 +5143,44 @@ window.SPOTS = [
    "https://ja.wikipedia.org/wiki/八戸三社大祭",
    "https://visithachinohe.com/stories/sannshataisai_schedule/"
   ],
-  "region": "도호쿠"
+  "region": "도호쿠",
+  "fest": {
+   "past": [
+    {
+     "year": 2026,
+     "dates": "7/31~8/4",
+     "note": ""
+    },
+    {
+     "year": 2024,
+     "dates": "7/31~8/4",
+     "note": "날짜는 고정 일정 기준. 나카비 운행 출발점을 산노카마치 교차점 앞으로 변경"
+    },
+    {
+     "year": 2023,
+     "dates": "7/31~8/4",
+     "note": "날짜는 고정 일정 기준. 전야제·운행·합동 야간 운행·후야제 모두 4년 만에 전면 개최"
+    },
+    {
+     "year": 2022,
+     "dates": "",
+     "note": "부대 행사 3년 연속 중지(신사 제례만), 일부 단체가 자체 운행"
+    }
+   ],
+   "next": "",
+   "visitors": "예년 약 120만 명 (워커플러스 표기)",
+   "crowd": "혼잡",
+   "tips": [
+    "보는 곳은 하치노헤 중심가, JR 혼하치노헤역에서 걸어서 5분",
+    "비가 와도 결행하지만 날씨에 따라 중지될 수 있다",
+    "차로 가면 주변 주차장이나 나가네 공원 임시 주차장을 쓴다",
+    "노점이 나오고 예약은 필요 없다"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/八戸三社大祭",
+    "https://www.walkerplus.com/event/ar0202e473095/data.html"
+   ]
+  }
  },
  {
   "id": "aomori-hachinohe-enburi",
@@ -4596,7 +5219,27 @@ window.SPOTS = [
    "https://ja.wikipedia.org/wiki/えんぶり",
    "https://visithachinohe.com/stories/enburi-info/"
   ],
-  "region": "도호쿠"
+  "region": "도호쿠",
+  "fest": {
+   "past": [
+    {
+     "year": 2026,
+     "dates": "2/17~2/20",
+     "note": ""
+    }
+   ],
+   "next": "",
+   "visitors": "약 28만 명 (루루부 '작년 방문자 수')",
+   "crowd": "",
+   "tips": [
+    "대부분 무료로 볼 수 있고 일부 공연만 유료다",
+    "JR 혼하치노헤역에서 걸어서 10분",
+    "전용 주차장이 없어 일반 유료 주차장을 써야 한다"
+   ],
+   "sources": [
+    "https://rurubu.jp/andmore/spot/20001044"
+   ]
+  }
  },
  {
   "id": "aomori-hirosaki-neputa",
@@ -4635,7 +5278,45 @@ window.SPOTS = [
    "https://ja.wikipedia.org/wiki/弘前ねぷた",
    "https://www.hirosaki-kanko.or.jp/web/edit.html?id=cat02_summer_neputa"
   ],
-  "region": "도호쿠"
+  "region": "도호쿠",
+  "fest": {
+   "past": [
+    {
+     "year": 2026,
+     "dates": "8/1~8/7",
+     "note": "워커플러스 게재 일정(검색 요약 기준)"
+    },
+    {
+     "year": 2025,
+     "dates": "8/1~8/7",
+     "note": "날짜는 고정 일정 기준. 118만 명(66단체), 심사 기준 재검토"
+    },
+    {
+     "year": 2024,
+     "dates": "8/1~8/7",
+     "note": "날짜는 고정 일정 기준. 142만 명(65단체)"
+    },
+    {
+     "year": 2023,
+     "dates": "8/1~8/7",
+     "note": "날짜는 고정 일정 기준. 137만 명(63단체)"
+    },
+    {
+     "year": 2022,
+     "dates": "8/1~8/7",
+     "note": "3년 만에 합동 운행, 91만 명. 심사·어린이 네푸타·나누카비오쿠리는 중지"
+    }
+   ],
+   "next": "",
+   "visitors": "약 118만 명 (2025)",
+   "crowd": "혼잡",
+   "tips": [
+    "도테마치 코스 등 시내 여러 코스를 날짜별로 돌기 때문에 보러 가는 날의 코스를 미리 확인하자"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/弘前ねぷたまつり"
+   ]
+  }
  },
  {
   "id": "aomori-kabushima",
@@ -4710,7 +5391,34 @@ window.SPOTS = [
    "https://ja.wikipedia.org/wiki/紅葉山_(青森県)",
    "https://koyo.walkerplus.com/detail/ar0202e12883/data.html"
   ],
-  "region": "도호쿠"
+  "region": "도호쿠",
+  "fest": {
+   "past": [
+    {
+     "year": 2026,
+     "dates": "10/24~11/8",
+     "note": "라이트업 16:30~21:00"
+    },
+    {
+     "year": 2025,
+     "dates": "10/18~11/9",
+     "note": "검색 요약 기준. 2025년 단풍 절정은 10/30~11/10 무렵"
+    }
+   ],
+   "next": "",
+   "visitors": "",
+   "crowd": "보통",
+   "tips": [
+    "21시 이후엔 조명이 거의 꺼져 발밑이 위험하니 그 전에 나오도록 일정을 짜자",
+    "토·일 정오~저녁이 붐비므로 주말엔 오전 일찍이 좋다",
+    "무료 주차장 약 250대(야스라기 주차대·쓰가루 전승공예관)",
+    "대중교통은 고난철도 구로이시역에서 버스로 이타도메 하차 후 도보 10분, 택시면 약 20분",
+    "라이트업 기간엔 임시 관광안내소와 노점이 선다"
+   ],
+   "sources": [
+    "https://koyo.walkerplus.com/detail/ar0202e12883"
+   ]
+  }
  },
  {
   "id": "aomori-cape-tappi",
@@ -5039,7 +5747,30 @@ window.SPOTS = [
    "https://www.hirosakipark.jp/21600.html",
    "https://www.hirosakipark.jp/price.html"
   ],
-  "region": "도호쿠"
+  "region": "도호쿠",
+  "fest": {
+   "past": [
+    {
+     "year": 2026,
+     "dates": "4/10~5/5",
+     "note": "벚꽃이 일찍 펴서 당초 4/17 시작에서 앞당겨 26일간 개최"
+    }
+   ],
+   "next": "",
+   "visitors": "약 231만 명 (추계, 루루부 '작년 방문자 수')",
+   "crowd": "매우 혼잡",
+   "tips": [
+    "사진 명소: 니시보리 벚꽃 터널, 슌요바시(붉은 다리) 주변 야경, 네푸타무라 앞 해자에서 이와키산과 함께, 시청 마에카와 본관 옥상 전망",
+    "만개 뒤 꽃잎이 해자를 덮는 '하나이카다'가 볼거리",
+    "혼마루·기타노쿠루와는 유료(대인 320엔)",
+    "공원 안엔 주차장이 없어 관광관 지하 주차장이나 이와키강 둔치 임시 무료 주차장(도보 15~20분)을 쓴다",
+    "기간 중 열차가 붐비므로 아오모리~히로사키 특급은 지정석 예약을 권한다"
+   ],
+   "sources": [
+    "https://media.jreast.co.jp/articles/5510",
+    "https://rurubu.jp/andmore/spot/20001398"
+   ]
+  }
  },
  {
   "id": "aomori-kuroishi-komise",
@@ -5647,7 +6378,41 @@ window.SPOTS = [
   "sources": [
    "https://ja.wikipedia.org/wiki/盛岡さんさ踊り"
   ],
-  "region": "도호쿠"
+  "region": "도호쿠",
+  "fest": {
+   "past": [
+    {
+     "year": 2026,
+     "dates": "8/1~8/4",
+     "note": ""
+    },
+    {
+     "year": 2025,
+     "dates": "8/1~8/4",
+     "note": "제48회"
+    },
+    {
+     "year": 2024,
+     "dates": "8/1~8/4",
+     "note": "날짜는 고정 일정 기준. 약 110만 명"
+    }
+   ],
+   "next": "",
+   "visitors": "약 110만 명 (2024)",
+   "crowd": "혼잡",
+   "tips": [
+    "퍼레이드(18~21시, 주오도리)가 끝나면 관객 누구나 끼어들 수 있는 원무가 열린다",
+    "낮에는 마리오스(시민문화홀)에서 13~16시 공연이 있다",
+    "비로 퍼레이드를 중지할 땐 당일 17시까지 공식 블로그·X로 알린다",
+    "유료 관람석이 있으니 공식 사이트에서 확인",
+    "숙소와 신칸센은 일찍 예약해 두는 게 좋다"
+   ],
+   "sources": [
+    "https://summer.walkerplus.com/odekake/detail_e/ar0203e41479/data.html",
+    "https://media.jreast.co.jp/articles/4496",
+    "https://ja.wikipedia.org/wiki/盛岡さんさ踊り"
+   ]
+  }
  },
  {
   "id": "iwate-tsunagi-onsen",
@@ -5972,7 +6737,21 @@ window.SPOTS = [
   "sources": [
    "https://ja.wikipedia.org/wiki/北上市立公園展勝地"
   ],
-  "region": "도호쿠"
+  "region": "도호쿠",
+  "fest": {
+   "past": [
+    {
+     "year": 2026,
+     "dates": "4/10~4/29",
+     "note": "검색 요약 기준(원문 페이지 열람 불가), 기간 중 야간 라이트업"
+    }
+   ],
+   "next": "",
+   "visitors": "",
+   "crowd": "",
+   "tips": [],
+   "sources": []
+  }
  },
  {
   "id": "iwate-kindaichi-onsen",
@@ -6210,7 +6989,39 @@ window.SPOTS = [
   "sources": [
    "https://ja.wikipedia.org/wiki/チャグチャグ馬コ"
   ],
-  "region": "도호쿠"
+  "region": "도호쿠",
+  "fest": {
+   "past": [
+    {
+     "year": 2026,
+     "dates": "6/13",
+     "note": "약 70마리 행진"
+    },
+    {
+     "year": 2025,
+     "dates": "6/14",
+     "note": "약 60마리, 9:30~13:55 무렵 약 14km 행진. 약 18.9만 명(다키자와시 자료, 검색 요약)"
+    },
+    {
+     "year": 2022,
+     "dates": "",
+     "note": "축소 개최(코스 일부 변경, 오도리 퍼레이드 축소), 날짜 미확인"
+    }
+   ],
+   "next": "",
+   "visitors": "약 18.9만 명 (2025, 다키자와시 자료)",
+   "crowd": "혼잡",
+   "tips": [
+    "모리오카역 근처 오도리·가이운바시 일대가 인기 관람 지점, 말이 13시 전후에 지나가니 일찍 자리를 잡자",
+    "출발지 오니코시 소젠 신사까지는 모리오카역에서 유료 셔틀버스(6:40~8:55)가 다닌다",
+    "다키자와 오니코시 소젠 신사에서 모리오카 하치만궁까지 약 14km를 천천히 행진하므로 구간을 골라 보면 된다"
+   ],
+   "sources": [
+    "https://kumanichi.com/articles/2002210",
+    "https://media.jreast.co.jp/articles/4312",
+    "https://ja.wikipedia.org/wiki/チャグチャグ馬コ"
+   ]
+  }
  },
  {
   "id": "iwate-hachimantai-dragon-eye",
@@ -6656,7 +7467,29 @@ window.SPOTS = [
    "https://ja.wikipedia.org/wiki/SENDAI光のページェント",
    "https://sendaihikape.jp/event/"
   ],
-  "region": "도호쿠"
+  "region": "도호쿠",
+  "fest": {
+   "past": [
+    {
+     "year": 2025,
+     "dates": "12/5~12/28",
+     "note": "제40회, 느티나무 127그루에 LED 약 48만 개"
+    }
+   ],
+   "next": "",
+   "visitors": "약 205만 명 (2024)",
+   "crowd": "혼잡",
+   "tips": [
+    "요일마다 점등 시간이 달라(2025년 금·토 19~22시, 12/24·25 18~22시, 일 18~21시) 가는 날을 확인하자",
+    "지하철 고토다이코엔역에서 걸어서 1분, 무료",
+    "회장 주차장이 없어 주변 유료 주차장을 써야 하니 대중교통이 편하다"
+   ],
+   "sources": [
+    "https://rurubu.jp/andmore/spot/20000661",
+    "https://www.sendaihikape.jp/",
+    "https://ja.wikipedia.org/wiki/SENDAI光のページェント"
+   ]
+  }
  },
  {
   "id": "miyagi-kamasaki-onsen",
@@ -6939,7 +7772,42 @@ window.SPOTS = [
   "sources": [
    "https://www.sendaitanabata.com/"
   ],
-  "region": "도호쿠"
+  "region": "도호쿠",
+  "fest": {
+   "past": [
+    {
+     "year": 2026,
+     "dates": "8/6~8/8",
+     "note": "전야 8/5 불꽃제(약 1.6만 발, 19:30~20:30)"
+    },
+    {
+     "year": 2025,
+     "dates": "8/6~8/8",
+     "note": "약 203만 명. 전야 8/5 불꽃제"
+    },
+    {
+     "year": 2024,
+     "dates": "8/6~8/8",
+     "note": "날짜는 고정 일정 기준. 전야 8/5 불꽃제"
+    }
+   ],
+   "next": "",
+   "visitors": "약 203만 명 (2025)",
+   "crowd": "매우 혼잡",
+   "tips": [
+    "전날 8/5 밤 센다이 다나바타 불꽃제가 열리니 하루 앞당겨 가면 둘 다 볼 수 있다",
+    "장식은 상점가마다 시간이 달라(대략 10~21시, 마지막 날은 20시쯤 종료) 보고 싶은 거리를 미리 확인하자",
+    "비가 와도 열리지만 폭풍 땐 중지되고 순연은 없다",
+    "JR 센다이역에서 걸어서 3분, 주차는 시내 유료 주차장뿐",
+    "더위 대책과 쓰레기 되가져가기 안내가 매년 나온다"
+   ],
+   "sources": [
+    "https://www.sendaitanabata.com/",
+    "https://summer.walkerplus.com/odekake/detail_e/ar0204e04767/data.html",
+    "https://rurubu.jp/andmore/spot/20003101",
+    "https://hanabi.cloud/html/Tohoku/miyagi/sendai-tanabata-hanabi-sai.html"
+   ]
+  }
  },
  {
   "id": "miyagi-akiu-onsen",
@@ -7266,7 +8134,27 @@ window.SPOTS = [
   "sources": [
    "https://ja.wikipedia.org/wiki/大崎八幡宮"
   ],
-  "region": "도호쿠"
+  "region": "도호쿠",
+  "fest": {
+   "past": [
+    {
+     "year": 2026,
+     "dates": "1/14",
+     "note": "마쓰타키사이(돈토사이)"
+    }
+   ],
+   "next": "",
+   "visitors": "약 8만 명 (루루부 '작년 방문자 수')",
+   "crowd": "혼잡",
+   "tips": [
+    "정월 장식과 묵은 부적을 태우는 불을 향해 하다카마이리 행렬이 참배하는 것이 볼거리",
+    "당일 주변 도로가 통제되니 대중교통이 낫다(JR 도호쿠후쿠시다이마에역 도보 15분)",
+    "주차장 70대와 임시 무료 주차장이 있다"
+   ],
+   "sources": [
+    "https://rurubu.jp/andmore/spot/20000844"
+   ]
+  }
  },
  {
   "id": "miyagi-otakamori",
@@ -7743,7 +8631,46 @@ window.SPOTS = [
    "https://ja.wikipedia.org/wiki/鹽竈神社",
    "https://ja.wikipedia.org/wiki/塩釜水産物仲卸市場"
   ],
-  "region": "도호쿠"
+  "region": "도호쿠",
+  "fest": {
+   "past": [
+    {
+     "year": 2026,
+     "dates": "7/19",
+     "note": "제79회 미나토 마쓰리 전야제 불꽃 날짜(본 축제는 다음 날 바다의 날)"
+    },
+    {
+     "year": 2025,
+     "dates": "7/20",
+     "note": "제78회 전야제 불꽃 20:00~20:50 무렵(본 축제는 다음 날)"
+    },
+    {
+     "year": 2024,
+     "dates": "7/14",
+     "note": "제77회 전야제 불꽃 20:00~(본 축제는 다음 날)"
+    },
+    {
+     "year": 2023,
+     "dates": "7/16",
+     "note": "제76회 전야제 불꽃(본 축제는 다음 날)"
+    },
+    {
+     "year": 2022,
+     "dates": "7/17",
+     "note": "제75회 전야제 불꽃(본 축제는 다음 날)"
+    }
+   ],
+   "next": "",
+   "visitors": "",
+   "crowd": "",
+   "tips": [
+    "바다의 날 전날 밤 시오가마항에서 전야제 불꽃(20시 무렵 시작)이 있다",
+    "JR 센세키선 혼시오가마·히가시시오가마·니시시오가마역에서 걸어서 갈 수 있다"
+   ],
+   "sources": [
+    "https://hanabi.cloud/html/Tohoku/miyagi/shiogama-minato-sai-zenyasai-hanabi-taikai.html"
+   ]
+  }
  },
  {
   "id": "miyagi-onagawa-seapal-pier",
@@ -7828,7 +8755,15 @@ window.SPOTS = [
    "https://ja.wikipedia.org/wiki/ゆりあげ港朝市",
    "https://report.iko-yo.net/articles/34343/digest"
   ],
-  "region": "도호쿠"
+  "region": "도호쿠",
+  "fest": {
+   "past": [],
+   "next": "",
+   "visitors": "",
+   "crowd": "",
+   "tips": [],
+   "sources": []
+  }
  },
  {
   "id": "miyagi-ishinomori-mangattan",
@@ -7992,7 +8927,33 @@ window.SPOTS = [
    "https://www.sakigake.jp/news/article/20260131AK0026/",
    "https://tabi-mag.jp/kariwano-tsunahiki/"
   ],
-  "region": "도호쿠"
+  "region": "도호쿠",
+  "fest": {
+   "past": [
+    {
+     "year": 2026,
+     "dates": "2/10",
+     "note": "웅줄 64m(가미마치)·자줄 50m(시모마치)를 당일 이어 하나로"
+    },
+    {
+     "year": 2025,
+     "dates": "2/10",
+     "note": ""
+    }
+   ],
+   "next": "",
+   "visitors": "",
+   "crowd": "",
+   "tips": [
+    "줄다리기는 밤에 시작한다(불꽃 정보 사이트 기준 19:40 무렵)",
+    "한겨울 밤 행사라 눈·강풍에 대비한 방한이 필요하다(2025년은 눈발에 0℃·강풍)",
+    "가장 가까운 역은 JR 오우본선 가리와노역"
+   ],
+   "sources": [
+    "https://www.sakigake.jp/news/article/20260131AK0026/",
+    "https://hanabi.cloud/html/Tohoku/akita/kariwano-no-dai-tsunahiki.html"
+   ]
+  }
  },
  {
   "id": "akita-kamihinokinai-paper-balloons",
@@ -8028,7 +8989,42 @@ window.SPOTS = [
    "https://ja.wikipedia.org/wiki/上桧木内の紙風船上げ",
    "http://www.city.semboku.akita.jp/sightseeing/spot/06_kamifuusen.html"
   ],
-  "region": "도호쿠"
+  "region": "도호쿠",
+  "fest": {
+   "past": [
+    {
+     "year": 2026,
+     "dates": "2/10",
+     "note": ""
+    },
+    {
+     "year": 2025,
+     "dates": "2/10",
+     "note": "약한 눈, -4℃"
+    },
+    {
+     "year": 2024,
+     "dates": "2/10",
+     "note": "약한 눈, 0℃"
+    },
+    {
+     "year": 2023,
+     "dates": "2/10",
+     "note": "약한 눈, -2℃"
+    }
+   ],
+   "next": "",
+   "visitors": "",
+   "crowd": "",
+   "tips": [
+    "매년 2/10 고정, 해마다 눈 오는 영하 날씨라 방한을 단단히",
+    "가장 가까운 역은 아키타 나이리쿠 종관철도 가미히노키나이역",
+    "시작 시간은 해마다 센보쿠시 공식 안내로 확인"
+   ],
+   "sources": [
+    "https://hanabi.cloud/html/Tohoku/akita/ue-hinoki-nai-no-kamifuusen-age.html"
+   ]
+  }
  },
  {
   "id": "akita-kakunodate-hiburi-kamakura",
@@ -8067,7 +9063,15 @@ window.SPOTS = [
   "sources": [
    "https://ja.wikipedia.org/wiki/火振りかまくら"
   ],
-  "region": "도호쿠"
+  "region": "도호쿠",
+  "fest": {
+   "past": [],
+   "next": "",
+   "visitors": "",
+   "crowd": "",
+   "tips": [],
+   "sources": []
+  }
  },
  {
   "id": "akita-goshogake-onsen",
@@ -8148,7 +9152,49 @@ window.SPOTS = [
    "https://ja.wikipedia.org/wiki/真山神社",
    "https://oganavi.com/sedo/fee/"
   ],
-  "region": "도호쿠"
+  "region": "도호쿠",
+  "fest": {
+   "past": [
+    {
+     "year": 2026,
+     "dates": "2/13~2/15",
+     "note": "제63회, 인원 제한 사전 신청제(협찬금 1,000엔, 중학생 이하 무료)"
+    },
+    {
+     "year": 2025,
+     "dates": "2/7~2/9",
+     "note": "배웅 불꽃(21:10) 날짜 기준"
+    },
+    {
+     "year": 2024,
+     "dates": "2/9~2/11",
+     "note": "배웅 불꽃 날짜 기준"
+    },
+    {
+     "year": 2023,
+     "dates": "2/10~2/11",
+     "note": "배웅 불꽃 날짜 기준(오가역 앞 위성 회장)"
+    },
+    {
+     "year": 2022,
+     "dates": "2/11~2/13",
+     "note": "배웅 불꽃 날짜 기준(소규모)"
+    }
+   ],
+   "next": "",
+   "visitors": "",
+   "crowd": "",
+   "tips": [
+    "2026년은 사전 신청·사전 결제 방식이었으니 다음 해도 공식 사이트에서 신청 시작을 확인하자",
+    "하이라이트는 횃불을 든 나마하게가 눈 덮인 산에서 내려오는 '나마하게 하산'",
+    "회장 신잔 신사까지는 미치노에키 오가에서 임시 유료 버스로 약 30분, 무료 주차 610대",
+    "밤 21:10 무렵 오가항 쪽에서 배웅 불꽃이 올라간다"
+   ],
+   "sources": [
+    "https://rurubu.jp/andmore/spot/20001029",
+    "https://hanabi.cloud/html/Tohoku/akita/namahage-sedo-matsuri-omotenashi-hanabi-de-o-miokuri.html"
+   ]
+  }
  },
  {
   "id": "akita-noshiro-tenku-no-fuyajo",
@@ -8186,7 +9232,27 @@ window.SPOTS = [
   "sources": [
    "https://ja.wikipedia.org/wiki/能代七夕"
   ],
-  "region": "도호쿠"
+  "region": "도호쿠",
+  "fest": {
+   "past": [
+    {
+     "year": 2026,
+     "dates": "8/2~8/3",
+     "note": "17:00~21:00, 국도101호 약 700m 구간"
+    }
+   ],
+   "next": "",
+   "visitors": "예년 약 10만 명 (워커플러스 표기)",
+   "crowd": "",
+   "tips": [
+    "추천 관람 위치는 코스 중간쯤인 스미요시 교차점 부근",
+    "약한 비는 결행, 폭풍 땐 중지될 수 있다",
+    "무료·예약 불필요, 노점이 나온다"
+   ],
+   "sources": [
+    "https://summer.walkerplus.com/odekake/detail_e/ar0205e354548/data.html"
+   ]
+  }
  },
  {
   "id": "akita-nyuto-onsen-tsurunoyu",
@@ -8264,7 +9330,23 @@ window.SPOTS = [
   "sources": [
    "https://ja.wikipedia.org/wiki/西馬音内の盆踊"
   ],
-  "region": "도호쿠"
+  "region": "도호쿠",
+  "fest": {
+   "past": [
+    {
+     "year": 2022,
+     "dates": "8/16~8/18",
+     "note": "날짜는 고정 일정 기준. 2020 코로나 중지 후 3년 만에 관객 입장 개최, 첫날은 실내"
+    }
+   ],
+   "next": "",
+   "visitors": "",
+   "crowd": "",
+   "tips": [],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/西馬音内の盆踊"
+   ]
+  }
  },
  {
   "id": "akita-tamagawa-onsen",
@@ -8344,7 +9426,47 @@ window.SPOTS = [
    "https://ja.wikipedia.org/wiki/竿燈",
    "https://www.kantou.gr.jp/guidemap/"
   ],
-  "region": "도호쿠"
+  "region": "도호쿠",
+  "fest": {
+   "past": [
+    {
+     "year": 2026,
+     "dates": "8/3~8/6",
+     "note": ""
+    },
+    {
+     "year": 2025,
+     "dates": "8/3~8/6",
+     "note": "약 103만 명, 비 등으로 최근 10년 중 두 번째로 적었다는 보도"
+    },
+    {
+     "year": 2023,
+     "dates": "8/3~8/6",
+     "note": "날짜는 고정 일정 기준. 4년 만에 정상 개최(구호 부활), 110만 명"
+    },
+    {
+     "year": 2022,
+     "dates": "8/3~8/6",
+     "note": "날짜는 고정 일정 기준. 3년 만에 개최, 구호 금지 등 제한"
+    }
+   ],
+   "next": "",
+   "visitors": "약 103만 명 (2025)",
+   "crowd": "매우 혼잡",
+   "tips": [
+    "유료 관람석: 마스석 28,000엔, S석 4,500엔, A석 4,000엔, B석 3,500엔(2026)",
+    "17시 무렵 도착해야 자리 잡기가 수월하고 18:45쯤이면 관람 구역이 거의 찬다",
+    "니초메바시 주변이 가장 붐비고 산노 교차점 쪽(회장 서쪽)이 비교적 여유 있다",
+    "끝난 뒤 21~22시 아키타역이 매우 붐비므로 돌아갈 표는 도착했을 때 미리 사 두자",
+    "노점·화장실은 저녁부터 크게 붐비니 16시대에 해결해 두는 게 좋다",
+    "교통 규제 18:15~21:30, 아키타역에서 회장까지 걸어서 15분"
+   ],
+   "sources": [
+    "https://rurubu.jp/andmore/spot/20002865",
+    "https://banzokubiology.com/akita-kanto2025-konzatsu/",
+    "https://ja.wikipedia.org/wiki/秋田竿燈まつり"
+   ]
+  }
  },
  {
   "id": "akita-nairiku-line",
@@ -8425,7 +9547,53 @@ window.SPOTS = [
    "https://www.omagari-hanabi.com/overview/summer/",
    "https://www.omagari-hanabi.com/access/"
   ],
-  "region": "도호쿠"
+  "region": "도호쿠",
+  "fest": {
+   "past": [
+    {
+     "year": 2026,
+     "dates": "8/29",
+     "note": "제98회, 약 1.8만 발, 유료석 약 10만 명분 매진"
+    },
+    {
+     "year": 2025,
+     "dates": "8/30",
+     "note": "제97회, 17:10~21:30"
+    },
+    {
+     "year": 2024,
+     "dates": "8/31",
+     "note": "제96회"
+    },
+    {
+     "year": 2023,
+     "dates": "8/26",
+     "note": "제95회, 유료석 구매자 약 9만 명"
+    },
+    {
+     "year": 2022,
+     "dates": "8/27",
+     "note": "제94회, 2020·2021 연기·중지 후 개최, 약 60만 명(개략)"
+    }
+   ],
+   "next": "",
+   "visitors": "유료석 약 10만 명분 매진 (2026)",
+   "crowd": "매우 혼잡",
+   "tips": [
+    "유료석은 1인 의자석 8,000엔·페어석 13,000엔부터 4인 테이블석 38,000엔, 플래티넘 페어석 70,000엔까지(2026)",
+    "인터넷 선행 판매가 6월 중순(2026년 6/12) 시작되고 금방 매진되니 발매일을 노리자",
+    "초등학생 이상은 티켓 필요, 2017년부터 자유석도 1인 1,000엔 환경정비 협력금이 붙는다",
+    "낮 불꽃(17:10~18:00)은 연기 색으로 겨루는 드문 부문이라 일찍 들어가 보는 게 좋다",
+    "오마가리역에서 회장까지 걸어서 30분, 임시 열차가 자정 전후까지 다니지만 시내 교통 규제가 있다",
+    "티켓 전매는 금지인데 고가 거래가 문제가 되고 있다"
+   ],
+   "sources": [
+    "https://hanabi.walkerplus.com/detail/ar0205e00654/",
+    "https://hanabi.cloud/html/Tohoku/akita/oomagari-no-hanabi-zenkoku-hanabi-kyougi-taikai.html",
+    "https://kumanichi.com/articles/2030405",
+    "https://ja.wikipedia.org/wiki/全国花火競技大会"
+   ]
+  }
  },
  {
   "id": "akita-oyasukyo-daifunto",
@@ -8506,7 +9674,39 @@ window.SPOTS = [
    "https://ja.wikipedia.org/wiki/かまくら",
    "https://www.yokotekamakura.com/event/3-5/?event=kamakura"
   ],
-  "region": "도호쿠"
+  "region": "도호쿠",
+  "fest": {
+   "past": [
+    {
+     "year": 2026,
+     "dates": "2/13~2/14",
+     "note": "처음으로 2월 둘째 금·토 개최(2029년까지 시험 운영 뒤 재검토), 18~21시"
+    },
+    {
+     "year": 2025,
+     "dates": "2/15~2/16",
+     "note": "토·일과 겹쳐 2일간 24만 명"
+    },
+    {
+     "year": 2024,
+     "dates": "2/15~2/16",
+     "note": "평일 개최, 2025년보다 6.7만 명 적음"
+    }
+   ],
+   "next": "",
+   "visitors": "약 24만 명 (2025)",
+   "crowd": "혼잡",
+   "tips": [
+    "점등은 18~21시, 큰 가마쿠라 약 60기와 미니 가마쿠라가 시청 앞·요코테 공원 등 여러 곳에 흩어져 있다",
+    "1958년부터 2/15·16 고정이던 날짜가 2026년부터 금·토로 바뀌었으니 해마다 확인하자",
+    "JR 요코테역에서 걸어서 10분, 임시 포함 약 300대 무료 주차"
+   ],
+   "sources": [
+    "https://www.sakigake.jp/news/article/20260127AK0003/",
+    "https://rurubu.jp/andmore/spot/20001035",
+    "https://ja.wikipedia.org/wiki/かまくら"
+   ]
+  }
  },
  {
   "id": "akita-yuri-kogen-railway-chokai",
@@ -8589,7 +9789,15 @@ window.SPOTS = [
    "https://tabi-mag.jp/tanabata-edourou/",
    "https://www.city-yuzawa.jp/site/yuzawatrip/687.html"
   ],
-  "region": "도호쿠"
+  "region": "도호쿠",
+  "fest": {
+   "past": [],
+   "next": "",
+   "visitors": "",
+   "crowd": "",
+   "tips": [],
+   "sources": []
+  }
  },
  {
   "id": "akita-hanawa-bayashi",
@@ -8628,7 +9836,23 @@ window.SPOTS = [
    "https://ja.wikipedia.org/wiki/花輪ばやし",
    "http://hanawabayashi.jp/"
   ],
-  "region": "도호쿠"
+  "region": "도호쿠",
+  "fest": {
+   "past": [
+    {
+     "year": 2022,
+     "dates": "8/19~8/20",
+     "note": "2020·2021 중지 후 3년 만에 개최(날짜는 보도 일자·고정 일정 기준)"
+    }
+   ],
+   "next": "",
+   "visitors": "",
+   "crowd": "",
+   "tips": [],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/花輪ばやし"
+   ]
+  }
  },
  {
   "id": "akita-kakunodate-samurai-district",
@@ -8667,7 +9891,15 @@ window.SPOTS = [
   "sources": [
    "https://tazawako-kakunodate.com/"
   ],
-  "region": "도호쿠"
+  "region": "도호쿠",
+  "fest": {
+   "past": [],
+   "next": "",
+   "visitors": "",
+   "crowd": "",
+   "tips": [],
+   "sources": []
+  }
  },
  {
   "id": "akita-kanpuzan",
@@ -8944,7 +10176,28 @@ window.SPOTS = [
   "sources": [
    "https://ja.wikipedia.org/wiki/土崎神明社祭の曳山行事"
   ],
-  "region": "도호쿠"
+  "region": "도호쿠",
+  "fest": {
+   "past": [
+    {
+     "year": 2023,
+     "dates": "7/20~7/21",
+     "note": "날짜는 고정 일정 기준. 코로나 5류 이행 후 정상 개최, 26개 마을이 히키야마 봉납(전후 최다)"
+    },
+    {
+     "year": 2022,
+     "dates": "7/20~7/21",
+     "note": "날짜는 고정 일정 기준. 3년 만에 히키야마 행사, 19개 마을 봉납"
+    }
+   ],
+   "next": "",
+   "visitors": "",
+   "crowd": "",
+   "tips": [],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/土崎神明社祭の曳山行事"
+   ]
+  }
  },
  {
   "id": "akita-port-tower-selion",
@@ -9065,7 +10318,27 @@ window.SPOTS = [
   "sources": [
    "https://ja.wikipedia.org/wiki/大館アメッコ市"
   ],
-  "region": "도호쿠"
+  "region": "도호쿠",
+  "fest": {
+   "past": [
+    {
+     "year": 2026,
+     "dates": "2/14~2/15",
+     "note": "맑은 날씨, 노점 약 80곳"
+    }
+   ],
+   "next": "",
+   "visitors": "",
+   "crowd": "",
+   "tips": [
+    "회장은 오마치 하치코 거리, 미즈키 가지에 알록달록한 엿을 단 '에다아메'가 명물",
+    "이날 엿을 먹으면 감기에 안 걸린다는 소정월 행사라 가족 단위가 많다",
+    "오다테 과자협회가 옛날식 '가라미아메'를 무료로 나눠 준다"
+   ],
+   "sources": [
+    "https://www.sakigake.jp/news/article/20260214AK0023/"
+   ]
+  }
  },
  {
   "id": "akita-kosaka-korakukan",
@@ -9550,7 +10823,28 @@ window.SPOTS = [
    "https://ja.wikipedia.org/wiki/新庄まつり",
    "http://shinjo-matsuri.jp/"
   ],
-  "region": "도호쿠"
+  "region": "도호쿠",
+  "fest": {
+   "past": [
+    {
+     "year": 2024,
+     "dates": "8/24~8/26",
+     "note": "날짜는 고정 일정 기준. 직전 인형 대여를 둘러싼 갈등이 있었으나 개최"
+    },
+    {
+     "year": 2022,
+     "dates": "8/24~8/26",
+     "note": "날짜는 고정 일정 기준. 3년 만에 야타이 행렬, 3일간 33만 명(2019년 대비 58%)"
+    }
+   ],
+   "next": "",
+   "visitors": "약 33만 명 (2022)",
+   "crowd": "",
+   "tips": [],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/新庄まつり"
+   ]
+  }
  },
  {
   "id": "yamagata-atsumi-onsen",
@@ -9672,7 +10966,46 @@ window.SPOTS = [
    "https://ja.wikipedia.org/wiki/花笠まつり",
    "https://ja.wikipedia.org/wiki/七日町_(山形市)"
   ],
-  "region": "도호쿠"
+  "region": "도호쿠",
+  "fest": {
+   "past": [
+    {
+     "year": 2026,
+     "dates": "8/5~8/7",
+     "note": "전날 8/4 하나가사 서머 페스티벌"
+    },
+    {
+     "year": 2025,
+     "dates": "8/5~8/7",
+     "note": "약 71만 명"
+    },
+    {
+     "year": 2023,
+     "dates": "8/5~8/7",
+     "note": "제61회, 4년 만에 정상 개최"
+    },
+    {
+     "year": 2022,
+     "dates": "8/5~8/7",
+     "note": "날짜는 고정 일정 기준. 3년 만에 중심가 개최, 구호 금지·단체당 100명 제한"
+    }
+   ],
+   "next": "",
+   "visitors": "약 71만 명 (2025)",
+   "crowd": "매우 혼잡",
+   "tips": [
+    "유료 관람석은 6/1 판매 시작(배리어프리석은 7/1)",
+    "골 지점보다 출발 지점 도카마치 쪽이 덜 붐벼 시작 30분~1시간 전에도 자리 잡기 쉽다",
+    "18:10 무렵 오프닝 원무, 20:30 무렵부터 관객이 끼어드는 참가 코너가 있다",
+    "21:45 이후 야마가타역과 센잔선이 크게 붐비므로 돌아갈 표를 미리 사 두자",
+    "화장실은 역이나 상업시설에서 미리, 밤에도 더우니 음료와 냉감 용품을 챙기자"
+   ],
+   "sources": [
+    "https://rurubu.jp/andmore/spot/20002880",
+    "https://banzokubiology.com/hanagasa-matsuri-konzatsu/",
+    "https://ja.wikipedia.org/wiki/山形花笠まつり"
+   ]
+  }
  },
  {
   "id": "yamagata-uesugi-snow-lantern-festival",
@@ -9713,7 +11046,38 @@ window.SPOTS = [
    "https://www.yonezawa-kankou-navi.com/",
    "http://yukidourou.yonezawa-matsuri.jp/schedule/"
   ],
-  "region": "도호쿠"
+  "region": "도호쿠",
+  "fest": {
+   "past": [
+    {
+     "year": 2026,
+     "dates": "2/14~2/15",
+     "note": "제49회, 2/13(금) 참배길 주변만 프리 점등"
+    },
+    {
+     "year": 2023,
+     "dates": "",
+     "note": "3년 만에 개최(날짜 미확인)"
+    },
+    {
+     "year": 2022,
+     "dates": "",
+     "note": "중지 (코로나, 2년 연속). 자원봉사자가 참배길에 눈 등롱 10기만 제작"
+    }
+   ],
+   "next": "",
+   "visitors": "약 5.3만 명 (루루부 '작년 방문자 수')",
+   "crowd": "",
+   "tips": [
+    "17:30 무렵 일제 점등, 21시쯤까지",
+    "회장에 주차장이 없어 요네자와역·시청에서 셔틀버스를 이용한다(버스로 우에스기 신사 앞 약 10분)",
+    "회장 밖 시내 곳곳에도 눈 등롱·눈 봄보리가 만들어진다"
+   ],
+   "sources": [
+    "https://rurubu.jp/andmore/spot/20000989",
+    "https://ja.wikipedia.org/wiki/上杉雪灯篭まつり"
+   ]
+  }
  },
  {
   "id": "yamagata-zao-onsen",
@@ -9875,7 +11239,15 @@ window.SPOTS = [
    "https://ja.wikipedia.org/wiki/人間将棋",
    "https://ja.wikipedia.org/wiki/天童城"
   ],
-  "region": "도호쿠"
+  "region": "도호쿠",
+  "fest": {
+   "past": [],
+   "next": "",
+   "visitors": "",
+   "crowd": "",
+   "tips": [],
+   "sources": []
+  }
  },
  {
   "id": "yamagata-tobishima",
@@ -10034,7 +11406,34 @@ window.SPOTS = [
    "https://www.nta.co.jp/kokunai/special/eventinfo/10622026.htm",
    "https://rurubu.jp/andmore/spot/20003135"
   ],
-  "region": "도호쿠"
+  "region": "도호쿠",
+  "fest": {
+   "past": [
+    {
+     "year": 2026,
+     "dates": "9/20",
+     "note": "제38회, 약 3만 식"
+    },
+    {
+     "year": 2025,
+     "dates": "9/14",
+     "note": "제37회(검색 요약 기준)"
+    }
+   ],
+   "next": "",
+   "visitors": "",
+   "crowd": "",
+   "tips": [
+    "이모니를 먹으려면 협찬금이 필요: 사전(teket, 7/1부터) 600엔 이상, 당일 700엔 이상",
+    "정리권은 8:30부터, 배식은 9:20부터이고 다 떨어지면 끝나니 일찍 가자",
+    "임시 주차장에서 유료 셔틀(편도 대인 300엔), 야마가타역에서 버스 약 15분",
+    "비가 와도 열리지만 폭풍이면 중지될 수 있다"
+   ],
+   "sources": [
+    "https://prtimes.jp/main/html/rd/p/000000001.000187012.html",
+    "https://rurubu.jp/andmore/spot/20003135"
+   ]
+  }
  },
  {
   "id": "yamagata-zao-juhyo-ropeway",
@@ -10075,7 +11474,28 @@ window.SPOTS = [
    "https://zaoropeway.co.jp/winter/index.php",
    "https://zaoropeway.co.jp/summer/guide.php"
   ],
-  "region": "도호쿠"
+  "region": "도호쿠",
+  "fest": {
+   "past": [
+    {
+     "year": 2025,
+     "dates": "12/27~2/22",
+     "note": "2025-26 시즌 수빙 라이트업, 지정일 36일만 17~21시"
+    }
+   ],
+   "next": "",
+   "visitors": "약 1.3만 명 (루루부 '작년 방문자 수')",
+   "crowd": "",
+   "tips": [
+    "라이트업은 정해진 날에만 열리니 달력을 확인(2025-26 대인 4,400엔, 어린이 2,200엔)",
+    "산정역은 해발 1,661m라 방한을 단단히",
+    "맑은 날일수록 수빙이 잘 빛난다",
+    "주차는 평일 무료, 연말연시·주말 보통차 1,000엔"
+   ],
+   "sources": [
+    "https://rurubu.jp/andmore/spot/20003870"
+   ]
+  }
  },
  {
   "id": "yamagata-yuza-juroku-rakan",
@@ -10725,7 +12145,15 @@ window.SPOTS = [
   "sources": [
    "https://ja.wikipedia.org/wiki/東沢バラ公園"
   ],
-  "region": "도호쿠"
+  "region": "도호쿠",
+  "fest": {
+   "past": [],
+   "next": "",
+   "visitors": "",
+   "crowd": "",
+   "tips": [],
+   "sources": []
+  }
  },
  {
   "id": "fukushima-goshikinuma",
@@ -10802,7 +12230,29 @@ window.SPOTS = [
   "sources": [
    "https://ja.wikipedia.org/wiki/二本松提灯祭り"
   ],
-  "region": "도호쿠"
+  "region": "도호쿠",
+  "fest": {
+   "past": [
+    {
+     "year": 2025,
+     "dates": "10/4~10/6",
+     "note": ""
+    }
+   ],
+   "next": "",
+   "visitors": "",
+   "crowd": "",
+   "tips": [
+    "첫날 밤 요이마쓰리가 하이라이트, 초롱 약 300개를 단 태고대 7대가 시내를 돈다",
+    "노점이 150개쯤 나온다",
+    "JR 니혼마쓰역에서 걸어서 3분",
+    "2019년부터 10월 첫째 토·일·월로 바뀌었으니 날짜를 그 기준으로 확인하자"
+   ],
+   "sources": [
+    "https://www.iwafu.com/kr/events/1025174",
+    "https://ja.wikipedia.org/wiki/二本松提灯祭り"
+   ]
+  }
  },
  {
   "id": "fukushima-tadami-snow-festival",
@@ -10840,7 +12290,46 @@ window.SPOTS = [
   "sources": [
    "https://ja.wikipedia.org/wiki/只見町"
   ],
-  "region": "도호쿠"
+  "region": "도호쿠",
+  "fest": {
+   "past": [
+    {
+     "year": 2026,
+     "dates": "2/14~2/15",
+     "note": "제53회, 기원 불꽃 날짜 기준(일부 안내는 2/13~15)"
+    },
+    {
+     "year": 2025,
+     "dates": "2/8~2/9",
+     "note": "제52회, 불꽃 날짜 기준"
+    },
+    {
+     "year": 2024,
+     "dates": "2/10~2/11",
+     "note": "제51회, 불꽃 날짜 기준"
+    },
+    {
+     "year": 2023,
+     "dates": "2/11~2/12",
+     "note": "제50회, 불꽃 날짜 기준"
+    },
+    {
+     "year": 2022,
+     "dates": "",
+     "note": "중지 (제49회)"
+    }
+   ],
+   "next": "",
+   "visitors": "",
+   "crowd": "",
+   "tips": [
+    "토요일 밤(19시대)과 일요일 저녁(18시대)에 기원 불꽃이 오른다",
+    "회장은 JR 다다미역 앞 광장"
+   ],
+   "sources": [
+    "https://hanabi.cloud/html/Tohoku/fukushima/tadami-furusato-no-yukimatsuri-kigan-hanabi-taikai.html"
+   ]
+  }
  },
  {
   "id": "fukushima-tadami-line",
@@ -10962,7 +12451,43 @@ window.SPOTS = [
    "https://media.jreast.co.jp/articles/6029",
    "https://soma-nomaoi.jp/"
   ],
-  "region": "도호쿠"
+  "region": "도호쿠",
+  "fest": {
+   "past": [
+    {
+     "year": 2026,
+     "dates": "5/23~5/25",
+     "note": "말 한 마리가 코스를 벗어나 관객 최소 6명 부상"
+    },
+    {
+     "year": 2025,
+     "dates": "",
+     "note": "여성 참가 제한 철폐(날짜 미확인)"
+    },
+    {
+     "year": 2024,
+     "dates": "5/25~5/27",
+     "note": "처음으로 5월 하순 개최(더위 대책으로 7월에서 이동)"
+    },
+    {
+     "year": 2023,
+     "dates": "7/29~7/31",
+     "note": "열사병 의심 83명 발생 → 시원한 시기로 옮기기로 결정"
+    }
+   ],
+   "next": "",
+   "visitors": "",
+   "crowd": "",
+   "tips": [
+    "둘째 날 히바리가하라 제장에서 갑주 경마(12:00)·신기 쟁탈전(13:00)을 보려면 관람 티켓이 필요하다",
+    "둘째 날은 하라노마치역에서 회장까지 셔틀버스(약 10분)가 다닌다",
+    "말이 관객 쪽으로 뛰어든 사고가 있었으니 관람 구역 안내를 지키자"
+   ],
+   "sources": [
+    "https://soma-nomaoi.jp/",
+    "https://ja.wikipedia.org/wiki/相馬野馬追"
+   ]
+  }
  },
  {
   "id": "fukushima-sukagawa-taimatsu-akashi",
@@ -11001,7 +12526,21 @@ window.SPOTS = [
    "https://www.nta.co.jp/kokunai/special/eventinfo/10642896.htm",
    "https://ja.wikipedia.org/wiki/翠ヶ丘公園"
   ],
-  "region": "도호쿠"
+  "region": "도호쿠",
+  "fest": {
+   "past": [],
+   "next": "2026년 11/14(토) 13:00 횃불 행렬, 18:30 점화",
+   "visitors": "",
+   "crowd": "",
+   "tips": [
+    "관람 루트가 일방통행이라 안내에 따라 움직여야 한다",
+    "JR 스카가와역에서 걸어서 약 15분, 주차 1,500대와 임시 무료 주차장",
+    "당일 회장 주변 교통 규제, 노점도 나온다"
+   ],
+   "sources": [
+    "https://www.nta.co.jp/kokunai/special/eventinfo/10642896.htm"
+   ]
+  }
  },
  {
   "id": "fukushima-aizu-erosoku-festival",
@@ -11042,7 +12581,15 @@ window.SPOTS = [
    "https://ja.wikipedia.org/wiki/御薬園",
    "https://delay.fteinfo.com/train/20/l-11225/"
   ],
-  "region": "도호쿠"
+  "region": "도호쿠",
+  "fest": {
+   "past": [],
+   "next": "",
+   "visitors": "",
+   "crowd": "",
+   "tips": [],
+   "sources": []
+  }
  },
  {
   "id": "fukushima-aizu-ozatoro-train",
@@ -11124,7 +12671,43 @@ window.SPOTS = [
    "https://ouchi-juku.com/detail/622/freepage-4.html",
    "https://ouchi-juku.com/"
   ],
-  "region": "도호쿠"
+  "region": "도호쿠",
+  "fest": {
+   "past": [
+    {
+     "year": 2026,
+     "dates": "2/14~2/15",
+     "note": "제40회, 눈 등롱 점등 2/13~15 일몰~20시, 2/14 밤 불꽃"
+    },
+    {
+     "year": 2025,
+     "dates": "2/8",
+     "note": "불꽃 날짜 기준"
+    },
+    {
+     "year": 2024,
+     "dates": "2/10",
+     "note": "불꽃 날짜 기준(18:00~)"
+    },
+    {
+     "year": 2023,
+     "dates": "2/11",
+     "note": "불꽃 날짜 기준"
+    }
+   ],
+   "next": "",
+   "visitors": "",
+   "crowd": "",
+   "tips": [
+    "토요일 밤 불꽃(18시 무렵)에 맞춰 가면 눈 등롱과 함께 볼 수 있다",
+    "가장 가까운 아이즈 철도 유노카미온센역에서 차로 약 20분",
+    "주차장 약 250대(유료)"
+   ],
+   "sources": [
+    "https://rurubu.jp/andmore/spot/20000991",
+    "https://hanabi.cloud/html/Tohoku/fukushima/oouchijuku-yukimatsuri.html"
+   ]
+  }
  },
  {
   "id": "fukushima-yunokami-onsen",
@@ -11281,7 +12864,15 @@ window.SPOTS = [
    "https://ja.wikipedia.org/wiki/檜枝岐村",
    "https://www.pref.fukushima.lg.jp/uploaded/attachment/733167.pdf"
   ],
-  "region": "도호쿠"
+  "region": "도호쿠",
+  "fest": {
+   "past": [],
+   "next": "",
+   "visitors": "",
+   "crowd": "",
+   "tips": [],
+   "sources": []
+  }
  },
  {
   "id": "fukushima-tonohetsuri",
@@ -11554,7 +13145,29 @@ window.SPOTS = [
   "sources": [
    "https://ja.wikipedia.org/wiki/会津田島祇園祭"
   ],
-  "region": "도호쿠"
+  "region": "도호쿠",
+  "fest": {
+   "past": [
+    {
+     "year": 2026,
+     "dates": "7/22~7/24",
+     "note": ""
+    }
+   ],
+   "next": "",
+   "visitors": "예년 약 8만 명 (워커플러스 표기)",
+   "crowd": "",
+   "tips": [
+    "볼거리인 시치호카이 행렬(신부 차림 약 40명)은 아침 7:50~8:30 무렵이라 일찍 나가야 한다",
+    "야타이 운행과 가부키는 16시부터, 밤엔 참배길에 등불이 켜진다",
+    "도쿄 아사쿠사에서 도부선으로 약 3시간 15분, 아이즈타지마역",
+    "날씨에 따라 행렬 일정이 바뀔 수 있다"
+   ],
+   "sources": [
+    "https://www.kanko-aizu.com/gion/",
+    "https://summer.walkerplus.com/odekake/detail_e/ar0207e73381/data.html"
+   ]
+  }
  },
  {
   "id": "fukushima-yanaizu-enzoji",
@@ -11596,7 +13209,15 @@ window.SPOTS = [
   "sources": [
    "https://ja.wikipedia.org/wiki/円蔵寺"
   ],
-  "region": "도호쿠"
+  "region": "도호쿠",
+  "fest": {
+   "past": [],
+   "next": "",
+   "visitors": "",
+   "crowd": "",
+   "tips": [],
+   "sources": []
+  }
  },
  {
   "id": "fukushima-tomioka-yonomori-sakura",
@@ -11635,7 +13256,26 @@ window.SPOTS = [
    "https://ja.wikipedia.org/wiki/夜ノ森駅",
    "https://weathernews.jp/sakura/spot/36001/"
   ],
-  "region": "도호쿠"
+  "region": "도호쿠",
+  "fest": {
+   "past": [
+    {
+     "year": 2026,
+     "dates": "4/4~4/5",
+     "note": "요노모리 공원, 9:00~15:00"
+    }
+   ],
+   "next": "",
+   "visitors": "",
+   "crowd": "",
+   "tips": [
+    "축제 회장 요노모리 공원은 JR 요노모리역에서 걸어서 5분",
+    "무대 공연과 지역 먹거리 코너가 열린다"
+   ],
+   "sources": [
+    "https://www.iwafu.com/en/events/1057861"
+   ]
+  }
  },
  {
   "id": "fukushima-hanamiyama",
@@ -11756,7 +13396,15 @@ window.SPOTS = [
   "sources": [
    "https://ja.wikipedia.org/wiki/磐梯熱海温泉"
   ],
-  "region": "도호쿠"
+  "region": "도호쿠",
+  "fest": {
+   "past": [],
+   "next": "",
+   "visitors": "",
+   "crowd": "",
+   "tips": [],
+   "sources": []
+  }
  },
  {
   "id": "fukushima-shirakawa-nanko-park",
@@ -12116,7 +13764,35 @@ window.SPOTS = [
    "https://www.kogakanko.jp/hanabi",
    "https://nominatim.openstreetmap.org/search?q=古河ゴルフリンクス&countrycodes=jp&format=json"
   ],
-  "region": "간토"
+  "region": "간토",
+  "fest": {
+   "past": [
+    {
+     "year": 2026,
+     "dates": "8/1",
+     "note": "제21회, 古河ゴルフリンクス(渡良瀬川 하천부지)"
+    },
+    {
+     "year": 2024,
+     "dates": "8/3",
+     "note": "제19회 (검색 요약 기준: 古河市 프로그램 PDF, 원문 미열람)"
+    }
+   ],
+   "next": "",
+   "visitors": "예년 약 20만 명 (walkerplus 안내)",
+   "crowd": "혼잡",
+   "tips": [
+    "유료석은 1석(4명까지) 23,100엔 수준(2026). 앉아서 편히 보려면 유료석이 안전하다",
+    "가장 가까운 역은 도부선 新古河역(도보 약 5분). JR 古河역에서는 20~30분 걷는다",
+    "무료 주차장(약 1,500대)이 있지만 17~22시 일방통행 규제가 있으니 차라면 일찍 들어가야 한다",
+    "끝난 뒤 역 매표기에 줄이 길어지므로 Suica 등 IC카드를 미리 충전하거나 모바일 Suica를 쓰면 편하다",
+    "3척옥(三尺玉)이 하이라이트, 악천후 시 순연 없이 중지된다"
+   ],
+   "sources": [
+    "https://hanabi.walkerplus.com/detail/ar0308e01029/data.html",
+    "https://media.jreast.co.jp/articles/6531"
+   ]
+  }
  },
  {
   "id": "ibaraki-ryujin-otsuribashi",
@@ -12155,7 +13831,27 @@ window.SPOTS = [
    "https://ja.wikipedia.org/wiki/竜神峡",
    "https://nominatim.openstreetmap.org/search?q=竜神大吊橋&countrycodes=jp&format=json"
   ],
-  "region": "간토"
+  "region": "간토",
+  "fest": {
+   "past": [
+    {
+     "year": 2026,
+     "dates": "4/25~5/10",
+     "note": "竜神峡鯉のぼりまつり (사전 안내 기준)"
+    }
+   ],
+   "next": "",
+   "visitors": "약 2만 5천 명 (2025, 루루부 '작년' 기준)",
+   "crowd": "",
+   "tips": [
+    "길이 375m 竜神大吊橋 위로 고이노보리 약 1,000마리가 뜨는 게 볼거리, 신록 배경 사진이 좋다",
+    "다리 건너는 요금은 어른 320엔, 어린이날(5/5)엔 중학생 이하 무료",
+    "주차장 265대 무료. 대중교통은 JR 常陸太田역에서 버스 약 45분이라 편수를 미리 확인"
+   ],
+   "sources": [
+    "https://rurubu.jp/andmore/spot/20001870"
+   ]
+  }
  },
  {
   "id": "ibaraki-tsukubasan",
@@ -12395,7 +14091,35 @@ window.SPOTS = [
    "https://ja.wikipedia.org/wiki/偕楽園",
    "https://tabi-mag.jp/mito-umefes/"
   ],
-  "region": "간토"
+  "region": "간토",
+  "fest": {
+   "past": [
+    {
+     "year": 2026,
+     "dates": "2/11~3/22",
+     "note": "제130회 기념 (사전 안내 기준)"
+    },
+    {
+     "year": 2025,
+     "dates": "2/11~3/20",
+     "note": "제129회, 야간 라이트업 'UME The Lights' 첫 개최(주말·공휴일 18:00~20:30)"
+    }
+   ],
+   "next": "",
+   "visitors": "약 24만 명 (2025, 루루부 '작년' 기준)",
+   "crowd": "",
+   "tips": [
+    "偕楽園 본원 입장료 어른 320엔, 弘道館은 별도(420엔). 매화 품종이 많아 이른 매화~늦은 매화까지 길게 볼 수 있다",
+    "임시역 JR 偕楽園역은 보통 매화축제 기간 토·일·공휴일만 선다(2026년은 일부 평일도 개설). 평일엔 水戸역 북쪽 출구에서 버스 약 20분",
+    "야간 라이트업 날에는 17시에 일단 전원 퇴장시키고 재입장 시 입장료를 다시 받는다",
+    "주차장 약 1,600대(1회 500엔~). 같은 시기 옆 常磐神社에서 전국 우메슈 축제가 열리기도 한다"
+   ],
+   "sources": [
+    "https://rurubu.jp/andmore/spot/20001003",
+    "https://www.pref.ibaraki.jp/bugai/koho/kenmin/hibari/hibari-site/hibari202502/02tokusyu2.html",
+    "https://ja.wikipedia.org/wiki/水戸の梅まつり"
+   ]
+  }
  },
  {
   "id": "ibaraki-makabe-hinamatsuri",
@@ -12434,7 +14158,28 @@ window.SPOTS = [
    "https://ja.wikipedia.org/wiki/真壁町",
    "https://msearch.gsi.go.jp/address-search/AddressSearch?q=真壁町真壁"
   ],
-  "region": "간토"
+  "region": "간토",
+  "fest": {
+   "past": [
+    {
+     "year": 2026,
+     "dates": "2/4~3/3",
+     "note": "사전 안내 기준"
+    }
+   ],
+   "next": "",
+   "visitors": "약 8만 명 (2025, 루루부 '작년' 기준)",
+   "crowd": "",
+   "tips": [
+    "100채 넘는 민가·가게가 각자 히나 인형을 꾸며 무료로 보여준다. 집마다 대접 방식이 달라 골목을 천천히 도는 게 재미",
+    "특정일에만 流し雛(종이 인형 띄우기)·인형 조루리·고교생 직판이 있으니 일정표 확인",
+    "대중교통은 JR 岩瀬역에서 시 버스로 약 40분이라 차가 편하다. 주차장 215대, 1일 500엔",
+    "전시 장소가 시가지에 흩어져 있으니 지도를 받고 동선을 짜자"
+   ],
+   "sources": [
+    "https://rurubu.jp/andmore/spot/20005013"
+   ]
+  }
  },
  {
   "id": "ibaraki-tsuchiura-fireworks",
@@ -12472,7 +14217,41 @@ window.SPOTS = [
    "https://ja.wikipedia.org/wiki/土浦全国花火競技大会",
    "https://www.tsuchiura-hanabi.jp/"
   ],
-  "region": "간토"
+  "region": "간토",
+  "fest": {
+   "past": [
+    {
+     "year": 2025,
+     "dates": "11/1",
+     "note": "제94회, 土浦の花火 100주년 기념 (사전 안내 기준, 실시 결과 미확인)"
+    },
+    {
+     "year": 2024,
+     "dates": "",
+     "note": "중지 (11/2 악천후 예보, 예비일 11/3·11/9도 홍수 피해·경비 인력 부족으로 취소, 유료석 환불)"
+    },
+    {
+     "year": 2022,
+     "dates": "11/5",
+     "note": "3년 만에 개최, 桟敷席 정원 축소·제방 바리케이드 등 밀집 대책"
+    }
+   ],
+   "next": "2026년 11/7(토) 17:30 경연 시작 (제95회)",
+   "visitors": "예년 약 80만 명 (연도 미상, 위키피디아)",
+   "crowd": "매우 혼잡",
+   "tips": [
+    "桟敷席·의자석은 チケットぴあ 웹 신청(2025년은 8월 중순~9월 초 접수, 1인 1석, 창구 판매 없음)",
+    "土浦역 동쪽 출구에서 유료 셔틀버스(15:00~17:30) 약 10분, 걸으면 30분. 쓰쿠바 쪽 버스는 일찍 끊기니 14:30까지 도착 권장",
+    "끝나면 土浦역에 입장 규제가 걸리고 특급권이 있어도 우선 승차가 안 된다. 왕복표·IC 충전을 미리 해두고 여유 있게 귀가",
+    "상행 임시열차 다수가 我孫子역 종착이라 도쿄까지는 갈아타야 할 수 있다",
+    "촬영은 자기 자리에서만, 앉은키보다 높이 들고 찍기 금지, 회장 전면 금연"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/土浦全国花火競技大会",
+    "https://media.jreast.co.jp/articles/4822",
+    "https://www.tsuchiura-hanabi.jp/"
+   ]
+  }
  },
  {
   "id": "ibaraki-oarai-kamiiso-torii",
@@ -12547,7 +14326,15 @@ window.SPOTS = [
   "sources": [
    "https://ja.wikipedia.org/wiki/水郷潮来あやめまつり"
   ],
-  "region": "간토"
+  "region": "간토",
+  "fest": {
+   "past": [],
+   "next": "",
+   "visitors": "",
+   "crowd": "",
+   "tips": [],
+   "sources": []
+  }
  },
  {
   "id": "ibaraki-hananuki-keikoku",
@@ -12586,7 +14373,21 @@ window.SPOTS = [
    "https://weathernews.jp/koyo/spot/24006/",
    "https://www.ibarakiguide.jp/spot.php?mode=detail&code=236"
   ],
-  "region": "간토"
+  "region": "간토",
+  "fest": {
+   "past": [],
+   "next": "2026년 단풍 라이트업 11/14~29 예정 (일몰~19시)",
+   "visitors": "",
+   "crowd": "",
+   "tips": [
+    "汐見滝 현수교에서 내려다보는 폭포·계류와 강가 단풍이 핵심 포인트",
+    "라이트업 관람은 무료지만 단풍축제 기간 주차장은 유료",
+    "체력이 되면 土岳 정상까지 올라 360도 전망도 볼 수 있다"
+   ],
+   "sources": [
+    "https://rurubu.jp/andmore/article/4459"
+   ]
+  }
  },
  {
   "id": "ibaraki-fukuroda-falls",
@@ -12626,7 +14427,27 @@ window.SPOTS = [
    "https://ja.wikipedia.org/wiki/袋田の滝",
    "https://tabi-mag.jp/fukuroda-lightup/"
   ],
-  "region": "간토"
+  "region": "간토",
+  "fest": {
+   "past": [
+    {
+     "year": 2025,
+     "dates": "11/1~1/12",
+     "note": "'大子来人(ダイゴライト)' 라이트업 2025-26 시즌"
+    }
+   ],
+   "next": "",
+   "visitors": "18만 7,125명 (2024-25 시즌, 루루부 '작년' 기준)",
+   "crowd": "",
+   "tips": [
+    "폭포 라이트업은 일몰~20시(12~1월은 19시까지), 입장료 어른 500엔 별도",
+    "폭포로 가는 길의 빛의 터널·현수교 연출도 함께 볼 수 있다",
+    "JR 袋田역에서 버스 10분 + 도보 10분. 차라면 유료·무료 주차장 합쳐 약 960대"
+   ],
+   "sources": [
+    "https://rurubu.jp/andmore/spot/20004301"
+   ]
+  }
  },
  {
   "id": "ibaraki-hinuma",
@@ -12859,7 +14680,27 @@ window.SPOTS = [
   "sources": [
    "https://ja.wikipedia.org/wiki/日立市かみね公園"
   ],
-  "region": "간토"
+  "region": "간토",
+  "fest": {
+   "past": [
+    {
+     "year": 2026,
+     "dates": "4/1~4/12",
+     "note": "제61회 日立さくらまつり, 메인 행사 4/4~5 (사전 안내 기준)"
+    }
+   ],
+   "next": "",
+   "visitors": "약 49만 명 (2025, 루루부 '작년' 기준)",
+   "crowd": "",
+   "tips": [
+    "메인 이틀은 平和通り가 낮부터 보행자 천국이 되고 유네스코 무형유산 '日立風流物'이 공개된다",
+    "회장은 平和通り·かみね公園·十王パノラマ公園 등으로 나뉘니 보고 싶은 곳을 먼저 정하자",
+    "平和通り 회장은 JR 日立역에서 도보 1분. 무료 임시주차장(약 670대)은 메인 이틀만 운영"
+   ],
+   "sources": [
+    "https://rurubu.jp/andmore/spot/20001392"
+   ]
+  }
  },
  {
   "id": "ibaraki-kasama-inari",
@@ -12897,7 +14738,27 @@ window.SPOTS = [
   "sources": [
    "https://ja.wikipedia.org/wiki/笠間稲荷神社"
   ],
-  "region": "간토"
+  "region": "간토",
+  "fest": {
+   "past": [
+    {
+     "year": 2026,
+     "dates": "10/24~11/23",
+     "note": "제119회 笠間の菊まつり (2026/10/31 현재 진행 중)"
+    }
+   ],
+   "next": "",
+   "visitors": "",
+   "crowd": "",
+   "tips": [
+    "시내와 신사 경내 합쳐 국화 약 1만 화분, 오층탑·후지산을 국화로 만든 특작 화단과 국화 인형이 볼거리",
+    "입장 무료(미술관은 유료). 주차장 약 300대는 무료지만 날에 따라 유료",
+    "JR 笠間역에서 버스 약 5분. 참배 뒤 몬테블랑 등 먹거리 거리 산책을 묶는 경우가 많다"
+   ],
+   "sources": [
+    "https://rurubu.jp/andmore/spot/20000045"
+   ]
+  }
  },
  {
   "id": "ibaraki-kashima-jingu",
@@ -13370,7 +15231,32 @@ window.SPOTS = [
    "https://ja.wikipedia.org/wiki/鹿沼今宮神社祭の屋台行事",
    "https://msearch.gsi.go.jp/address-search/AddressSearch?q=今宮神社"
   ],
-  "region": "간토"
+  "region": "간토",
+  "fest": {
+   "past": [
+    {
+     "year": 2023,
+     "dates": "",
+     "note": "4년 만에 재개 (구체 날짜 미확인)"
+    },
+    {
+     "year": 2022,
+     "dates": "",
+     "note": "중지 (코로나 확산 지속). 2019 태풍, 2020·2021 코로나로 연속 중지(2021은 무관객 대체 행사)"
+    }
+   ],
+   "next": "",
+   "visitors": "",
+   "crowd": "",
+   "tips": [
+    "최대 볼거리는 교차로에서 조각 야타이 2대 이상이 마주 보고 반주 실력을 겨루는 'ぶっつけ'",
+    "첫날은 今宮神社 야타이 행사, 둘째 날은 御巡幸과 시민 축제로 구성(야타이 27대)",
+    "일정은 보통 10월 둘째 토·일(체육의 날 직전 주말) 무렵이니 공식 일정 확인"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/鹿沼今宮神社祭の屋台行事"
+   ]
+  }
  },
  {
   "id": "tochigi-karasuyama-yamaage",
@@ -13408,7 +15294,33 @@ window.SPOTS = [
    "https://ja.wikipedia.org/wiki/山あげ祭",
    "https://nominatim.openstreetmap.org/search?q=山あげ会館&countrycodes=jp&format=json"
   ],
-  "region": "간토"
+  "region": "간토",
+  "fest": {
+   "past": [
+    {
+     "year": 2026,
+     "dates": "7/24~7/26",
+     "note": "사전 안내 기준"
+    },
+    {
+     "year": 2022,
+     "dates": "",
+     "note": "3년 만에 재개(날짜 미확인), 이후 관계자 집단감염 보고. 2020 중지, 2021 무관객"
+    }
+   ],
+   "next": "",
+   "visitors": "약 6만 3천 명 (2025, 루루부 '작년' 기준)",
+   "crowd": "",
+   "tips": [
+    "烏山 특산 화지로 만든 거대한 산 무대('はりか山')를 세우고 그 앞에서 가부키 무용을 공연한다. 무대를 세우는 젊은이들 손발도 볼거리",
+    "공연은 하루 여러 번, 장소를 옮겨가며 열리니 일정표를 받아 움직이자",
+    "JR 烏山역에서 도보 5~30분(공연 장소에 따라 다름), 주차장 약 1,000대, 관람 무료"
+   ],
+   "sources": [
+    "https://rurubu.jp/andmore/spot/20002636",
+    "https://ja.wikipedia.org/wiki/烏山の山あげ行事"
+   ]
+  }
  },
  {
   "id": "tochigi-kawaji-onsen",
@@ -13849,7 +15761,21 @@ window.SPOTS = [
    "https://ja.wikipedia.org/wiki/あしかがフラワーパーク",
    "https://tetsudo-ch.com/13040873.html"
   ],
-  "region": "간토"
+  "region": "간토",
+  "fest": {
+   "past": [],
+   "next": "2026-27 시즌 일루미네이션 10월 중순~2월 중순 (공식 안내)",
+   "visitors": "",
+   "crowd": "",
+   "tips": [
+    "밤 부(15:30~20:30, 토·일·공휴일 21시)는 낮 부와 입장 교대제, 재입장 불가",
+    "밤 부 입장료 어른 1,500엔 수준이지만 꽃 상태에 따라 요금·시간이 바뀐다",
+    "티켓 판매는 폐원 30분 전까지라 늦게 가면 못 들어간다"
+   ],
+   "sources": [
+    "https://www.ashikaga.co.jp/"
+   ]
+  }
  },
  {
   "id": "tochigi-nikko-yumoto-onsen",
@@ -14311,7 +16237,33 @@ window.SPOTS = [
    "https://ja.wikipedia.org/wiki/益子焼",
    "https://nominatim.openstreetmap.org/search?q=益子焼 城内坂&countrycodes=jp&format=json"
   ],
-  "region": "간토"
+  "region": "간토",
+  "fest": {
+   "past": [
+    {
+     "year": 2026,
+     "dates": "10/31~11/3",
+     "note": "가을 도자기 시장 (2026/10/31 현재 진행 중)"
+    },
+    {
+     "year": 2026,
+     "dates": "4/29~5/6",
+     "note": "봄 도자기 시장 (사전 안내 기준)"
+    }
+   ],
+   "next": "",
+   "visitors": "봄 약 40만 명, 가을 약 20만 명 (2025, 루루부 '작년' 기준)",
+   "crowd": "",
+   "tips": [
+    "판매점 약 50곳에 텐트 700~800여 개가 서서 생활 그릇부터 작품까지 고를 수 있다",
+    "텐트에서 젊은 작가·가마 장인과 직접 이야기하며 살 수 있는 게 장점",
+    "주차장은 무료·유료 합쳐 2,000~3,000대 규모. 전철은 真岡鐵道 益子역에서 도보 15분 또는 버스"
+   ],
+   "sources": [
+    "https://rurubu.jp/andmore/spot/20001735",
+    "https://rurubu.jp/andmore/spot/20000377"
+   ]
+  }
  },
  {
   "id": "tochigi-sano-yakuyoke-daishi",
@@ -14550,7 +16502,26 @@ window.SPOTS = [
    "https://ja.wikipedia.org/wiki/宇都宮餃子",
    "https://nominatim.openstreetmap.org/search?q=宇都宮駅 餃子像&countrycodes=jp&format=json"
   ],
-  "region": "간토"
+  "region": "간토",
+  "fest": {
+   "past": [
+    {
+     "year": 2025,
+     "dates": "11/1~11/2",
+     "note": "宇都宮城址公園 (검색 요약 기준)"
+    }
+   ],
+   "next": "2026년 11/7~11/8, 宇都宮城址公園",
+   "visitors": "약 16만 명 (2025, 루루부 '작년' 기준)",
+   "crowd": "",
+   "tips": [
+    "입장 무료, 가맹점 교자를 한 접시 단위(200엔 안팎)로 사서 여러 가게를 비교해 먹는 방식",
+    "전용 주차장이 없으니 東武宇都宮역 도보 10분 또는 JR 宇都宮역에서 버스 5분+도보"
+   ],
+   "sources": [
+    "https://rurubu.jp/andmore/spot/20003310"
+   ]
+  }
  },
  {
   "id": "gunma-kawarayu-onsen-yamba",
@@ -14593,7 +16564,20 @@ window.SPOTS = [
    "https://ja.wikipedia.org/wiki/八ッ場ダム",
    "https://msearch.gsi.go.jp/address-search/AddressSearch?q=川原湯温泉"
   ],
-  "region": "간토"
+  "region": "간토",
+  "fest": {
+   "past": [],
+   "next": "2027년 1/20 새벽 (매년 대한 무렵 고정일, 시각은 공식 확인)",
+   "visitors": "",
+   "crowd": "",
+   "tips": [
+    "유카케 마쓰리는 매년 1월 20일 동트기 전 새벽에 열린다. 한겨울 새벽이라 숙박하며 보는 게 현실적",
+    "옛 온천가는 八ッ場댐에 수몰됐고 여관들은 남쪽 고지대의 새 온천가로 옮겼다. 행사 장소는 공식 안내 확인"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/川原湯温泉"
+   ]
+  }
  },
  {
   "id": "gunma-kusatsu-sainokawara",
@@ -15043,7 +17027,27 @@ window.SPOTS = [
    "https://ja.wikipedia.org/wiki/老神温泉",
    "https://msearch.gsi.go.jp/address-search/AddressSearch?q=老神温泉"
   ],
-  "region": "간토"
+  "region": "간토",
+  "fest": {
+   "past": [
+    {
+     "year": 2026,
+     "dates": "5/8~5/9",
+     "note": "赤城神社例祭 大蛇まつり (사전 안내 기준)"
+    }
+   ],
+   "next": "",
+   "visitors": "약 500명 (2025, 루루부 '작년' 기준)",
+   "crowd": "한산",
+   "tips": [
+    "큰 뱀 모양 미코시가 온천가를 누비는 행사, 매년 5월 둘째 금·토",
+    "규모가 작아 가까이서 볼 수 있지만 주차장은 25대뿐",
+    "JR 沼田역에서 버스 약 40분이라 온천 숙박과 묶는 게 좋다"
+   ],
+   "sources": [
+    "https://rurubu.jp/andmore/spot/20002027"
+   ]
+  }
  },
  {
   "id": "gunma-watarase-keikoku-torokko",
@@ -15125,7 +17129,20 @@ window.SPOTS = [
    "https://www.ikaho-kankou.com/spring/spa1/",
    "https://www.ikaho-kankou.com/red_lightup/"
   ],
-  "region": "간토"
+  "region": "간토",
+  "fest": {
+   "past": [],
+   "next": "2026년 10월 하순~11월 상순 河鹿橋 단풍 라이트업 (루루부 안내)",
+   "visitors": "",
+   "crowd": "",
+   "tips": [
+    "붉게 칠한 아치형 다리 河鹿橋와 주변 단풍의 대비가 핵심, 밤 라이트업이 분위기 있다",
+    "관람 무료. 점등 시간은 해마다 공식 확인"
+   ],
+   "sources": [
+    "https://rurubu.jp/andmore/article/4459"
+   ]
+  }
  },
  {
   "id": "gunma-harunako",
@@ -15280,7 +17297,27 @@ window.SPOTS = [
    "https://ja.wikipedia.org/wiki/つつじが岡公園",
    "https://msearch.gsi.go.jp/address-search/AddressSearch?q=つつじが岡公園"
   ],
-  "region": "간토"
+  "region": "간토",
+  "fest": {
+   "past": [
+    {
+     "year": 2026,
+     "dates": "4/8~5/6",
+     "note": "館林 つつじまつり (사전 안내 기준)"
+    }
+   ],
+   "next": "",
+   "visitors": "약 9만 2천 명 (2025, 루루부 '작년' 기준)",
+   "crowd": "",
+   "tips": [
+    "입장료가 개화 단계에 따라 300엔→600엔→최성기 1,000엔→끝물 200엔으로 바뀐다(중학생 이하 무료)",
+    "에도 시대부터 이어진 진달래 명소로 국가 명승. 희귀 품종이 많다",
+    "東武 館林역에서 버스 약 10분, 주차장 약 800대"
+   ],
+   "sources": [
+    "https://rurubu.jp/andmore/spot/20001573"
+   ]
+  }
  },
  {
   "id": "gunma-myogisan",
@@ -15400,7 +17437,28 @@ window.SPOTS = [
    "https://ja.wikipedia.org/wiki/少林山達磨寺",
    "https://nominatim.openstreetmap.org/search?q=少林山達磨寺&countrycodes=jp&format=json"
   ],
-  "region": "간토"
+  "region": "간토",
+  "fest": {
+   "past": [
+    {
+     "year": 2026,
+     "dates": "1/6~1/7",
+     "note": ""
+    }
+   ],
+   "next": "2027년 1/6~1/7 (매년 고정)",
+   "visitors": "",
+   "crowd": "",
+   "tips": [
+    "6일 밤부터 밤새 열리는 일본 최대급 다루마 시장, 7일 새벽 2시가 길시로 여겨진다",
+    "경내에 다루마 가게와 먹거리 노점이 늘어선다",
+    "JR 群馬八幡역에서 도보 약 18분, 무료 주차장 약 300대"
+   ],
+   "sources": [
+    "https://rurubu.jp/andmore/spot/20000874",
+    "https://ja.wikipedia.org/wiki/少林山達磨寺"
+   ]
+  }
  },
  {
   "id": "gunma-shiriyaki-onsen",
@@ -15944,7 +18002,25 @@ window.SPOTS = [
    "https://www.gltjp.com/ja/directory/item/11428/",
    "https://chocotabi-saitama.jp/event/5197/"
   ],
-  "region": "간토"
+  "region": "간토",
+  "fest": {
+   "past": [
+    {
+     "year": 2026,
+     "dates": "1/8~2/23",
+     "note": "라이트업 목~일·공휴일 17~20시 무렵 (검색 요약 기준, 원문 미열람)"
+    }
+   ],
+   "next": "",
+   "visitors": "",
+   "crowd": "",
+   "tips": [
+    "토·일·공휴일은 낮/밤 완전 교대제이고 라이트업은 사전 예약을 받는다",
+    "전철로 오면 西武 芦ヶ久保역 개찰구 안에서 당일 라이트업 관람권을 살 수 있다(고드름 입장료는 별도)",
+    "芦ヶ久保역에서 도보 약 10분. 얼음 상태·날씨에 따라 중지되기도 하니 당일 확인"
+   ],
+   "sources": []
+  }
  },
  {
   "id": "saitama-yoshida-ryusei",
@@ -15979,7 +18055,32 @@ window.SPOTS = [
    "https://ja.wikipedia.org/wiki/椋神社",
    "https://ja.wikipedia.org/wiki/龍勢"
   ],
-  "region": "간토"
+  "region": "간토",
+  "fest": {
+   "past": [
+    {
+     "year": 2025,
+     "dates": "10/12",
+     "note": "24개 유파 30발 봉납 예정"
+    },
+    {
+     "year": 2024,
+     "dates": "10/13",
+     "note": "23개 유파 28발, 8:40~16:15 (검색 요약 기준)"
+    }
+   ],
+   "next": "",
+   "visitors": "",
+   "crowd": "",
+   "tips": [
+    "아침 8:40쯤부터 오후까지 약 15분 간격으로 수제 로켓이 하나씩 올라가니 하루 일정으로 잡자",
+    "芦田山 기슭 발사대에서 쏘아 올린다. 椋神社 주변이 회장",
+    "皆野역·西武秩父역에서 임시 버스로 龍勢会館까지 가서 도보 10분. 차는 みどりが丘 공업단지 임시주차장+무료 셔틀"
+   ],
+   "sources": [
+    "https://san-tatsu.jp/articles/452769/"
+   ]
+  }
  },
  {
   "id": "saitama-kawagoe-hikawa-shrine",
@@ -16017,7 +18118,28 @@ window.SPOTS = [
   "sources": [
    "https://ja.wikipedia.org/wiki/氷川神社_(川越市)"
   ],
-  "region": "간토"
+  "region": "간토",
+  "fest": {
+   "past": [
+    {
+     "year": 2025,
+     "dates": "6/28~9/15",
+     "note": "縁むすび風鈴, 9:00~20:00"
+    }
+   ],
+   "next": "",
+   "visitors": "",
+   "crowd": "혼잡",
+   "tips": [
+    "토·일·공휴일 10~14시가 가장 붐빈다. 평일 개문 직후(9~10시)나 16:30 이후가 한산",
+    "라이트업은 18:30~20:00(百万灯 여름축제 기간은 21시까지). 점등 직후가 사진 찍기 좋다",
+    "에도 풍령 일부 색은 매진되니 수여품을 원하면 낮 이른 시간에",
+    "전용 주차장이 없고 川越역에서 걸으면 30~35분이라 東武バス나 小江戸 순회버스(1일권 500엔)가 편하다"
+   ],
+   "sources": [
+    "https://kaibutsu-blog.com/kawagoe-hikawa-enmusubi-fuurin-2026/"
+   ]
+  }
  },
  {
   "id": "saitama-konosu-fireworks",
@@ -16055,7 +18177,44 @@ window.SPOTS = [
    "https://ja.wikipedia.org/wiki/こうのす花火大会",
    "https://www.bushikaku.net/article/194952/"
   ],
-  "region": "간토"
+  "region": "간토",
+  "fest": {
+   "past": [
+    {
+     "year": 2026,
+     "dates": "10/10",
+     "note": "제23회, 17:30~20:00, 순연 없음"
+    },
+    {
+     "year": 2025,
+     "dates": "10/11",
+     "note": "제22회 (검색 요약 기준)"
+    },
+    {
+     "year": 2023,
+     "dates": "10/7",
+     "note": "제20회"
+    },
+    {
+     "year": 2022,
+     "dates": "10/1",
+     "note": "제19회, 3년 만에 개최"
+    }
+   ],
+   "next": "",
+   "visitors": "약 60만 명 (위키피디아, 2022~2023년 대회 기준)",
+   "crowd": "",
+   "tips": [
+    "목표는 기네스 세계기록에 오른 4척옥(四尺玉). 전체 약 2만 발",
+    "유료석은 로손티켓 판매: 糠田 제1회장 블루시트 마스석(4명) 3만엔·의자석(2명) 1만 8천엔, 제2회장은 의자 1명 7천엔 등",
+    "JR 鴻巣역에서 회장(糠田運動場·荒川 하천부지)까지 도보 약 30분",
+    "16:30쯤부터 주변 교통규제가 시작되니 차로 간다면 일찍"
+   ],
+   "sources": [
+    "https://hanabi.walkerplus.com/detail/ar0311e01076/",
+    "https://ja.wikipedia.org/wiki/こうのす花火大会"
+   ]
+  }
  },
  {
   "id": "saitama-kodai-hasu-no-sato",
@@ -16130,7 +18289,27 @@ window.SPOTS = [
   "sources": [
    "https://ja.wikipedia.org/wiki/権現堂堤"
   ],
-  "region": "간토"
+  "region": "간토",
+  "fest": {
+   "past": [
+    {
+     "year": 2026,
+     "dates": "3/27~4/12",
+     "note": "제93회 幸手桜まつり (사전 안내 기준)"
+    }
+   ],
+   "next": "",
+   "visitors": "약 68만 명 (2025, 루루부 '작년' 기준)",
+   "crowd": "",
+   "tips": [
+    "약 1km 제방 양옆 소메이요시노 약 1,000그루가 벚꽃 터널을 만들고, 옆 유채꽃밭과 분홍·노랑 대비가 사진 포인트",
+    "東武 幸手역에서 걸으면 45분이라 버스나 차 이용. 주차장 약 1,000대 유료, 관광버스는 예약제",
+    "같은 공원에서 6월 수국, 9~10월 꽃무릇도 볼 수 있다"
+   ],
+   "sources": [
+    "https://rurubu.jp/andmore/spot/20001351"
+   ]
+  }
  },
  {
   "id": "saitama-kumagaya-uchiwa-matsuri",
@@ -16168,7 +18347,40 @@ window.SPOTS = [
    "https://ja.wikipedia.org/wiki/熊谷うちわ祭",
    "https://ja.wikipedia.org/wiki/熊谷駅"
   ],
-  "region": "간토"
+  "region": "간토",
+  "fest": {
+   "past": [
+    {
+     "year": 2026,
+     "dates": "7/20~7/22",
+     "note": ""
+    },
+    {
+     "year": 2023,
+     "dates": "7/20~7/22",
+     "note": "거의 예년대로 재개, 더위 대책으로 낮 행사를 저녁으로 옮김"
+    },
+    {
+     "year": 2022,
+     "dates": "7/20~7/22",
+     "note": "축소 개최, 역앞 첫 叩き合い·노점 없음, 입장 규제"
+    }
+   ],
+   "next": "",
+   "visitors": "약 75만 명 (2025, 루루부 '작년' 기준)",
+   "crowd": "혼잡",
+   "tips": [
+    "20일 熊谷역 북쪽 출구 첫 叩き合い, 21일 국도 17호 巡行祭, 22일 밤 お祭り広場 曳合せ叩き合い·年番送り가 클라이맥스",
+    "큰 징을 쓰는 熊谷囃子의 음량 대결(叩き合い)이 핵심이라 마지막 날 밤이 가장 볼만하다",
+    "山車·야타이 12대의 위치를 공식 위치정보 사이트로 확인하며 움직이면 효율적",
+    "전용 주차장이 없고 주변 도로가 막히니 전철로(熊谷역 도보 5분). 한여름이라 열사병 대책 필수"
+   ],
+   "sources": [
+    "https://uchiwamatsuri.com/",
+    "https://rurubu.jp/andmore/spot/20002584",
+    "https://ja.wikipedia.org/wiki/熊谷うちわ祭"
+   ]
+  }
  },
  {
   "id": "saitama-kinchakuda-higanbana",
@@ -16203,7 +18415,21 @@ window.SPOTS = [
    "https://ja.wikipedia.org/wiki/巾着田",
    "https://tabi-mag.jp/kinchakudafes/"
   ],
-  "region": "간토"
+  "region": "간토",
+  "fest": {
+   "past": [],
+   "next": "",
+   "visitors": "",
+   "crowd": "",
+   "tips": [
+    "高麗川 강가에 꽃무릇 약 500만 그루가 붉은 융단처럼 핀다. 개화기(9월 중순~10월 중순)엔 공원 입장료 500엔(고교생 이상)",
+    "西武 高麗역에서 도보 약 15분",
+    "주차장 185대, 1일 500엔, 7~17시 운영"
+   ],
+   "sources": [
+    "https://rurubu.jp/andmore/spot/80008990"
+   ]
+  }
  },
  {
   "id": "saitama-nakatsukyo",
@@ -16381,7 +18607,27 @@ window.SPOTS = [
    "https://tabi-mag.jp/sa0307/",
    "https://www.jeepe.jp/ja/articles/misotsuchi-hyouchu-1385"
   ],
-  "region": "간토"
+  "region": "간토",
+  "fest": {
+   "past": [
+    {
+     "year": 2026,
+     "dates": "1/9~2/23",
+     "note": "라이트업 1/10~2/23 (평일 17~19시, 토·일·공휴일 17~20시)"
+    }
+   ],
+   "next": "",
+   "visitors": "",
+   "crowd": "",
+   "tips": [
+    "입장료 어른 300엔, 초등학생 200엔",
+    "西武秩父역에서 三峯神社행 버스로 약 43분, 편수가 적으니 시간표를 꼭 확인",
+    "고드름 상태·날씨에 따라 기간이 바뀔 수 있다"
+   ],
+   "sources": [
+    "https://www.bushikaku.net/article/162928/"
+   ]
+  }
  },
  {
   "id": "saitama-mitsumine-shrine",
@@ -16495,7 +18741,27 @@ window.SPOTS = [
   "sources": [
    "https://ja.wikipedia.org/wiki/越生梅林"
   ],
-  "region": "간토"
+  "region": "간토",
+  "fest": {
+   "past": [
+    {
+     "year": 2026,
+     "dates": "2/14~3/15",
+     "note": "사전 안내 기준"
+    }
+   ],
+   "next": "",
+   "visitors": "약 5만 명 (2025, 루루부 '작년' 기준)",
+   "crowd": "",
+   "tips": [
+    "관동 3대 매화림 중 하나, 매화 약 1,000그루와 수령 670년이 넘는 고목 '魁雪'이 볼거리",
+    "입장료 중학생 이상 500엔, 주차장 약 500대(보통차 500엔)",
+    "越生역(東武·JR)에서 버스 12분 '梅林入口' 하차"
+   ],
+   "sources": [
+    "https://rurubu.jp/andmore/spot/20001020"
+   ]
+  }
  },
  {
   "id": "saitama-chichibu-yomatsuri",
@@ -16530,7 +18796,45 @@ window.SPOTS = [
    "https://ja.wikipedia.org/wiki/秩父夜祭",
    "https://watabi.org/articles/chichibu-yomatsuri-guide"
   ],
-  "region": "간토"
+  "region": "간토",
+  "fest": {
+   "past": [
+    {
+     "year": 2025,
+     "dates": "12/2~12/3",
+     "note": ""
+    },
+    {
+     "year": 2024,
+     "dates": "12/2~12/3",
+     "note": ""
+    },
+    {
+     "year": 2023,
+     "dates": "12/2~12/3",
+     "note": "下郷笠鉾가 바퀴 이상으로 団子坂 오르기를 단념"
+    },
+    {
+     "year": 2022,
+     "dates": "12/2~12/3",
+     "note": "3년 만에 야타이·가사보코 순행 재개, 본전 제전은 축소"
+    }
+   ],
+   "next": "2026년 12/2(요미야)·12/3(대제) (매년 고정)",
+   "visitors": "약 25만 7천 명 (2024, 루루부 '작년' 기준)",
+   "crowd": "매우 혼잡",
+   "tips": [
+    "'야간 축제'지만 행사는 낮부터. 중요문화재 山車를 차분히 보려면 낮에, 山車와 불꽃의 조합은 밤에",
+    "2일에는 秩父神社에서 야타이 曳き踊り·屋台芝居, 신사 神楽殿에서 양일 秩父神社神楽를 볼 수 있다",
+    "3일 밤 山車가 団子坂를 끌려 올라가는 장면은 유료 관람석에서만 제대로 보인다",
+    "3일 御旅所 渡御 때는 교통규제와 인파로 몸을 움직이기 힘들 정도. 西武秩父역 도보 15분, 유료 주차장 약 2,800대"
+   ],
+   "sources": [
+    "https://rurubu.jp/andmore/spot/20000722",
+    "https://www.timeout.jp/tokyo/ja/news/chichibu-yomatsuri-2024-112624",
+    "https://ja.wikipedia.org/wiki/秩父夜祭"
+   ]
+  }
  },
  {
   "id": "saitama-hodosan-ropeway",
@@ -16603,7 +18907,28 @@ window.SPOTS = [
    "https://ja.wikipedia.org/wiki/羊山公園",
    "https://tabi-mag.jp/hitsujiyama-shibazakura/"
   ],
-  "region": "간토"
+  "region": "간토",
+  "fest": {
+   "past": [
+    {
+     "year": 2025,
+     "dates": "4/4~5/6",
+     "note": "유료 기간 4/16~5/6"
+    }
+   ],
+   "next": "",
+   "visitors": "",
+   "crowd": "혼잡",
+   "tips": [
+    "芝桜の丘는 유료 기간에만 입장료 어른 300엔(중학생 이하 무료), 유료 시간 8~17시",
+    "꽃이 한창일 때는 아침부터 저녁까지 붐비고 주차장도 막히니 전철 이용이 낫다",
+    "관광버스로 갈 경우 주차 사전 예약이 필요하다"
+   ],
+   "sources": [
+    "https://www.driveplaza.com/sapa/1800/1800066/1/concierge/amp/2025/04/",
+    "https://www.walkerplus.com/event/ar0311e60431/"
+   ]
+  }
  },
  {
   "id": "saitama-kadokawa-musashino-museum",
@@ -17197,7 +19522,28 @@ window.SPOTS = [
   "sources": [
    "https://maruchiba.jp/event/detail_12962.html"
   ],
-  "region": "간토"
+  "region": "간토",
+  "fest": {
+   "past": [
+    {
+     "year": 2026,
+     "dates": "7/18~7/19",
+     "note": "제62회 (사전 안내 기준)"
+    }
+   ],
+   "next": "",
+   "visitors": "약 2만 8천 명 (2025, 루루부 '작년' 기준)",
+   "crowd": "",
+   "tips": [
+    "횃불을 든 해녀들이 밤바다를 헤엄치는 '大夜泳'이 하이라이트",
+    "불꽃은 20:40~20:55 무렵으로 짧다",
+    "유료석은 사전 예약 1,500엔, 당일 2,000엔 수준(예정가)",
+    "白浜音頭 대봉오도리, 弁財天·竜神 춤도 함께 열린다"
+   ],
+   "sources": [
+    "https://rurubu.jp/andmore/article/3020"
+   ]
+  }
  },
  {
   "id": "chiba-byobugaura",
@@ -17356,7 +19702,21 @@ window.SPOTS = [
    "https://maruchiba.jp/spot/detail_10374.html",
    "https://ja.wikipedia.org/wiki/大山千枚田"
   ],
-  "region": "간토"
+  "region": "간토",
+  "fest": {
+   "past": [],
+   "next": "2026-27 시즌 '棚田のあかり' 10/24~2027/1/11, 매일 일몰부터 3시간 (진행 중)",
+   "visitors": "",
+   "crowd": "",
+   "tips": [
+    "LED가 4가지 색으로 바뀌며 빛의 물결을 만든다",
+    "무료 주차장이 있지만 행사 땐 계단식 논 오너·학교 체험 차량이 우선이라 일반 차량은 못 댈 수도 있다",
+    "논은 사유 농지라 안에 들어갈 수 없고 일반인 드론 촬영도 원칙적으로 불가. 도로에서 찍는 건 신청 없이 가능"
+   ],
+   "sources": [
+    "https://senmaida.com/"
+   ]
+  }
  },
  {
   "id": "chiba-ohara-hadaka-matsuri",
@@ -17394,7 +19754,38 @@ window.SPOTS = [
    "https://maruchiba.jp/event/detail_13144.html",
    "https://ja.wikipedia.org/wiki/大原はだか祭り"
   ],
-  "region": "간토"
+  "region": "간토",
+  "fest": {
+   "past": [
+    {
+     "year": 2026,
+     "dates": "9/23~9/24",
+     "note": "汐ふみ 23일 14:30~, 大別れ式 양일 18:00~ (사전 안내 기준)"
+    },
+    {
+     "year": 2025,
+     "dates": "9/23~9/24",
+     "note": "검색 요약 기준"
+    },
+    {
+     "year": 2024,
+     "dates": "9/23~9/24",
+     "note": "검색 요약 기준"
+    }
+   ],
+   "next": "",
+   "visitors": "약 6만 명 (2025, 루루부 '작년' 기준)",
+   "crowd": "",
+   "tips": [
+    "첫날 오후 大原 해수욕장에서 맨몸의 메는 이들이 신여를 메고 파도 속에서 부딪히는 '汐ふみ'가 하이라이트",
+    "해 진 뒤 大原小学校에서 등불 아래 신여들이 헤어지는 '大別れ式'도 놓치지 말 것",
+    "JR 大原역에서 도보 약 20분, 전용 주차장 없음. 국도 128호 등 교통규제가 있으니 전철로"
+   ],
+   "sources": [
+    "https://rurubu.jp/andmore/spot/20003232",
+    "https://ja.wikipedia.org/wiki/大原はだか祭り"
+   ]
+  }
  },
  {
   "id": "chiba-ubara-risokyo",
@@ -17671,7 +20062,46 @@ window.SPOTS = [
   "sources": [
    "https://ja.wikipedia.org/wiki/手賀沼"
   ],
-  "region": "간토"
+  "region": "간토",
+  "fest": {
+   "past": [
+    {
+     "year": 2026,
+     "dates": "8/1",
+     "note": "제34회, 19:10~20:10 예정 (사전 안내 기준)"
+    },
+    {
+     "year": 2025,
+     "dates": "8/2",
+     "note": "약 13,500발"
+    },
+    {
+     "year": 2024,
+     "dates": "8/3",
+     "note": "검색 요약 기준(柏市 보도자료)"
+    },
+    {
+     "year": 2022,
+     "dates": "",
+     "note": "중지 (코로나 대책 미흡). 2020·2021도 중지"
+    }
+   ],
+   "next": "",
+   "visitors": "약 40만 명 (연도 미상, 위키피디아)",
+   "crowd": "매우 혼잡",
+   "tips": [
+    "두 회장이 다 보이는 곳은 手賀大橋 남쪽 제방. 다리 주변·親水広場는 점심 지나, 공원은 14~15시쯤 자리 잡기",
+    "柏 제1회장은 유료 桟敷席 전용(2026년은 7/1 정오 판매 시작). 유료석은 전용 화장실이 있는 곳도 있다",
+    "회장 주차장이 없고 17시부터 도로 규제. 柏 제1회장은 北柏역 도보 25분",
+    "끝난 직후 역에 입장 규제가 걸릴 정도라 IC카드를 미리 충전하고 시간을 늦춰 귀가하자",
+    "가설 화장실은 시작 전후 30분 넘게 줄이 생긴다"
+   ],
+   "sources": [
+    "https://www.city.kashiwa.lg.jp/shoko/teganumahanabi2026.html",
+    "https://hanabi-navi.info/chiba/10435/",
+    "https://ja.wikipedia.org/wiki/手賀沼花火大会"
+   ]
+  }
  },
  {
   "id": "chiba-tokyo-german-village",
@@ -17712,7 +20142,28 @@ window.SPOTS = [
    "https://t-doitsumura.co.jp/access/",
    "https://t-doitsumura.co.jp/hour-fee/"
   ],
-  "region": "간토"
+  "region": "간토",
+  "fest": {
+   "past": [
+    {
+     "year": 2025,
+     "dates": "11/1~4/5",
+     "note": "2025-26 시즌"
+    }
+   ],
+   "next": "",
+   "visitors": "약 50만 명 (2024-25 시즌, 루루부 '작년' 기준)",
+   "crowd": "",
+   "tips": [
+    "점등은 일몰~20시, 최종 입장 19:30",
+    "입장료 어른 1,000엔, 어린이 500엔. 주차장 약 3,000대(요금은 공식 확인)",
+    "LED 약 300만 개, 전망대에서 내려다보는 빛의 지상화가 명당",
+    "대중교통은 JR 袖ケ浦역 버스 30분 또는 千葉역 고속버스 50분"
+   ],
+   "sources": [
+    "https://rurubu.jp/andmore/spot/20004114"
+   ]
+  }
  },
  {
   "id": "chiba-tsurigasaki-beach",
@@ -17751,7 +20202,27 @@ window.SPOTS = [
    "https://ja.wikipedia.org/wiki/釣ヶ崎海岸",
    "https://ja.wikipedia.org/wiki/玉前神社"
   ],
-  "region": "간토"
+  "region": "간토",
+  "fest": {
+   "past": [
+    {
+     "year": 2026,
+     "dates": "9/10~9/13",
+     "note": "上総十二社祭り, 例大祭 9/13 (사전 안내 기준)"
+    }
+   ],
+   "next": "",
+   "visitors": "약 3만 명 (2025, 루루부 '작년' 기준)",
+   "crowd": "",
+   "tips": [
+    "13일 九十九里浜 남단 釣ヶ崎海岸에 신여가 모이는 房総 최고(最古)의 浜降り 신사(神事)",
+    "맨몸 젊은이 2,500여 명이 신여를 메고 물가를 달리는 장면이 압권",
+    "JR 上総一ノ宮역 도보 8분. 무료 주차장 약 350대(玉前神社 50·해안 300)"
+   ],
+   "sources": [
+    "https://rurubu.jp/andmore/spot/20003160"
+   ]
+  }
  },
  {
   "id": "chiba-okinoshima-tateyama",
@@ -17828,7 +20299,15 @@ window.SPOTS = [
    "https://maruchiba.jp/spot/detail_10884.html",
    "https://www.kominato.co.jp/"
   ],
-  "region": "간토"
+  "region": "간토",
+  "fest": {
+   "past": [],
+   "next": "",
+   "visitors": "",
+   "crowd": "",
+   "tips": [],
+   "sources": []
+  }
  },
  {
   "id": "chiba-umihotaru",
@@ -18726,7 +21205,28 @@ window.SPOTS = [
   "sources": [
    "https://ja.wikipedia.org/wiki/国営昭和記念公園"
   ],
-  "region": "간토"
+  "region": "간토",
+  "fest": {
+   "past": [
+    {
+     "year": 2026,
+     "dates": "10/29~11/29",
+     "note": "黄葉・紅葉まつり & 秋の夜散歩 (2026/10/31 현재 진행 중)"
+    }
+   ],
+   "next": "",
+   "visitors": "",
+   "crowd": "",
+   "tips": [
+    "'秋の夜散歩' 라이트업은 16:30~20:30, 일본정원과 운하 은행나무 길이 볼거리",
+    "입장료 어른 450엔, 일본정원 야간 감상권은 별도일 수 있으니 공식 확인",
+    "17시 이후엔 西立川口·立川口만 열린다"
+   ],
+   "sources": [
+    "https://rurubu.jp/andmore/article/4459",
+    "https://www.showakinen-koen.jp/"
+   ]
+  }
  },
  {
   "id": "tokyo-skytree",
@@ -18875,7 +21375,46 @@ window.SPOTS = [
    "https://ja.wikipedia.org/wiki/隅田川花火大会",
    "https://www.sumidagawa-hanabi.com/"
   ],
-  "region": "간토"
+  "region": "간토",
+  "fest": {
+   "past": [
+    {
+     "year": 2026,
+     "dates": "7/25",
+     "note": "제49회 (공식: 종료)"
+    },
+    {
+     "year": 2025,
+     "dates": "7/26",
+     "note": "약 2만 발"
+    },
+    {
+     "year": 2023,
+     "dates": "7/29",
+     "note": "4년 만에 개최, 관람객 약 103만 5천 명(역대 최다), 멈춰 서서 보기 불가"
+    },
+    {
+     "year": 2022,
+     "dates": "",
+     "note": "중지 (코로나)"
+    }
+   ],
+   "next": "",
+   "visitors": "약 93만 명 (2025)",
+   "crowd": "매우 혼잡",
+   "tips": [
+    "앉아서 볼 수 있는 곳은 시민협찬석뿐. 2026년은 5/10 정오 웹 선착순 판매",
+    "회장 주변 다리 위는 멈춤 금지·일방통행이라 걸으면서 보게 된다",
+    "끝난 뒤 浅草역이 크게 붐비니 다른 역(蔵前 등)으로 분산하자. 제1회장은 浅草역 도보 15분, 제2회장은 蔵前역 도보 5분",
+    "개최 여부는 원칙적으로 당일 8시 결정, 주차장 없음"
+   ],
+   "sources": [
+    "https://www.sumidagawa-hanabi.com/",
+    "https://hanabi.walkerplus.com/detail/ar0313e00858/data.html",
+    "https://ja.wikipedia.org/wiki/隅田川花火大会",
+    "https://rurubu.jp/andmore/article/3021"
+   ]
+  }
  },
  {
   "id": "tokyo-shibuya-sky",
@@ -19372,7 +21911,28 @@ window.SPOTS = [
   "sources": [
    "https://ja.wikipedia.org/wiki/浅草寺"
   ],
-  "region": "간토"
+  "region": "간토",
+  "fest": {
+   "past": [
+    {
+     "year": 2026,
+     "dates": "5/15~5/17",
+     "note": "三社祭 (사전 안내 기준)"
+    }
+   ],
+   "next": "",
+   "visitors": "약 203만 명 (2017, 위키피디아)",
+   "crowd": "",
+   "tips": [
+    "보통 5월 셋째 토요일을 낀 금·토·일 3일간. びんざさら舞와 신여 渡御가 유명",
+    "주차장이 없으니 東京メトロ 浅草역(도보 7분) 이용",
+    "상황에 따라 내용 변경·중지가 있으니 浅草神社 공지를 확인"
+   ],
+   "sources": [
+    "https://rurubu.jp/andmore/spot/20002085",
+    "https://ja.wikipedia.org/wiki/三社祭"
+   ]
+  }
  },
  {
   "id": "tokyo-yanaka-ginza",
@@ -19692,7 +22252,28 @@ window.SPOTS = [
   "sources": [
    "https://ja.wikipedia.org/wiki/相模湖"
   ],
-  "region": "간토"
+  "region": "간토",
+  "fest": {
+   "past": [
+    {
+     "year": 2026,
+     "dates": "8/1",
+     "note": "제74회 さがみ湖湖上祭花火大会, 19:30~20:40 (사전 안내 기준)"
+    }
+   ],
+   "next": "",
+   "visitors": "약 5만 명 (2025, 루루부 '작년' 기준)",
+   "crowd": "",
+   "tips": [
+    "유료석은 시트석(1.8m 사방) 1만엔, 의자석 1인 5천엔",
+    "산에 둘러싸여 스타마인 소리가 크게 울리고 1.5척옥이 하이라이트",
+    "JR 相模湖역 도보 10분. 주차장 약 1,000대지만 1회 2,000엔이고 17:30~22시 차량 진입 금지",
+    "비·악천후면 중지"
+   ],
+   "sources": [
+    "https://rurubu.jp/andmore/spot/20002716"
+   ]
+  }
  },
  {
   "id": "kanagawa-sarushima",
@@ -19848,7 +22429,28 @@ window.SPOTS = [
    "https://kanagawa-kankou.or.jp/event/6535",
    "https://enoshima-seacandle.com/"
   ],
-  "region": "간토"
+  "region": "간토",
+  "fest": {
+   "past": [
+    {
+     "year": 2025,
+     "dates": "11/22~2/28",
+     "note": "湘南の宝石 2025-26 시즌"
+    }
+   ],
+   "next": "",
+   "visitors": "약 20만 명 (2024-25 시즌, 루루부 '작년' 기준)",
+   "crowd": "",
+   "tips": [
+    "점등 17~20시, 토·일·공휴일과 12/20~30은 21시까지(1/6 이후 17:30 시작)",
+    "サムエル・コッキング苑은 17시 이후 유료(어른 500엔), 전망등대 シーキャンドル 승탑 800엔",
+    "60m 등대에서 늘어뜨린 빛 장식이 핵심 포인트, 섬 안부터 片瀬 해안까지 일대가 밝혀진다",
+    "주차장 없음. 小田急 片瀬江ノ島역 도보 약 20분"
+   ],
+   "sources": [
+    "https://rurubu.jp/andmore/spot/20004493"
+   ]
+  }
  },
  {
   "id": "kanagawa-owakudani-ropeway",
@@ -20186,7 +22788,27 @@ window.SPOTS = [
    "https://ja.wikipedia.org/wiki/宮ヶ瀬湖",
    "https://sp.jorudan.co.jp/illumi/spot_0036.html"
   ],
-  "region": "간토"
+  "region": "간토",
+  "fest": {
+   "past": [
+    {
+     "year": 2025,
+     "dates": "11/22~12/25",
+     "note": "제39회, 17:00~22:00"
+    }
+   ],
+   "next": "",
+   "visitors": "약 18만 명 (2024, 루루부 '작년' 기준)",
+   "crowd": "",
+   "tips": [
+    "높이 30m가 넘는 살아 있는 전나무를 장식한 점보 트리가 주인공",
+    "입장 무료, 일루미네이션을 두른 375m 현수교를 건너려면 500엔",
+    "水の郷 상점가에서 따뜻한 먹거리를 사 먹으며 볼 수 있다"
+   ],
+   "sources": [
+    "https://rurubu.jp/andmore/article/5082?page=2"
+   ]
+  }
  },
  {
   "id": "kanagawa-sengokuhara-susuki",
@@ -20258,7 +22880,38 @@ window.SPOTS = [
    "https://ja.wikipedia.org/wiki/湘南ひらつか七夕まつり",
    "https://ja.wikipedia.org/wiki/平塚駅"
   ],
-  "region": "간토"
+  "region": "간토",
+  "fest": {
+   "past": [
+    {
+     "year": 2026,
+     "dates": "7/3~7/5",
+     "note": "제74회 (사전 안내 기준)"
+    },
+    {
+     "year": 2023,
+     "dates": "7/7~7/9",
+     "note": "축소 개최, 일부 공원에 노점"
+    },
+    {
+     "year": 2022,
+     "dates": "",
+     "note": "축소 개최, 노점 전면 금지 (날짜 미확인)"
+    }
+   ],
+   "next": "",
+   "visitors": "약 115만 명 (2025, 루루부 '작년' 기준)",
+   "crowd": "",
+   "tips": [
+    "대형 장식은 메인인 湘南スターモール·紅谷パールロード에 몰려 있다",
+    "매일 20시까지, 마지막 날은 19시까지",
+    "JR 平塚역 북쪽 출구 도보 2분, 주차장 없음"
+   ],
+   "sources": [
+    "https://rurubu.jp/andmore/spot/20002466",
+    "https://ja.wikipedia.org/wiki/湘南ひらつか七夕まつり"
+   ]
+  }
  },
  {
   "id": "kanagawa-shonandaira",
@@ -20336,7 +22989,21 @@ window.SPOTS = [
    "https://ja.wikipedia.org/wiki/大山阿夫利神社",
    "https://nominatim.openstreetmap.org/search?q=大山阿夫利神社下社"
   ],
-  "region": "간토"
+  "region": "간토",
+  "fest": {
+   "past": [],
+   "next": "2026년 大山寺 단풍 라이트업 11/21~29 예정 (평일 일몰~19시, 토·일·공휴일 ~20시, 연장 가능)",
+   "visitors": "",
+   "crowd": "",
+   "tips": [
+    "라이트업 중심은 케이블카 중간의 大山寺(阿夫利神社 아래). 본당 앞 단풍 터널이 명소",
+    "기간 중 케이블카 야간 운행을 이용해 오르내릴 수 있다",
+    "경내 자유, 중요문화재 배관만 500엔"
+   ],
+   "sources": [
+    "https://rurubu.jp/andmore/article/4459"
+   ]
+  }
  },
  {
   "id": "kanagawa-hayama-morito",
@@ -20533,7 +23200,27 @@ window.SPOTS = [
   "sources": [
    "https://ja.wikipedia.org/wiki/鶴岡八幡宮"
   ],
-  "region": "간토"
+  "region": "간토",
+  "fest": {
+   "past": [
+    {
+     "year": 2026,
+     "dates": "9/14~9/16",
+     "note": "예대제, 流鏑馬 9/16 (사전 안내 기준)"
+    }
+   ],
+   "next": "",
+   "visitors": "약 2만 명 (2025, 루루부 '작년' 기준)",
+   "crowd": "",
+   "tips": [
+    "마지막 날(16일) 流鏑馬 신사(神事)와 방울벌레 방생제가 핵심",
+    "둘째 날(15일)은 예대제 뒤 신여 3기 행렬(神幸祭). 보물전은 15일 휴관",
+    "주차장이 40대뿐이니 JR·江ノ電 鎌倉역에서 도보 10분"
+   ],
+   "sources": [
+    "https://rurubu.jp/andmore/spot/20003185"
+   ]
+  }
  },
  {
   "id": "kanagawa-tsurumaki-onsen",
@@ -20846,7 +23533,52 @@ window.SPOTS = [
    "https://ja.wikipedia.org/wiki/ぎおん柏崎まつり",
    "https://ja.wikipedia.org/wiki/柏崎駅"
   ],
-  "region": "고신에쓰"
+  "region": "고신에쓰",
+  "fest": {
+   "past": [
+    {
+     "year": 2026,
+     "dates": "7/26",
+     "note": "큰비로 조금 늦게 시작했다는 관람 후기"
+    },
+    {
+     "year": 2025,
+     "dates": "7/26",
+     "note": "3척옥 2발 동시 발사 9년 만에 부활"
+    },
+    {
+     "year": 2024,
+     "dates": "7/26",
+     "note": ""
+    },
+    {
+     "year": 2023,
+     "dates": "7/26",
+     "note": ""
+    },
+    {
+     "year": 2022,
+     "dates": "7/26",
+     "note": ""
+    }
+   ],
+   "next": "2027년 7/26 (날짜 고정 행사, 공식 발표 전)",
+   "visitors": "약 26만 2,300명 (2025)",
+   "crowd": "매우 혼잡",
+   "tips": [
+    "비가 와도 열리지만 악천후일 땐 당일 오전 9시에 연기·중지를 정하니 아침에 공식 발표부터 확인",
+    "회장은 가시와자키역에서 걸어서 15~25분. 17~22시 주변 교통 통제가 있고 길이 막히므로 대중교통이 낫다",
+    "유료 관람석은 마스석·의자/테이블석·계단석·벤치석이 있고, 신청이 몰리면 추첨이다",
+    "볼거리는 척옥 100발 일제 발사와 폭 600m 와이드 스타마인. 나가오카 못지않다는 후기가 많다",
+    "날짜는 7/24~26 축제 마지막 날로 고정이라 요일과 상관없이 26일에 열린다"
+   ],
+   "sources": [
+    "https://hanabi.cloud/html/Kohshinetsu/niigata/gion-kashiwazaki-matsuri-umi-no-oohanabi-taikai.html",
+    "https://sp.jorudan.co.jp/hanabi/spot_87277.html",
+    "https://rurubu.jp/andmore/spot/20002623",
+    "https://ja.wikipedia.org/wiki/ぎおん柏崎まつり"
+   ]
+  }
  },
  {
   "id": "niigata-katakai-festival-yonshakudama",
@@ -20884,7 +23616,49 @@ window.SPOTS = [
    "https://ja.wikipedia.org/wiki/浅原神社",
    "https://katakaimachi-enkakyokai.info/"
   ],
-  "region": "고신에쓰"
+  "region": "고신에쓰",
+  "fest": {
+   "past": [
+    {
+     "year": 2026,
+     "dates": "9/11~9/12",
+     "note": ""
+    },
+    {
+     "year": 2025,
+     "dates": "9/12~9/13",
+     "note": ""
+    },
+    {
+     "year": 2024,
+     "dates": "9/13~9/14",
+     "note": "이 해부터 9/9~10 고정에서 9월 둘째 금·토로 변경"
+    },
+    {
+     "year": 2023,
+     "dates": "9/9~9/10",
+     "note": ""
+    },
+    {
+     "year": 2022,
+     "dates": "9/9~9/10",
+     "note": ""
+    }
+   ],
+   "next": "2027년 9/10~11 예정",
+   "visitors": "",
+   "crowd": "",
+   "tips": [
+    "신사 제례에 바치는 불꽃이라 비가 와도 원칙적으로 쏜다. 태풍급 강풍일 때만 순연된다",
+    "불꽃은 19:30쯤 시작해 22시대까지 이어지고, 정4척옥은 22시 무렵에 오른다",
+    "낮에는 불꽃 옥을 신사에 바치는 '다마오쿠리' 같은 마을 행사가 있어 일찍 가도 볼거리가 있다",
+    "니가타 각지에서 출발하는 사지키석 포함 버스투어가 있다 (2025년 1만 5,900~1만 6,900엔)"
+   ],
+   "sources": [
+    "https://hanabi.cloud/html/Kohshinetsu/niigata/katakai-matsuri-asahara-jinja-shuuki-reitaisai-hounou-dai-enka.html",
+    "https://ja.wikipedia.org/wiki/片貝まつり"
+   ]
+  }
  },
  {
   "id": "niigata-kiyotsukyo-tunnel",
@@ -20961,7 +23735,54 @@ window.SPOTS = [
    "https://ja.wikipedia.org/wiki/長岡まつり大花火大会",
    "https://niigata-kankou.or.jp/blog/detail_136.html"
   ],
-  "region": "고신에쓰"
+  "region": "고신에쓰",
+  "fest": {
+   "past": [
+    {
+     "year": 2026,
+     "dates": "8/2~8/3",
+     "note": "첫날 끝나고 도쿄행 조에쓰 신칸센 막차를 못 탄 사람이 많이 나옴"
+    },
+    {
+     "year": 2025,
+     "dates": "8/2~8/3",
+     "note": "무료석 없이 전석 유료"
+    },
+    {
+     "year": 2024,
+     "dates": "8/2~8/3",
+     "note": ""
+    },
+    {
+     "year": 2023,
+     "dates": "8/2~8/3",
+     "note": ""
+    },
+    {
+     "year": 2022,
+     "dates": "8/2~8/3",
+     "note": "3년 만에 개최(2020·2021 코로나 중지), 이 해부터 전석 유료"
+    }
+   ],
+   "next": "2027년 8/2~3 (날짜 고정)",
+   "visitors": "약 34만 명 (2일간, 2025)",
+   "crowd": "매우 혼잡",
+   "tips": [
+    "전석 유료(2,000엔부터). 2025년 기준 시민 선행(4월) → 일반 추첨(5월 말~6월 초, 인터넷·카드만) → 선착순(6월 말~) → 공식 리세일(7월~) 순서이고 당일 판매는 없다",
+    "기차로 가면 나가오카역 쪽 우안 좌석이 걷기 편하다. 차라면 주차장과 셔틀 정류장을 먼저 정하고 그쪽 좌석을 고르는 게 요령",
+    "공식 주차장은 티켓 구매자만 사전 예약제. 17:30~22:30 다리·역 주변 대규모 교통 통제",
+    "끝나면 회장→역 셔틀버스가 없어 30분 정도 걸어야 하고, 역은 행선지별로 줄을 세워 입장시킨다",
+    "2026년엔 도쿄행 막차 신칸센을 못 탄 사람이 많았다. 숙소나 돌아갈 열차를 미리 잡아 두자",
+    "관람 후기 평점이 매우 높고 '종합적으로 일본 최고 불꽃'이라는 평이 많다"
+   ],
+   "sources": [
+    "https://hanabi.cloud/html/Kohshinetsu/niigata/nagaokamatsuri-oohanabi-taikai.html",
+    "https://ja.wikipedia.org/wiki/長岡まつり大花火大会",
+    "https://niigata-kankou.or.jp/blog/detail_136.html",
+    "https://rurubu.jp/andmore/spot/20002739",
+    "https://sp.jorudan.co.jp/hanabi/spot_87273.html"
+   ]
+  }
  },
  {
   "id": "niigata-matsunoyama-onsen",
@@ -21185,7 +24006,7 @@ window.SPOTS = [
    "봄"
   ],
   "best_time": "5월 3일 해 질 녘",
-  "event": "매년 5월 3일 (저녁 출발). 시간·관람 방법은 매년 공식 확인",
+  "event": "예전엔 5월 3일 고정이었지만 지금은 해마다 날짜가 바뀜(2023년 10/8, 2026년 6/6). 저녁 출발. 날짜·관람 방법은 매년 공식 확인",
   "duration": "반나절",
   "cost": "관람 무료",
   "walking": "보통",
@@ -21199,7 +24020,36 @@ window.SPOTS = [
    "https://ja.wikipedia.org/wiki/狐の嫁入り行列",
    "https://ja.wikipedia.org/wiki/麒麟山"
   ],
-  "region": "고신에쓰"
+  "region": "고신에쓰",
+  "fest": {
+   "past": [
+    {
+     "year": 2026,
+     "dates": "6/6",
+     "note": "제34회. 5/3이 아닌 6월 토요일에 개최"
+    },
+    {
+     "year": 2023,
+     "dates": "10/8",
+     "note": "4년 만에 개최, 가을로 옮겨 개최"
+    }
+   ],
+   "next": "",
+   "visitors": "약 3만 8천 명 (2025)",
+   "crowd": "혼잡",
+   "tips": [
+    "전통적으로 5/3이었지만 2023년 10월, 2026년 6월처럼 날짜가 바뀌고 있다. 그해 공식 발표를 꼭 확인",
+    "하이라이트는 해 질 녘 기린잔 기슭 다리 위에서 신랑·신부가 만나는 장면과, 여우불과 함께 배로 강을 건너 사라지는 장면",
+    "당일엔 주민도 관광객도 여우 화장을 한다. '여우 시집가기 저택'에서 사전 예약제 메이크 체험(어른 1,000엔)",
+    "2026년 행렬은 15:30~19:30, 스미요시 신사~기린잔 공원. 기린잔 공원 주차장은 유료",
+    "작은 마을에 사람이 크게 몰리니 혼잡을 각오하고 일찍 들어가는 편이 낫다"
+   ],
+   "sources": [
+    "https://niigata-kankou.or.jp/blog/detail_937.html",
+    "https://ja.wikipedia.org/wiki/狐の嫁入り行列",
+    "https://www.town.aga.niigata.jp/material/files/group/7/4260514kyousann.pdf"
+   ]
+  }
  },
  {
   "id": "niigata-tsukioka-onsen",
@@ -21518,7 +24368,43 @@ window.SPOTS = [
    "https://ja.wikipedia.org/wiki/関川村",
    "https://timetables.jreast.co.jp/2610/timetable-v/252d1.html"
   ],
-  "region": "고신에쓰"
+  "region": "고신에쓰",
+  "fest": {
+   "past": [
+    {
+     "year": 2026,
+     "dates": "8/29",
+     "note": "제35회 (야간 행사·불꽃 날 기준)"
+    },
+    {
+     "year": 2025,
+     "dates": "8/30",
+     "note": "야간 행사·불꽃 날 기준"
+    },
+    {
+     "year": 2024,
+     "dates": "8/24",
+     "note": "야간 행사·불꽃 날 기준"
+    },
+    {
+     "year": 2023,
+     "dates": "8/26",
+     "note": "제33회 (야간 행사·불꽃 날 기준)"
+    },
+    {
+     "year": 2022,
+     "dates": "8/27",
+     "note": "연기됐다는 기록 있음 (세부 미확인)"
+    }
+   ],
+   "next": "",
+   "visitors": "",
+   "crowd": "",
+   "tips": [],
+   "sources": [
+    "https://hanabi.cloud/html/Kohshinetsu/niigata/echigo-sekikawa-taishita-mon-hebi-matsuri.html"
+   ]
+  }
  },
  {
   "id": "niigata-takada-castle-sakura",
@@ -21556,7 +24442,51 @@ window.SPOTS = [
    "https://ja.wikipedia.org/wiki/高田城址公園",
    "https://www.jreast.co.jp/ko/multi/pass/eastpass.html"
   ],
-  "region": "고신에쓰"
+  "region": "고신에쓰",
+  "fest": {
+   "past": [
+    {
+     "year": 2026,
+     "dates": "4/3~4/19",
+     "note": "제101회"
+    },
+    {
+     "year": 2025,
+     "dates": "3/28",
+     "note": "제100회. 개막(오프닝 불꽃)일만 확인"
+    },
+    {
+     "year": 2024,
+     "dates": "3/29",
+     "note": "제99회. 개막(오프닝 불꽃)일만 확인"
+    },
+    {
+     "year": 2023,
+     "dates": "3/29",
+     "note": "제98회. 개막일만 확인"
+    },
+    {
+     "year": 2022,
+     "dates": "3/27",
+     "note": "제97회. 개막일만 확인"
+    }
+   ],
+   "next": "",
+   "visitors": "약 41만 명 (2025)",
+   "crowd": "혼잡",
+   "tips": [
+    "공원 주변 벚꽃 약 4,000그루. 밤엔 봉보리 약 3,000개와 3층 망루 조명이 켜지고, 해자에 비친 밤벚꽃이 볼거리",
+    "개막일 저녁 18:30쯤 오프닝 불꽃이 오른다",
+    "다카다역에서 걸어서 15분. 공원 주차장은 1~8주차장 합쳐 약 850대",
+    "3층 망루는 유료(어른 310엔)",
+    "여름(7월 하순~8월 중순)엔 같은 해자에서 연꽃을 보는 관련회(観蓮会)가 열린다"
+   ],
+   "sources": [
+    "https://rurubu.jp/andmore/spot/20001397",
+    "https://hanabi.cloud/html/Kohshinetsu/niigata/takata-joushi-kouen-kanoukai-o-puningu-hanabi.html",
+    "https://www.city.joetsu.niigata.jp/soshiki/toshiseibi/takada-castle-site-park.html"
+   ]
+  }
  },
  {
   "id": "niigata-tokamachi-snow-festival",
@@ -21594,7 +24524,51 @@ window.SPOTS = [
    "https://nominatim.openstreetmap.org/search?q=十日町駅&countrycodes=jp&format=json",
    "https://niigata-kankou.or.jp/event/detail_3599.html"
   ],
-  "region": "고신에쓰"
+  "region": "고신에쓰",
+  "fest": {
+   "past": [
+    {
+     "year": 2026,
+     "dates": "2/20~2/22",
+     "note": "제77회"
+    },
+    {
+     "year": 2025,
+     "dates": "2/15",
+     "note": "제76회. 설상 불꽃 날만 확인 (전체 기간 미확인)"
+    },
+    {
+     "year": 2024,
+     "dates": "2/17",
+     "note": "설상 불꽃 날만 확인 (전체 기간 미확인)"
+    },
+    {
+     "year": 2023,
+     "dates": "2/18",
+     "note": "제74회. 하루만 개최"
+    },
+    {
+     "year": 2022,
+     "dates": "",
+     "note": "중지 (코로나, 2021년에 이어 2년 연속)"
+    }
+   ],
+   "next": "2027년 2/19~21 (제78회)",
+   "visitors": "",
+   "crowd": "",
+   "tips": [
+    "핵심은 시민이 만든 '눈의 예술작품'. 시내 곳곳의 '오마쓰리 히로바'에서 먹거리와 행사가 열린다",
+    "점등은 해 질 녘~21시, 관람은 무료(일부 유료 시설)",
+    "회장이 시내에 흩어져 있어 임시 주차장·셔틀버스·임시열차 정보를 공식 사이트에서 미리 보고 가자",
+    "예전 명물이던 '설상 카니발'은 2018년이 마지막이었다"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/十日町雪まつり",
+    "https://hanabi.cloud/html/Kohshinetsu/niigata/tookamachi-yukimatsuri-setsujou-hanabi-niji-yuki-hanabi.html",
+    "https://rurubu.jp/andmore/spot/20003285",
+    "https://snowfes.jp/hp/"
+   ]
+  }
  },
  {
   "id": "niigata-bandaijima-befco-observatory",
@@ -21868,7 +24842,34 @@ window.SPOTS = [
   "sources": [
    "https://ja.wikipedia.org/wiki/春日山城"
   ],
-  "region": "고신에쓰"
+  "region": "고신에쓰",
+  "fest": {
+   "past": [
+    {
+     "year": 2026,
+     "dates": "8/21~8/23",
+     "note": "제101회 겐신공 축제 (8/21 전야제)"
+    },
+    {
+     "year": 2025,
+     "dates": "8/22~8/24",
+     "note": "제100회 기념, 겐신 역은 마쓰다이라 겐"
+    }
+   ],
+   "next": "",
+   "visitors": "약 10만 명 (2025)",
+   "crowd": "혼잡",
+   "tips": [
+    "볼거리는 출진 의식 '무테이식', 갑옷 무사들의 '출진 행렬', 해 진 뒤 화톳불 속 '가와나카지마 합전 재현'",
+    "에치고토키메키 철도 가스가야마역에서 회장을 도는 셔틀버스가 있다",
+    "주차장은 약 500대지만 붐비니 대중교통이 낫다",
+    "관람은 무료, 일부 행사만 유료"
+   ],
+   "sources": [
+    "https://rurubu.jp/andmore/spot/20002711",
+    "https://hanabi.cloud/html/Kohshinetsu/niigata/ken-nobutaka-sai.html"
+   ]
+  }
  },
  {
   "id": "niigata-teradomari-sakana-no-ichiba-dori",
@@ -21948,7 +24949,15 @@ window.SPOTS = [
    "https://ja.wikipedia.org/wiki/村上市",
    "https://nominatim.openstreetmap.org/search?q=村上市 安善小路&countrycodes=jp&format=json"
   ],
-  "region": "고신에쓰"
+  "region": "고신에쓰",
+  "fest": {
+   "past": [],
+   "next": "",
+   "visitors": "",
+   "crowd": "",
+   "tips": [],
+   "sources": []
+  }
  },
  {
   "id": "niigata-sado-kinzan",
@@ -22186,7 +25195,34 @@ window.SPOTS = [
    "https://kaibutsu-blog.com/fujikawaguchiko-koyo-matsuri-2026/",
    "https://www.yamanashi-kankou.jp/kankou/spot/p1_4534.html"
   ],
-  "region": "고신에쓰"
+  "region": "고신에쓰",
+  "fest": {
+   "past": [
+    {
+     "year": 2026,
+     "dates": "11/7~11/29",
+     "note": "라이트업 일몰~21시"
+    },
+    {
+     "year": 2025,
+     "dates": "11/1~11/30",
+     "note": "제27회. 라이트업 일몰~22시"
+    }
+   ],
+   "next": "",
+   "visitors": "",
+   "crowd": "혼잡",
+   "tips": [
+    "주말 해 질 녘~19시가 가장 붐빈다. 사진은 평일 오전, 걷기 편한 건 20시 이후",
+    "전용 주차장이 없고 임시 주차장도 주말엔 금방 찬다. 가와구치코역에서 주유버스(레드라인)로 약 20분",
+    "11월 하순 밤은 영하 가까이 떨어지니 장갑·핫팩·손전등을 챙기자",
+    "입장은 무료. 노점 음식은 한 품에 500~1,000엔 정도",
+    "21시에 끝나니 근처에서 묵고 다음 날 아침 오이시 공원에서 후지산을 보는 코스가 추천된다"
+   ],
+   "sources": [
+    "https://kaibutsu-blog.com/fujikawaguchiko-koyo-matsuri-2026/"
+   ]
+  }
  },
  {
   "id": "yamanashi-kawaguchiko-panorama-ropeway",
@@ -22382,7 +25418,49 @@ window.SPOTS = [
    "https://www.yamanashi-kankou.jp/ichikawamisato/event/shinmei-hanabi.html",
    "https://msearch.gsi.go.jp/address-search/AddressSearch?q=三郡西橋"
   ],
-  "region": "고신에쓰"
+  "region": "고신에쓰",
+  "fest": {
+   "past": [
+    {
+     "year": 2026,
+     "dates": "8/7",
+     "note": ""
+    },
+    {
+     "year": 2025,
+     "dates": "8/7",
+     "note": "제37회"
+    },
+    {
+     "year": 2024,
+     "dates": "8/7",
+     "note": "제36회"
+    },
+    {
+     "year": 2023,
+     "dates": "8/7",
+     "note": "제35회"
+    },
+    {
+     "year": 2022,
+     "dates": "8/7",
+     "note": ""
+    }
+   ],
+   "next": "2027년 8/7 (날짜 고정)",
+   "visitors": "약 20만 명 (예년, 공식 안내)",
+   "crowd": "혼잡",
+   "tips": [
+    "약 2만 발, 19:15쯤 시작",
+    "비가 와도 열리고 악천후면 8일·9일로 순연. 전날 17시 판정 결과를 마을 홈페이지·TV·라디오로 알린다",
+    "차는 시간대에 따라 심하게 막힌다. 시즈오카 방면은 롯고IC, 니라사키 방면은 미나미알프스IC에서 내려 국도 52호를 타는 우회가 권장된다",
+    "JR미노부선 이치카와다이몬역에서 걸어서 10분, 당일 열차 증편"
+   ],
+   "sources": [
+    "https://www.yamanashi-kankou.jp/ichikawamisato/event/shinmei-hanabi.html",
+    "https://hanabi.cloud/html/Kohshinetsu/yamanashi/shinmei-no-hanabi.html"
+   ]
+  }
  },
  {
   "id": "yamanashi-yamanakako-cruise",
@@ -22459,7 +25537,35 @@ window.SPOTS = [
    "https://ja.wikipedia.org/wiki/吉田の火祭り",
    "https://fujiyoshida.net/event/index.php?p=154"
   ],
-  "region": "고신에쓰"
+  "region": "고신에쓰",
+  "fest": {
+   "past": [
+    {
+     "year": 2026,
+     "dates": "8/26~8/27",
+     "note": ""
+    },
+    {
+     "year": 2025,
+     "dates": "8/26~8/27",
+     "note": ""
+    }
+   ],
+   "next": "2027년 8/26~27 (날짜 고정)",
+   "visitors": "약 15만 명 (8/26 진화제, 2025) / 스스키 마쓰리 약 5천 명",
+   "crowd": "매우 혼잡",
+   "tips": [
+    "26일 18:30쯤 대횃불에 일제히 불이 붙어 약 2km 거리가 불길로 덮인다",
+    "16:30쯤부터 미코시 순행 구간과 혼마치 거리가 차량 통행 금지, 23:30 해제",
+    "무료 주차장은 26일 600대, 27일은 100대뿐",
+    "예약 없이 무료로 볼 수 있다"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/吉田の火祭り",
+    "https://summer.walkerplus.com/odekake/detail_e/ar0419e04802/data.html",
+    "https://rurubu.jp/andmore/spot/20003053"
+   ]
+  }
  },
  {
   "id": "yamanashi-hottarakashi-onsen",
@@ -22584,7 +25690,48 @@ window.SPOTS = [
    "https://ja.wikipedia.org/wiki/信玄公祭り",
    "https://ja.wikipedia.org/wiki/甲府城"
   ],
-  "region": "고신에쓰"
+  "region": "고신에쓰",
+  "fest": {
+   "past": [
+    {
+     "year": 2026,
+     "dates": "4/3~4/5",
+     "note": "제52회. 4/4 고슈 군단 출진, 4/3 밤 고후성 불꽃"
+    },
+    {
+     "year": 2025,
+     "dates": "4/4~4/6",
+     "note": "제51회. 이 해부터 다시 4월 개최"
+    },
+    {
+     "year": 2024,
+     "dates": "",
+     "note": "미개최 (2023년 가을 개최 뒤 2025년 4월로 이동)"
+    },
+    {
+     "year": 2023,
+     "dates": "10/27~10/29",
+     "note": "제50회, 가을 개최. 역대 최다 23.5만 명"
+    },
+    {
+     "year": 2022,
+     "dates": "10/28~10/30",
+     "note": "제49회. 코로나로 연기돼 가을 개최"
+    }
+   ],
+   "next": "2027년 제53회(신겐 역 마야 미키), 날짜 미발표",
+   "visitors": "약 23만 5천 명 (2023)",
+   "crowd": "혼잡",
+   "tips": [
+    "메인은 1,000명 넘는 무사가 모이는 '고슈 군단 출진'(토요일)",
+    "해마다 유명인이 신겐 역을 맡는다 (2025 시부키 준, 2026 3대 이치카와 우단지)",
+    "2022·2023년엔 가을, 2025년부터 4월이라 시기가 바뀌어 왔다. 그해 날짜를 꼭 확인"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/信玄公祭り",
+    "https://hanabi.cloud/html/Kohshinetsu/yamanashi/shingen-kou-matsuri-shinmei-no-hanabi-in-koufu-jou.html"
+   ]
+  }
  },
  {
   "id": "yamanashi-kiyosato-seisenryo",
@@ -23525,7 +26672,45 @@ window.SPOTS = [
    "https://nozawakanko.jp/access/",
    "https://www.jreast.co.jp/ko/multi/pass/eastpass.html"
   ],
-  "region": "고신에쓰"
+  "region": "고신에쓰",
+  "fest": {
+   "past": [
+    {
+     "year": 2026,
+     "dates": "1/15",
+     "note": "입장권 소지자만 입장"
+    },
+    {
+     "year": 2025,
+     "dates": "1/15",
+     "note": ""
+    },
+    {
+     "year": 2024,
+     "dates": "1/15",
+     "note": "입장권 소지자만 입장"
+    },
+    {
+     "year": 2023,
+     "dates": "1/15",
+     "note": "입장권 소지자만 입장"
+    }
+   ],
+   "next": "2027년 1/15",
+   "visitors": "",
+   "crowd": "",
+   "tips": [
+    "회장에는 입장권이 있어야 들어간다. 입장권은 마을 주민과 마을 안 숙박객 대상이라 숙소를 먼저 잡고 숙소를 통해 신청",
+    "20시쯤 불꽃·북 → 20:30 공방전 시작 → 20:50 어른 점화 → 22시쯤 끝",
+    "병·캔·술 반입 금지, 드론 금지. 불을 붙이는 건 주민만이고 관광객은 구경만",
+    "마을 안 모든 도로가 주차 금지라 차보다 숙소에서 걸어가는 게 기본",
+    "다음 날(16일) 아침엔 축제 터에서 떡 굽기가 있다"
+   ],
+   "sources": [
+    "https://nozawakanko.jp/event/the-nozawa-onsen-dosojin-festival/",
+    "https://hanabi.cloud/html/Kohshinetsu/nagano/nozawaonsen-no-sainokami-matsuri.html"
+   ]
+  }
  },
  {
   "id": "nagano-bessho-onsen",
@@ -23644,7 +26829,54 @@ window.SPOTS = [
    "https://suwako-hanabi.com/",
    "https://ja.wikipedia.org/wiki/諏訪湖祭湖上花火大会"
   ],
-  "region": "고신에쓰"
+  "region": "고신에쓰",
+  "fest": {
+   "past": [
+    {
+     "year": 2026,
+     "dates": "8/15",
+     "note": "제78회. 우천 순연 없음"
+    },
+    {
+     "year": 2025,
+     "dates": "8/15",
+     "note": "제77회"
+    },
+    {
+     "year": 2024,
+     "dates": "8/15",
+     "note": ""
+    },
+    {
+     "year": 2023,
+     "dates": "8/15",
+     "note": "4년 만에 정상 개최, 주차장 예약제 도입"
+    },
+    {
+     "year": 2022,
+     "dates": "",
+     "note": "통상 대회 중지, 8월 중 15일간 나눠 쏘는 'The Legacy'로 대체 (2021년도 같음)"
+    }
+   ],
+   "next": "2027년 8/15 (제79회)",
+   "visitors": "약 3만 4천 명 (유료 구역 내, 2025)",
+   "crowd": "매우 혼잡",
+   "tips": [
+    "유료석은 6월 인터넷 추첨(2026년 6/8~21), 일반석 3,000엔부터",
+    "주차장 약 3,000대는 전부 사전 예약제. 2023년 예약제 도입 뒤 정체가 나아졌다는 평",
+    "가미스와역에서 걸어서 10분. 끝나면 역은 임시 개찰구를 열고 승강장 입장을 제한한다",
+    "호숫가에 차를 대면 끝난 뒤 3~4시간 정체, 스와IC 쪽 길은 하루 종일 막힌다",
+    "2026년 후기엔 '규모가 줄었다', '해마다 약해진다'는 실망 의견도 있었다",
+    "8/15 대회 말고도 여름 내내 매일 밤 짧은 불꽃, 9월엔 신작 불꽃 경기대회가 따로 열린다"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/諏訪湖祭湖上花火大会",
+    "https://sp.jorudan.co.jp/hanabi/spot_87309.html",
+    "https://rurubu.jp/andmore/spot/20002786",
+    "https://hanabi.cloud/html/Kohshinetsu/nagano/suwako-sai-mizuumi-agehanabi-taikai.html",
+    "https://suwako-hanabi.com/"
+   ]
+  }
  },
  {
   "id": "nagano-shirahone-onsen",
@@ -23846,7 +27078,50 @@ window.SPOTS = [
    "https://www.iiyama-ouendan.net/special/kamakura/",
    "https://www.go-nagano.net/tradition-and-culture/id22077"
   ],
-  "region": "고신에쓰"
+  "region": "고신에쓰",
+  "fest": {
+   "past": [
+    {
+     "year": 2026,
+     "dates": "2/7",
+     "note": "제26회 가마쿠라 축제(불꽃) 날"
+    },
+    {
+     "year": 2025,
+     "dates": "2/8",
+     "note": "제25회 가마쿠라 축제(불꽃) 날"
+    },
+    {
+     "year": 2024,
+     "dates": "2/10",
+     "note": "가마쿠라 축제(불꽃) 날"
+    },
+    {
+     "year": 2023,
+     "dates": "2/4",
+     "note": "가마쿠라 불꽃 날"
+    },
+    {
+     "year": 2022,
+     "dates": "2/6",
+     "note": "불꽃 날"
+    }
+   ],
+   "next": "2027년 1/22~2/28 개설, 가마쿠라 축제 2/13",
+   "visitors": "",
+   "crowd": "",
+   "tips": [
+    "가마쿠라 안에서 먹는 노로시 냄비는 예약제 (2027년: 웹 2026/12/14~, 전화 2027/1/18~). 웹 결제 어른 점심 6,940엔·저녁 7,480엔",
+    "밤엔 노선버스가 없고 겨울 택시도 거의 잡히지 않는다. 돌아갈 방법을 미리 정해 두자. 20시쯤 완전 소등",
+    "차라면 스터드리스 타이어 필수, 2WD는 체인 휴대. 빠져도 현지 구조는 안 된다",
+    "매주 금요일 19시에 1분 30초쯤 짧은 불꽃이 오른다",
+    "음식 알레르기는 예약할 때 비고란에 적어야 하고 당일 요청은 안 된다"
+   ],
+   "sources": [
+    "https://www.iiyama-ouendan.net/special/kamakura/",
+    "https://hanabi.cloud/html/Kohshinetsu/nagano/kamakura-no-sato-kamakura-matsuri.html"
+   ]
+  }
  },
  {
   "id": "nagano-jigokudani-snow-monkey",
@@ -24083,7 +27358,23 @@ window.SPOTS = [
    "https://ja.wikipedia.org/wiki/高遠城",
    "https://inashi-kankoukyoukai.jp/"
   ],
-  "region": "고신에쓰"
+  "region": "고신에쓰",
+  "fest": {
+   "past": [],
+   "next": "",
+   "visitors": "",
+   "crowd": "매우 혼잡",
+   "tips": [
+    "개화 선언 다음 날부터 꽃이 질 때까지 입장 유료. 2026년부터 날짜별 변동 요금(평소 어른 600엔)이라 디지털 티켓을 미리 사 두면 편하다",
+    "최성기엔 6:00~21:00 개원하고 밤벚꽃 라이트업(최종 입장 20시쯤)",
+    "임시 주차장 약 2,500대(무료 구역 포함), 공원까지 걸어서 15~20분. 토·일 8:30~11:00가 정체 절정이라 이른 아침이 답",
+    "표고 약 800m라 저녁엔 쌀쌀하다. 방한복과 걷기 편한 신발",
+    "만개 때는 이동이 평소의 1.5~2배 걸리고 인기 소바집은 2시간 대기도 있다. 공원만 1시간, 사진·노점까지 2시간 잡자"
+   ],
+   "sources": [
+    "https://banzokubiology.com/takato-sakuramatsuri-shoyojikan/"
+   ]
+  }
  },
  {
   "id": "nagano-tenryukyo",
@@ -24200,7 +27491,45 @@ window.SPOTS = [
   "sources": [
    "https://ja.wikipedia.org/wiki/戸倉上山田温泉"
   ],
-  "region": "고신에쓰"
+  "region": "고신에쓰",
+  "fest": {
+   "past": [
+    {
+     "year": 2026,
+     "dates": "7/19",
+     "note": "제87회 여름 축제 불꽃 (20:30~21:00)"
+    },
+    {
+     "year": 2025,
+     "dates": "7/20",
+     "note": "제86회 여름 축제 불꽃"
+    },
+    {
+     "year": 2024,
+     "dates": "7/14",
+     "note": "제85회 여름 축제 불꽃"
+    },
+    {
+     "year": 2023,
+     "dates": "7/16",
+     "note": "약 3,000발"
+    },
+    {
+     "year": 2022,
+     "dates": "9/18",
+     "note": "불꽃 없이 여름 축제만 개최"
+    }
+   ],
+   "next": "",
+   "visitors": "",
+   "crowd": "",
+   "tips": [
+    "7월 여름 축제 불꽃은 7월 중순 일요일 밤에 열렸다 (최근 3년). 2023년 기준 약 3,000발, 최대 8호옥"
+   ],
+   "sources": [
+    "https://hanabi.cloud/html/Kohshinetsu/nagano/togura-kamiyamada-onsen-natsumatsuri.html"
+   ]
+  }
  },
  {
   "id": "nagano-ryuoo-sora-terrace",
@@ -24438,7 +27767,15 @@ window.SPOTS = [
    "https://ja.wikipedia.org/wiki/奈良井宿",
    "https://touristpass.jp/ko/alpine/"
   ],
-  "region": "고신에쓰"
+  "region": "고신에쓰",
+  "fest": {
+   "past": [],
+   "next": "",
+   "visitors": "",
+   "crowd": "",
+   "tips": [],
+   "sources": []
+  }
  },
  {
   "id": "nagano-daio-wasabi-farm",
@@ -24556,7 +27893,26 @@ window.SPOTS = [
   "sources": [
    "https://ja.wikipedia.org/wiki/諏訪大社"
   ],
-  "region": "고신에쓰"
+  "region": "고신에쓰",
+  "fest": {
+   "past": [
+    {
+     "year": 2022,
+     "dates": "4/2~5/16",
+     "note": "온바시라 축제. 코로나로 우지코가 끄는 대신 트레일러로 운반, 기오토시(통나무 미끄러뜨리기) 없음. 상사 야마다시 4/2, 하사 야마다시 4/8~9, 상사 사토비키 5/3~5, 하사 사토비키 5/14~16"
+    }
+   ],
+   "next": "2028년: 상사 야마다시 4/1~3, 하사 야마다시 4/8~10, 상사 사토비키 5/3~5, 하사 사토비키 5/12~14 (2025/4/4 발표)",
+   "visitors": "",
+   "crowd": "매우 혼잡",
+   "tips": [
+    "기오토시 비탈은 구경꾼으로 빈틈없이 차고, 축제에서 가장 위험한 지점 중 하나로 꼽힌다",
+    "상사(가미샤)와 하사(시모샤)의 일정이 다르니 보고 싶은 쪽 날짜를 따로 확인"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/御柱祭"
+   ]
+  }
  },
  {
   "id": "nagano-tsumago-juku",
@@ -24674,7 +28030,19 @@ window.SPOTS = [
    "https://ja.wikipedia.org/wiki/上田城",
    "https://nominatim.openstreetmap.org/search?q=上田城跡公園&countrycodes=jp&format=json"
   ],
-  "region": "고신에쓰"
+  "region": "고신에쓰",
+  "fest": {
+   "past": [],
+   "next": "",
+   "visitors": "",
+   "crowd": "",
+   "tips": [
+    "센본자쿠라 축제는 4월 상순. 밤 라이트업은 '일본 야경유산'에 인정돼 있다"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/上田城"
+   ]
+  }
  },
  {
   "id": "nagano-zenkoji",
@@ -24803,7 +28171,38 @@ window.SPOTS = [
    "https://touristpass.jp/en/takayama_hokuriku/",
    "https://en.wikipedia.org/wiki/Gokayama"
   ],
-  "region": "호쿠리쿠"
+  "region": "호쿠리쿠",
+  "fest": {
+   "past": [
+    {
+     "year": 2026,
+     "dates": "9/12~9/13",
+     "note": "초가을 라이트업"
+    },
+    {
+     "year": 2026,
+     "dates": "5/23~5/24",
+     "note": "봄 라이트업"
+    },
+    {
+     "year": 2025,
+     "dates": "9/13~9/14",
+     "note": "초가을 라이트업"
+    }
+   ],
+   "next": "2027년 2/20~21 (겨울 라이트업)",
+   "visitors": "",
+   "crowd": "",
+   "tips": [
+    "라이트업은 일몰~20시. 따로 2026년 5·6·10월, 2027년 1월의 특정 수요일 17~20시에 '창문 불빛 감상일'도 있다",
+    "아이노쿠라 공동 주차장 100대 유료. 2025년 안내로는 일반 승용차는 예약 불필요(버스만 예약제)",
+    "시라카와고 라이트업(완전 예약제)과는 다른 행사이니 헷갈리지 말 것",
+    "JR조하나역에서 버스 25분, 아이노쿠라구치 하차 후 걸어서 3분"
+   ],
+   "sources": [
+    "https://gokayama-info.jp/"
+   ]
+  }
  },
  {
   "id": "toyama-kurobe-dam",
@@ -24964,7 +28363,25 @@ window.SPOTS = [
    "https://ja.wikipedia.org/wiki/夜高祭",
    "https://summer.walkerplus.com/odekake/detail_e/ar0516e597122/"
   ],
-  "region": "호쿠리쿠"
+  "region": "호쿠리쿠",
+  "fest": {
+   "past": [
+    {
+     "year": 2026,
+     "dates": "6/12~6/13",
+     "note": ""
+    }
+   ],
+   "next": "",
+   "visitors": "",
+   "crowd": "",
+   "tips": [
+    "크고 작은 요타카 행등 약 20대가 화려함을 겨룬다. 볼거리는 밤 시간대"
+   ],
+   "sources": [
+    "https://summer.walkerplus.com/odekake/detail_e/ar0516e597122/"
+   ]
+  }
  },
  {
   "id": "toyama-belmontagne-tourist-train",
@@ -25131,7 +28548,53 @@ window.SPOTS = [
    "https://ja.wikipedia.org/wiki/おわら風の盆",
    "https://ja.wikipedia.org/wiki/越中八尾駅"
   ],
-  "region": "호쿠리쿠"
+  "region": "호쿠리쿠",
+  "fest": {
+   "past": [
+    {
+     "year": 2026,
+     "dates": "9/1~9/3",
+     "note": "8월 전야제 미개최"
+    },
+    {
+     "year": 2025,
+     "dates": "9/1~9/3",
+     "note": ""
+    },
+    {
+     "year": 2024,
+     "dates": "9/1~9/3",
+     "note": ""
+    },
+    {
+     "year": 2023,
+     "dates": "9/1~9/3",
+     "note": "전야제·특설 무대 없이 시작 시간을 늦춰 개최"
+    },
+    {
+     "year": 2022,
+     "dates": "9/1~9/3",
+     "note": "3년 만에 개최. 일반 주차장·셔틀버스 없이 방문 자제 요청"
+    }
+   ],
+   "next": "2027년 9/1~3 (날짜 고정)",
+   "visitors": "약 17만 5천 명 (2019)",
+   "crowd": "매우 혼잡",
+   "tips": [
+    "1·2일은 17~23시, 3일은 19~22:30에 사람이 몰리고 22시 넘으면 역으로 가는 인파가 생긴다. 16시 전에 도착하는 게 좋다",
+    "가가미초·오타야 계단은 매우 붐빈다. 뒷골목과 지부 구역을 걸으면 덜 붐비고, 마치나가시는 시간·장소가 정해져 있지 않아 우연히 마주치는 게 묘미",
+    "비가 오면 악기가 젖어 공연이 중지될 수 있다",
+    "야쓰오 안 숙소는 1년 전에 차기 쉽다. 도야마 시내에서 묵고 임시열차로 오가는 게 현실적",
+    "차는 비추천. 임시 주차장은 1대 3,000엔 협력금(2025)이고 아침에 차기도 한다",
+    "인파 속 소매치기 주의, 혼잡 시간대엔 화장실 줄도 길다"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/おわら風の盆",
+    "https://banzokubiology.com/owara-kaze-konzatsu/",
+    "https://www.yatsuo.net/kazenobon/",
+    "https://trafficnews.jp/post/121592"
+   ]
+  }
  },
  {
   "id": "toyama-unazuki-onsen",
@@ -25211,7 +28674,20 @@ window.SPOTS = [
    "https://ja.wikipedia.org/wiki/たてもん祭り",
    "https://msearch.gsi.go.jp/address-search/AddressSearch?q=魚津市諏訪町"
   ],
-  "region": "호쿠리쿠"
+  "region": "호쿠리쿠",
+  "fest": {
+   "past": [],
+   "next": "",
+   "visitors": "",
+   "crowd": "",
+   "tips": [
+    "해 질 녘 등불이 켜지고 20:30쯤부터 다테몬이 하나씩 스와 신사 경내로 들어와 23시쯤까지 이어진다",
+    "절정은 젊은이들이 줄에 매달려 다테몬을 빙빙 돌리는 장면. 신사 옆 주차장 쪽에서 돈다"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/たてもん祭り"
+   ]
+  }
  },
  {
   "id": "toyama-johana-hikiyama-festival",
@@ -25251,7 +28727,33 @@ window.SPOTS = [
    "https://ja.wikipedia.org/wiki/城端曳山祭",
    "https://msearch.gsi.go.jp/address-search/AddressSearch?q=善徳寺"
   ],
-  "region": "호쿠리쿠"
+  "region": "호쿠리쿠",
+  "fest": {
+   "past": [
+    {
+     "year": 2023,
+     "dates": "5/4~5/5",
+     "note": "4년 만에 정상 개최"
+    },
+    {
+     "year": 2022,
+     "dates": "5/4~5/5",
+     "note": "순행 시간 단축, 밤 '조친야마' 취소 등 축소 개최"
+    }
+   ],
+   "next": "2027년 5/4~5 (날짜 고정)",
+   "visitors": "",
+   "crowd": "",
+   "tips": [
+    "5/4 요이마쓰리엔 6개 정(町)에서 신상을 공개하고 스탬프 랠리, 18시 조하나자에서 노래 봉납(무료)",
+    "5/5 9:30쯤 히키야마 출발. 14시·20:30쯤 히키야마 회관 옆에서 가라쿠리 인형·이오리우타 공연(비 오면 중지)",
+    "밤엔 등불을 단 '조친야마'로 바뀌어 22:30쯤 회관 앞에서 해산",
+    "니시시모마치·데마루마치·신마치에서 삐걱 소리를 내며 180도 도는 장면이 볼거리"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/城端曳山祭"
+   ]
+  }
  },
  {
   "id": "toyama-kansui-park-fugan-canal",
@@ -25296,7 +28798,27 @@ window.SPOTS = [
    "https://fugan-suijo-line.jp/",
    "https://ja.wikipedia.org/wiki/富岩運河環水公園"
   ],
-  "region": "호쿠리쿠"
+  "region": "호쿠리쿠",
+  "fest": {
+   "past": [
+    {
+     "year": 2026,
+     "dates": "10/9~2/28",
+     "note": "2026~27 시즌 스위트 일루미네이션, 특별 일루미네이션 12/4~"
+    }
+   ],
+   "next": "",
+   "visitors": "",
+   "crowd": "",
+   "tips": [
+    "2026년 12/1~3은 작업으로 덴몬교 구역 일루미네이션이 꺼진다",
+    "공원 주차장은 2026/3/13부터 유료",
+    "2026년 가을 고압 케이블 공사로 전망탑 이용 휴지·일부 통행 제한 공지가 있으니 방문 전 확인"
+   ],
+   "sources": [
+    "https://www.kansui-park.jp/"
+   ]
+  }
  },
  {
   "id": "toyama-kurehayama-observatory",
@@ -25420,7 +28942,39 @@ window.SPOTS = [
    "https://ja.wikipedia.org/wiki/となみチューリップフェア",
    "https://nominatim.openstreetmap.org/search?q=砺波チューリップ公園&countrycodes=jp&format=json"
   ],
-  "region": "호쿠리쿠"
+  "region": "호쿠리쿠",
+  "fest": {
+   "past": [
+    {
+     "year": 2026,
+     "dates": "4/22~5/5",
+     "note": "제75회"
+    },
+    {
+     "year": 2025,
+     "dates": "4/22~5/5",
+     "note": ""
+    },
+    {
+     "year": 2022,
+     "dates": "",
+     "note": "개최 (28만 2천 명), 날짜 미확인"
+    }
+   ],
+   "next": "",
+   "visitors": "약 33만 2천 명 (2025)",
+   "crowd": "혼잡",
+   "tips": [
+    "입장료 고교생 이상 2,000엔(2026), 예매권·단체는 100엔 할인",
+    "JR도나미역에서 무료 셔틀 5분. JR 이용자는 역에서 회장용 300엔 할인권을 받는다",
+    "주차장 2,800대, 보통차 500엔",
+    "튤립 타워에서 내려다보는 대화단 '지상화'와 높이 4m '꽃의 오타니'가 사진 포인트"
+   ],
+   "sources": [
+    "https://rurubu.jp/andmore/spot/20001851",
+    "https://ja.wikipedia.org/wiki/となみチューリップフェア"
+   ]
+  }
  },
  {
   "id": "toyama-asahi-miyazaki-sakai-coast",
@@ -25705,7 +29259,23 @@ window.SPOTS = [
    "https://ja.wikipedia.org/wiki/高岡御車山祭",
    "https://nominatim.openstreetmap.org/search?q=金屋町 高岡市&countrycodes=jp&format=json"
   ],
-  "region": "호쿠리쿠"
+  "region": "호쿠리쿠",
+  "fest": {
+   "past": [],
+   "next": "",
+   "visitors": "",
+   "crowd": "",
+   "tips": [
+    "4/30 요이마쓰리(18:30~21:00)엔 수레에 불을 밝히고 장식품을 전시해 세부를 보기엔 이날이 가장 좋다",
+    "5/1 정오쯤 가타하라마치 교차로에 수레 7기가 가로로 나란히 선다",
+    "비가 오면 원칙적으로 순행 중지, 텐트 안 수레만 볼 수 있다",
+    "노면전차 가선을 약 330m 잠시 걷어내는 보기 드문 광경이 있다",
+    "실물 크기 복제품 '헤이세이 미쿠루마야마'를 미쿠루마야마 회관에서 상시 볼 수 있다"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/高岡御車山祭"
+   ]
+  }
  },
  {
   "id": "toyama-takaoka-zuiryuji",
@@ -26155,7 +29725,45 @@ window.SPOTS = [
    "https://ja.wikipedia.org/wiki/能登町",
    "https://www.town.noto.lg.jp/kakuka/1009/gyomu/20/1/1258.html"
   ],
-  "region": "호쿠리쿠"
+  "region": "호쿠리쿠",
+  "fest": {
+   "past": [
+    {
+     "year": 2026,
+     "dates": "7/3~7/4",
+     "note": "기리코 약 40기, 지진 전과 같은 규모"
+    },
+    {
+     "year": 2025,
+     "dates": "7/4~7/5",
+     "note": ""
+    },
+    {
+     "year": 2024,
+     "dates": "7/5~7/6",
+     "note": "노토 반도 지진 피해 속 개최 (불꽃 7/6)"
+    },
+    {
+     "year": 2023,
+     "dates": "7/7~7/8",
+     "note": ""
+    }
+   ],
+   "next": "",
+   "visitors": "",
+   "crowd": "",
+   "tips": [
+    "첫날 밤엔 기리코 약 40기가 대횃불 아래 불똥을 맞으며 날뛰고, 둘째 날엔 미코시를 바다·강·불에 던지고 땅에 내리친다",
+    "두 날 모두 메인은 21시쯤부터 (첫날 횃불 난무, 둘째 날 미코시 출발)",
+    "2024년 지진 뒤에도 해마다 열렸고, 2026년엔 기리코 수가 지진 전 규모(약 40기)로 돌아왔다"
+   ],
+   "sources": [
+    "https://summer.walkerplus.com/odekake/detail_e/ar0517e602279/",
+    "https://hanabi.cloud/html/Hokuriku/ishikawa/ishikawaken-mukei-minzoku-bunkazai-abare-matsuri-hanabi-taikai.html",
+    "https://kumanichi.com/articles/2009851",
+    "https://www.town.noto.lg.jp/kakuka/1009/gyomu/20/1/1258.html"
+   ]
+  }
  },
  {
   "id": "ishikawa-awazu-onsen",
@@ -26323,7 +29931,25 @@ window.SPOTS = [
    "https://ja.wikipedia.org/wiki/湯涌温泉",
    "https://www.yuwaku.gr.jp/"
   ],
-  "region": "호쿠리쿠"
+  "region": "호쿠리쿠",
+  "fest": {
+   "past": [
+    {
+     "year": 2026,
+     "dates": "10/17",
+     "note": "제14회 본보리 마쓰리 본제 (점등식 7/19)"
+    }
+   ],
+   "next": "",
+   "visitors": "",
+   "crowd": "",
+   "tips": [
+    "본제 날 공동탕 시라사기노유는 오전 9시부터 특별 영업, 점등식 날엔 족탕을 쓸 수 없다"
+   ],
+   "sources": [
+    "https://www.yuwaku.gr.jp/"
+   ]
+  }
  },
  {
   "id": "ishikawa-ishizaki-hoto-matsuri",
@@ -26362,7 +29988,25 @@ window.SPOTS = [
    "https://summer.walkerplus.com/odekake/detail_e/ar0517e597676/",
    "https://nominatim.openstreetmap.org/search?q=石崎町%20七尾市"
   ],
-  "region": "호쿠리쿠"
+  "region": "호쿠리쿠",
+  "fest": {
+   "past": [
+    {
+     "year": 2026,
+     "dates": "8/1",
+     "note": "전야제 있음"
+    }
+   ],
+   "next": "",
+   "visitors": "",
+   "crowd": "",
+   "tips": [
+    "어촌 남자 약 100명이 큰 봉등을 메고 마을을 누비고, 마지막에 봉등들이 한데 모여 난무하는 경연이 절정"
+   ],
+   "sources": [
+    "https://summer.walkerplus.com/odekake/detail_e/ar0517e597676/"
+   ]
+  }
  },
  {
   "id": "ishikawa-kazuemachi-chaya",
@@ -26517,7 +30161,28 @@ window.SPOTS = [
   "sources": [
    "https://ja.wikipedia.org/wiki/白峰村"
   ],
-  "region": "호쿠리쿠"
+  "region": "호쿠리쿠",
+  "fest": {
+   "past": [
+    {
+     "year": 2026,
+     "dates": "2/6",
+     "note": "시라미네·구와지마 지구 동시 개최"
+    }
+   ],
+   "next": "",
+   "visitors": "",
+   "crowd": "",
+   "tips": [
+    "17~21시쯤 마을 곳곳 눈사람 안에 촛불 약 1,000개가 켜진다. 주민이 만든 미끄럼틀·먹거리도 있다",
+    "주차장 800대, 협력금 보통차 500엔",
+    "가나자와역에서 버스로 약 1시간, '시라미네' 정류장 하차",
+    "축제 날 오후~밤엔 시라미네 지구 안 차량 통행이 막힌다"
+   ],
+   "sources": [
+    "https://rurubu.jp/andmore/spot/20000997"
+   ]
+  }
  },
  {
   "id": "ishikawa-shiroyone-senmaida",
@@ -26964,7 +30629,22 @@ window.SPOTS = [
    "https://shiro-niwa.pref.ishikawa.lg.jp/kenrokuen-garden/info.html",
    "https://ja.wikipedia.org/wiki/兼六園"
   ],
-  "region": "호쿠리쿠"
+  "region": "호쿠리쿠",
+  "fest": {
+   "past": [],
+   "next": "",
+   "visitors": "",
+   "crowd": "",
+   "tips": [
+    "벚꽃철엔 3월 하순~4월 상순 중 7일 정도 무료 개원. 날짜는 약 1주 전에 발표",
+    "이른 아침 무료 개원이 있다 (계절에 따라 4~6시 시작, 6:45 또는 7:45까지). 렌치몬·즈이신자카 입구만",
+    "벚꽃·단풍철 등에 라이트업(야간 개원)을 하니 공식 공지 확인",
+    "평소 입장료 어른 320엔"
+   ],
+   "sources": [
+    "https://shiro-niwa.pref.ishikawa.lg.jp/kenrokuen-garden/info.html"
+   ]
+  }
  },
  {
   "id": "ishikawa-nagamachi-samurai",
@@ -27433,7 +31113,26 @@ window.SPOTS = [
    "https://ja.wikipedia.org/wiki/三国祭",
    "https://ja.wikipedia.org/wiki/三國神社"
   ],
-  "region": "호쿠리쿠"
+  "region": "호쿠리쿠",
+  "fest": {
+   "past": [
+    {
+     "year": 2026,
+     "dates": "5/19~5/21",
+     "note": "20일 오후 1시쯤 높이 약 6.5m 무사인형 수레 6기 순행"
+    }
+   ],
+   "next": "",
+   "visitors": "",
+   "crowd": "",
+   "tips": [
+    "최대 볼거리는 20일 중일제(中日祭)의 무사인형 수레 행렬. 오후 1시쯤 미쿠니 신사를 출발",
+    "수레 인형은 해마다 새로 만든다 (2026년엔 미나모토노 요시쓰네 등)"
+   ],
+   "sources": [
+    "https://kumanichi.com/articles/1993218"
+   ]
+  }
  },
  {
   "id": "fukui-mikuni-fireworks",
@@ -27470,7 +31169,51 @@ window.SPOTS = [
    "https://ja.wikipedia.org/wiki/三国海水浴場",
    "https://mikuni-hanabi.jp/"
   ],
-  "region": "호쿠리쿠"
+  "region": "호쿠리쿠",
+  "fest": {
+   "past": [
+    {
+     "year": 2026,
+     "dates": "",
+     "note": "중지 (태풍 15호 강풍·높은 파도, 예비일 8/12도 중지)"
+    },
+    {
+     "year": 2025,
+     "dates": "8/11",
+     "note": "제43회"
+    },
+    {
+     "year": 2024,
+     "dates": "8/11",
+     "note": "제42회"
+    },
+    {
+     "year": 2023,
+     "dates": "8/11",
+     "note": "제41회"
+    },
+    {
+     "year": 2022,
+     "dates": "8/11",
+     "note": ""
+    }
+   ],
+   "next": "",
+   "visitors": "",
+   "crowd": "",
+   "tips": [
+    "명물은 배에서 바다로 던져 넣는 수중 불꽃(수중 스타마인·수중 2척옥). 약 1만 5천 발, 1시간",
+    "유료석은 5월 말 판매 시작 (2026년 5/30~, 웹·패밀리마트, 당일 16시 마감)",
+    "개최 여부는 당일 아침 공식 홈페이지·SNS로 발표. 순연돼도 유료석은 환불되지 않는다 (2026 안내)",
+    "에치젠 철도 미쿠니미나토역에서 걸어서 5분. 주차장은 사전 예약 유료, 셔틀버스 있음"
+   ],
+   "sources": [
+    "https://mikuni-hanabi.jp/",
+    "https://hanabi.walkerplus.com/detail/ar0518e00676/",
+    "https://hanabi.cloud/html/Hokuriku/fukui/sangoku-hanabi-taikai.html",
+    "https://tinpanblog.com/typhoon15-fireworks-cancelled-mikuni-nationwide-guide/"
+   ]
+  }
  },
  {
   "id": "fukui-obama-sotomo-cruise",
@@ -27591,7 +31334,28 @@ window.SPOTS = [
    "https://ja.wikipedia.org/wiki/遠敷川",
    "https://wakasa-obama.jp/special/wakasa-omizuokuri/"
   ],
-  "region": "호쿠리쿠"
+  "region": "호쿠리쿠",
+  "fest": {
+   "past": [
+    {
+     "year": 2026,
+     "dates": "3/2",
+     "note": ""
+    }
+   ],
+   "next": "2027년 3/2 (매년 고정)",
+   "visitors": "",
+   "crowd": "",
+   "tips": [
+    "횃불 행렬은 직접 참가해야 볼 수 있다. 손횃불 1개 2,500엔(당일 현금), 관광안내소 전화 예약 (2026년분은 전년 12/1 접수 시작)",
+    "셔틀버스는 오바마역 출발 편도 1,000엔, 레이난 진흥국 출발 500엔. 귀가편은 21:30부터",
+    "진구지 안의 달탄(達陀)과 활쏘기 신사는 참가하지 않아도 볼 수 있다",
+    "19:00~21:30 진구지 교차로~우노세 다리 구간 교통 통제"
+   ],
+   "sources": [
+    "https://wakasa-obama.jp/special/wakasa-omizuokuri/"
+   ]
+  }
  },
  {
   "id": "fukui-oshima-island",
@@ -27713,7 +31477,34 @@ window.SPOTS = [
    "https://ja.wikipedia.org/wiki/たけふ菊人形",
    "https://ja.wikipedia.org/wiki/武生中央公園"
   ],
-  "region": "호쿠리쿠"
+  "region": "호쿠리쿠",
+  "fest": {
+   "past": [
+    {
+     "year": 2026,
+     "dates": "10/9~11/8",
+     "note": "제75회, 10/22 휴원"
+    },
+    {
+     "year": 2025,
+     "dates": "10/10~11/9",
+     "note": "제74회, 10/23 휴원"
+    }
+   ],
+   "next": "",
+   "visitors": "약 17만 5천 명 (2025)",
+   "crowd": "",
+   "tips": [
+    "입장 무료. OSK 일본가극단 레뷰 관람권 어른 2,000엔(중학생 이하 무료)",
+    "무료 주차장 1,200대. 일요일엔 다케후역에서 무료 셔틀",
+    "기간 중 하루 휴원일이 있으니 날짜 확인",
+    "국화 약 2만 주 전시, 해마다 테마가 바뀐다 (2026년은 요괴)"
+   ],
+   "sources": [
+    "https://rurubu.jp/andmore/spot/20000083",
+    "https://ja.wikipedia.org/wiki/たけふ菊人形"
+   ]
+  }
  },
  {
   "id": "fukui-mizushima",
@@ -28116,7 +31907,19 @@ window.SPOTS = [
   "sources": [
    "https://ja.wikipedia.org/wiki/丸岡城"
   ],
-  "region": "호쿠리쿠"
+  "region": "호쿠리쿠",
+  "fest": {
+   "past": [],
+   "next": "",
+   "visitors": "",
+   "crowd": "",
+   "tips": [
+    "마루오카성 벚꽃 축제는 4/1~20 무렵에 열린다"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/丸岡城"
+   ]
+  }
  },
  {
   "id": "fukui-myotsuji",
@@ -28191,7 +31994,25 @@ window.SPOTS = [
    "https://nominatim.openstreetmap.org/search?q=旧岸名家",
    "https://ja.wikipedia.org/wiki/坂井市龍翔博物館"
   ],
-  "region": "호쿠리쿠"
+  "region": "호쿠리쿠",
+  "fest": {
+   "past": [
+    {
+     "year": 2026,
+     "dates": "5/19~5/21",
+     "note": "미쿠니 마쓰리. 20일 무사인형 수레 6기 순행"
+    }
+   ],
+   "next": "",
+   "visitors": "",
+   "crowd": "",
+   "tips": [
+    "미쿠니 마쓰리 땐 무사인형 수레와 미코시가 기타마에부네 기항지였던 옛 항구 거리를 돈다. 20일 오후가 핵심"
+   ],
+   "sources": [
+    "https://kumanichi.com/articles/1993218"
+   ]
+  }
  },
  {
   "id": "fukui-sabae-nishiyama-park",
@@ -28226,7 +32047,21 @@ window.SPOTS = [
   "sources": [
    "https://ja.wikipedia.org/wiki/西山公園_(鯖江市)"
   ],
-  "region": "호쿠리쿠"
+  "region": "호쿠리쿠",
+  "fest": {
+   "past": [],
+   "next": "",
+   "visitors": "약 23만 6천 명 (2011년도 철쭉 축제)",
+   "crowd": "",
+   "tips": [
+    "철쭉 축제는 5월 상순, 단풍 축제는 11월 상순",
+    "공원 안 동물원은 무료이고 레서판다 번식 수가 일본 최고",
+    "미치노에키 니시야마코엔 주차장은 보통차 74대뿐이라 축제철엔 일찍 가는 게 좋다"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/西山公園_"
+   ]
+  }
  },
  {
   "id": "fukui-tsuruga-red-brick-mussee",
@@ -28716,7 +32551,41 @@ window.SPOTS = [
   "sources": [
    "https://ja.wikipedia.org/wiki/郡上おどり"
   ],
-  "region": "도카이"
+  "region": "도카이",
+  "fest": {
+   "past": [
+    {
+     "year": 2026,
+     "dates": "7/11~9/5",
+     "note": "철야 오도리 8/13~16"
+    },
+    {
+     "year": 2021,
+     "dates": "",
+     "note": "중지 (코로나, 반주·춤은 관계자만 온라인 배포)"
+    },
+    {
+     "year": 2020,
+     "dates": "",
+     "note": "중지 (코로나, 일부만 관계자 실내 개최·유튜브 배포)"
+    }
+   ],
+   "next": "",
+   "visitors": "철야 오도리 4일간 약 25만 명 (연도 미표기)",
+   "crowd": "매우 혼잡",
+   "tips": [
+    "회장(춤 장소)이 날마다 바뀌므로 그날 회장을 미리 확인하고 가야 한다",
+    "철야 오도리 기간에는 나가라강 철도가 심야 임시열차를 운행하고, 군조하치만역에서 회장까지는 걸어서 20분쯤",
+    "유카타·게타 차림이 많지만 필수는 아니고, 누구나 무료로 아무 때나 끼었다 빠질 수 있다",
+    "동작이 단순해서 옆 사람을 보며 따라 하면 금방 익힌다",
+    "이듬해 일정은 매년 연말에 발표된다",
+    "차는 군조하치만IC에서 5분, 주변 주차장(약 500대)을 이용"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/郡上おどり",
+    "https://www.nta.co.jp/kokunai/special/eventinfo/10619250.htm"
+   ]
+  }
  },
  {
   "id": "gifu-kinkazan-gifu-castle",
@@ -28923,7 +32792,51 @@ window.SPOTS = [
    "https://touristpass.jp/ko/takayama_hokuriku/",
    "https://www.hida.jp/english/festivalsandevents/4000105.html"
   ],
-  "region": "도카이"
+  "region": "도카이",
+  "fest": {
+   "past": [
+    {
+     "year": 2026,
+     "dates": "4/14~15, 10/9~10",
+     "note": "봄 개막 보도 확인, 가을은 공지 일정 기준"
+    },
+    {
+     "year": 2025,
+     "dates": "4/14~15, 10/9~10",
+     "note": "가을 야타이 히키소로에 9일 9:30~17시·10일 9:30~16시, 봄 방문자 18만800명"
+    },
+    {
+     "year": 2022,
+     "dates": "",
+     "note": "봄: 야타이 행사 중지, 산노마쓰리 신사 의식은 3년 만에 개최"
+    },
+    {
+     "year": 2021,
+     "dates": "",
+     "note": "봄: 야타이 행진 없이 창고 안 전시 / 가을: 신사 의식만"
+    },
+    {
+     "year": 2020,
+     "dates": "",
+     "note": "봄·가을 모두 야타이 행사 중지, 신사 의식만 (코로나)"
+    }
+   ],
+   "next": "",
+   "visitors": "봄 약 18만 명 (2025), 가을 약 18만 명 (전년 기준)",
+   "crowd": "매우 혼잡",
+   "tips": [
+    "비가 오거나 비 예보가 있으면 야타이를 꺼내지 않고, 다음 날로 미루지도 않으니 날씨를 꼭 확인",
+    "등불을 단 야타이가 밤거리를 도는 밤 행사는 첫날 밤에 열린다",
+    "가을 야타이는 사쿠라야마 하치만구의 다카야마 마쓰리 야타이 회관에서 축제 기간 밖에도 돌아가며 볼 수 있다",
+    "축제 구역은 시간대별 교통 규제가 있으니 JR 다카야마역에서 걸어가는 편이 낫다(12~20분)",
+    "시영 주차장은 약 1,000대, 30분 150엔"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/高山祭",
+    "https://rurubu.jp/andmore/spot/20001564",
+    "https://rurubu.jp/andmore/spot/20000095"
+   ]
+  }
  },
  {
   "id": "gifu-gattan-go-rail-bike",
@@ -29002,7 +32915,29 @@ window.SPOTS = [
    "https://ja.wikipedia.org/wiki/美濃和紙あかりアート展",
    "https://ja.wikipedia.org/wiki/美濃市美濃町伝統的建造物群保存地区"
   ],
-  "region": "도카이"
+  "region": "도카이",
+  "fest": {
+   "past": [
+    {
+     "year": 2025,
+     "dates": "10/12~11/30",
+     "note": "제32회. 1부 10/12~24 올해 응모작, 2부 10/25~11/30 역대 입상작"
+    }
+   ],
+   "next": "",
+   "visitors": "",
+   "crowd": "",
+   "tips": [
+    "점등은 17~21시, 관람은 무료",
+    "작품이 아크릴 케이스에 들어 있어 비가 와도 볼 수 있다",
+    "2부 기간은 단풍철과 겹친다",
+    "기간 밖에도 상설 '미노 와시 아카리 아트관'에서 출품작을 볼 수 있다"
+   ],
+   "sources": [
+    "https://www.kankou-gifu.jp/event/990/",
+    "https://tabi-mag.jp/akariart/"
+   ]
+  }
  },
  {
   "id": "gifu-shinhotaka-ropeway",
@@ -29158,7 +33093,52 @@ window.SPOTS = [
    "https://ja.wikipedia.org/wiki/大垣祭",
    "https://ja.wikipedia.org/wiki/大垣八幡神社"
   ],
-  "region": "도카이"
+  "region": "도카이",
+  "fest": {
+   "past": [
+    {
+     "year": 2026,
+     "dates": "5/9~10",
+     "note": ""
+    },
+    {
+     "year": 2024,
+     "dates": "5/11~12",
+     "note": ""
+    },
+    {
+     "year": 2023,
+     "dates": "",
+     "note": "요미야(밤 행사)는 13일(토)만 실시"
+    },
+    {
+     "year": 2022,
+     "dates": "",
+     "note": "본마쓰리(일요일)만, 순행 코스 단축"
+    },
+    {
+     "year": 2021,
+     "dates": "",
+     "note": "중지 (코로나, 신사 의식만)"
+    },
+    {
+     "year": 2020,
+     "dates": "",
+     "note": "중지 (코로나, 신사 의식만)"
+    }
+   ],
+   "next": "",
+   "visitors": "약 18만 명 (전년 기준)",
+   "crowd": "",
+   "tips": [
+    "밤 행사(요미야)는 18:30쯤 신사 앞 스이몬강 변에 야마가 모이고 19시에 등불을 켠 뒤 신사 앞을 두 바퀴 돈다",
+    "토요일 아침 9시 신사 앞 집합, 신사 도리이와 시청 앞에서 공연이 있다",
+    "요미야를 하는 날이 해마다 달라질 수 있어 시 공지 확인 필요"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/大垣祭"
+   ]
+  }
  },
  {
   "id": "gifu-fukuji-onsen",
@@ -29241,7 +33221,15 @@ window.SPOTS = [
    "https://ja.wikipedia.org/wiki/平湯大滝",
    "https://www.hirayuonsen.or.jp/"
   ],
-  "region": "도카이"
+  "region": "도카이",
+  "fest": {
+   "past": [],
+   "next": "",
+   "visitors": "",
+   "crowd": "",
+   "tips": [],
+   "sources": []
+  }
  },
  {
   "id": "gifu-gandatekyo",
@@ -29467,7 +33455,29 @@ window.SPOTS = [
    "https://shirakawa-go.gr.jp/",
    "https://touristpass.jp/ko/takayama_hokuriku/"
   ],
-  "region": "도카이"
+  "region": "도카이",
+  "fest": {
+   "past": [
+    {
+     "year": 2026,
+     "dates": "1/12, 1/18, 1/25, 2/1",
+     "note": "17:30~19:30, 완전 사전예약제"
+    }
+   ],
+   "next": "2027년 1/11, 1/17, 1/24, 1/31 (제41회, 17:30~19:30)",
+   "visitors": "",
+   "crowd": "혼잡",
+   "tips": [
+    "예약 없이는 라이트업 관람 불가. 당일 17시(최종 입장 15시)까지는 예약 없이 관광할 수 있다",
+    "마을 안 숙소는 추첨제로, 전년 10월 한 달 동안 응모를 받는다",
+    "시로야마 전망대에서 내려다보는 풍경이 핵심인데, 투어마다 전망대 티켓 포함 여부가 다르고 현지 구매가 안 되는 경우가 있다",
+    "한겨울 야외라 방한 대책을 단단히",
+    "나고야·가나자와·도야마에서 고속버스나 당일·숙박 투어로 가는 방법이 일반적"
+   ],
+   "sources": [
+    "https://www.bushikaku.net/article/164088/"
+   ]
+  }
  },
  {
   "id": "gifu-hida-no-sato",
@@ -29548,7 +33558,27 @@ window.SPOTS = [
    "https://nominatim.openstreetmap.org/search?q=瀬戸川と白壁土蔵街",
    "https://ja.wikipedia.org/wiki/飛驒古川駅"
   ],
-  "region": "도카이"
+  "region": "도카이",
+  "fest": {
+   "past": [
+    {
+     "year": 2024,
+     "dates": "4/19~20",
+     "note": "코로나 5류 전환 후 5년 만의 정상 개최"
+    }
+   ],
+   "next": "",
+   "visitors": "",
+   "crowd": "",
+   "tips": [
+    "비가 오면 야타이 히키소로에(수레 모으기)는 중지되지만 오코시다이코는 비가 와도 한다",
+    "오코시다이코는 19일 밤늦게 시작하는 북 행렬",
+    "야타이 9대 중 3대는 히다후루카와 마쓰리 회관에 늘 전시돼 있어 축제 밖에도 볼 수 있다"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/古川祭"
+   ]
+  }
  },
  {
   "id": "gifu-gujo-hachiman-castle",
@@ -29926,7 +33956,35 @@ window.SPOTS = [
    "https://ja.wikipedia.org/wiki/河津駅",
    "https://kawazuzakura.jp/"
   ],
-  "region": "도카이"
+  "region": "도카이",
+  "fest": {
+   "past": [
+    {
+     "year": 2026,
+     "dates": "2/7~3/8",
+     "note": "제36회"
+    },
+    {
+     "year": 2025,
+     "dates": "2/1~3/9",
+     "note": "제35회. 개화가 2주 넘게 늦어 당초 2/28에서 연장"
+    }
+   ],
+   "next": "",
+   "visitors": "약 54만 명 (2025)",
+   "crowd": "매우 혼잡",
+   "tips": [
+    "만개는 1주~10일로 짧아서 직전까지 개화 정보를 보고 가는 게 좋다. 5~6분 개화여도 충분히 볼 만하다",
+    "축제 기간 18~21시에 벚꽃 라이트업",
+    "이즈큐 가와즈역에서 바로 걸어갈 수 있다. 차는 유료 주차장 약 1,300대",
+    "개화가 늦은 해에는 축제 기간이 연장된다"
+   ],
+   "sources": [
+    "https://kawazuzakura.jp/",
+    "https://www.kawazu-onsen.com/sakura/",
+    "https://rurubu.jp/andmore/spot/20000993"
+   ]
+  }
  },
  {
   "id": "shizuoka-kanzanji-onsen",
@@ -29967,7 +34025,15 @@ window.SPOTS = [
    "https://touristpass.jp/ko/fuji_shizuoka/",
    "https://www.kanzanji.gr.jp/event/3482"
   ],
-  "region": "도카이"
+  "region": "도카이",
+  "fest": {
+   "past": [],
+   "next": "",
+   "visitors": "",
+   "crowd": "",
+   "tips": [],
+   "sources": []
+  }
  },
  {
   "id": "shizuoka-nakatajima-sand-dunes",
@@ -30007,7 +34073,47 @@ window.SPOTS = [
    "https://ja.wikipedia.org/wiki/中田島砂丘",
    "https://touristpass.jp/en/fuji_shizuoka/"
   ],
-  "region": "도카이"
+  "region": "도카이",
+  "fest": {
+   "past": [
+    {
+     "year": 2026,
+     "dates": "5/3~5",
+     "note": "하마마쓰 마쓰리 연싸움"
+    },
+    {
+     "year": 2023,
+     "dates": "",
+     "note": "네리·실 끊기 연싸움 재개, 음주 금지"
+    },
+    {
+     "year": 2022,
+     "dates": "",
+     "note": "규모 축소, 관객 상한 3만 명"
+    },
+    {
+     "year": 2021,
+     "dates": "",
+     "note": "무관객, 낮 연싸움만 (악기·실 끊기 금지)"
+    },
+    {
+     "year": 2020,
+     "dates": "",
+     "note": "중지 (코로나)"
+    }
+   ],
+   "next": "",
+   "visitors": "하마마쓰 마쓰리 전체 약 255만 5천 명 (2023)",
+   "crowd": "매우 혼잡",
+   "tips": [
+    "연싸움 장소는 엔슈나다 해변공원 시라와 지구(통칭 '다코바'), 나카타지마 사구 쪽",
+    "연싸움은 낮 10시(10:30)~15시. 밤 고텐야타이 행진은 시내 중심부라 장소가 다르다"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/浜松まつり",
+    "https://hamamatsu-daisuki.net/matsuri/"
+   ]
+  }
  },
  {
   "id": "shizuoka-nihondaira-ropeway",
@@ -30166,7 +34272,15 @@ window.SPOTS = [
    "https://ja.wikipedia.org/wiki/修善寺温泉",
    "https://touristpass.jp/ko/fuji_shizuoka/"
   ],
-  "region": "도카이"
+  "region": "도카이",
+  "fest": {
+   "past": [],
+   "next": "",
+   "visitors": "",
+   "crowd": "",
+   "tips": [],
+   "sources": []
+  }
  },
  {
   "id": "shizuoka-shiraito-falls",
@@ -30290,7 +34404,28 @@ window.SPOTS = [
    "https://www.city.atami.lg.jp/event/1009037/1014753.html",
    "https://ja.wikipedia.org/wiki/熱海海上花火大会"
   ],
-  "region": "도카이"
+  "region": "도카이",
+  "fest": {
+   "past": [
+    {
+     "year": 2025,
+     "dates": "2/21, 3/23, 4/20, 4/28, 7/25, 8/5, 8/8, 8/18, 8/25, 9/15, 10/13, 11/3, 12/7, 12/19",
+     "note": "일정표 기준"
+    }
+   ],
+   "next": "2026년 12/6·12/25, 2027년 2/21 (20:20~20:40)",
+   "visitors": "회당 약 4,000명 (예년)",
+   "crowd": "",
+   "tips": [
+    "유료석이 없고, 아타미 선비치 등 해안이나 호텔·식당, 산 쪽에서도 보인다",
+    "약 3,000발을 20분 남짓 쏘는 짧은 불꽃이라 시작 시각에 맞춰 가야 한다",
+    "교통 규제가 있고 전용 주차장이 없어 전철 추천. 아타미역에서 회장까지 걸어서 20분",
+    "7~12월 개최일에는 신스이 공원 이벤트 광장에 먹거리 노점이 선다"
+   ],
+   "sources": [
+    "https://hanabi.walkerplus.com/detail/ar0622e442227/data.html"
+   ]
+  }
  },
  {
   "id": "shizuoka-omuroyama",
@@ -30491,7 +34626,48 @@ window.SPOTS = [
    "https://ja.wikipedia.org/wiki/中田島砂丘",
    "https://hamamatsu-daisuki.net/matsuri/"
   ],
-  "region": "도카이"
+  "region": "도카이",
+  "fest": {
+   "past": [
+    {
+     "year": 2026,
+     "dates": "5/3~5",
+     "note": ""
+    },
+    {
+     "year": 2023,
+     "dates": "",
+     "note": "네리·실 끊기 연싸움 2019년 이후 재개, 음주 금지, 21시 종료, 171개 마을 참가"
+    },
+    {
+     "year": 2022,
+     "dates": "",
+     "note": "규모 축소, 관객 상한 3만 명, 고텐야타이 행진 재개"
+    },
+    {
+     "year": 2021,
+     "dates": "",
+     "note": "무관객, 낮 연싸움만"
+    },
+    {
+     "year": 2020,
+     "dates": "",
+     "note": "중지 (코로나, 모든 행사)"
+    }
+   ],
+   "next": "",
+   "visitors": "약 255만 5천 명 (2023)",
+   "crowd": "매우 혼잡",
+   "tips": [
+    "낮 연싸움은 나카타지마 사구 쪽 '다코바'(엔슈나다 해변공원)에서 10시~15시",
+    "밤에는 시내 중심부 교통 규제 구역에서 고텐야타이 행진과 '네리'가 있어 낮·밤 장소가 다르다",
+    "근년 인파는 해마다 100만~150만 명 수준이라 이동은 대중교통이 낫다"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/浜松まつり",
+    "https://hamamatsu-daisuki.net/matsuri/"
+   ]
+  }
  },
  {
   "id": "shizuoka-hatsushima",
@@ -31222,7 +35398,33 @@ window.SPOTS = [
   "sources": [
    "https://ja.wikipedia.org/wiki/尾張大国霊神社"
   ],
-  "region": "도카이"
+  "region": "도카이",
+  "fest": {
+   "past": [
+    {
+     "year": 2026,
+     "dates": "3/1",
+     "note": "약 1만 명이 신오토코를 향해 몸싸움 (보도)"
+    },
+    {
+     "year": 2024,
+     "dates": "",
+     "note": "여성이 처음으로 나오이자사 봉납에 참가 (오전 9~11시, 핫피 착용)"
+    }
+   ],
+   "next": "2027년 2/19(금)",
+   "visitors": "참배객 약 20만 명, 하다카오토코 약 8,000명 (2019)",
+   "crowd": "매우 혼잡",
+   "tips": [
+    "음력 1월 13일이라 양력 날짜가 매년 크게 바뀌니 신사 공지로 확인",
+    "당일 신사 주변에 교통 규제가 있어 전철로 가는 게 좋다",
+    "여성은 오전 9~11시 나오이자사 봉납 행렬에만 참가할 수 있다(2024년~)"
+   ],
+   "sources": [
+    "https://www.konomiya.or.jp/",
+    "https://ja.wikipedia.org/wiki/国府宮はだか祭"
+   ]
+  }
  },
  {
   "id": "aichi-kisogawa-ukai",
@@ -31334,7 +35536,28 @@ window.SPOTS = [
    "https://ja.wikipedia.org/wiki/吉田神社_(豊橋市)",
    "https://www.toyohashigion.org/"
   ],
-  "region": "도카이"
+  "region": "도카이",
+  "fest": {
+   "past": [
+    {
+     "year": 2026,
+     "dates": "7/17~19",
+     "note": "금 요시다 신사 데즈쓰, 토 도요강 불꽃 약 12,000발, 일 신여 행렬"
+    }
+   ],
+   "next": "",
+   "visitors": "",
+   "crowd": "",
+   "tips": [
+    "데즈쓰 하나비는 금요일 저녁 요시다 신사 경내 봉납으로 무료로 볼 수 있다",
+    "토요일 강 무대 불꽃은 유료 사지키석에서만 제대로 보인다(1인 6,000엔~). 2026년은 매진",
+    "축제 기간과 준비 기간에는 주차장을 쓸 수 없어 대중교통 필수",
+    "기업 협찬석 일부를 개인에게 소량 판매하니 원하면 일찍 신청"
+   ],
+   "sources": [
+    "https://www.toyohashigion.org/"
+   ]
+  }
  },
  {
   "id": "aichi-midland-sky-promenade",
@@ -31488,7 +35711,23 @@ window.SPOTS = [
    "https://www.city.tsushima.lg.jp/shokai/matsurikyoudo/tennnoumaturi/r8_tennohmatsuri.html",
    "https://ja.wikipedia.org/wiki/尾張津島天王祭"
   ],
-  "region": "도카이"
+  "region": "도카이",
+  "fest": {
+   "past": [
+    {
+     "year": 2023,
+     "dates": "7/22~23",
+     "note": "태풍·코로나로 중지·축소가 이어진 뒤 6년 만의 정상 개최"
+    }
+   ],
+   "next": "",
+   "visitors": "",
+   "crowd": "",
+   "tips": [],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/尾張津島天王祭"
+   ]
+  }
  },
  {
   "id": "aichi-irago-misaki",
@@ -31607,7 +35846,15 @@ window.SPOTS = [
    "https://www.himaka.net/access/",
    "https://ja.wikipedia.org/wiki/日間賀島"
   ],
-  "region": "도카이"
+  "region": "도카이",
+  "fest": {
+   "past": [],
+   "next": "",
+   "visitors": "",
+   "crowd": "",
+   "tips": [],
+   "sources": []
+  }
  },
  {
   "id": "aichi-kamezaki-shiohi-matsuri",
@@ -31642,7 +35889,26 @@ window.SPOTS = [
    "https://ja.wikipedia.org/wiki/亀崎潮干祭",
    "https://ja.wikipedia.org/wiki/神前神社_(半田市)"
   ],
-  "region": "도카이"
+  "region": "도카이",
+  "fest": {
+   "past": [
+    {
+     "year": 2020,
+     "dates": "",
+     "note": "중지 (코로나)"
+    }
+   ],
+   "next": "",
+   "visitors": "연간 약 10만 명 가까이 (유네스코 등재 후)",
+   "crowd": "",
+   "tips": [
+    "주차장이 없고 상점가는 축제 중 차량 통행금지라 전철로 가야 한다",
+    "구경은 누구나 할 수 있지만 수레 줄을 끄는 건 남성 관계자만 가능"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/亀崎潮干祭"
+   ]
+  }
  },
  {
   "id": "aichi-korankei",
@@ -31678,7 +35944,30 @@ window.SPOTS = [
    "https://aichinow.pref.aichi.jp/spots/detail/131/",
    "https://ja.wikipedia.org/wiki/香嵐渓"
   ],
-  "region": "도카이"
+  "region": "도카이",
+  "fest": {
+   "past": [
+    {
+     "year": 2025,
+     "dates": "11/1~11/30",
+     "note": "제70회, 라이트업 일몰~21시"
+    }
+   ],
+   "next": "",
+   "visitors": "",
+   "crowd": "매우 혼잡",
+   "tips": [
+    "축제 기간 일요일·공휴일엔 아스케 중심부 국도 153호가 심하게 막히니 평일이나 버스를 노릴 것",
+    "단풍철 한정으로 아이칸 철도 하쿠사역에서 고란케이 직행 임시버스가 다닌다",
+    "주변 주차장은 11월에 1,000엔, 기간 중 임시 주차장 최대 1,600대",
+    "토·일 한정 '다케아카리 고자쿠지'(18~20:30) 대나무 등불도 같이 볼 만하다"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/香嵐渓",
+    "https://iko-yo.net/events/525117",
+    "https://aichinow.pref.aichi.jp/events/detail/131/"
+   ]
+  }
  },
  {
   "id": "aichi-nomazaki-lighthouse",
@@ -31788,7 +36077,15 @@ window.SPOTS = [
    "https://aichinow.pref.aichi.jp/events/detail/322/",
    "https://ja.wikipedia.org/wiki/祐専寺"
   ],
-  "region": "도카이"
+  "region": "도카이",
+  "fest": {
+   "past": [],
+   "next": "",
+   "visitors": "",
+   "crowd": "",
+   "tips": [],
+   "sources": []
+  }
  },
  {
   "id": "aichi-yuya-onsen-horaijisan",
@@ -31859,7 +36156,30 @@ window.SPOTS = [
   "sources": [
    "https://ja.wikipedia.org/wiki/一宮七夕まつり"
   ],
-  "region": "도카이"
+  "region": "도카이",
+  "fest": {
+   "past": [
+    {
+     "year": 2022,
+     "dates": "",
+     "note": "미스 다나바타·미스 오리모노 콘테스트 폐지"
+    },
+    {
+     "year": 2020,
+     "dates": "",
+     "note": "중지 (코로나)"
+    }
+   ],
+   "next": "",
+   "visitors": "약 103만 9천 명 (2025)",
+   "crowd": "매우 혼잡",
+   "tips": [
+    "무료 주차장이 해마다 줄고 있어 전철로 가는 편이 낫다"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/一宮七夕まつり"
+   ]
+  }
  },
  {
   "id": "aichi-chiryu-yatsuhashi-kakitsubata",
@@ -31893,7 +36213,15 @@ window.SPOTS = [
   "sources": [
    "https://ja.wikipedia.org/wiki/無量寿寺_(知立市)"
   ],
-  "region": "도카이"
+  "region": "도카이",
+  "fest": {
+   "past": [],
+   "next": "",
+   "visitors": "",
+   "crowd": "",
+   "tips": [],
+   "sources": []
+  }
  },
  {
   "id": "aichi-gamagori-takeshima",
@@ -32262,7 +36590,33 @@ window.SPOTS = [
   "sources": [
    "https://ja.wikipedia.org/wiki/岡崎城"
   ],
-  "region": "도카이"
+  "region": "도카이",
+  "fest": {
+   "past": [
+    {
+     "year": 2026,
+     "dates": "8/1",
+     "note": "제78회 불꽃대회 (시제 110주년)"
+    },
+    {
+     "year": 2025,
+     "dates": "8/2",
+     "note": "제77회, 19:00~20:30"
+    }
+   ],
+   "next": "",
+   "visitors": "약 16만 3천 명 (2025)",
+   "crowd": "매우 혼잡",
+   "tips": [
+    "발사장 근처에 무료 관람 구역이 없고 오토가와 하천부지는 유료석. 마스석(6명) 4만5천 엔~ 추첨 판매",
+    "17~22시 회장 주변 차량 진입 금지, 전용 주차장도 없다",
+    "명철 히가시오카자키역·오카자키코엔마에역, 아이칸 나카오카자키역에서 걸어서 10분",
+    "비가 와도 하고 악천후일 때만 중지"
+   ],
+   "sources": [
+    "https://rurubu.jp/andmore/spot/20002741"
+   ]
+  }
  },
  {
   "id": "aichi-inuyama-castle",
@@ -32494,7 +36848,56 @@ window.SPOTS = [
    "https://touristpass.jp/en/ise_kumano/",
    "http://kumano-kankou.info/kumano-fireworks/"
   ],
-  "region": "도카이"
+  "region": "도카이",
+  "fest": {
+   "past": [
+    {
+     "year": 2026,
+     "dates": "8/17",
+     "note": "공지 일정 기준 (예비일 8/21·24·27)"
+    },
+    {
+     "year": 2025,
+     "dates": "8/17",
+     "note": "TV 생중계"
+    },
+    {
+     "year": 2023,
+     "dates": "",
+     "note": "태풍 7호로 8/22로 연기, 다시 고파 우려로 8/29로 재연기"
+    },
+    {
+     "year": 2022,
+     "dates": "11/18",
+     "note": "본대회 중지, 크라우드펀딩으로 대체 발사"
+    },
+    {
+     "year": 2021,
+     "dates": "",
+     "note": "중지 (코로나)"
+    },
+    {
+     "year": 2020,
+     "dates": "",
+     "note": "중지 (코로나)"
+    }
+   ],
+   "next": "",
+   "visitors": "약 12만 명 (2025)",
+   "crowd": "매우 혼잡",
+   "tips": [
+    "회장 근처 주차장은 오전 중에 차고, 국도 42호는 장시간 정체가 흔하다",
+    "당일 구마노오와세 도로는 구마노시 방면 일반차량 통행금지. 교외 임시 주차장+셔틀버스(대부분 편도)",
+    "나고야에서 임시 특급이 다니지만 기세이선이 단선이라 매년 다이어가 흐트러진다",
+    "구마노시역에서 회장까지 걸어서 5분이라 열차가 가장 확실",
+    "볼거리는 오니가조 바위·동굴을 이용한 장치 불꽃과 바다 위 삼척옥 '해상 자폭'",
+    "비·고파 때는 연기되니 예비일까지 일정을 비워 두면 안전"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/熊野大花火大会",
+    "https://rurubu.jp/andmore/spot/20002793"
+   ]
+  }
  },
  {
   "id": "mie-kintetsu-shimakaze",
@@ -32569,7 +36972,27 @@ window.SPOTS = [
    "https://www.nagashima-onsen.co.jp/nabana/info/new-indo-after.html",
    "https://ja.wikipedia.org/wiki/なばなの里"
   ],
-  "region": "도카이"
+  "region": "도카이",
+  "fest": {
+   "past": [
+    {
+     "year": 2025,
+     "dates": "10/18~5/31",
+     "note": "2025-26 시즌, 테마 '지팡구', 빛의 터널 테마 '파도'"
+    }
+   ],
+   "next": "2026/10/17~2027/5/31 (기사 1건 기준)",
+   "visitors": "",
+   "crowd": "",
+   "tips": [
+    "12/23~25는 판매 수를 제한하는 크리스마스 특별영업이라 날짜지정권을 미리 사야 한다",
+    "개막 직후~11월 중순 평일, 20시 이후가 비교적 덜 붐빈다는 안내가 있다",
+    "100m 빛의 터널이 대표 볼거리"
+   ],
+   "sources": [
+    "https://www.bushikaku.net/article/160514/"
+   ]
+  }
  },
  {
   "id": "mie-daiozaki-lighthouse",
@@ -32994,7 +37417,33 @@ window.SPOTS = [
    "https://ja.wikipedia.org/wiki/石取祭",
    "https://ja.wikipedia.org/wiki/桑名宗社"
   ],
-  "region": "도카이"
+  "region": "도카이",
+  "fest": {
+   "past": [
+    {
+     "year": 2026,
+     "dates": "8/1~2",
+     "note": "다타키다시 8/1 0시·8/2 2시, 다사이 8/2 18:30"
+    },
+    {
+     "year": 2024,
+     "dates": "8/3~4",
+     "note": "3일 시라쿠, 4일 혼라쿠"
+    }
+   ],
+   "next": "2027년 7/31~8/1 예정",
+   "visitors": "",
+   "crowd": "혼잡",
+   "tips": [
+    "회장 주변이 크게 붐비니 대중교통으로. 구와나역(JR·긴테쓰·요로철도)에서 걸어서 20분",
+    "한여름 밤까지 이어져 더위 대책 필수",
+    "하이라이트는 가스가 신사 누문 앞에서 각 마을 수레가 장단을 울리는 '도사이(渡祭)'",
+    "축제 시작을 알리는 '다타키다시'는 토요일 0시부터라 소리를 들으려면 심야에 가야 한다"
+   ],
+   "sources": [
+    "https://www.kankomie.or.jp/event/35039"
+   ]
+  }
  },
  {
   "id": "mie-maruyama-senmaida",
@@ -33150,7 +37599,19 @@ window.SPOTS = [
    "https://ja.wikipedia.org/wiki/花窟神社",
    "https://ja.wikipedia.org/wiki/獅子岩"
   ],
-  "region": "도카이"
+  "region": "도카이",
+  "fest": {
+   "past": [],
+   "next": "",
+   "visitors": "",
+   "crowd": "",
+   "tips": [
+    "JR 구마노시역에서 미에교통 버스 5분 '하나노이와야' 하차, 주차장 있음"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/花窟神社"
+   ]
+  }
  },
  {
   "id": "mie-futami-meoto-iwa",
@@ -33380,7 +37841,42 @@ window.SPOTS = [
   "sources": [
    "https://ja.wikipedia.org/wiki/斎宮跡"
   ],
-  "region": "도카이"
+  "region": "도카이",
+  "fest": {
+   "past": [
+    {
+     "year": 2025,
+     "dates": "",
+     "note": "제42회 개최"
+    },
+    {
+     "year": 2024,
+     "dates": "",
+     "note": "제41회 개최"
+    },
+    {
+     "year": 2023,
+     "dates": "",
+     "note": "제40회 개최"
+    },
+    {
+     "year": 2022,
+     "dates": "",
+     "note": "제39회 개최"
+    }
+   ],
+   "next": "",
+   "visitors": "",
+   "crowd": "",
+   "tips": [
+    "핵심인 사이오 군코(헤이안 의상 행렬, 약 120명)는 둘째 날(일) 13시쯤 사이쿠 헤이안노모리에서 박물관까지",
+    "첫날(토) 17시쯤 전야제, 이틀 모두 특산품 시장 '사이오 이치'가 선다",
+    "비가 오면 중지된다"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/斎王まつり"
+   ]
+  }
  },
  {
   "id": "mie-seki-juku",
@@ -33688,7 +38184,29 @@ window.SPOTS = [
    "https://ja.wikipedia.org/wiki/長浜曳山祭",
    "https://ja.wikipedia.org/wiki/長浜八幡宮"
   ],
-  "region": "간사이"
+  "region": "간사이",
+  "fest": {
+   "past": [
+    {
+     "year": 2026,
+     "dates": "4/9~4/17",
+     "note": "출번산 4기(萬歳樓·孔雀山·翁山·常盤山), 비가 왔지만 밤 공연에 관객 많음"
+    }
+   ],
+   "next": "",
+   "visitors": "",
+   "crowd": "",
+   "tips": [
+    "아이 가부키는 13일 저녁 첫 공연, 15일 본제 저녁 오타비쇼(御旅所) 봉납 공연이 핵심이다",
+    "공연하는 산(출번산)은 12기 중 4기가 매년 교대하므로 그해 산과 연목은 공식에서 확인",
+    "나가하마 하치만구 봉납 외에도 시내 여러 장소에서 같은 연목을 반복 공연하니 한 곳을 놓쳐도 다른 곳에서 볼 수 있다",
+    "비가 와도 공연은 진행된 사례가 있다(2026)"
+   ],
+   "sources": [
+    "https://www.pref.shiga.lg.jp/ab00/24211.html",
+    "https://ja.wikipedia.org/wiki/長浜曳山祭"
+   ]
+  }
  },
  {
   "id": "shiga-biwako-hanabi",
@@ -33726,7 +38244,47 @@ window.SPOTS = [
    "https://www.biwakokisen.co.jp/",
    "https://www.biwako-visitors.jp/hanabi/"
   ],
-  "region": "간사이"
+  "region": "간사이",
+  "fest": {
+   "past": [
+    {
+     "year": 2026,
+     "dates": "8/6",
+     "note": "예정일 기준 (개최 결과 기사 미확인)"
+    },
+    {
+     "year": 2025,
+     "dates": "8/8",
+     "note": "약 1만 발, 유료석 등 6.4만 석"
+    },
+    {
+     "year": 2023,
+     "dates": "8/8",
+     "note": "4년 만에 개최, 유료석 약 5만 석으로 확대"
+    },
+    {
+     "year": 2022,
+     "dates": "",
+     "note": "중지 (코로나, 2020~2022 3년 연속)"
+    }
+   ],
+   "next": "",
+   "visitors": "약 30만 명 (2023)",
+   "crowd": "매우 혼잡",
+   "tips": [
+    "유료석은 잔교 위 좌석·리클라이닝석·6인 사지키석 등이 있고 전자티켓에 공식 리세일도 있다",
+    "유료석과 도로 사이에 높이 약 4m 펜스가 설치되고, 주최 측은 티켓 없는 사람의 방문 자제를 요청한다 — 무료로 호숫가 앞쪽에서 보기는 어렵다",
+    "소우천은 결행, 악천후면 중지이고 연기 없음 — 당일 10시 이후 공식 사이트에서 개최 여부 확인",
+    "끝난 뒤 오쓰역~회장의 주오도리 보행로와 게이한 역이 매우 붐비고 입장 제한이 걸릴 수 있다 (JR은 임시열차, 일부 신쾌속이 제제역 정차)",
+    "차는 비추천: 메이신 고속 오쓰IC~교토히가시IC가 상습 정체하고 오쓰SA는 2024년부터 당일 완전 폐쇄",
+    "호숫가에 약 50m 간격으로 임시 화장실이 있고, 매점은 유료석 안에 있다"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/びわ湖大花火大会",
+    "https://www.pref.shiga.lg.jp/kensei/koho/reports/344100.html",
+    "https://sorahanabi.com/?p=7241"
+   ]
+  }
  },
  {
   "id": "shiga-michigan-cruise",
@@ -33842,7 +38400,29 @@ window.SPOTS = [
    "https://ja.wikipedia.org/wiki/左義長",
    "https://ja.wikipedia.org/wiki/日牟禮八幡宮"
   ],
-  "region": "간사이"
+  "region": "간사이",
+  "fest": {
+   "past": [
+    {
+     "year": 2026,
+     "dates": "3/14~3/15",
+     "note": "무사히 거행, 13기 참가"
+    }
+   ],
+   "next": "",
+   "visitors": "",
+   "crowd": "혼잡",
+   "tips": [
+    "첫날(토)은 각 마을의 '다시' 장식을 메고 옛 성하마을을 행진한다",
+    "둘째 날(일) 13기가 히무레하치만구에 모여 참도에서 서로 밀어붙이는 '켄카'가 볼거리 — 경내가 관객으로 가득 찬다",
+    "클라이맥스는 밤 8시 무렵 봉화(불태우기), 불꽃이 하늘로 날린다",
+    "그해 간지 동물을 모티프로 한 다시 콘테스트가 있어 마을별 작품을 비교하는 재미가 있다"
+   ],
+   "sources": [
+    "https://www.pref.shiga.lg.jp/kensei/koho/reports/349382.html",
+    "https://sagicho.net/"
+   ]
+  }
  },
  {
   "id": "shiga-omihachiman-canal",
@@ -34075,7 +38655,22 @@ window.SPOTS = [
    "https://ja.wikipedia.org/wiki/金剛輪寺",
    "https://ja.wikipedia.org/wiki/百済寺"
   ],
-  "region": "간사이"
+  "region": "간사이",
+  "fest": {
+   "past": [],
+   "next": "2026년 11/14~11/30 햐쿠사이지 본방 정원 라이트업",
+   "visitors": "라이트업 기간 약 2.5만 명 (웨더뉴스 게재, 연도 미기재)",
+   "crowd": "",
+   "tips": [
+    "햐쿠사이지 입장료 대인 600엔, 낮 배관은 8:30~17:00(접수 16:30)",
+    "무료 주차장 승용차 220대 — 차로 가면 메이신 고속 湖東三山 스마트IC에서 약 8분",
+    "대중교통은 JR 노토가와역에서 오미버스 '百済寺本町' 하차 후 도보 15분, 또는 오미철도 요카이치역에서 예약형 버스·택시",
+    "단풍 절정은 예년 11월 중순~12월 초"
+   ],
+   "sources": [
+    "https://weathernews.jp/koyo/spot/26008/"
+   ]
+  }
  },
  {
   "id": "shiga-makino-metasequoia",
@@ -34377,7 +38972,22 @@ window.SPOTS = [
   "sources": [
    "https://ja.wikipedia.org/wiki/日野祭"
   ],
-  "region": "간사이"
+  "region": "간사이",
+  "fest": {
+   "past": [],
+   "next": "",
+   "visitors": "",
+   "crowd": "",
+   "tips": [
+    "5/2 요미야 저녁에 각 마을 히키야마가 제등을 켜고 하야시를 연주한다",
+    "5/3 본제에 미코(8살 남아)·시바덴가쿠가 신사로 들어가고 미코시와 히키야마 16기가 뒤따른다",
+    "길가 민가의 '사지키마도(桟敷窓)'를 열고 연회하며 행렬을 보는 풍경이 이 축제만의 특징",
+    "요미야 밤에는 오쿠보의 후다노쓰지에 히키야마가 모여 특히 북적인다"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/日野祭"
+   ]
+  }
  },
  {
   "id": "shiga-hieizan-sakamoto-cable",
@@ -34919,7 +39529,32 @@ window.SPOTS = [
    "https://ja.wikipedia.org/wiki/五山送り火",
    "https://www.gozan-okuribi.com/"
   ],
-  "region": "간사이"
+  "region": "간사이",
+  "fest": {
+   "past": [
+    {
+     "year": 2025,
+     "dates": "8/16",
+     "note": "비 속 점화 (후기: 큰비로 보기 어려웠다는 평)"
+    }
+   ],
+   "next": "",
+   "visitors": "",
+   "crowd": "매우 혼잡",
+   "tips": [
+    "다섯 산을 한 번에 보려면 교토타워 전망실(예약제), 후나오카야마 공원은 도리이가타를 뺀 4개, 기타오지바시는 히다리다이몬지·묘호·후나가타가 보인다",
+    "자리를 잡으려면 17시 전후까지 도착",
+    "각 불은 약 30분 타고 산 사이 이동은 도보로 어렵다 — 한 곳을 정해서 보는 편이 낫다",
+    "21시 전후 교토역·기타오지역·아라시야마역이 매우 붐벼 귀가에 30분~1시간 이상 걸릴 수 있으니 시간을 늦춰서 출발",
+    "당일 산은 입산 금지, 강변은 수위가 높으면 출입 금지이고 밤엔 어두워 위험",
+    "비가 오면 점화 시간이 바뀔 수 있고, 더위가 심하니 물·냉각용품 준비 (TV·라이브카메라 중계도 있다)"
+   ],
+   "sources": [
+    "https://banzokubiology.com/?p=6384",
+    "https://kyoto.travel/tw/news/gozan-okuribi-bonfire2025/",
+    "https://ja.wikipedia.org/wiki/五山送り火"
+   ]
+  }
  },
  {
   "id": "kyoto-kotohikihama",
@@ -35033,7 +39668,43 @@ window.SPOTS = [
   "sources": [
    "https://ja.wikipedia.org/wiki/祇園祭"
   ],
-  "region": "간사이"
+  "region": "간사이",
+  "fest": {
+   "past": [
+    {
+     "year": 2025,
+     "dates": "7/1~7/31",
+     "note": "순행 7/17(전)·7/24(후). 전제 순행은 빗속 진행, 연도 약 10만 명(보도)"
+    },
+    {
+     "year": 2024,
+     "dates": "7/1~7/31",
+     "note": "전제 순행(7/17) 중 니와토리보코 바퀴가 깨져 시조도리에서 멈춤"
+    },
+    {
+     "year": 2023,
+     "dates": "7/1~7/31",
+     "note": "4년 만에 모든 행사 완전한 형태로 개최"
+    },
+    {
+     "year": 2022,
+     "dates": "7/1~7/31",
+     "note": "3년 만에 야마보코 순행 재개, 일부 행사 중지"
+    }
+   ],
+   "next": "",
+   "visitors": "약 10만 명 (2025 전제 순행 연도, 보도)",
+   "crowd": "매우 혼잡",
+   "tips": [
+    "유료 관람석은 전제 약 1만 석·후제 약 3,600석 규모(2024) — 교토시 관광협회 판매",
+    "요이야마는 7/14~16(전제)·7/21~23(후제), 순행은 7/17·7/24 — 후제 쪽이 상대적으로 덜 붐빈다",
+    "2026년엔 시조카라스마·카라스마롯카쿠의 혼잡 상황을 유튜브 라이브카메라로 실시간 중계했다",
+    "츠지마와시(방향 전환)를 정면에서 보는 고가 프리미엄석도 있었다(2023년 1석 40만 엔)"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/祇園祭"
+   ]
+  }
  },
  {
   "id": "kyoto-tango-kuromatsu-train",
@@ -35352,7 +40023,15 @@ window.SPOTS = [
    "https://www.pref.kyoto.jp/kyotoyamashiro/momiji_kasagiyama.html",
    "https://ja.wikipedia.org/wiki/笠置寺"
   ],
-  "region": "간사이"
+  "region": "간사이",
+  "fest": {
+   "past": [],
+   "next": "",
+   "visitors": "",
+   "crowd": "",
+   "tips": [],
+   "sources": []
+  }
  },
  {
   "id": "kyoto-kyoto-tower",
@@ -35432,7 +40111,41 @@ window.SPOTS = [
    "https://kifunejinja.jp/",
    "https://eizandensha.co.jp/"
   ],
-  "region": "간사이"
+  "region": "간사이",
+  "fest": {
+   "past": [
+    {
+     "year": 2025,
+     "dates": "11/7~11/24",
+     "note": "에이잔 전철 단풍 터널 라이트업(기부네 모미지 도로 일환)"
+    },
+    {
+     "year": 2024,
+     "dates": "11/1~11/24",
+     "note": "단풍 터널·니노세역·기부네구치역 라이트업은 12/1까지 연장"
+    },
+    {
+     "year": 2022,
+     "dates": "11/5~11/27",
+     "note": "기부네 모미지 도로"
+    }
+   ],
+   "next": "2026년 기부네 신사 11/7~11/24(일몰~20:30), 에이잔 전철 단풍 터널 11/7~12/6",
+   "visitors": "",
+   "crowd": "",
+   "tips": [
+    "기부네구치역에서 신사까지는 도보 약 30분(2km) — 교토버스 33번 '貴船' 하차가 훨씬 가깝다(도보 5분)",
+    "단풍 터널 구간에선 열차가 차내 조명을 끄고 감속 운행한다",
+    "전석 지정 라이트업 특별열차는 사전 신청제",
+    "데마치야나기역 16:30 이후 출발 열차가 라이트업 대상(2024 연장 기간 기준)",
+    "2026년 기부네 지구 임시 교통규제 공지가 있으니 차보다 전철·버스 이용"
+   ],
+   "sources": [
+    "https://kifunejinja.jp/",
+    "https://eizandensha.co.jp/",
+    "https://sp.jorudan.co.jp/leaf/news/jrd_241120_1.html"
+   ]
+  }
  },
  {
   "id": "kyoto-kumihama-bay",
@@ -35625,7 +40338,34 @@ window.SPOTS = [
    "https://miyamanavi.com/event/detail/id=246",
    "https://miyamanavi.com/information/access-public"
   ],
-  "region": "간사이"
+  "region": "간사이",
+  "fest": {
+   "past": [
+    {
+     "year": 2026,
+     "dates": "",
+     "note": "제21회 개최 (날짜 미확인). 눈 부족 문제로 이후 명칭을 '冬灯廊'로 변경"
+    },
+    {
+     "year": 2025,
+     "dates": "1/25~2/1",
+     "note": "주차장 완전 사전예약·사전결제제"
+    }
+   ],
+   "next": "2027년 1/30~2/6 (제22회 '冬灯廊', 17:00~19:00)",
+   "visitors": "",
+   "crowd": "",
+   "tips": [
+    "2023년부터 모든 날·모든 차량 주차장 사전예약제 — 송영만 하는 차도 예약 필요",
+    "택시 승강장이 없고, 대중교통 당일치기는 막차 버스 시간을 먼저 확인",
+    "노점(약 8곳)과 LED 등불 판매는 15:00~19:00",
+    "눈·빙판길에 맞는 신발과 방한 필수, 차는 스노타이어",
+    "2027년은 겨울 불꽃놀이 없음, 눈 상황에 따라 내용 변경 가능"
+   ],
+   "sources": [
+    "https://yukitouro.jp/"
+   ]
+  }
  },
  {
   "id": "kyoto-arashiyama-bamboo-togetsukyo",
@@ -36230,7 +40970,41 @@ window.SPOTS = [
   "sources": [
    "https://www.city.kishiwada.lg.jp/site/danjiri/"
   ],
-  "region": "간사이"
+  "region": "간사이",
+  "fest": {
+   "past": [
+    {
+     "year": 2026,
+     "dates": "9/19~9/20",
+     "note": "10월 마쓰리(야마테 지구) 10/10~11"
+    },
+    {
+     "year": 2025,
+     "dates": "9/13~9/14",
+     "note": "10월 마쓰리 10/11~12. 시험 히키 포함 4일간 열사병 이송 86명"
+    },
+    {
+     "year": 2022,
+     "dates": "9/17~9/18",
+     "note": "3년 만에 제한 없이 개최"
+    }
+   ],
+   "next": "",
+   "visitors": "",
+   "crowd": "매우 혼잡",
+   "tips": [
+    "야리마와시 최고 명당은 칸칸바·고몬(小門)/가이겐 부근, 비교적 보기 쉬운 곳은 란칸바시 교차로",
+    "자리를 잡으려면 아침 7시 전 도착, 특히 9~17시가 최혼잡",
+    "난카이 기시와다역이 가장 붐빈다 — 한 정거장 앞 다코지조역에서 걸어가면 수월",
+    "사다리·디딤대 금지, 비 오면 우산 금지(우비 지참), 달리는 단지리에 가까이 가지 말 것",
+    "9월 첫 일요일 시험 히키나 10월 야마테 지구 마쓰리는 비교적 한산하다",
+    "밤의 제등 단 '灯入曳行'도 인기 — 열사병 대비 수분 보충 필수"
+   ],
+   "sources": [
+    "https://banzokubiology.com/?p=6699",
+    "https://ja.wikipedia.org/wiki/岸和田だんじり祭"
+   ]
+  }
  },
  {
   "id": "osaka-tenjin-matsuri",
@@ -36269,7 +41043,40 @@ window.SPOTS = [
   "sources": [
    "https://ja.wikipedia.org/wiki/天神祭"
   ],
-  "region": "간사이"
+  "region": "간사이",
+  "fest": {
+   "past": [
+    {
+     "year": 2025,
+     "dates": "7/24~7/25",
+     "note": "후나토교·봉납 불꽃(약 3,000발) 7/25 19:30~20:50"
+    },
+    {
+     "year": 2023,
+     "dates": "7/24~7/25",
+     "note": "4년 만에 후나토교·봉납 불꽃 재개"
+    },
+    {
+     "year": 2022,
+     "dates": "7/24~7/25",
+     "note": "리쿠토교만 3년 만에 축소 실시(인원 약 1/3, 미코시는 대차로), 후나토교·불꽃 중지"
+    }
+   ],
+   "next": "",
+   "visitors": "약 130만 명 (예년)",
+   "crowd": "매우 혼잡",
+   "tips": [
+    "불꽃 명당은 사쿠라노미야 공원 남쪽(17시까지 도착)과 OAP 앞 원형광장(17:30경 도착하면 시야 좋은 자리 가능)",
+    "유료 관람: 사쿠라노미야/후레아이노미즈베 회장 테이블 지정석(4석) 3.7만 엔, 모래사장 자유석 8,000엔",
+    "JR 사쿠라노미야역이 가장 붐빈다(17:30까지 도착 권장), 교바시역 쪽은 18시에도 비교적 여유",
+    "귀가는 사쿠라노미야역을 피하고 오사카조키타즈메역·교바시역 방면으로 걷기",
+    "끝나자마자 역으로 가지 말고 교바시 근처에서 식사 후 시간을 늦춰 귀가하면 편하다"
+   ],
+   "sources": [
+    "https://www.walkerplus.com/article/1278325/",
+    "https://ja.wikipedia.org/wiki/天神祭"
+   ]
+  }
  },
  {
   "id": "osaka-dotonbori-tombori-cruise",
@@ -36588,7 +41395,52 @@ window.SPOTS = [
   "sources": [
    "https://ja.wikipedia.org/wiki/なにわ淀川花火大会"
   ],
-  "region": "간사이"
+  "region": "간사이",
+  "fest": {
+   "past": [
+    {
+     "year": 2026,
+     "dates": "10/17",
+     "note": "예정일 기준 (개최 결과 미확인)"
+    },
+    {
+     "year": 2025,
+     "dates": "10/18",
+     "note": "엑스포 폐막 후 가을로 변경, 끝날 무렵 큰비"
+    },
+    {
+     "year": 2024,
+     "dates": "8/3",
+     "note": ""
+    },
+    {
+     "year": 2023,
+     "dates": "8/5",
+     "note": ""
+    },
+    {
+     "year": 2022,
+     "dates": "8/27",
+     "note": "3년 만에 개최"
+    }
+   ],
+   "next": "",
+   "visitors": "약 45만 명 (예년)",
+   "crowd": "매우 혼잡",
+   "tips": [
+    "무료로 앉을 자리를 잡으려면 12시 도착이 이상적, 늦어도 15시 전 — 주쇼 바이패스 상류 쪽 무료 회장이 활기차다",
+    "유료석은 프리미엄·익사이팅·스테이지·노료선·파노라마 시트 5종 (가격·발매일은 공식 판매 사이트)",
+    "역에서 회장까지 평소 15분 길이 30분 이상 걸리니 일찍 이동, 우메다 쪽 강변은 공사로 관람 불가",
+    "노점은 주소 회장 안팎에 많고 15시쯤이 사기 편하다, 화장실은 적어 왕복 20분 걸리기도",
+    "귀가는 주소에서 주소오하시를 건너 우메다까지 걸으면(20~30분) 역 혼잡을 피할 수 있다",
+    "역 입장 제한이 걸리면 미테지마·에비에·히메지마·노다 등 주변 역으로 우회"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/なにわ淀川花火大会",
+    "https://hanabi.walkerplus.com/topics/article/1302594/",
+    "https://weathernews.jp/hanabi/spot/3601017/"
+   ]
+  }
  },
  {
   "id": "osaka-nakanoshima-central-hall",
@@ -36627,7 +41479,38 @@ window.SPOTS = [
    "https://ja.wikipedia.org/wiki/中之島公園",
    "https://www.city.osaka.lg.jp/hodoshiryo/keizaisenryaku/0000687506.html"
   ],
-  "region": "간사이"
+  "region": "간사이",
+  "fest": {
+   "past": [
+    {
+     "year": 2025,
+     "dates": "12/14~12/25",
+     "note": "OSAKA 히카리노 르네상스, 약 435만 명(추정)"
+    },
+    {
+     "year": 2024,
+     "dates": "",
+     "note": "12월 개최, 약 388만 명(추정)"
+    },
+    {
+     "year": 2023,
+     "dates": "",
+     "note": "약 380만 명(오사카부 자료)"
+    }
+   ],
+   "next": "2026년 12/11~12/25 (나카노시마 일루미네이션 스트리트 등 '오사카·빛의 향연'은 11/3부터)",
+   "visitors": "약 435만 명 (2025, 오사카시 발표 추정치)",
+   "crowd": "혼잡",
+   "tips": [
+    "핵심은 중앙공회당 벽면 프로젝션 매핑으로 관람 무료",
+    "미도스지 일루미네이션과 함께 '오사카·빛의 향연'으로 묶여 있어 한 번에 돌아보기 좋다",
+    "빛의 향연 디지털 스탬프랠리는 각 프로그램 기간 중에만 스탬프를 받을 수 있다 (2026년 11/3~2027년 1/31)"
+   ],
+   "sources": [
+    "https://www.city.osaka.lg.jp/hodoshiryo/keizaisenryaku/0000673560.html",
+    "https://www.hikari-kyoen.com/"
+   ]
+  }
  },
  {
   "id": "osaka-rinku-park-sunset",
@@ -36820,7 +41703,51 @@ window.SPOTS = [
    "https://www.mint.go.jp/enjoy/toorinuke/sakura_osaka_news_r8.html",
    "https://ja.wikipedia.org/wiki/造幣局_(日本)"
   ],
-  "region": "간사이"
+  "region": "간사이",
+  "fest": {
+   "past": [
+    {
+     "year": 2026,
+     "dates": "4/9~4/15",
+     "note": "사전예약제, 약 18.1만 명"
+    },
+    {
+     "year": 2025,
+     "dates": "4/5~4/11",
+     "note": "사전예약제, 약 19.8만 명"
+    },
+    {
+     "year": 2024,
+     "dates": "4/5~4/11",
+     "note": "사전예약제, 약 18.3만 명"
+    },
+    {
+     "year": 2023,
+     "dates": "4/7~4/13",
+     "note": "사전예약제, 약 15.2만 명"
+    },
+    {
+     "year": 2022,
+     "dates": "4/13~4/19",
+     "note": "3년 만에 재개, 사전예약제(무료·선착순), 약 11.2만 명"
+    }
+   ],
+   "next": "",
+   "visitors": "약 18.1만 명 (2026)",
+   "crowd": "혼잡",
+   "tips": [
+    "무료지만 사전 신청 필수 — 메일로 받은 QR코드를 보여주고, 지정 시간대 외 입장은 원칙적으로 불가",
+    "평일 10:00~19:15, 토일 9:00~19:15 (19:45 완전 퇴장), 악천후면 급히 중지될 수 있다",
+    "덴마바시역(지하철·게이한)이나 JR 오사카조키타즈메역에서 도보 약 15분, 주차장·관광버스 승하차장 없음",
+    "입장 때 수하물 검사, 안에서는 음식·흡연·양산·셀카봉·삼각대 금지",
+    "매년 그해의 벚꽃 품종이 지정된다 — 예약제 도입 전(2019년 58.7만 명)보다 훨씬 쾌적"
+   ],
+   "sources": [
+    "https://www.mint.go.jp/enjoy/toorinuke/sakura_osaka_data.html",
+    "https://www.mint.go.jp/enjoy/toorinuke/sakura_osaka_news_r8.html",
+    "https://ja.wikipedia.org/wiki/造幣局_"
+   ]
+  }
  },
  {
   "id": "osaka-katsuoji",
@@ -37585,7 +42512,44 @@ window.SPOTS = [
   "sources": [
    "https://www.kobe-luminarie.jp/"
   ],
-  "region": "간사이"
+  "region": "간사이",
+  "fest": {
+   "past": [
+    {
+     "year": 2026,
+     "dates": "1/30~2/8",
+     "note": "제31회 (발표 기준)"
+    },
+    {
+     "year": 2025,
+     "dates": "1/24~2/2",
+     "note": "제30회, 처음으로 2월에 걸쳐 개최, 244.8만 명"
+    },
+    {
+     "year": 2024,
+     "dates": "1/19~1/28",
+     "note": "제29회, 12월→1월로 옮겨 재개, 메리켄파크 유료구역 도입, 229.8만 명(역대 최소)"
+    },
+    {
+     "year": 2022,
+     "dates": "",
+     "note": "중지 (코로나, 3년 연속). 대체 행사 12/9~18"
+    }
+   ],
+   "next": "2027년 1/29~2/7 (제32회, 박명~21:30)",
+   "visitors": "약 244.8만 명 (2025)",
+   "crowd": "혼잡",
+   "tips": [
+    "메리켄파크 메인 작품은 시간 지정 유료 구역 — 2024년 기준 개인 예매 500엔, 당일 1,000엔, 초등생 이하 무료",
+    "유료 구역은 시간대별 정원제라 비교적 여유 있게 감상할 수 있다",
+    "구거류지·히가시유엔치 회장은 무료",
+    "회장에 공식 주차장이 없으니 대중교통 이용"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/神戸ルミナリエ",
+    "https://www.kobe-luminarie.jp/"
+   ]
+  }
  },
  {
   "id": "hyogo-kinosaki-onsen",
@@ -38107,7 +43071,40 @@ window.SPOTS = [
    "https://ja.wikipedia.org/wiki/赤穂御崎温泉",
    "https://ako-kankou.jp/onsen/"
   ],
-  "region": "간사이"
+  "region": "간사이",
+  "fest": {
+   "past": [
+    {
+     "year": 2025,
+     "dates": "12/14",
+     "note": "제122회 아코 의사 마쓰리"
+    },
+    {
+     "year": 2024,
+     "dates": "12/14",
+     "note": "제121회, 약 6.8만 명(정보사이트 게재)"
+    },
+    {
+     "year": 2022,
+     "dates": "12/14",
+     "note": "제119회, 3년 만에 퍼레이드 재개, 코스를 절반(약 600m)으로 축소, 약 3.6만 명"
+    }
+   ],
+   "next": "2026년 12/14(월) 제123회",
+   "visitors": "약 6만 명 (전년, 루루부 게재)",
+   "crowd": "혼잡",
+   "tips": [
+    "퍼레이드는 오전 아코성터 출발 — 다이묘 행렬, 추신구라 명장면 다시(수레), 배우가 오이시 구라노스케 역을 맡는 기시(義士) 행렬 순",
+    "유료 관람석 1석 2,000엔(퍼레이드 종점 앞 이키쓰기 광장), 10월 한 달 사전 신청. 10:30까지는 무료 개방 선착순",
+    "JR 반슈아코역에서 도보 3분, 무료 주차장 약 1,200대",
+    "노점도 많이 선다"
+   ],
+   "sources": [
+    "https://www.kobe-np.co.jp/news/sougou/202212/0015890073.shtml",
+    "https://rurubu.jp/andmore/spot/20000793",
+    "https://www.city.ako.lg.jp/kensetsu/kankou/matsuri/kanranseki123.html"
+   ]
+  }
  },
  {
   "id": "hyogo-awaji-uzushio-cruise",
@@ -38377,7 +43374,34 @@ window.SPOTS = [
   "sources": [
    "https://ja.wikipedia.org/wiki/篠山城"
   ],
-  "region": "간사이"
+  "region": "간사이",
+  "fest": {
+   "past": [
+    {
+     "year": 2026,
+     "dates": "8/15~8/16",
+     "note": ""
+    },
+    {
+     "year": 2025,
+     "dates": "8/15~8/16",
+     "note": "약 6.3만 명"
+    }
+   ],
+   "next": "",
+   "visitors": "약 6.3만 명 (2025)",
+   "crowd": "혼잡",
+   "tips": [
+    "입장 무료·예약 불필요, 회장은 사사야마성터 산노마루 광장 주변",
+    "이틀간 약 1,000발 불꽃 — 유료 관람석에서 야구라 총무용과 불꽃을 함께 보는 것이 추천 포인트",
+    "첫날은 15시부터 21시 넘어서까지 진행",
+    "비·악천후면 중지"
+   ],
+   "sources": [
+    "https://summer.walkerplus.com/odekake/detail_e/ar0728e72975/data.html",
+    "https://sorahanabi.com/hyogo2025"
+   ]
+  }
  },
  {
   "id": "hyogo-sakoshi-port-town",
@@ -38415,7 +43439,22 @@ window.SPOTS = [
   "sources": [
    "https://ja.wikipedia.org/wiki/坂越"
   ],
-  "region": "간사이"
+  "region": "간사이",
+  "fest": {
+   "past": [],
+   "next": "",
+   "visitors": "",
+   "crowd": "",
+   "tips": [
+    "본제는 10월 둘째 일요일 중심",
+    "미코시를 실은 와선 11척이 사코시만을 건너 이키시마 오타비쇼로 향하는 해상 행렬이 볼거리",
+    "남자들이 약 7m 판자 위에서 춤추는 '바타카케', 떡 던지기도 있다",
+    "해가 진 뒤 제등을 켠 선단이 돌아오는 장면이 특히 아름답다 — JR 아코선 사코시역 하차"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/坂越の船祭"
+   ]
+  }
  },
  {
   "id": "hyogo-aioi-peron-festival",
@@ -38452,7 +43491,46 @@ window.SPOTS = [
   "sources": [
    "https://ja.wikipedia.org/wiki/相生ペーロン祭"
   ],
-  "region": "간사이"
+  "region": "간사이",
+  "fest": {
+   "past": [
+    {
+     "year": 2026,
+     "dates": "5/30~5/31",
+     "note": "예정일 기준, 전야제 해상 불꽃 5/30 (개최 결과 미확인)"
+    },
+    {
+     "year": 2025,
+     "dates": "",
+     "note": "전야제 해상 불꽃(5/24 예정)이 '중지'로 표시됨 (정보사이트 1곳, 이유·본제 개최 여부 미확인)"
+    },
+    {
+     "year": 2023,
+     "dates": "5/27~5/28",
+     "note": "4년 만에 해상 불꽃(약 6,000발), 노점 재개"
+    },
+    {
+     "year": 2022,
+     "dates": "",
+     "note": "페롱 경조 3년 만에 실시 (날짜 미확인)"
+    }
+   ],
+   "next": "",
+   "visitors": "불꽃 약 8만 명 (과거), 코로나 이전 이틀간 연 약 12만 명",
+   "crowd": "혼잡",
+   "tips": [
+    "전야제 불꽃 유료석: 계단석(앞쪽 자유석) 3,000엔, 잔디석(뒤쪽 자유석) 1,000엔",
+    "JR 아이오이역에서 도보 약 20분, 시내 광범위하게 교통규제·주차 제한이 있어 전철 이용 권장",
+    "전야제 날 17시부터 시청 주변에 노점이 수백 곳 선다(2023년 약 270곳)",
+    "본제 날은 용선(페롱) 경조 — 도내외 50여 팀 출전"
+   ],
+   "sources": [
+    "https://www.kobe-np.co.jp/news/seiban/202305/0016309043.shtml",
+    "https://hanabi.walkerplus.com/detail/ar0728e544740/",
+    "https://sorahanabi.com/hyogo2025",
+    "https://weathernews.jp/hanabi/spot/3701001/"
+   ]
+  }
  },
  {
   "id": "hyogo-ieshima-islands",
@@ -38923,7 +44001,15 @@ window.SPOTS = [
    "https://www.vill.tenkawa.nara.jp/tourism/",
    "https://www.vill.tenkawa.nara.jp/tourism/spot/5145"
   ],
-  "region": "간사이"
+  "region": "간사이",
+  "fest": {
+   "past": [],
+   "next": "",
+   "visitors": "",
+   "crowd": "",
+   "tips": [],
+   "sources": []
+  }
  },
  {
   "id": "nara-wakakusa-yamayaki",
@@ -38961,7 +44047,36 @@ window.SPOTS = [
   "sources": [
    "https://www.pref.nara.lg.jp/yamayaki/index.html"
   ],
-  "region": "간사이"
+  "region": "간사이",
+  "fest": {
+   "past": [
+    {
+     "year": 2026,
+     "dates": "1/24",
+     "note": "예정일 기준 (연소 결과 기사 미확인)"
+    },
+    {
+     "year": 2025,
+     "dates": "1/25",
+     "note": ""
+    }
+   ],
+   "next": "2027년 1/23 예정 (유료 관람구역 입장권이 고향납세 답례품으로 등록)",
+   "visitors": "약 17만 명 (전년, 루루부 게재)",
+   "crowd": "매우 혼잡",
+   "tips": [
+    "15시까지 현지 도착 권장 — 17~18시가 매우 붐비고 불꽃(18:15)·점화(18:30) 전후가 피크",
+    "산기슭은 박력 있지만 대혼잡, 가스가노 원지·우키구모 원지는 넓고 불꽃도 잘 보인다. 헤이조궁터나 나라현청 옥상(일부 예약제)은 전경을 보는 숨은 명소",
+    "산기슭 게이트 안과 나라공원 버스터미널 옥상은 유료 관람구역",
+    "17시 이후 등산로 봉쇄로 산 정상은 못 간다, 주차장 없음",
+    "귀가 때 긴테쓰나라역 방향 도보길과 버스 정류장이 크게 막히니 조금 늦춰 출발",
+    "발밑이 어둡고 매우 추우니 손전등·핫팩·방한구 필수"
+   ],
+   "sources": [
+    "https://banzokubiology.com/wakakusayama-konzatsu/",
+    "https://rurubu.jp/andmore/spot/20000936"
+   ]
+  }
  },
  {
   "id": "nara-kasuga-taisha",
@@ -39003,7 +44118,33 @@ window.SPOTS = [
   "sources": [
    "https://ja.wikipedia.org/wiki/春日大社"
   ],
-  "region": "간사이"
+  "region": "간사이",
+  "fest": {
+   "past": [
+    {
+     "year": 2026,
+     "dates": "8/14~8/15",
+     "note": "중원 만등롱 (예정 기준)"
+    },
+    {
+     "year": 2026,
+     "dates": "2/3",
+     "note": "세츠분 만등롱 18:00~20:30"
+    }
+   ],
+   "next": "",
+   "visitors": "",
+   "crowd": "",
+   "tips": [
+    "헤이안 시대부터 봉납된 석등·조롱 약 3,000기에 모두 불을 켠다 (2월 세츠분, 8/14·15 연 3회)",
+    "경내 관람은 무료, 본전 특별참배 700엔·헌등 기원 3,000엔은 별도",
+    "2026년 가을·겨울엔 신직 안내로 세츠분 만등롱을 체험하는 기획도 있다"
+   ],
+   "sources": [
+    "https://rurubu.jp/andmore/spot/20001064",
+    "https://www.kasugataisha.or.jp/events/"
+   ]
+  }
  },
  {
   "id": "nara-takatori-castle-tosa-kaido",
@@ -39078,7 +44219,20 @@ window.SPOTS = [
    "https://www.tanzan.or.jp/",
    "https://www.tanzan.or.jp/haikan.html"
   ],
-  "region": "간사이"
+  "region": "간사이",
+  "fest": {
+   "past": [],
+   "next": "2026년 11/3 11:00 가을 게마리 축제 (본전)",
+   "visitors": "",
+   "crowd": "",
+   "tips": [
+    "가을 게마리 축제는 11/3 오전 11시 시작",
+    "단풍 축제 기간(2026년 10/1~12/6)과 겹쳐 단풍과 함께 볼 수 있다"
+   ],
+   "sources": [
+    "https://www.tanzan.or.jp/"
+   ]
+  }
  },
  {
   "id": "nara-muroji",
@@ -39185,7 +44339,31 @@ window.SPOTS = [
   "sources": [
    "https://ja.wikipedia.org/wiki/月ヶ瀬梅林"
   ],
-  "region": "간사이"
+  "region": "간사이",
+  "fest": {
+   "past": [
+    {
+     "year": 2026,
+     "dates": "2/14~3/29",
+     "note": "쓰키가세 바이케이 매화 축제"
+    },
+    {
+     "year": 2025,
+     "dates": "2/9~3/23",
+     "note": ""
+    }
+   ],
+   "next": "",
+   "visitors": "",
+   "crowd": "",
+   "tips": [
+    "매림공원·호우라 매림·덴진 매림 등 여러 매림을 걸어서 돌아볼 수 있다(산책 자유)",
+    "축제 기간엔 포토콘테스트·하이쿠 대회 등 행사가 열린다"
+   ],
+   "sources": [
+    "https://matcha-jp.com/jp/23633"
+   ]
+  }
  },
  {
   "id": "nara-yagyu-village",
@@ -39797,7 +44975,36 @@ window.SPOTS = [
    "https://www.todaiji.or.jp/information/haikan/",
    "https://www.nta.co.jp/kokunai/special/eventinfo/10632384.htm"
   ],
-  "region": "간사이"
+  "region": "간사이",
+  "fest": {
+   "past": [
+    {
+     "year": 2026,
+     "dates": "8/5~8/14",
+     "note": "도다이지 8/13~14, 가스가 대사 8/14만"
+    },
+    {
+     "year": 2025,
+     "dates": "8/5~8/14",
+     "note": "제27회, 19:00~21:30"
+    }
+   ],
+   "next": "",
+   "visitors": "약 90만 명 (10일간, 정보사이트 기준)",
+   "crowd": "매우 혼잡",
+   "tips": [
+    "점등 직후 19~20시와 주말·오봉(8/10~15)·마지막 날이 가장 붐빈다 — 18~19시나 21시 이후가 한산",
+    "우키미도·우키구모 원지·사루사와이케·고후쿠지는 인파가 많고, 아사지가하라·가스가노 원지는 비교적 여유",
+    "동선 예: 18시 긴테쓰나라역 → 사루사와이케 → 가스가노 원지 → 우키미도 → 21시 국립박물관 앞에서 역으로",
+    "직접 촛불을 켜는 '일객일등' 체험(500엔)이 있다",
+    "삼각대·셀카봉 금지, 쓰레기통 없음 — 21시 이후 역이 매우 붐비니 표를 미리 사 둘 것",
+    "소우천 결행 — 우산보다 우비가 낫다"
+   ],
+   "sources": [
+    "https://banzokubiology.com/toukae-konzatsu/",
+    "https://ja.wikipedia.org/wiki/なら燈花会"
+   ]
+  }
  },
  {
   "id": "nara-national-museum",
@@ -39915,7 +45122,15 @@ window.SPOTS = [
    "https://ja.wikipedia.org/wiki/當麻寺",
    "http://www.taimadera.org/guide/p2.html"
   ],
-  "region": "간사이"
+  "region": "간사이",
+  "fest": {
+   "past": [],
+   "next": "",
+   "visitors": "",
+   "crowd": "",
+   "tips": [],
+   "sources": []
+  }
  },
  {
   "id": "nara-shigisan-chogosonshiji",
@@ -40229,7 +45444,21 @@ window.SPOTS = [
    "https://ja.wikipedia.org/wiki/熊野速玉大社",
    "https://ja.wikipedia.org/wiki/神倉神社"
   ],
-  "region": "간사이"
+  "region": "간사이",
+  "fest": {
+   "past": [],
+   "next": "2027년 2/6(토) 19:00~21:00",
+   "visitors": "",
+   "crowd": "",
+   "tips": [
+    "신사 아래 다이코바시(太鼓橋)가 결계라 여성은 그 안에 들어갈 수 없다 — 밖에서 관람",
+    "약 2,000명의 노보리코(참가자)가 좁은 경내에 모인다",
+    "하이라이트는 밤 8시 무렵 횃불을 든 노보리코가 538단 돌계단을 한꺼번에 뛰어 내려오는 장면"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/御燈祭"
+   ]
+  }
  },
  {
   "id": "wakayama-kumano-hongu-taisha-oyunohara",
@@ -40393,7 +45622,20 @@ window.SPOTS = [
    "https://ja.wikipedia.org/wiki/那智滝",
    "https://ja.wikipedia.org/wiki/那智の火祭"
   ],
-  "region": "간사이"
+  "region": "간사이",
+  "fest": {
+   "past": [],
+   "next": "",
+   "visitors": "",
+   "crowd": "",
+   "tips": [
+    "전날 7/13 오후 5시 요미야 제사가 있다",
+    "본제(7/14)의 볼거리는 나치 폭포 앞 돌계단 참도에서 대횃불이 춤추듯 오르내리는 장면"
+   ],
+   "sources": [
+    "https://kumanonachitaisha.or.jp/event/"
+   ]
+  }
  },
  {
   "id": "wakayama-katsuura-bokido",
@@ -40721,7 +45963,15 @@ window.SPOTS = [
   "sources": [
    "https://ja.wikipedia.org/wiki/淡嶋神社"
   ],
-  "region": "간사이"
+  "region": "간사이",
+  "fest": {
+   "past": [],
+   "next": "",
+   "visitors": "",
+   "crowd": "",
+   "tips": [],
+   "sources": []
+  }
  },
  {
   "id": "wakayama-katsuura-fishing-port-market",
@@ -41042,7 +46292,31 @@ window.SPOTS = [
   "sources": [
    "https://ja.wikipedia.org/wiki/南部梅林"
   ],
-  "region": "간사이"
+  "region": "간사이",
+  "fest": {
+   "past": [
+    {
+     "year": 2026,
+     "dates": "1/31~3/1",
+     "note": "개원 기간 8:00~17:00"
+    },
+    {
+     "year": 2025,
+     "dates": "1/25~3/2",
+     "note": "개원 기간"
+    }
+   ],
+   "next": "",
+   "visitors": "",
+   "crowd": "",
+   "tips": [
+    "입원료 대인 500엔·초중학생 200엔",
+    "절정은 예년 2월 중순 — 혼잡을 피하려면 평일",
+    "개원 기간에만 임시 버스가 다닌다",
+    "2/11 매실 공양 행사, 기간 중 토요일엔 떡 던지기 등 이벤트"
+   ],
+   "sources": []
+  }
  },
  {
   "id": "wakayama-saikazaki",
@@ -41954,7 +47228,55 @@ window.SPOTS = [
    "https://ja.wikipedia.org/wiki/鳥取しゃんしゃん祭",
    "https://ja.wikipedia.org/wiki/鳥取駅"
   ],
-  "region": "주고쿠"
+  "region": "주고쿠",
+  "fest": {
+   "past": [
+    {
+     "year": 2026,
+     "dates": "8/13~15",
+     "note": "일제 가사오도리 약 3,400명"
+    },
+    {
+     "year": 2025,
+     "dates": "8/13~15",
+     "note": "일제 가사오도리 8/14 17~21시, 2019년 이후 처음 2부제, 109팀 3,222명"
+    },
+    {
+     "year": 2024,
+     "dates": "",
+     "note": "97팀 2,762명. 불꽃은 예비일 없이 개최, 유료석·무대 행사 폐지"
+    },
+    {
+     "year": 2023,
+     "dates": "",
+     "note": "시민 불꽃놀이는 태풍 7호로 연기 후 중지"
+    },
+    {
+     "year": 2021,
+     "dates": "10/31",
+     "note": "본 오도리만 무관객, 야마타 스포츠공원으로 장소 변경"
+    },
+    {
+     "year": 2020,
+     "dates": "",
+     "note": "중지 (코로나, 1965년 시작 이래 처음)"
+    }
+   ],
+   "next": "",
+   "visitors": "약 35만 3천 명 (2025, 3일간)",
+   "crowd": "혼잡",
+   "tips": [
+    "일제 가사오도리는 돗토리역 근처 와카사·치즈·가타하라 거리에서 열린다",
+    "기본 춤 두 가지만 익히면 참가할 수 있고, 손에 드는 방울 악기 '스즈코'로 초보도 쉽게 낀다",
+    "불꽃놀이는 날씨가 나쁘면 순연 없이 취소될 수 있으니 기대치를 낮출 것",
+    "일정이 며칠로 늘었고 장소가 바뀐 해도 있어 그해 공식 일정을 꼭 확인"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/鳥取しゃんしゃん祭",
+    "https://rurubu.jp/andmore/spot/20003000",
+    "https://kumanichi.com/articles/2025353"
+   ]
+  }
  },
  {
   "id": "tottori-hanakairo",
@@ -41997,7 +47319,15 @@ window.SPOTS = [
    "https://ja.wikipedia.org/wiki/とっとり花回廊",
    "https://www.tottorihanakairou.or.jp/"
   ],
-  "region": "주고쿠"
+  "region": "주고쿠",
+  "fest": {
+   "past": [],
+   "next": "",
+   "visitors": "",
+   "crowd": "",
+   "tips": [],
+   "sources": []
+  }
  },
  {
   "id": "tottori-masumizu-kogen",
@@ -42083,7 +47413,15 @@ window.SPOTS = [
    "https://ja.wikipedia.org/wiki/用瀬駅",
    "https://nagashibinanoyakata.jp/"
   ],
-  "region": "주고쿠"
+  "region": "주고쿠",
+  "fest": {
+   "past": [],
+   "next": "",
+   "visitors": "",
+   "crowd": "",
+   "tips": [],
+   "sources": []
+  }
  },
  {
   "id": "tottori-mitokusan-nageiredo",
@@ -43695,7 +49033,20 @@ window.SPOTS = [
    "https://www.yuushien.com/access/",
    "https://www.yuushien.com/cgi-bin/disp.cgi?no=1&mode=one&code=10260"
   ],
-  "region": "주고쿠"
+  "region": "주고쿠",
+  "fest": {
+   "past": [],
+   "next": "",
+   "visitors": "",
+   "crowd": "",
+   "tips": [
+    "2026 일루미네이션 기간에는 마쓰에역 남쪽 출구에서 유시엔까지 무료 셔틀버스가 다닌다(일정은 공식 공지)",
+    "평상시 입장료는 어른 2,000엔, 중고생 1,000엔(야간 행사 요금은 별도 확인)"
+   ],
+   "sources": [
+    "https://www.yuushien.com/"
+   ]
+  }
  },
  {
   "id": "shimane-iwami-tatamigaura",
@@ -44370,7 +49721,21 @@ window.SPOTS = [
    "https://www.kasaoka-kankou.jp/island/shiraishijima",
    "https://www.kasaoka-kankou.jp/access/ship"
   ],
-  "region": "주고쿠"
+  "region": "주고쿠",
+  "fest": {
+   "past": [],
+   "next": "",
+   "visitors": "",
+   "crowd": "",
+   "tips": [
+    "오봉 공연은 8/13~16 섬 공민관 앞 광장",
+    "8/15 회향 공양 때 추는 진혼 춤도 공민관 앞에서 일반인이 볼 수 있다",
+    "7월 중순~8월 초 토요일마다 시라이시섬 해수욕장 모래사장에서 관광용 공연이 있다"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/白石踊"
+   ]
+  }
  },
  {
   "id": "okayama-okutsu-onsen",
@@ -44911,7 +50276,25 @@ window.SPOTS = [
    "https://ja.wikipedia.org/wiki/西大寺_(岡山市)",
    "https://news.ksb.co.jp/article/16978547"
   ],
-  "region": "주고쿠"
+  "region": "주고쿠",
+  "fest": {
+   "past": [
+    {
+     "year": 2026,
+     "dates": "2/21",
+     "note": "보물 나무 쟁탈 뒤 6명 이송, 2명 사망"
+    }
+   ],
+   "next": "2027년은 보물 나무 쟁탈전 없이 개최 (봉찬회 결정)",
+   "visitors": "",
+   "crowd": "",
+   "tips": [],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/西大寺会陽",
+    "https://www.sakigake.jp/news/article/20260221CO0106/",
+    "https://kumanichi.com/articles/2048678"
+   ]
+  }
  },
  {
   "id": "okayama-shimotsui",
@@ -45077,7 +50460,38 @@ window.SPOTS = [
   "sources": [
    "https://ja.wikipedia.org/wiki/うらじゃ"
   ],
-  "region": "주고쿠"
+  "region": "주고쿠",
+  "fest": {
+   "past": [
+    {
+     "year": 2026,
+     "dates": "",
+     "note": "제31회 개최 (8/27 감사 인사 게재)"
+    },
+    {
+     "year": 2025,
+     "dates": "8/23~24",
+     "note": "제30회, 테마 '輪'"
+    },
+    {
+     "year": 2024,
+     "dates": "8/17~18",
+     "note": "제29회"
+    }
+   ],
+   "next": "",
+   "visitors": "약 50만 명 이상 (연도 미표기)",
+   "crowd": "",
+   "tips": [
+    "연무 무대가 하레노와, 시모이시이 공원, 시모다초 공원, 이온몰 오카야마 등 여러 곳에 흩어져 있다",
+    "퍼레이드는 오모테초 상점가·하레마치 거리(토), 시청 거리(일) 쪽",
+    "관광객도 '우라자 다마시이' 춤 체험(코스별 정원 100명)이나 누구나 추는 총오도리에 낄 수 있다",
+    "도깨비 분장 '우라자 메이크' 안내가 공식 사이트에 있다"
+   ],
+   "sources": [
+    "https://www.uraja.jp/"
+   ]
+  }
  },
  {
   "id": "okayama-inujima",
@@ -45361,7 +50775,15 @@ window.SPOTS = [
   "sources": [
    "https://ja.wikipedia.org/wiki/伊部駅"
   ],
-  "region": "주고쿠"
+  "region": "주고쿠",
+  "fest": {
+   "past": [],
+   "next": "",
+   "visitors": "",
+   "crowd": "",
+   "tips": [],
+   "sources": []
+  }
  },
  {
   "id": "okayama-tsuyama-manabi-railway",
@@ -45697,7 +51119,26 @@ window.SPOTS = [
    "https://www.takeharakankou.jp/",
    "https://www.takeharakankou.jp/spot/7471/"
   ],
-  "region": "주고쿠"
+  "region": "주고쿠",
+  "fest": {
+   "past": [
+    {
+     "year": 2026,
+     "dates": "10/31~11/1",
+     "note": "제22회, 17~21시, 대나무 등불 약 5,000개"
+    }
+   ],
+   "next": "",
+   "visitors": "",
+   "crowd": "",
+   "tips": [
+    "행사용 주차장은 다케하라 초등학교 운동장(약 300대, 1,000엔). 미치노에키 주차장은 일반 이용객용이라 피하라는 안내",
+    "가능하면 대중교통 권장, 게이요 버스 임시편이 나온다"
+   ],
+   "sources": [
+    "https://www.takeharakankou.jp/event/8316/"
+   ]
+  }
  },
  {
   "id": "hiroshima-tomonoura",
@@ -45999,7 +51440,26 @@ window.SPOTS = [
    "https://dreamination.com/",
    "https://ja.wikipedia.org/wiki/ひろしまドリミネーション"
   ],
-  "region": "주고쿠"
+  "region": "주고쿠",
+  "fest": {
+   "past": [
+    {
+     "year": 2025,
+     "dates": "11/17~1/3",
+     "note": "17:30~22:30 (첫날은 18시경부터), 약 140만 구"
+    }
+   ],
+   "next": "",
+   "visitors": "약 74만 9천 명 (2024)",
+   "crowd": "",
+   "tips": [
+    "평화대로를 중심으로 상점가·아리스 가든까지 이어져 무료로 걸으며 본다",
+    "첫날은 점등이 18시쯤으로 평소보다 늦다"
+   ],
+   "sources": [
+    "https://rurubu.jp/andmore/spot/20000274"
+   ]
+  }
  },
  {
   "id": "hiroshima-kosanji-ikuchijima",
@@ -46164,7 +51624,32 @@ window.SPOTS = [
   "sources": [
    "https://ja.wikipedia.org/wiki/とうかさん"
   ],
-  "region": "주고쿠"
+  "region": "주고쿠",
+  "fest": {
+   "past": [
+    {
+     "year": 2025,
+     "dates": "6/6~8",
+     "note": ""
+    },
+    {
+     "year": 2020,
+     "dates": "",
+     "note": "중지 (코로나)"
+    }
+   ],
+   "next": "",
+   "visitors": "참배 약 8만 명, 주오도리 일대 약 45만 명 (3일간, 연도 미표기)",
+   "crowd": "매우 혼잡",
+   "tips": [
+    "주오도리가 보행자 천국이 되고 노점이 길게 늘어선다",
+    "히로시마에서는 그해 처음 유카타를 입는 날이라 유카타 차림이 많다",
+    "평소 볼 수 없는 이나리 다이묘진 성상을 공개하는 유일한 기회"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/とうかさん"
+   ]
+  }
  },
  {
   "id": "hiroshima-mibu-hanadaue",
@@ -46204,7 +51689,33 @@ window.SPOTS = [
    "https://ja.wikipedia.org/wiki/壬生の花田植",
    "https://msearch.gsi.go.jp/address-search/AddressSearch?q=広島県北広島町壬生"
   ],
-  "region": "주고쿠"
+  "region": "주고쿠",
+  "fest": {
+   "past": [
+    {
+     "year": 2026,
+     "dates": "6/7",
+     "note": ""
+    },
+    {
+     "year": 2025,
+     "dates": "6/1",
+     "note": "지역 케이블TV 생중계"
+    }
+   ],
+   "next": "",
+   "visitors": "약 6,000명 (2025)",
+   "crowd": "",
+   "tips": [
+    "회장은 미부 도키와바시 북쪽 특설회장, 관람 무료",
+    "무료 주차 약 500대(지요다IC 근처 정사무소·미부 초등학교 등)에서 셔틀버스가 다닌다",
+    "꾸민 소 10여 마리와 사오토메 40명 등 약 100명이 펼치는 모내기 행렬이 볼거리",
+    "히로시마역에서 버스로 약 1시간"
+   ],
+   "sources": [
+    "https://rurubu.jp/andmore/spot/20002217"
+   ]
+  }
  },
  {
   "id": "hiroshima-miyoshi-ukai",
@@ -46245,7 +51756,29 @@ window.SPOTS = [
    "https://ja.wikipedia.org/wiki/三次鵜飼",
    "https://msearch.gsi.go.jp/address-search/AddressSearch?q=巴橋"
   ],
-  "region": "주고쿠"
+  "region": "주고쿠",
+  "fest": {
+   "past": [
+    {
+     "year": 2025,
+     "dates": "6/1~9/10",
+     "note": ""
+    }
+   ],
+   "next": "",
+   "visitors": "",
+   "crowd": "",
+   "tips": [
+    "승선료 어른 4,000엔, 초등학생 2,000엔. 사전 예약 할인·숙박 패키지가 있다",
+    "19시 유람 시작, 19:45쯤 가마우지 배 출항, 20:45 종료. 접수는 19시까지",
+    "운항 요일이 안내처마다 다르게 적혀 있어 공식(미요시 관광추진기구)에서 꼭 확인",
+    "전세 승선 외에 합승도 있다"
+   ],
+   "sources": [
+    "https://dive-hiroshima.com/events/events-98232/",
+    "https://tabi-mag.jp/miyoshi-ukai/"
+   ]
+  }
  },
  {
   "id": "hiroshima-mitarai-osakishimojima",
@@ -46668,7 +52201,25 @@ window.SPOTS = [
    "https://ja.wikipedia.org/wiki/西条駅_(広島県)",
    "https://sakematsuri.com/"
   ],
-  "region": "주고쿠"
+  "region": "주고쿠",
+  "fest": {
+   "past": [
+    {
+     "year": 2026,
+     "dates": "10/10~11",
+     "note": "10일 10~19시, 11일 10~17시"
+    }
+   ],
+   "next": "",
+   "visitors": "",
+   "crowd": "",
+   "tips": [
+    "사케 히로바 입장권과 비슈나베(술 전골) 권은 사전 판매, 비슈나베 권은 재판매가 열리기도 한다"
+   ],
+   "sources": [
+    "https://sakematsuri.com/"
+   ]
+  }
  },
  {
   "id": "hiroshima-shukkeien",
@@ -47172,7 +52723,41 @@ window.SPOTS = [
    "https://ja.wikipedia.org/wiki/関門海峡花火大会",
    "https://www.city.shimonoseki.lg.jp/site/kouhou/163429.html"
   ],
-  "region": "주고쿠"
+  "region": "주고쿠",
+  "fest": {
+   "past": [
+    {
+     "year": 2026,
+     "dates": "8/13",
+     "note": "약 1만8천 발, 20:00~20:30, 무료 관람 구역 없음"
+    },
+    {
+     "year": 2024,
+     "dates": "8/13",
+     "note": "약 1만5천 발, 회장 주변 무료 구역 없이 협찬 티켓 구매자만 입장"
+    },
+    {
+     "year": 2023,
+     "dates": "8/13",
+     "note": "약 1만5천 발"
+    }
+   ],
+   "next": "",
+   "visitors": "예년 약 105만 명 (양안 합계)",
+   "crowd": "매우 혼잡",
+   "tips": [
+    "회장 주변에 무료 관람 구역이 없어 협찬 티켓을 사야 관람 구역에 들어갈 수 있다",
+    "주차장이 없으니 대중교통으로. 모지 쪽은 JR 모지코역 도보 5분, 시모노세키 쪽은 JR 시모노세키역 도보 20분",
+    "악천후면 중지되고 순연은 없다",
+    "모지 쪽은 대옥 연발·음악 불꽃, 시모노세키 쪽은 큰 옥과 수중 불꽃이 강점",
+    "회장 밖 해안이나 산 위에서 해협 야경과 함께 보는 방법도 있다"
+   ],
+   "sources": [
+    "https://hanabi.walkerplus.com/detail/ar1040e00932/data.html",
+    "https://hanabi.walkerplus.com/topics/article/1207786/",
+    "https://kanmon-hanabi.love/"
+   ]
+  }
  },
  {
   "id": "yamaguchi-nagato-yumoto-onsen",
@@ -47556,7 +53141,15 @@ window.SPOTS = [
   "sources": [
    "https://ja.wikipedia.org/wiki/東光寺_(萩市)"
   ],
-  "region": "주고쿠"
+  "region": "주고쿠",
+  "fest": {
+   "past": [],
+   "next": "",
+   "visitors": "",
+   "crowd": "",
+   "tips": [],
+   "sources": []
+  }
  },
  {
   "id": "yamaguchi-motonosumi-shrine",
@@ -47808,7 +53401,26 @@ window.SPOTS = [
   "sources": [
    "https://ja.wikipedia.org/wiki/柳井市古市金屋伝統的建造物群保存地区"
   ],
-  "region": "주고쿠"
+  "region": "주고쿠",
+  "fest": {
+   "past": [
+    {
+     "year": 2026,
+     "dates": "8/13",
+     "note": "제35회, 16:30~21:00, 금붕어 등 약 2,500개, 히로사키 네푸타 첫 출진"
+    }
+   ],
+   "next": "",
+   "visitors": "",
+   "crowd": "",
+   "tips": [
+    "회장은 JR 야나이역 주변과 시라카베 거리. 큰 '금붕어 네부타' 행렬이 볼거리"
+   ],
+   "sources": [
+    "https://yamaguchi-tourism.jp/event/detail_15055.html",
+    "https://www.sakigake.jp/news/article/20260803PT0001/"
+   ]
+  }
  },
  {
   "id": "yamaguchi-tanabata-chochin",
@@ -47848,7 +53460,27 @@ window.SPOTS = [
    "https://ja.wikipedia.org/wiki/山口七夕ちょうちんまつり",
    "https://ja.wikipedia.org/wiki/山口県立美術館"
   ],
-  "region": "주고쿠"
+  "region": "주고쿠",
+  "fest": {
+   "past": [
+    {
+     "year": 2026,
+     "dates": "8/6~7",
+     "note": ""
+    }
+   ],
+   "next": "",
+   "visitors": "",
+   "crowd": "",
+   "tips": [
+    "중심은 야마구치시 중심상점가와 잇노사카강 교통교류광장 주변, JR 야마구치역에서 걸어서 5분",
+    "수만 개 붉은 초롱이 대나무에 달려 빛 터널처럼 보인다",
+    "주차는 현 교육회관·현립도서관 등 공공시설 주차장 이용"
+   ],
+   "sources": [
+    "https://yamaguchi-tourism.jp/event/detail_12272.html"
+   ]
+  }
  },
  {
   "id": "yamaguchi-iwakuni-castle-ropeway",
@@ -48224,7 +53856,26 @@ window.SPOTS = [
   "sources": [
    "https://ja.wikipedia.org/wiki/赤間神宮"
   ],
-  "region": "주고쿠"
+  "region": "주고쿠",
+  "fest": {
+   "past": [
+    {
+     "year": 2026,
+     "dates": "5/2~4",
+     "note": "시모노세키 가이쿄 마쓰리 일정"
+    }
+   ],
+   "next": "",
+   "visitors": "예년 약 18만 명 (연도 미표기)",
+   "crowd": "매우 혼잡",
+   "tips": [
+    "조로 도추(유녀 행렬)와 참배가 있는 5/3에 사람이 가장 몰린다",
+    "기간 중 매우 붐벼 대중교통 권장. 유료 주차장은 가몬워프·가라토시장·아카마신궁·가이쿄칸"
+   ],
+   "sources": [
+    "https://yamaguchi-tourism.jp/event/detail_10440.html"
+   ]
+  }
  },
  {
   "id": "yamaguchi-otsushima-kaiten",
@@ -48388,7 +54039,20 @@ window.SPOTS = [
    "https://ja.wikipedia.org/wiki/防府天満宮",
    "https://www.hofutenmangu.com/1004"
   ],
-  "region": "주고쿠"
+  "region": "주고쿠",
+  "fest": {
+   "past": [],
+   "next": "2026년 11/28(토)",
+   "visitors": "",
+   "crowd": "",
+   "tips": [
+    "흰 옷의 하다카보 약 5,000명이 참가하고, 500kg 가마가 58단 돌계단을 미끄러져 내려오는 장면이 하이라이트",
+    "JR 방후역에서 걸어서 20분, 당일 교통 규제 있음"
+   ],
+   "sources": [
+    "https://yamaguchi-tourism.jp/event/detail_14765.html"
+   ]
+  }
  },
  {
   "id": "tokushima-naruto-uzushio-cruise",
@@ -48505,7 +54169,42 @@ window.SPOTS = [
    "https://www.city.tokushima.tokushima.jp/kankou/awaodori/index.html",
    "https://www.awaodorimirai.com/"
   ],
-  "region": "시코쿠"
+  "region": "시코쿠",
+  "fest": {
+   "past": [
+    {
+     "year": 2025,
+     "dates": "8/11~8/15",
+     "note": "유료 연무장 3곳(아이바하마·미나미우치마치·곤야마치)"
+    },
+    {
+     "year": 2023,
+     "dates": "8/12~8/15",
+     "note": "태풍 7호: 14일 옥외는 빗속 강행·실내 낮 공연 중지, 15일 전 공연 중지. 12~14일 회장 주변 약 54만 명(추계)"
+    },
+    {
+     "year": 2022,
+     "dates": "8/11~8/15",
+     "note": "11일 전야제, 3년 만에 예년 일정 개최. 이후 무용수 800명 이상 코로나 감염 판명"
+    }
+   ],
+   "next": "",
+   "visitors": "약 54만 명 (2023, 태풍으로 3일간 추계)",
+   "crowd": "매우 혼잡",
+   "tips": [
+    "유료 연무장은 8/12~15, 아이바하마·미나미우치마치·곤야마치 3곳으로 도쿠시마역에서 걸어서 5~15분. 옥외 유료석은 2부 교체제",
+    "11일은 아스티 도쿠시마, 12~15일은 아와긴홀에서 실내 무대 공연이 따로 있다",
+    "'니와카렌'은 사전 신청 없이 평상복으로 참가해 유명 렌 무용수에게 배워 직접 춤출 수 있다",
+    "료고쿠바시~신마치바시 사이 강변에 도쿠시마 라멘·아와 포크 노점이 늘어선다",
+    "태풍이 오면 공연이 통째로 중지된 해도 있으니(2023) 일정에 여유를 두기",
+    "축제 기간이 아니어도 아와오도리 회관에서 연중 공연을 볼 수 있다"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/徳島市阿波おどり",
+    "https://www.knt.co.jp/meito/sp/awaodori/",
+    "https://www.city.tokushima.tokushima.jp/kankou/awaodori/2023_awaodori_re.files/honpen.pdf"
+   ]
+  }
  },
  {
   "id": "tokushima-awa-no-dochu",
@@ -48976,7 +54675,27 @@ window.SPOTS = [
    "https://tabi-mag.jp/bighinafes/",
    "https://ja.wikipedia.org/wiki/勝浦町"
   ],
-  "region": "시코쿠"
+  "region": "시코쿠",
+  "fest": {
+   "past": [
+    {
+     "year": 2026,
+     "dates": "2/21~4/5",
+     "note": "제38회, 인형문화교류관"
+    }
+   ],
+   "next": "",
+   "visitors": "",
+   "crowd": "",
+   "tips": [
+    "9:00~16:00, 회장은 가쓰우라정 인형문화교류관",
+    "지바현 가쓰우라시의 '가쓰우라 빅 히나마쓰리'와 이름이 비슷하고 기간이 다르니 혼동 주의"
+   ],
+   "sources": [
+    "https://rurubu.jp/andmore/spot/20001051",
+    "https://www.toretabi.jp/zipangclub/page/news2603_shikoku.html"
+   ]
+  }
  },
  {
   "id": "tokushima-hiwasa-ohama-turtle-beach",
@@ -49957,7 +55676,46 @@ window.SPOTS = [
    "https://ja.wikipedia.org/wiki/旧金毘羅大芝居",
    "https://www.konpirakabuki.jp/index.html"
   ],
-  "region": "시코쿠"
+  "region": "시코쿠",
+  "fest": {
+   "past": [
+    {
+     "year": 2026,
+     "dates": "4/10~4/26",
+     "note": "제39회, 4/16 휴연, 1일 2회 공연(1부·2부 각 2작품)"
+    },
+    {
+     "year": 2024,
+     "dates": "",
+     "note": "제37회, 레이와 대개수 완료 기념 고케라오토시로 5년 만에 공연"
+    },
+    {
+     "year": 2023,
+     "dates": "",
+     "note": "중지 (2020년 이후 코로나·내진 보강 공사로 4회 중지)"
+    },
+    {
+     "year": 2022,
+     "dates": "",
+     "note": "중지 (코로나·내진 보강 공사)"
+    }
+   ],
+   "next": "",
+   "visitors": "",
+   "crowd": "",
+   "tips": [
+    "현존 최고(最古) 극장이라 무대와 객석이 매우 가깝다. 객석은 다다미 마스세키",
+    "공연 전날 배우들이 마을을 행진하는 '오네리'도 볼거리",
+    "좌석 수가 적어 일찍 예약하는 게 좋다",
+    "오래된 건물이라 불편함이 있어, 2026년엔 항공사가 무릎담요·방석을 기증했다. 방석·보온 대비를 하면 편하다"
+   ],
+   "sources": [
+    "https://www.rakuten.co.jp/f374032-kotohira/contents/konpirakabuki/",
+    "https://news.ksb.co.jp/article/16157554",
+    "https://news.ksb.co.jp/article/16317000",
+    "https://kumanichi.com/articles/1979242"
+   ]
+  }
  },
  {
   "id": "kagawa-shodoshima-kankakei-ropeway",
@@ -50071,7 +55829,32 @@ window.SPOTS = [
    "https://summer.walkerplus.com/odekake/detail_e/ar0937e607400/",
    "https://ja.wikipedia.org/wiki/仁尾町"
   ],
-  "region": "시코쿠"
+  "region": "시코쿠",
+  "fest": {
+   "past": [
+    {
+     "year": 2026,
+     "dates": "8/1",
+     "note": "제39회, 14:00~21:00"
+    },
+    {
+     "year": 2024,
+     "dates": "8/3",
+     "note": "제37회, 14:00~21:30"
+    }
+   ],
+   "next": "",
+   "visitors": "",
+   "crowd": "",
+   "tips": [
+    "보통 8월 첫째 토요일 무렵, 오후 2시부터 밤 9시쯤까지. 무료",
+    "회장은 미토요시 시민센터 니오(옛 니오 지소) 주변"
+   ],
+   "sources": [
+    "https://summer.walkerplus.com/odekake/detail_e/ar0937e607400/data.html",
+    "https://iko-yo.net/events/430249"
+   ]
+  }
  },
  {
   "id": "kagawa-megijima",
@@ -50419,7 +56202,15 @@ window.SPOTS = [
    "https://www.pref.kagawa.lg.jp/tochikai/midori_info/festival/nouson_kabuki.html",
    "https://news.ksb.co.jp/article/15256948"
   ],
-  "region": "시코쿠"
+  "region": "시코쿠",
+  "fest": {
+   "past": [],
+   "next": "",
+   "visitors": "",
+   "crowd": "",
+   "tips": [],
+   "sources": []
+  }
  },
  {
   "id": "kagawa-konpira-shrine",
@@ -50609,7 +56400,15 @@ window.SPOTS = [
   "sources": [
    "https://ja.wikipedia.org/wiki/栗林公園"
   ],
-  "region": "시코쿠"
+  "region": "시코쿠",
+  "fest": {
+   "past": [],
+   "next": "",
+   "visitors": "",
+   "crowd": "",
+   "tips": [],
+   "sources": []
+  }
  },
  {
   "id": "kagawa-marugame-castle",
@@ -50880,7 +56679,15 @@ window.SPOTS = [
    "https://ja.wikipedia.org/wiki/引田_(東かがわ市)",
    "https://ja.wikipedia.org/wiki/讃州井筒屋敷"
   ],
-  "region": "시코쿠"
+  "region": "시코쿠",
+  "fest": {
+   "past": [],
+   "next": "",
+   "visitors": "",
+   "crowd": "",
+   "tips": [],
+   "sources": []
+  }
  },
  {
   "id": "ehime-iyonada-monogatari",
@@ -51039,7 +56846,47 @@ window.SPOTS = [
    "https://ja.wikipedia.org/wiki/一宮神社_(新居浜市)",
    "https://www.city.niihama.lg.jp/soshiki/kankou/taikomatsuri.html"
   ],
-  "region": "시코쿠"
+  "region": "시코쿠",
+  "fest": {
+   "past": [
+    {
+     "year": 2025,
+     "dates": "",
+     "note": "공장 앞 가키쿠라베 중지. 10/17 다이코다이끼리 충돌로 체포자 발생, 다이코다이 전도로 가키부 사망(2년 연속)"
+    },
+    {
+     "year": 2024,
+     "dates": "",
+     "note": "다이코다이 전도 등으로 가키부 사망·중상 사고"
+    },
+    {
+     "year": 2023,
+     "dates": "",
+     "note": "통상 개최 복귀"
+    },
+    {
+     "year": 2022,
+     "dates": "",
+     "note": "3년 만에 개최, 일부 제한"
+    },
+    {
+     "year": 2021,
+     "dates": "",
+     "note": "중지 (코로나)"
+    }
+   ],
+   "next": "",
+   "visitors": "",
+   "crowd": "매우 혼잡",
+   "tips": [
+    "매년 십수만 명이 보러 온다. 다이코다이 여러 대가 모여 들어 올리는 '가키쿠라베'가 핵심",
+    "주요 가키쿠라베 장소: 가와니시 이치노미야 신사·오에하마 광장, 가와히가시 다키하마역 앞·하치만 신사·고쿠료강 하천부지, 조부 야마네 그라운드 등",
+    "최근 다이코다이 충돌·전도 사고가 이어졌으니 다이코다이 가까이 붙지 말고 거리 두고 보기"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/新居浜太鼓祭り"
+   ]
+  }
  },
  {
   "id": "ehime-dogo-onsen-honkan",
@@ -51116,7 +56963,22 @@ window.SPOTS = [
   "sources": [
    "https://ja.wikipedia.org/wiki/西条祭り"
   ],
-  "region": "시코쿠"
+  "region": "시코쿠",
+  "fest": {
+   "past": [],
+   "next": "",
+   "visitors": "",
+   "crowd": "",
+   "tips": [
+    "신사마다 날짜가 다르다: 가모 신사(체육의 날 전전날·전날), 이시오카 신사 10/14~15, 이소노 신사 10/15~16, 이이즈미 신사 10/15~18",
+    "이소노 신사 15일 심야 '미야다시'는 제등 100개 안팎을 단 야타이가 경내에 모이는 장면",
+    "16일 저녁 가모가와 하천부지 '가와이리'가 클라이맥스",
+    "이시오카 신사는 15일 새벽 사쿠라노바바에서 가키쿠라베, 이이즈미 신사는 17일 11대 동시 사시아게"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/西条祭り"
+   ]
+  }
  },
  {
   "id": "ehime-shimanami-kaido-cycling",
@@ -51190,7 +57052,31 @@ window.SPOTS = [
    "https://ja.wikipedia.org/wiki/和霊大祭",
    "https://ushioni.gaina.ne.jp/"
   ],
-  "region": "시코쿠"
+  "region": "시코쿠",
+  "fest": {
+   "past": [
+    {
+     "year": 2021,
+     "dates": "",
+     "note": "우시오니 마쓰리 중지 (코로나, 2년 연속)"
+    },
+    {
+     "year": 2020,
+     "dates": "",
+     "note": "우시오니 마쓰리 중지 (코로나)"
+    }
+   ],
+   "next": "",
+   "visitors": "",
+   "crowd": "",
+   "tips": [
+    "7/23 어린이 우시오니 퍼레이드와 우와지마만 해상 불꽃, 7/24 마루야마 불꽃과 '하시리코미'",
+    "하시리코미(가미코시를 메고 강으로 달려드는 의식)는 마지막 날 24일"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/うわじま牛鬼まつり"
+   ]
+  }
  },
  {
   "id": "ehime-ishizuchi-ropeway",
@@ -51580,7 +57466,29 @@ window.SPOTS = [
    "https://ja.wikipedia.org/wiki/宇和島市",
    "https://www.tougyu.com/"
   ],
-  "region": "시코쿠"
+  "region": "시코쿠",
+  "fest": {
+   "past": [
+    {
+     "year": 2026,
+     "dates": "7/23, 10/25",
+     "note": "7/23 와레이 대제 장소(기존 데이터의 7/24와 다름), 10/25 가을 장소. 다른 장소 날짜는 확인 못 함"
+    }
+   ],
+   "next": "2027년 1/2 정월 장소 12:00~14:00",
+   "visitors": "",
+   "crowd": "",
+   "tips": [
+    "고등학생 이상 예매 2,500엔·당일 3,000엔, 중학생 이하 무료(2026 와레이 대제 장소)",
+    "10시 개장, 대회는 12~14시",
+    "정기 대회 횟수가 자료마다 연 4회·5회로 달라, 날짜는 공식(tougyu.com)으로 확인"
+   ],
+   "sources": [
+    "https://summer.walkerplus.com/odekake/detail_e/ar0938e594655/data.html",
+    "https://www.walkerplus.com/event/ar0938e594656/data.html",
+    "https://www.nta.co.jp/kokunai/special/eventinfo/10621943.htm"
+   ]
+  }
  },
  {
   "id": "ehime-yusu-mizugaura-terraced-fields",
@@ -52327,7 +58235,26 @@ window.SPOTS = [
    "https://ja.wikipedia.org/wiki/赤岡町",
    "https://www.ekingura.com/"
   ],
-  "region": "시코쿠"
+  "region": "시코쿠",
+  "fest": {
+   "past": [
+    {
+     "year": 2026,
+     "dates": "7/18~7/19",
+     "note": "제50회"
+    }
+   ],
+   "next": "",
+   "visitors": "",
+   "crowd": "",
+   "tips": [
+    "18~21시, 무료. 에킨의 병풍 그림은 19~21시에만 상점가 처마 밑에 전시되니 해 진 뒤에 가기",
+    "회장은 고난시 아카오카정 혼마치·요코마치 상점가"
+   ],
+   "sources": [
+    "https://summer.walkerplus.com/odekake/detail_e/ar0939e603237/data.html"
+   ]
+  }
  },
  {
   "id": "kochi-cape-muroto",
@@ -52485,7 +58412,61 @@ window.SPOTS = [
   "sources": [
    "https://ja.wikipedia.org/wiki/よさこい祭り"
   ],
-  "region": "시코쿠"
+  "region": "시코쿠",
+  "fest": {
+   "past": [
+    {
+     "year": 2026,
+     "dates": "8/9~8/12",
+     "note": "197팀·약 1.8만 명 참가 예정(사전 발표)"
+    },
+    {
+     "year": 2025,
+     "dates": "8/9~8/12",
+     "note": "인출 약 97만 명"
+    },
+    {
+     "year": 2024,
+     "dates": "",
+     "note": "제71회, 184팀 약 1.7만 명"
+    },
+    {
+     "year": 2023,
+     "dates": "",
+     "note": "제70회, 고치대학 연무장 추가"
+    },
+    {
+     "year": 2022,
+     "dates": "",
+     "note": "규모 축소, 11개 회장에서 개최"
+    },
+    {
+     "year": 2021,
+     "dates": "",
+     "note": "중지 (코로나, 고치 경륜장 대체 특별 연무도 중지)"
+    },
+    {
+     "year": 2020,
+     "dates": "",
+     "note": "중지 (코로나, 1954년 시작 이래 첫 중지)"
+    }
+   ],
+   "next": "",
+   "visitors": "약 97만 명 (2025)",
+   "crowd": "매우 혼잡",
+   "tips": [
+    "9일 전야제·불꽃, 10~11일 본제, 12일 전국대회·후야제. 볼거리는 10~11일에 몰린다",
+    "오비야마치 같은 상점가 연무장은 11:30~16:00, 오테스지·중앙공원은 18:00~21:30 야간 연무 때 가장 붐빈다",
+    "오테스지 본부 경연장은 유료 사지키석을 잡으면 편하다",
+    "8월 한여름이라 모자·염분 보충·휴대 선풍기 필수, 소나기 대비 우비. 짐은 가볍게",
+    "10~11일 12:45~22:00 무렵 오테스지 주변 대규모 교통규제가 있어 차보다 노면전차·JR·도보",
+    "만반 등 교외 경연장은 지역 손님 위주라 비교적 여유 있게 볼 수 있다"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/よさこい祭り",
+    "https://banzokubiology.com/yosakoi-konzatsu/"
+   ]
+  }
  },
  {
   "id": "kochi-godaisan-chikurinji",
@@ -52644,7 +58625,23 @@ window.SPOTS = [
    "https://ja.wikipedia.org/wiki/入野松原",
    "https://ja.wikipedia.org/wiki/黒潮町"
   ],
-  "region": "시코쿠"
+  "region": "시코쿠",
+  "fest": {
+   "past": [
+    {
+     "year": 2024,
+     "dates": "5/1~5/6",
+     "note": "제36회 (출처 표기 요일이 실제 달력과 맞지 않음)"
+    }
+   ],
+   "next": "",
+   "visitors": "",
+   "crowd": "",
+   "tips": [],
+   "sources": [
+    "https://compe.japandesign.ne.jp/sunabi-t-shirt-art-2024"
+   ]
+  }
  },
  {
   "id": "kochi-ogata-whale-watching",
@@ -53508,7 +59505,31 @@ window.SPOTS = [
    "https://ja.wikipedia.org/wiki/門司港レトロ",
    "https://ja.wikipedia.org/wiki/門司港駅"
   ],
-  "region": "규슈"
+  "region": "규슈",
+  "fest": {
+   "past": [
+    {
+     "year": 2025,
+     "dates": "10/4~5/24",
+     "note": "2025년도 시즌 '로만 도사이'. 10월·3~5월 18:30~24:00, 11~2월 17:30~24:00, 12/31은 다음 날 5시까지"
+    }
+   ],
+   "next": "2026년도 시즌 11/14~2027/5/23 (11~2월 18:00~, 3~5월 19:00~, 원칙 24시까지. 11/14 점등식 18:30)",
+   "visitors": "",
+   "crowd": "",
+   "tips": [
+    "관람 무료이고 반년 넘게 이어지니 일정에 맞춰 아무 날 저녁에 들르면 된다",
+    "JR 모지코역 바로 앞이라 기차로 가는 게 편하고, 차는 주변 코인 주차장을 써야 한다",
+    "약 30만 구 전구와 근대 건물 라이트업이 바닷물에 비치는 모습이 사진 포인트",
+    "시즌 초(11월)와 3월 이후는 점등이 늦으니 점등 시각을 확인하고 갈 것",
+    "12/31은 다음 날 새벽 5시까지 켜 두어 새해맞이 산책에도 좋다"
+   ],
+   "sources": [
+    "https://sp.jorudan.co.jp/illumi/spot_0090.html",
+    "https://www.crossroadfukuoka.jp/event/10619",
+    "https://www.mojiko.info/"
+   ]
+  }
  },
  {
   "id": "fukuoka-sarakurayama",
@@ -53666,7 +59687,34 @@ window.SPOTS = [
    "https://www.pref.fukuoka.lg.jp/press-release/omuta-daijyayama-2026.html",
    "https://www.crossroadfukuoka.jp/event/13542"
   ],
-  "region": "규슈"
+  "region": "규슈",
+  "fest": {
+   "past": [
+    {
+     "year": 2026,
+     "dates": "7/25~7/26",
+     "note": "7/18~19 항구 축제, 25일 1만 명 총춤·기온 6산 순행, 26일 대집합 퍼레이드"
+    },
+    {
+     "year": 2025,
+     "dates": "7/26~7/27",
+     "note": "제63회. 26일 17:50~ 1만 명 총춤, 19:10~ 기온 6산 순행·경연, 27일 18:00~ 대집합 퍼레이드"
+    }
+   ],
+   "next": "",
+   "visitors": "약 30만 명 (예년, 후쿠오카현 소개)",
+   "crowd": "혼잡",
+   "tips": [
+    "첫날은 저녁 총춤 뒤 19시쯤부터 대뱀 야마(山) 순행·경연, 둘째 날은 18시부터 대집합 퍼레이드가 핵심",
+    "길이 10m가 넘는 대뱀 수레가 입에서 불꽃을 내뿜는 장면이 하이라이트",
+    "대뱀 입에 아이 머리를 물리는 '가마세'를 하면 무병식재한다는 풍습이 있어 가족 단위가 많다",
+    "회장(다이쇼마치 오마쓰리 광장)은 오무타역 도보 5분이라 전철이 편하고 주변 교통 규제가 있다"
+   ],
+   "sources": [
+    "https://www.pref.fukuoka.lg.jp/press-release/omuta-daijyayama-2025.html",
+    "https://www.crossroadfukuoka.jp/event/13542"
+   ]
+  }
  },
  {
   "id": "fukuoka-harazuru-onsen-ukai",
@@ -53899,7 +59947,37 @@ window.SPOTS = [
    "https://ja.wikipedia.org/wiki/戸畑祇園大山笠",
    "https://ja.wikipedia.org/wiki/戸畑区"
   ],
-  "region": "규슈"
+  "region": "규슈",
+  "fest": {
+   "past": [
+    {
+     "year": 2025,
+     "dates": "",
+     "note": "제72회 경연회 개최, 7기 운행 (덴라이지 지구는 고와카 야마가사만 참가). 날짜 확인 못 함"
+    },
+    {
+     "year": 2024,
+     "dates": "",
+     "note": "제71회 경연회 개최, 덴라이지 지구 불참으로 6기 운행. 날짜 확인 못 함"
+    },
+    {
+     "year": 2022,
+     "dates": "",
+     "note": "대경연회 중지 (코로나, 2020~2022)"
+    }
+   ],
+   "next": "",
+   "visitors": "매년 십수만 명 (위키백과 기준)",
+   "crowd": "혼잡",
+   "tips": [
+    "볼거리는 토요일 18시 무렵 아소 공원 주변에서 열리는 대경연회",
+    "해 지기 전엔 깃발을 단 노보리 야마가사, 밤에는 제등을 단 제등 야마가사로 모습이 바뀌니 해질녘 전후로 머물면 둘 다 볼 수 있다",
+    "일요일에도 각 지구에서 야마가사가 돌아다니니 토요일 혼잡을 피하려면 일요일 밤도 방법"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/戸畑祇園大山笠"
+   ]
+  }
  },
  {
   "id": "fukuoka-munakata-oshima",
@@ -53979,7 +60057,46 @@ window.SPOTS = [
   "sources": [
    "https://ja.wikipedia.org/wiki/宮地嶽神社"
   ],
-  "region": "규슈"
+  "region": "규슈",
+  "fest": {
+   "past": [
+    {
+     "year": 2026,
+     "dates": "10/10~10/20",
+     "note": "10월 유히노 마쓰리"
+    },
+    {
+     "year": 2026,
+     "dates": "2/19~2/28",
+     "note": "2월 유히노 마쓰리"
+    },
+    {
+     "year": 2025,
+     "dates": "10/14~10/22",
+     "note": "10월 유히노 마쓰리"
+    },
+    {
+     "year": 2025,
+     "dates": "2/18~3/2",
+     "note": "2월 유히노 마쓰리"
+    }
+   ],
+   "next": "2027년 2월 하순 예정 (매년 2월·10월 20일 전후, 날짜 미발표)",
+   "visitors": "",
+   "crowd": "혼잡",
+   "tips": [
+    "무료 관람석(계단)은 당일 14시부터 선착순 정리권을 나눠 주니 일찍 가야 한다",
+    "15시부터 일몰까지 계단이 관람석이 되어 오르내릴 수 없고, 17시쯤부터 안내가 시작된다",
+    "특별 기원제(5,000엔, 전화 예약)를 신청하면 계단 위쪽 지정석에서 볼 수 있다",
+    "JR 후쿠마역에서 걸으면 25분이니 버스로 '미야지다케 신사 앞'까지 가는 게 낫다",
+    "날씨가 흐리면 빛의 길이 안 생기니 일몰 시각과 날씨를 미리 확인"
+   ],
+   "sources": [
+    "https://www.crossroadfukuoka.jp/event/11692",
+    "https://www.fukuoka-now.com/en/event/miyajidake-shrine-path-of-light-feb-2025/",
+    "https://www.miyajidake.or.jp/"
+   ]
+  }
  },
  {
   "id": "fukuoka-itoshima-futamigaura",
@@ -54217,7 +60334,61 @@ window.SPOTS = [
    "https://ja.wikipedia.org/wiki/筑後川花火大会",
    "https://www.crossroadfukuoka.jp/feature/chikugogawa"
   ],
-  "region": "규슈"
+  "region": "규슈",
+  "fest": {
+   "past": [
+    {
+     "year": 2026,
+     "dates": "",
+     "note": "중지 (7/28 구마모토 지진 영향, 원래 8/5 예정)"
+    },
+    {
+     "year": 2025,
+     "dates": "8/5",
+     "note": "제366회, 19:40~20:40, 약 1만5천 발. 도스 회장 3년 만에 설치"
+    },
+    {
+     "year": 2024,
+     "dates": "",
+     "note": "개최, 약 1만5천 발·5개 회장(도스 회장 없음). 날짜 확인 못 함"
+    },
+    {
+     "year": 2023,
+     "dates": "8/27",
+     "note": "1만5천 발, 70분"
+    },
+    {
+     "year": 2022,
+     "dates": "",
+     "note": "3년 만에 개최, 약 8천 발·30분으로 축소. 불꽃 탄이 인근 학교 궁도장에 떨어지는 사고"
+    },
+    {
+     "year": 2021,
+     "dates": "",
+     "note": "중지 (코로나)"
+    },
+    {
+     "year": 2020,
+     "dates": "",
+     "note": "중지 (코로나)"
+    }
+   ],
+   "next": "2027년 개최 여부 미발표 (예년 8/5)",
+   "visitors": "약 45만 명 (예년)",
+   "crowd": "매우 혼잡",
+   "tips": [
+    "관람 무료이고 유료석은 없다. 강 양쪽 두 곳에서 쏘아 회장마다 보이는 각도가 다르다",
+    "교마치·사사야마 회장이 특히 잘 보이는 자리로 꼽힌다",
+    "JR 구루메역에서 도보 10분, 니시테쓰 구루메역에서는 유료 셔틀버스가 다닌다",
+    "공식 주차장(햐쿠넨 공원)은 1대 3,000엔 완전 예약제라 차로 가려면 미리 예약해야 한다",
+    "신칸센·JR·니시테쓰 3개 노선이 지나 접근성은 좋지만 끝난 뒤 역은 크게 붐빈다"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/筑後川花火大会",
+    "https://hanabi.walkerplus.com/detail/ar1040e01014/data.html",
+    "https://sp.jorudan.co.jp/hanabi/spot_87497.html"
+   ]
+  }
  },
  {
   "id": "fukuoka-hakata-gion-yamakasa",
@@ -54256,7 +60427,62 @@ window.SPOTS = [
    "https://ja.wikipedia.org/wiki/櫛田神社_(福岡市)",
    "https://www.hakatayamakasa.com/"
   ],
-  "region": "규슈"
+  "region": "규슈",
+  "fest": {
+   "past": [
+    {
+     "year": 2026,
+     "dates": "7/1~7/15",
+     "note": "오이야마 7/15 오전 4:59 출발"
+    },
+    {
+     "year": 2025,
+     "dates": "7/1~7/15",
+     "note": ""
+    },
+    {
+     "year": 2024,
+     "dates": "7/1~7/15",
+     "note": ""
+    },
+    {
+     "year": 2023,
+     "dates": "7/1~7/15",
+     "note": "4년 만에 제한 없이 개최 (오이야마에서 가키테 사망 사고)"
+    },
+    {
+     "year": 2022,
+     "dates": "7/1~7/15",
+     "note": "3년 만에 가키야마 개최, 관람 자제 요청"
+    },
+    {
+     "year": 2021,
+     "dates": "",
+     "note": "가키야마 연기 (코로나), 가자리야마만 7/1~14 전시"
+    },
+    {
+     "year": 2020,
+     "dates": "",
+     "note": "연기 (코로나)"
+    }
+   ],
+   "next": "2027년 7/1~7/15 예정 (오이야마 7/15 새벽 4:59, 매년 고정 일정)",
+   "visitors": "약 300만 명 규모 (기간 전체)",
+   "crowd": "매우 혼잡",
+   "tips": [
+    "구시다 신사 경내 사지키석(관람석)은 6월 하순 신사에서만 팔고 금방 매진되어 구하기 매우 어렵다",
+    "사지키석 없이 구시다이리를 보긴 힘들고, 신사 주변은 전날 밤부터 기다리는 사람도 있다",
+    "자리가 없으면 결승점 스사키의 '마와리도메' 부근이나 코스 중간에서 마지막 질주를 보는 게 현실적",
+    "나가레가키 때는 '세미즈(물 뿌리기)'용 물통 근처에서 기다리면 지나가는 야마가사를 놓치지 않는다",
+    "오이야마는 새벽 4:59 시작해 아침 7시쯤이면 모든 행사가 끝나니 전날 숙소를 근처에 잡을 것",
+    "시내 14곳의 가자리야마는 기간 중 자유롭게 볼 수 있고 10m쯤 떨어져 찍으면 전체가 잘 나온다"
+   ],
+   "sources": [
+    "https://www.knt.co.jp/meito/sp/yamakasa/",
+    "https://kumanichi.com/articles/2013788",
+    "https://ja.wikipedia.org/wiki/博多祇園山笠"
+   ]
+  }
  },
  {
   "id": "fukuoka-fukuoka-tower",
@@ -54947,7 +61173,15 @@ window.SPOTS = [
   "sources": [
    "https://ja.wikipedia.org/wiki/古湯温泉"
   ],
-  "region": "규슈"
+  "region": "규슈",
+  "fest": {
+   "past": [],
+   "next": "",
+   "visitors": "",
+   "crowd": "",
+   "tips": [],
+   "sources": []
+  }
  },
  {
   "id": "saga-hizen-hamashuku",
@@ -55065,7 +61299,46 @@ window.SPOTS = [
    "https://en.wikipedia.org/wiki/Karatsu_Kunchi",
    "https://www.karatsu-kankou.jp/feature/karatsukunchi/"
   ],
-  "region": "규슈"
+  "region": "규슈",
+  "fest": {
+   "past": [
+    {
+     "year": 2025,
+     "dates": "11/2~11/4",
+     "note": "11/3 오타비쇼 신코 9:30~16:30"
+    },
+    {
+     "year": 2024,
+     "dates": "11/2~11/4",
+     "note": "연인원 64만 명으로 역대 최다 (가라쓰시 통계)"
+    },
+    {
+     "year": 2021,
+     "dates": "11/3",
+     "note": "축소: 오타비쇼 신코·히키야마 순행만, 음주 금지·연도 관람 자제 요청"
+    },
+    {
+     "year": 2020,
+     "dates": "",
+     "note": "중지 (코로나, 신사 의식만 하고 히키야마 순행 없음)"
+    }
+   ],
+   "next": "2026년 11/2~11/4 (11/2 밤 요이히키야마, 11/3 오타비쇼 신코, 11/4 마치마와리)",
+   "visitors": "연인원 64만 명 (2024)",
+   "crowd": "매우 혼잡",
+   "tips": [
+    "11/2 밤 요이야마는 19:30쯤 출발, 제등 켠 히키야마가 신사 앞에 모인다. 신오하시 등 다리 위에서 강물에 비친 불빛이 예쁘다",
+    "최대 볼거리는 11/3 오타비쇼에 히키야마를 모래밭으로 끌어들이는 '히키코미'",
+    "가라쓰 신사 참배길·가타나마치 쪽은 붐비고 모퉁이가 많아 위험하니 피하는 게 좋다",
+    "코스 동쪽 자이모쿠마치·가코마치·오이시마치는 직선 도로라 비교적 여유 있게 볼 수 있다",
+    "옛집이 남은 우오야마치 주변은 사진 찍기 좋은 곳",
+    "연도에 출입 금지 구역이 있으니 안내원 지시를 따를 것"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/唐津くんち",
+    "https://www.mapple.net/article/99338/"
+   ]
+  }
  },
  {
   "id": "saga-kashima-gatalympic",
@@ -55103,7 +61376,49 @@ window.SPOTS = [
    "https://ja.wikipedia.org/wiki/道の駅鹿島",
    "https://ja.wikipedia.org/wiki/鹿島ガタリンピック"
   ],
-  "region": "규슈"
+  "region": "규슈",
+  "fest": {
+   "past": [
+    {
+     "year": 2026,
+     "dates": "5/31",
+     "note": "제42회, 11시 개회·12시 경기 시작"
+    },
+    {
+     "year": 2024,
+     "dates": "6/2",
+     "note": ""
+    },
+    {
+     "year": 2022,
+     "dates": "",
+     "note": "중지 (코로나, 5/29 예정이었음)"
+    },
+    {
+     "year": 2021,
+     "dates": "",
+     "note": "중지 (코로나, 6/6 예정이었음)"
+    },
+    {
+     "year": 2020,
+     "dates": "",
+     "note": "중지 (코로나)"
+    }
+   ],
+   "next": "",
+   "visitors": "약 2만 명 (2025)",
+   "crowd": "혼잡",
+   "tips": [
+    "관람은 무료이고 경기에 직접 나가려면 종목당 2,000엔부터, 사전 신청이 원칙(당일 참가 가능한 종목도 있음)",
+    "주차는 유토쿠 이나리 신사 주차장(약 500대)을 쓰고 무료 셔틀버스로 약 8분",
+    "갯벌로 얼마나 멀리 날아가나 겨루는 '가타잔'이 가장 웃음이 터지는 인기 종목",
+    "진흙이 싫으면 관객으로만 보며 즐겨도 충분하다는 평"
+   ],
+   "sources": [
+    "https://rurubu.jp/andmore/spot/20003291",
+    "https://ja.wikipedia.org/wiki/鹿島ガタリンピック"
+   ]
+  }
  },
  {
   "id": "saga-kunenan",
@@ -55181,7 +61496,15 @@ window.SPOTS = [
    "https://www.jeepe.jp/ja/articles/kiyomizu-falls-ogi-2681",
    "https://www.city.ogi.lg.jp/kouhou/web_shihou/pdf/images/2014nendo/no122/p08-09.pdf"
   ],
-  "region": "규슈"
+  "region": "규슈",
+  "fest": {
+   "past": [],
+   "next": "",
+   "visitors": "",
+   "crowd": "",
+   "tips": [],
+   "sources": []
+  }
  },
  {
   "id": "saga-ouo-shrine-sea-torii",
@@ -55222,7 +61545,20 @@ window.SPOTS = [
   "sources": [
    "https://ja.wikipedia.org/wiki/大魚神社"
   ],
-  "region": "규슈"
+  "region": "규슈",
+  "fest": {
+   "past": [],
+   "next": "",
+   "visitors": "",
+   "crowd": "",
+   "tips": [
+    "등롱 축제(센노 도로 마쓰리)는 다라초 주최로 매년 8월에 열리지만 연도별 날짜는 확인 못 함",
+    "간조 때는 해중 도리이 앞까지 걸어갈 수 있으니 물때표를 확인하고 갈 것"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/大魚神社"
+   ]
+  }
  },
  {
   "id": "saga-daikozenji-kiyama",
@@ -55303,7 +61639,15 @@ window.SPOTS = [
    "https://ja.wikipedia.org/wiki/竹崎島",
    "https://mb.jorudan.co.jp/os/bus/4104/line/43604.html"
   ],
-  "region": "규슈"
+  "region": "규슈",
+  "fest": {
+   "past": [],
+   "next": "",
+   "visitors": "",
+   "crowd": "",
+   "tips": [],
+   "sources": []
+  }
  },
  {
   "id": "saga-mikaeri-falls",
@@ -55339,7 +61683,15 @@ window.SPOTS = [
   "sources": [
    "https://ja.wikipedia.org/wiki/見帰りの滝"
   ],
-  "region": "규슈"
+  "region": "규슈",
+  "fest": {
+   "past": [],
+   "next": "",
+   "visitors": "",
+   "crowd": "",
+   "tips": [],
+   "sources": []
+  }
  },
  {
   "id": "saga-mifuneyama-rakuen",
@@ -55379,7 +61731,21 @@ window.SPOTS = [
    "https://ja.wikipedia.org/wiki/御船山楽園",
    "https://www.mifuneyamarakuen.jp/autumn/"
   ],
-  "region": "규슈"
+  "region": "규슈",
+  "fest": {
+   "past": [],
+   "next": "2026년 단풍 축제 11/6~12/6",
+   "visitors": "",
+   "crowd": "",
+   "tips": [
+    "주간 입원료는 어른 500엔(개원 8:00~17:00 기준), 야간 라이트업 시간·요금은 따로 확인 필요",
+    "정원 안에 급경사 언덕이 두 곳 있어 비 온 뒤엔 미끄러우니 편한 신발",
+    "돗자리(블루시트)·술 반입 금지, 반려동물 동반 불가"
+   ],
+   "sources": [
+    "https://www.mifuneyamarakuen.jp/"
+   ]
+  }
  },
  {
   "id": "saga-international-balloon-fiesta",
@@ -55415,7 +61781,63 @@ window.SPOTS = [
   "sources": [
    "https://ja.wikipedia.org/wiki/バルーンさが駅"
   ],
-  "region": "규슈"
+  "region": "규슈",
+  "fest": {
+   "past": [
+    {
+     "year": 2026,
+     "dates": "10/30~11/3",
+     "note": "진행 중. 10/30 오전 비·오후 바람으로 경기 중지, 판타지아 중지. 10/31 판타지아 실시"
+    },
+    {
+     "year": 2025,
+     "dates": "10/30~11/3",
+     "note": "124기. 10/31·11/1·11/2 오후 경기는 날씨로 중지"
+    },
+    {
+     "year": 2024,
+     "dates": "10/31~11/4",
+     "note": "폭우로 둔치 침수, 2일째부터 경기 중지·행사 취소 (방문 8.5만 명)"
+    },
+    {
+     "year": 2023,
+     "dates": "",
+     "note": "해외 조종사 복귀, 16개국 125기"
+    },
+    {
+     "year": 2022,
+     "dates": "",
+     "note": "국내 조종사만, 관객 복귀 (84.9만 명)"
+    },
+    {
+     "year": 2021,
+     "dates": "",
+     "note": "국내 조종사만, 무관객"
+    },
+    {
+     "year": 2020,
+     "dates": "",
+     "note": "중지 (코로나, 1980년 이후 첫 중지, 대체 이벤트만)"
+    }
+   ],
+   "next": "2027년 일정 미발표 (예년 10월 말~11월 초 5일간)",
+   "visitors": "약 83.8만 명 (2025)",
+   "crowd": "매우 혼잡",
+   "tips": [
+    "경기 비행은 오전 7시쯤·오후 3시쯤 하루 2번. 100기 넘게 한꺼번에 뜨는 아침 비행을 보려면 새벽 4시쯤 사가역 근처에 있어야 하고, 6시 도착이면 정체로 놓치기 쉽다",
+    "임시역 '벌룬사가역'은 회장 바로 앞이지만 승강장이 좁아 붐비니 IC카드 충전은 미리 해 둘 것",
+    "회장 주차장(약 4,000대, 2,000엔)은 주말·공휴일 새벽 5시쯤 차니 파크앤라이드가 낫다",
+    "새벽 둔치는 영하 가까이 떨어지고 낮엔 따뜻해서 겹쳐 입기, 바람·흙먼지 대비 마스크·선글라스",
+    "바람·비로 경기가 자주 취소되니(2024·2025·2026 모두 일부 중지) 여러 날 일정을 잡는 게 안전",
+    "밤에 기구를 묶어 놓고 불을 밝히는 '라 몽골피에 녹튠'도 볼 만하다"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/佐賀インターナショナルバルーンフェスタ",
+    "https://www.sibf.jp/",
+    "https://banzokubiology.com/saga-balloonfestival-crowd/",
+    "https://dc.watch.impress.co.jp/docs/news/event/2057314.html"
+   ]
+  }
  },
  {
   "id": "saga-arita-ceramic-fair",
@@ -55453,7 +61875,48 @@ window.SPOTS = [
    "https://ja.wikipedia.org/wiki/有田陶器市",
    "https://ja.wikipedia.org/wiki/上有田駅"
   ],
-  "region": "규슈"
+  "region": "규슈",
+  "fest": {
+   "past": [
+    {
+     "year": 2026,
+     "dates": "4/29~5/5",
+     "note": "제122회, 약 400개 점포"
+    },
+    {
+     "year": 2022,
+     "dates": "",
+     "note": "3년 만에 개최"
+    },
+    {
+     "year": 2021,
+     "dates": "",
+     "note": "중지 (코로나, 웹 도자기 시장만)"
+    },
+    {
+     "year": 2020,
+     "dates": "",
+     "note": "중지 (코로나, 웹 도자기 시장으로 대체)"
+    }
+   ],
+   "next": "",
+   "visitors": "약 114만 명 (2025)",
+   "crowd": "매우 혼잡",
+   "tips": [
+    "약 4km 거리에 가마·상점이 늘어서 있고 영업은 대체로 10~17시(가게마다 다름)",
+    "'브랜드 제품은 첫날, 싸게 사려면 마지막 날'이라는 말이 통설",
+    "기간 중 특급이 가미아리타역에 임시 정차하고 회장 간 셔틀버스(1일권 500엔)가 다니니 대중교통 추천",
+    "주차장 정보가 사이트마다 달라(무료 800대 / 유료 8,300대) 공식 사이트로 확인할 것",
+    "아리타세라 회장과 푸드트럭 거리에서 먹거리도 해결된다"
+   ],
+   "sources": [
+    "https://kumanichi.com/articles/1986155",
+    "https://rurubu.jp/andmore/spot/20001770",
+    "https://www.asoview.com/note/7445/",
+    "https://www.iwafu.com/jp/events/1051435",
+    "https://ja.wikipedia.org/wiki/有田陶器市"
+   ]
+  }
  },
  {
   "id": "saga-okawachiyama",
@@ -55493,7 +61956,33 @@ window.SPOTS = [
    "https://www.imari-ookawachiyama.com/",
    "https://www.wikidata.org/wiki/Q108605326"
   ],
-  "region": "규슈"
+  "region": "규슈",
+  "fest": {
+   "past": [
+    {
+     "year": 2026,
+     "dates": "6/20~8/31",
+     "note": "풍경 시장 (풍경 약 3,000개)"
+    },
+    {
+     "year": 2026,
+     "dates": "4/29~5/5",
+     "note": "봄 가마 시장, 9:00~17:00, 우천 결행"
+    }
+   ],
+   "next": "가을 가마 시장(나베시마 번요 가을 축제) 11/1~11/5, 2026년 개최 공지됨",
+   "visitors": "",
+   "crowd": "",
+   "tips": [
+    "골든위크 가마 시장에는 마을의 가마 29곳이 한꺼번에 참여한다",
+    "여름 풍경 시장은 가마마다 만든 풍경 약 3,000개가 처마에 달려 소리·사진 모두 좋다",
+    "가을 축제는 단풍 철과 겹치고 도공 봉납식·붓 공양 같은 행사도 함께 열린다"
+   ],
+   "sources": [
+    "https://www.imari-ookawachiyama.com/",
+    "https://www.imari-ookawachiyama.com/news/"
+   ]
+  }
  },
  {
   "id": "saga-higashiyoka-higata",
@@ -55534,7 +62023,15 @@ window.SPOTS = [
    "https://ja.wikipedia.org/wiki/東与賀町",
    "https://www.asobo-saga.jp/spots/detail/c4433ee2-6f4f-4eb5-8a6d-48913f79d086"
   ],
-  "region": "규슈"
+  "region": "규슈",
+  "fest": {
+   "past": [],
+   "next": "",
+   "visitors": "",
+   "crowd": "",
+   "tips": [],
+   "sources": []
+  }
  },
  {
   "id": "saga-karatsu-castle",
@@ -56168,7 +62665,51 @@ window.SPOTS = [
   "sources": [
    "https://ja.wikipedia.org/wiki/長崎くんち"
   ],
-  "region": "규슈"
+  "region": "규슈",
+  "fest": {
+   "past": [
+    {
+     "year": 2026,
+     "dates": "10/7~10/9",
+     "note": "오도리초 6개 정 참가"
+    },
+    {
+     "year": 2023,
+     "dates": "10/7~10/9",
+     "note": "4년 만에 정상 개최"
+    },
+    {
+     "year": 2022,
+     "dates": "",
+     "note": "중지 (코로나, 3년 연속)"
+    },
+    {
+     "year": 2021,
+     "dates": "",
+     "note": "중지 (코로나)"
+    },
+    {
+     "year": 2020,
+     "dates": "",
+     "note": "중지 (코로나)"
+    }
+   ],
+   "next": "2027년 10/7~10/9 (매년 고정, 비 오면 순연)",
+   "visitors": "",
+   "crowd": "매우 혼잡",
+   "tips": [
+    "주오 공원 관람석은 8월 초 티켓피아·세븐일레븐에서 판매 (2026년 7,000/6,500/4,500엔). 10/7 아침 첫 회는 초대석뿐",
+    "관람권이 없어도 공연단이 시내 회사·가게를 돌며 공연하는 '니와사키마와리'를 따라가면 무료로 볼 수 있다",
+    "야사카 신사는 무대와 관람석 거리가 가까워 박력이 좋고, 스와 신사는 긴 돌계단 관람석이 명물",
+    "기간 중 노면전차가 매우 붐비고 회장 간 이동이 오래 걸리니 볼 공연을 미리 좁혀 둘 것",
+    "나가사키역 주변 호텔은 일찍 차니 숙소를 먼저 잡고, 붐비는 관람석은 양산 사용이 제한될 수 있다"
+   ],
+   "sources": [
+    "https://matcha-jp.com/jp/4163",
+    "https://kumanichi.com/articles/2043888",
+    "https://ja.wikipedia.org/wiki/長崎くんち"
+   ]
+  }
  },
  {
   "id": "nagasaki-shoro-nagashi",
@@ -56206,7 +62747,40 @@ window.SPOTS = [
    "https://ja.wikipedia.org/wiki/精霊流し",
    "https://www.wikidata.org/wiki/Q11437212"
   ],
-  "region": "규슈"
+  "region": "규슈",
+  "fest": {
+   "past": [
+    {
+     "year": 2026,
+     "dates": "8/15",
+     "note": "현내 신고 대상(2m 이상) 배 610척, 10m 가까운 큰 배도"
+    },
+    {
+     "year": 2023,
+     "dates": "8/15",
+     "note": "폭죽 불꽃이 옮겨붙은 것으로 보이는 화재가 시내 3곳에서 발생"
+    },
+    {
+     "year": 2022,
+     "dates": "8/15",
+     "note": "노면전차 앞에서 폭죽을 터뜨리는 위험 행위 문제"
+    }
+   ],
+   "next": "2027년 8/15 (매년 고정)",
+   "visitors": "",
+   "crowd": "혼잡",
+   "tips": [
+    "저녁 무렵부터 밤까지 배가 시내를 지나가고 폭죽 소리가 귀가 아플 만큼 크니 귀를 막을 준비를 하고 가는 편이 좋다",
+    "현청 언덕길(겐초자카) 쪽이 배가 많고 독특한 모양의 배도 볼 수 있는 인기 장소",
+    "시청 거리 주변에서는 3~4척을 이은 대형 배를 볼 수 있다",
+    "폭죽 불티가 튀고 화재 사례도 있으니 배 행렬과 거리를 두고 볼 것. 로켓 불꽃은 금지",
+    "시내 중심부 교통 규제로 버스·노면전차가 우회 운행하니 이동 시간을 넉넉히"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/精霊流し",
+    "https://kumanichi.com/articles/2025615"
+   ]
+  }
  },
  {
   "id": "nagasaki-omisaki-station",
@@ -56490,7 +63064,36 @@ window.SPOTS = [
    "https://ja.wikipedia.org/wiki/長崎新地中華街",
    "https://www.knt.co.jp/meito/sp/nagasaki_lantern_festival/"
   ],
-  "region": "규슈"
+  "region": "규슈",
+  "fest": {
+   "past": [
+    {
+     "year": 2026,
+     "dates": "2/6~2/23",
+     "note": "등불 17:00~22:00 (첫날 18시~, 마지막 날 21시 소등)"
+    },
+    {
+     "year": 2025,
+     "dates": "",
+     "note": "황제 퍼레이드 2/1·2/8, 마조 행렬 2/2·2/9. 물가 상승으로 메인 오브제 제작 보류. 전체 기간 확인 못 함"
+    }
+   ],
+   "next": "2027년 2/5~2/21 (황제 퍼레이드 2/13·2/20, 마조 행렬 2/7·2/14)",
+   "visitors": "약 106만 명 (2018, 역대 최다)",
+   "crowd": "매우 혼잡",
+   "tips": [
+    "회장이 여러 곳이라 최소 2~3시간, 무대 공연까지 보려면 반나절은 잡을 것",
+    "황제 퍼레이드 같은 인기 행사 시간대는 매우 붐비니 다른 시간에 회장을 돌면 수월하다",
+    "미나토 공원 회장은 등불이 가장 화려하고, 나카시마강 공원은 옛 다리와 등불이 어우러진다",
+    "공자묘 안 장식은 별도 입장료(어른 880엔)",
+    "교통 규제가 있어 차보다 노면전차·도보가 낫다"
+   ],
+   "sources": [
+    "https://www.at-nagasaki.jp/lantern-festival",
+    "https://matcha-jp.com/jp/23496",
+    "https://ja.wikipedia.org/wiki/長崎ランタンフェスティバル"
+   ]
+  }
  },
  {
   "id": "nagasaki-tenkaiho",
@@ -57416,7 +64019,28 @@ window.SPOTS = [
    "https://ja.wikipedia.org/wiki/黒川温泉",
    "https://www.kurokawaonsen.or.jp/tegata/"
   ],
-  "region": "규슈"
+  "region": "규슈",
+  "fest": {
+   "past": [
+    {
+     "year": 2025,
+     "dates": "12/20~3/31",
+     "note": "2025~26 시즌 유아카리. 17:00~21:30 (일몰~22시라는 안내도 있음)"
+    }
+   ],
+   "next": "",
+   "visitors": "",
+   "crowd": "",
+   "tips": [
+    "등불은 마루스즈바시~가와바타 거리, 야마비코 료칸 근처, 벳친칸, 구로카와 온천 버스 정류장 주변에 놓인다",
+    "마루스즈바시 다리 위에서 강물에 흔들리는 불빛과 온천가를 한눈에 볼 수 있다",
+    "초가지붕 버스 정류장과 대나무 등롱 조합이 사진 포인트",
+    "겨울엔 영하로 떨어지니 두꺼운 코트·목도리 필수. 눈 오는 날은 흰 눈과 등불 대비가 특히 예쁘다"
+   ],
+   "sources": [
+    "https://sp.jorudan.co.jp/onsen/news/jrd_260105_1/"
+   ]
+  }
  },
  {
   "id": "kumamoto-minamiaso-trolley-yusuge",
@@ -57498,7 +64122,15 @@ window.SPOTS = [
   "sources": [
    "https://ja.wikipedia.org/wiki/杖立温泉"
   ],
-  "region": "규슈"
+  "region": "규슈",
+  "fest": {
+   "past": [],
+   "next": "",
+   "visitors": "",
+   "crowd": "",
+   "tips": [],
+   "sources": []
+  }
  },
  {
   "id": "kumamoto-amakusa-dolphin-watching",
@@ -58149,7 +64781,45 @@ window.SPOTS = [
    "https://ja.wikipedia.org/wiki/山鹿市",
    "https://www.wikidata.org/wiki/Special:ItemByTitle/jawiki/大宮神社_(山鹿市)"
   ],
-  "region": "규슈"
+  "region": "규슈",
+  "fest": {
+   "past": [
+    {
+     "year": 2026,
+     "dates": "",
+     "note": "7/28 구마모토 지진으로 불꽃놀이·센닌 도로오도리 중지, 신사 의식만"
+    },
+    {
+     "year": 2025,
+     "dates": "8/15~8/16",
+     "note": "16일 센닌 도로오도리는 비로 운동장 상태가 나빠 중지"
+    },
+    {
+     "year": 2023,
+     "dates": "",
+     "note": "센닌 도로오도리 4년 만에 부활"
+    },
+    {
+     "year": 2022,
+     "dates": "",
+     "note": "신사 의식만 (코로나, 불꽃놀이·센닌 도로오도리 중지 2020~2022)"
+    }
+   ],
+   "next": "2027년 일정 미발표",
+   "visitors": "",
+   "crowd": "혼잡",
+   "tips": [
+    "15일은 시내를 금등롱 쓴 여성들이 춤추며 걷고, 밤엔 기쿠치강 둔치에서 약 4,000발 불꽃놀이",
+    "16일 밤 야마가 초등학교 운동장의 센닌 도로오도리가 하이라이트 (2025년 20:00~21:00, 18:30 개장)",
+    "특별 관람석은 전석 지정 유료(2025년 일반석 예매 6,600엔·당일 7,700엔), 입석은 무료. 비가 오면 중지될 수 있다",
+    "신타마나역에서 버스로 야마가 버스센터까지 가서 도보 10분. 근처 야치요자 극장도 함께 둘러볼 만하다"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/山鹿灯籠まつり",
+    "https://www.gltjp.com/ja/directory/item/18734/",
+    "https://kumanichi.com/articles/1863095"
+   ]
+  }
  },
  {
   "id": "kumamoto-yatsushiro-myokensai",
@@ -58189,7 +64859,35 @@ window.SPOTS = [
    "https://www.wikidata.org/wiki/Q11390558",
    "http://www.myouken.com/"
   ],
-  "region": "규슈"
+  "region": "규슈",
+  "fest": {
+   "past": [
+    {
+     "year": 2026,
+     "dates": "",
+     "note": "신코 행렬(11/22 오쿠다리·11/23 오노보리)과 관련 행사 중지, 일부 신사 의식만 (7/28 구마모토 지진, 야쓰시로 신사 누문 붕괴 등 피해). 유네스코 등재 10주년 기념 사업도 중지"
+    },
+    {
+     "year": 2025,
+     "dates": "11/22~11/23",
+     "note": "22일 밤 전야제 '고야'"
+    }
+   ],
+   "next": "2027년 일정 미발표 (예년 11/22~23)",
+   "visitors": "약 16만 5천 명 (2024)",
+   "crowd": "혼잡",
+   "tips": [
+    "약 40가지 행렬이 시내에서 야쓰시로 신사까지 약 6km를 걷고, 별명 '가메'인 거북뱀(기다)이 인기",
+    "도자키 가와라에서 사자춤·기다 연무·말 몰이를 하니 이곳에 자리 잡는 게 핵심",
+    "유료 사지키석이 있다",
+    "JR 야쓰시로역에서 도보 20분, 신야쓰시로역과 주차장에서 셔틀(왕복 500엔)"
+   ],
+   "sources": [
+    "https://www.kab.co.jp/news/article/16860831",
+    "https://rurubu.jp/andmore/spot/20000621",
+    "https://ja.wikipedia.org/wiki/八代妙見祭"
+   ]
+  }
  },
  {
   "id": "kumamoto-yachiyoza",
@@ -58559,7 +65257,22 @@ window.SPOTS = [
    "https://kumanichi.com/theme/2026earthquake?page=1",
    "https://asojinja.or.jp/"
   ],
-  "region": "규슈"
+  "region": "규슈",
+  "fest": {
+   "past": [],
+   "next": "",
+   "visitors": "",
+   "crowd": "",
+   "tips": [
+    "히후리 신지는 3월 우노마쓰리 기간 중 다쓰쿠리 마쓰리(7일간)의 4일째 '사루(申)의 날' 저녁이라 해마다 날짜가 바뀐다. 신사에 확인 필요",
+    "억새 다발에 불을 붙여 빙빙 돌리며 여신을 맞이하는 의식이라 해 진 뒤 참배길에서 본다",
+    "2016년 지진으로 무너졌던 누문은 2023년 12월 복구가 끝났다"
+   ],
+   "sources": [
+    "https://asojinja.or.jp/events/tatsukuri/",
+    "https://www.asojinja.or.jp/"
+   ]
+  }
  },
  {
   "id": "kumamoto-aoi-aso-shrine",
@@ -59073,7 +65786,30 @@ window.SPOTS = [
    "https://tabi-mag.jp/usuki-takeyoi/",
    "https://ja.wikipedia.org/wiki/臼杵市"
   ],
-  "region": "규슈"
+  "region": "규슈",
+  "fest": {
+   "past": [
+    {
+     "year": 2025,
+     "dates": "11/1~11/2",
+     "note": "제29회, 17:00~21:00, 반야히메 행렬 양일 19:00 출발"
+    }
+   ],
+   "next": "2026년 11/7~11/8 (제30회)",
+   "visitors": "약 10만 명 (2일간, 예년)",
+   "crowd": "혼잡",
+   "tips": [
+    "니오자 거리 약 100m에 대나무 등불이 이어지고 오브제가 약 20곳, 둘러보는 데 2시간쯤",
+    "핵심은 반야히메 행렬. 19시 출발 시각에 맞춰 니오자 주변에 있을 것",
+    "임시 주차장(종합운동공원·우스키 석불)에서 셔틀버스 편도 200엔, 15~22시 운행",
+    "노점 먹거리를 즐기며 걷는 축제라 저녁을 현장에서 해결해도 된다"
+   ],
+   "sources": [
+    "https://www.takeyoi.com/general-info/",
+    "https://www.takeyoi.com/access/",
+    "https://www.travel.co.jp/guide/article/11828/"
+   ]
+  }
  },
  {
   "id": "oita-yufu-yunohira-onsen",
@@ -59234,7 +65970,29 @@ window.SPOTS = [
    "https://ja.wikipedia.org/wiki/姫島_(大分県)",
    "https://rurubu.jp/andmore/spot/20002988"
   ],
-  "region": "규슈"
+  "region": "규슈",
+  "fest": {
+   "past": [
+    {
+     "year": 2026,
+     "dates": "8/14~8/15",
+     "note": "19:15~21:00"
+    }
+   ],
+   "next": "",
+   "visitors": "",
+   "crowd": "",
+   "tips": [
+    "페리 광장(중앙 광장)과 섬 곳곳의 '본쓰보'에서 춤을 추고, 한 축제에 50가지 넘는 춤이 나온다",
+    "하얗게 칠한 얼굴에 수염을 그린 아이들의 '여우 춤'이 명물",
+    "이미항에서 페리로 약 20분(왕복 어른 1,160엔), 축제 날엔 야간 임시편이 다닌다",
+    "관람 무료. 섬 숙소가 적으니 숙박할 거면 일찍 예약"
+   ],
+   "sources": [
+    "https://summer.walkerplus.com/odekake/detail_e/ar1044e590726/data.html",
+    "https://ja.wikipedia.org/wiki/姫島盆踊り"
+   ]
+  }
  },
  {
   "id": "oita-kokonoe-yume-otsuribashi",
@@ -59314,7 +66072,34 @@ window.SPOTS = [
    "https://ja.wikipedia.org/wiki/豊後竹田駅",
    "https://www.city.taketa.oita.jp/bunka_rekishi_kanko/yugakukan/13206.html"
   ],
-  "region": "규슈"
+  "region": "규슈",
+  "fest": {
+   "past": [
+    {
+     "year": 2025,
+     "dates": "11/21~11/23",
+     "note": "제26회, 16:00~21:30"
+    },
+    {
+     "year": 2024,
+     "dates": "11/15~11/17",
+     "note": "제25회"
+    }
+   ],
+   "next": "2026년 11/20~11/22 (제27회, 16:00~21:30, 마지막 날 21시까지)",
+   "visitors": "약 10만 명 (2025)",
+   "crowd": "혼잡",
+   "tips": [
+    "성하마을 일대에 대나무 등롱 약 2만 개가 켜진다. 십육나한 주변이 메인",
+    "분고타케타역에서 바로라 기차로 가기 편하다",
+    "주차 안내가 자료마다 달라(무료 1,500대 / 역 주차장 34대) 공식 확인 필요",
+    "길거리 콘서트와 '슬로푸드 포장마차촌'에서 지역 음식도 즐길 수 있다"
+   ],
+   "sources": [
+    "https://rurubu.jp/andmore/spot/20000624",
+    "https://www.nta.co.jp/kokunai/special/eventinfo/10640959.htm"
+   ]
+  }
  },
  {
   "id": "oita-kokonoe-ryumon-falls",
@@ -59469,7 +66254,29 @@ window.SPOTS = [
    "https://ja.wikipedia.org/wiki/別府八湯",
    "https://onsenoni.com/en/blog/beppu-onsen-matsuri-2026"
   ],
-  "region": "규슈"
+  "region": "규슈",
+  "fest": {
+   "past": [
+    {
+     "year": 2026,
+     "dates": "4/2",
+     "note": "제112회 벳푸하치유 온천 축제(4/1~4/5) 중, 불 축제 50주년"
+    }
+   ],
+   "next": "",
+   "visitors": "",
+   "crowd": "",
+   "tips": [
+    "산 전체를 태우는 불길은 시내 중심부나 벳푸 타워 주변에서 잘 보인다",
+    "비가 오면 연기되니(2026년 예비일 4/6·8·10…) 당일 공지 확인",
+    "같은 날 19시에 불꽃놀이도 있다",
+    "축제 마지막 날 '유 붓카케'는 온천수를 뿌리니 젖어도 되는 옷으로. 기간 중 역 앞 교통 규제"
+   ],
+   "sources": [
+    "https://onsenoni.com/en/blog/beppu-onsen-matsuri-2026",
+    "https://matcha-jp.com/jp/24241"
+   ]
+  }
  },
  {
   "id": "oita-kokonoe-chojabaru-tadewara",
@@ -59548,7 +66355,15 @@ window.SPOTS = [
    "https://ja.wikipedia.org/wiki/原尻の滝",
    "https://sato-no-tabi.jp/introduce/原尻の滝/"
   ],
-  "region": "규슈"
+  "region": "규슈",
+  "fest": {
+   "past": [],
+   "next": "",
+   "visitors": "",
+   "crowd": "",
+   "tips": [],
+   "sources": []
+  }
  },
  {
   "id": "oita-hita-mikuma-ukai-yakatabune",
@@ -59587,7 +66402,44 @@ window.SPOTS = [
    "https://ja.wikipedia.org/wiki/日田温泉",
    "https://yakatabune.oidehita.com/"
   ],
-  "region": "규슈"
+  "region": "규슈",
+  "fest": {
+   "past": [
+    {
+     "year": 2026,
+     "dates": "5/23~5/24",
+     "note": "제79회 히타 강 개장 관광제, 불꽃 19:40~21:00 약 1만 발"
+    },
+    {
+     "year": 2025,
+     "dates": "5/24~5/25",
+     "note": "제78회"
+    },
+    {
+     "year": 2024,
+     "dates": "5/25~5/26",
+     "note": ""
+    },
+    {
+     "year": 2023,
+     "dates": "5/20~5/21",
+     "note": "제76회"
+    }
+   ],
+   "next": "",
+   "visitors": "약 8만 명 (예년)",
+   "crowd": "혼잡",
+   "tips": [
+    "불꽃은 미쿠마강 주변에서 19:40부터 약 80분",
+    "JR 히타역에서 도보 17분, 무료 임시 주차장과 히타 버스센터발 무료 셔틀이 있다",
+    "기간 중 주변 도로 교통 규제가 있고 노점도 나온다",
+    "악천후면 다음 날로 순연되니 공식 공지 확인"
+   ],
+   "sources": [
+    "https://hanabi.walkerplus.com/detail/ar1044e183827/data.html",
+    "https://oidehita.com/archives/tag/%e6%97%a5%e7%94%b0%e5%b7%9d%e9%96%8b%e3%81%8d%e8%a6%b3%e5%85%89%e7%a5%ad"
+   ]
+  }
  },
  {
   "id": "oita-kitsuki-castle-town",
@@ -59860,7 +66712,15 @@ window.SPOTS = [
   "sources": [
    "https://ja.wikipedia.org/wiki/岡城_(豊後国)"
   ],
-  "region": "규슈"
+  "region": "규슈",
+  "fest": {
+   "past": [],
+   "next": "",
+   "visitors": "",
+   "crowd": "",
+   "tips": [],
+   "sources": []
+  }
  },
  {
   "id": "oita-usa-jingu",
@@ -60095,7 +66955,28 @@ window.SPOTS = [
    "https://ja.wikipedia.org/wiki/京町温泉",
    "https://ja.wikipedia.org/wiki/京町温泉駅"
   ],
-  "region": "규슈"
+  "region": "규슈",
+  "fest": {
+   "past": [
+    {
+     "year": 2026,
+     "dates": "7/18",
+     "note": "제29회 에비노 교마치 온천 여름 축제 불꽃놀이, 20:30~21:00 약 3,000발"
+    }
+   ],
+   "next": "",
+   "visitors": "약 7,000명 (예년)",
+   "crowd": "보통",
+   "tips": [
+    "불꽃은 센다이강 둔치에서 30분 정도로 짧으니 시작 전에 도착",
+    "JR 교마치온센역에서 도보 약 15분",
+    "무료 주차장(16~22시)은 여유가 없어 대중교통 권장",
+    "유료석 없음, 가랑비는 결행하고 악천후면 다음 날 순연"
+   ],
+   "sources": [
+    "https://hanabi.walkerplus.com/detail/ar1045e00566/data.html"
+   ]
+  }
  },
  {
   "id": "miyazaki-takachiho-kagura",
@@ -60577,7 +67458,30 @@ window.SPOTS = [
    "https://ja.wikipedia.org/wiki/西都原古墳群",
    "https://rurubu.jp/andmore/spot/20001388"
   ],
-  "region": "규슈"
+  "region": "규슈",
+  "fest": {
+   "past": [
+    {
+     "year": 2026,
+     "dates": "3/27~4/5",
+     "note": "사이토 꽃 축제, 벚꽃 개화에 맞춰 실시"
+    }
+   ],
+   "next": "",
+   "visitors": "약 3만 5천 명 (2025)",
+   "crowd": "혼잡",
+   "tips": [
+    "벚꽃은 3월 하순~4월 상순, 유채꽃은 3월 중순~4월 상순이라 두 꽃이 겹치는 3월 말이 노릴 때",
+    "개화가 늦고 비가 이어진 해엔 노점이 18시에 닫고 라이트업도 없었다는 불만 후기도 있으니 개화 상황 확인",
+    "무료 주차장 약 1,200대에 임시 주차장도 있지만 주말은 붐빈다",
+    "대중교통은 미야자키역에서 버스 약 50분 + 택시 5분이라 불편, 차가 현실적",
+    "넓은 고분 평원이라 화장실(6곳) 위치를 미리 봐 두면 좋다"
+   ],
+   "sources": [
+    "https://rurubu.jp/andmore/spot/20001388",
+    "https://sp.jorudan.co.jp/hanami/spot_501.html"
+   ]
+  }
  },
  {
   "id": "miyazaki-kobayashi-sannomiya-gorge",
@@ -61094,7 +67998,21 @@ window.SPOTS = [
   "sources": [
    "https://ja.wikipedia.org/wiki/宮崎神宮"
   ],
-  "region": "규슈"
+  "region": "규슈",
+  "fest": {
+   "past": [],
+   "next": "",
+   "visitors": "",
+   "crowd": "",
+   "tips": [
+    "예제는 10/26, 진무사마(오미유키사이)는 그 뒤 토·일 이틀간 열린다",
+    "유부사메 무사 행렬, 신부 차림 여성이 말을 타는 '미스 샨샨우마', 횻토코 춤 등이 행렬의 볼거리",
+    "오타비쇼는 나카무라와 세가시라가 해마다 번갈아 정해지니 그해 코스 확인"
+   ],
+   "sources": [
+    "https://miyazakijingu.or.jp/publics/index/20/"
+   ]
+  }
  },
  {
   "id": "miyazaki-takaharu-sano-jinja",
@@ -61133,7 +68051,15 @@ window.SPOTS = [
   "sources": [
    "https://ja.wikipedia.org/wiki/狭野神社"
   ],
-  "region": "규슈"
+  "region": "규슈",
+  "fest": {
+   "past": [],
+   "next": "",
+   "visitors": "",
+   "crowd": "",
+   "tips": [],
+   "sources": []
+  }
  },
  {
   "id": "miyazaki-tsuno-jinja",
@@ -61172,7 +68098,15 @@ window.SPOTS = [
   "sources": [
    "https://ja.wikipedia.org/wiki/都農神社"
   ],
-  "region": "규슈"
+  "region": "규슈",
+  "fest": {
+   "past": [],
+   "next": "",
+   "visitors": "",
+   "crowd": "",
+   "tips": [],
+   "sources": []
+  }
  },
  {
   "id": "miyazaki-nichinan-aburatsu-horikawa-canal",
@@ -61488,7 +68422,40 @@ window.SPOTS = [
    "https://hanabi.walkerplus.com/detail/ar1046e01033/data.html",
    "https://ja.wikipedia.org/wiki/いおワールドかごしま水族館"
   ],
-  "region": "규슈"
+  "region": "규슈",
+  "fest": {
+   "past": [
+    {
+     "year": 2026,
+     "dates": "8/29",
+     "note": "제24회, 19:30~20:30"
+    },
+    {
+     "year": 2025,
+     "dates": "8/23",
+     "note": "제23회, 약 1만5천 발"
+    },
+    {
+     "year": 2024,
+     "dates": "8/24",
+     "note": "제22회 예정일 (실제 개최 여부는 확인 못 함)"
+    }
+   ],
+   "next": "2027년 일정 미발표 (예년 8월 하순 토요일)",
+   "visitors": "약 15만 명 (예년)",
+   "crowd": "매우 혼잡",
+   "tips": [
+    "사쿠라지마를 배경으로 오르는 불꽃과 피날레가 압권이라는 평",
+    "유료 관람석은 수량이 한정이라 일찍 사는 게 좋다",
+    "유료석 근처 매점은 줄이 길어 먹을 것·마실 것을 미리 챙겨 가는 게 편하다",
+    "회장 주차장이 없고 10:00~22:30 단계적 교통 규제. 시전 '아사히도리' 정류장에서 도보 5분",
+    "끝난 뒤 귀갓길 정체는 각오해야 한다는 후기가 많다. 가랑비는 결행, 개최 여부는 당일 정오 결정"
+   ],
+   "sources": [
+    "https://sp.jorudan.co.jp/hanabi/spot_87567.html",
+    "https://www.mapple.net/sp/hanabi/hanabi_kagoshima/"
+   ]
+  }
  },
  {
   "id": "kagoshima-ibusuki-nagasakibana",
@@ -61798,7 +68765,34 @@ window.SPOTS = [
    "https://msearch.gsi.go.jp/address-search/AddressSearch?q=天文館",
    "https://www.kagoshima-yokanavi.jp/event/10001"
   ],
-  "region": "규슈"
+  "region": "규슈",
+  "fest": {
+   "past": [
+    {
+     "year": 2025,
+     "dates": "11/2~11/3",
+     "note": "제74회, 11/3 본축제 10:20~15:25, 이틀간 춤꾼 약 1만6천 명"
+    },
+    {
+     "year": 2020,
+     "dates": "",
+     "note": "축소: 밤 축제 쉬고 본축제만 약 2시간, 62연 2,189명 (예년의 약 1/10), 보도 관람 금지"
+    }
+   ],
+   "next": "2026년 11/2 밤 축제 18:50~20:20, 11/3 본축제 10:20~15:25 (제75회)",
+   "visitors": "",
+   "crowd": "혼잡",
+   "tips": [
+    "회장은 덴몬칸 전차 거리(산바시도리 교차점~이즈로~다카미바바)",
+    "11/3 본축제는 4부 구성: 총춤·오고조 북 경연, 마칭, 댄스 '오하라 21' 순서라 보고 싶은 부의 시간을 확인",
+    "3부 시간대엔 센테라스 광장에서 '사이고돈 닮은꼴 대회'도 열린다",
+    "11/2 밤 축제는 1시간 반 정도로 짧으니 시작 전에 자리 잡기"
+   ],
+   "sources": [
+    "https://www.pref.kagoshima.jp/ak01/ohara2026.html",
+    "https://ja.wikipedia.org/wiki/おはら祭"
+   ]
+  }
  },
  {
   "id": "kagoshima-ibusuki-sunamushi",
@@ -62228,7 +69222,15 @@ window.SPOTS = [
    "https://sp.jorudan.co.jp/leaf/spot_55178.html",
    "https://www.walkerplus.com/spot/ar1046s61593/data.html"
   ],
-  "region": "규슈"
+  "region": "규슈",
+  "fest": {
+   "past": [],
+   "next": "",
+   "visitors": "",
+   "crowd": "",
+   "tips": [],
+   "sources": []
+  }
  },
  {
   "id": "kagoshima-shiroyama-observatory",
@@ -62533,7 +69535,49 @@ window.SPOTS = [
    "https://ja.wikipedia.org/wiki/吹上浜",
    "https://ja.wikipedia.org/wiki/吹上浜海浜公園"
   ],
-  "region": "규슈"
+  "region": "규슈",
+  "fest": {
+   "past": [
+    {
+     "year": 2026,
+     "dates": "5/3~5/5",
+     "note": "주제 '모래로 만드는 성 이야기'. 회장이 미나미사쓰마 시청 주변 '마치나카'로 안내됨"
+    },
+    {
+     "year": 2025,
+     "dates": "5/3~5/5",
+     "note": "불꽃 19:45~"
+    },
+    {
+     "year": 2024,
+     "dates": "5/3~5/5",
+     "note": "불꽃 19:30~"
+    },
+    {
+     "year": 2023,
+     "dates": "5/3~5/5",
+     "note": "불꽃 19:30~"
+    },
+    {
+     "year": 2022,
+     "dates": "5/3~5/5",
+     "note": "불꽃 19:45~"
+    }
+   ],
+   "next": "",
+   "visitors": "약 6만 명 (2025)",
+   "crowd": "",
+   "tips": [
+    "낮엔 모래 조각 전시, 밤엔 모래 조각 라이트업과 불꽃놀이까지 이어진다",
+    "입장 무료, 무료 주차장 약 1,000대",
+    "버스는 가고시마추오역·이주인역에서 가세다 버스스테이션까지 약 1시간 30분, 거기서 도보 10분",
+    "2026년은 해변 공원이 아니라 시청 주변 시가지 회장으로 안내됐으니 그해 회장을 꼭 확인"
+   ],
+   "sources": [
+    "https://rurubu.jp/andmore/spot/20003755",
+    "https://hanabi.cloud/html/KyushuOkinawa/kagoshima/fukiage-hamago-no-saiten.html"
+   ]
+  }
  },
  {
   "id": "kagoshima-kirishima-jingu",
@@ -62994,7 +70038,51 @@ window.SPOTS = [
    "https://ja.wikipedia.org/wiki/奥武山公園",
    "https://www.naha-otsunahiki.org/"
   ],
-  "region": "오키나와"
+  "region": "오키나와",
+  "fest": {
+   "past": [
+    {
+     "year": 2026,
+     "dates": "10/11",
+     "note": "제56회(축제 10/10~12). 폭우 속 무승부, 약 7.3만 명"
+    },
+    {
+     "year": 2025,
+     "dates": "10/12",
+     "note": "제55회(축제 10/11~13). 맑음, 동군 승. 태풍 23호로 10/10 시민축제 첫날 중지 후 재개"
+    },
+    {
+     "year": 2024,
+     "dates": "10/13",
+     "note": "제54회, 동군 약 6분 만에 승. 주최자 발표 약 28만 명"
+    },
+    {
+     "year": 2022,
+     "dates": "",
+     "note": "제52회, 준비 중 줄이 끊어져 무승부 처리. 참가자 약 3,200명으로 제한"
+    },
+    {
+     "year": 2020,
+     "dates": "",
+     "note": "중지 (코로나)"
+    }
+   ],
+   "next": "",
+   "visitors": "약 28만 명 (2024, 주최자 발표) / 약 7.3만 명 (2026, 폭우)",
+   "crowd": "매우 혼잡",
+   "tips": [
+    "낮에 국제거리에서 하타가시라(깃발) 행렬(2025년 약 11:50~13:55), 오후 4시쯤 국도 58호 구모지 교차점에서 줄다리기",
+    "줄 길이 약 160m, 국도 한가운데서 수많은 사람이 함께 당긴다",
+    "전날 밤 전통예능 야간 퍼레이드, 오노야마 공원에서 RBC 시민 페스티벌도 함께 열린다",
+    "주차장이 없고 당일 교통규제가 있으니 유이레일 등 대중교통으로",
+    "비가 오면 줄이 무거워져 승부가 늘어지기도 한다(2026 무승부)"
+   ],
+   "sources": [
+    "https://ja.wikipedia.org/wiki/那覇大綱挽",
+    "https://ryukyushimpo.jp/tag/那覇大綱挽",
+    "https://rurubu.jp/andmore/spot/20000239"
+   ]
+  }
  },
  {
   "id": "okinawa-taketomi-island",
@@ -63110,7 +70198,52 @@ window.SPOTS = [
    "https://ja.wikipedia.org/wiki/沖縄市陸上競技場",
    "https://www.zentoeisa.com/"
   ],
-  "region": "오키나와"
+  "region": "오키나와",
+  "fest": {
+   "past": [
+    {
+     "year": 2026,
+     "dates": "9/4~9/6",
+     "note": "제71회. 태풍 24호 접근으로 개최 여부 검토 후 개최, 마지막 날 비"
+    },
+    {
+     "year": 2023,
+     "dates": "9/8~9/10",
+     "note": "제68회, 4년 만에 개최"
+    },
+    {
+     "year": 2022,
+     "dates": "",
+     "note": "중지 (코로나)"
+    },
+    {
+     "year": 2021,
+     "dates": "",
+     "note": "중지 (코로나)"
+    },
+    {
+     "year": 2020,
+     "dates": "",
+     "note": "중지 (코로나)"
+    }
+   ],
+   "next": "2027년 8/27~29 (기존 데이터)",
+   "visitors": "3일간 35만 명 이상 (주최 측 안내, 연도 미표기)",
+   "crowd": "매우 혼잡",
+   "tips": [
+    "첫날 밤(19:00~21:30) 고야 십자로 주변 '미치쥬네(길거리 행진)'는 무료로 가까이서 볼 수 있다",
+    "토·일 15~21시 코자 운동공원 육상경기장에서 본 공연",
+    "불꽃은 토·일 20:40~21:00 약 400발",
+    "국도 330호·게이트 거리가 통행금지되니 차는 피하기",
+    "폭우·태풍이면 다음 주로 연기될 수 있어 일정 여유 필요"
+   ],
+   "sources": [
+    "https://www.walkerplus.com/event/ar1047e04835/",
+    "https://ryukyushimpo.jp/tag/%E3%82%A8%E3%82%A4%E3%82%B5%E3%83%BC/",
+    "https://ryukyushimpo.jp/national/entry-2149778.html",
+    "https://ja.wikipedia.org/wiki/沖縄全島エイサーまつり"
+   ]
+  }
  },
  {
   "id": "okinawa-miyako-yonaha-maehama",
@@ -63299,7 +70432,40 @@ window.SPOTS = [
    "https://ja.wikipedia.org/wiki/伊江島",
    "https://iejima.okinawa/"
   ],
-  "region": "오키나와"
+  "region": "오키나와",
+  "fest": {
+   "past": [
+    {
+     "year": 2026,
+     "dates": "4/25~5/5",
+     "note": "제29회, 무료"
+    },
+    {
+     "year": 2025,
+     "dates": "4/26~5/5",
+     "note": ""
+    },
+    {
+     "year": 2023,
+     "dates": "4/22~5/7",
+     "note": "제26회, 4년 만에 무대·라이트업·불꽃 재개"
+    }
+   ],
+   "next": "",
+   "visitors": "",
+   "crowd": "혼잡",
+   "tips": [
+    "이에항에서 회장(릴리필드 공원)까지 무료 셔틀버스",
+    "주말·연휴엔 페리를 증편하지만 정원이 차면 승선을 못 할 수 있으니 이른 배로",
+    "모토부항 임시 주차장은 수가 한정",
+    "개막 직후엔 데포 백합이 덜 피어 있고(5분 개화), 골든위크 무렵이 만개"
+   ],
+   "sources": [
+    "https://ryukyushimpo.jp/news/entry-1696637.html",
+    "https://rurubu.jp/andmore/spot/20001783",
+    "https://visitokinawajapan.com/discover/events/ie-island-lily-festival"
+   ]
+  }
  },
  {
   "id": "okinawa-miyako-ikema-island",
@@ -63486,7 +70652,56 @@ window.SPOTS = [
    "https://ja.wikipedia.org/wiki/今帰仁城",
    "https://www.nakijinjoseki-osi.jp/"
   ],
-  "region": "오키나와"
+  "region": "오키나와",
+  "fest": {
+   "past": [
+    {
+     "year": 2026,
+     "dates": "1/31~2/8",
+     "note": "제19회, 라이트업 18:30~21:00"
+    },
+    {
+     "year": 2025,
+     "dates": "~2/2",
+     "note": "제18회(시작일 미확인). 1/27 비로 규모 축소"
+    },
+    {
+     "year": 2024,
+     "dates": "1/20~1/28",
+     "note": "제17회"
+    },
+    {
+     "year": 2023,
+     "dates": "1/21~1/29",
+     "note": "제16회, 1/24 악천후로 라이트업 중지"
+    },
+    {
+     "year": 2022,
+     "dates": "1/29~2/6",
+     "note": "제15회"
+    },
+    {
+     "year": 2021,
+     "dates": "",
+     "note": "제14회 중지 (코로나)"
+    }
+   ],
+   "next": "",
+   "visitors": "",
+   "crowd": "혼잡",
+   "tips": [
+    "기간 중 주차장·매표소가 매우 붐빈다. 전자티켓이나 성 밖 매표소에서 미리 사두기",
+    "주말과 마지막 날이 가장 붐비니 평일 방문·합승 권장",
+    "주변 도로는 주차 금지. 제1·2 주차장이 차면 제3·4 주차장으로",
+    "저녁엔 성벽 라이트업과 참배길 촛불 '구스쿠 하나아카리'가 볼거리",
+    "모토부-나키진 셔틀버스가 운행된 해도 있다(2024 편도 대인 500엔)",
+    "성 안에 쓰레기통이 없던 해가 있어 쓰레기는 가져가기"
+   ],
+   "sources": [
+    "http://www.nakijinjoseki-osi.jp/",
+    "https://tabi-mag.jp/nakijin-sakura/"
+   ]
+  }
  },
  {
   "id": "okinawa-maeda-misaki-blue-cave",
@@ -63823,7 +71038,40 @@ window.SPOTS = [
    "https://ja.wikipedia.org/wiki/糸満ハーレー",
    "https://ja.wikipedia.org/wiki/糸満漁港"
   ],
-  "region": "오키나와"
+  "region": "오키나와",
+  "fest": {
+   "past": [
+    {
+     "year": 2026,
+     "dates": "6/18",
+     "note": "新島 지구 종합 우승"
+    },
+    {
+     "year": 2025,
+     "dates": "5/30",
+     "note": "교통규제 9~16시"
+    },
+    {
+     "year": 2024,
+     "dates": "6/9",
+     "note": "아히루토리(오리잡기)는 참가 동의서를 받고 실시"
+    }
+   ],
+   "next": "",
+   "visitors": "",
+   "crowd": "",
+   "tips": [
+    "음력 5월 4일 평일에도 그대로 열리니 날짜를 꼭 확인. 개회식은 오전 9:15쯤",
+    "하이라이트는 배를 일부러 뒤집었다 다시 타는 '쿤누카세'와 마지막 2,150m 경주 '아가이수부'",
+    "관광협회가 판매하는 관람석이 처음 온 관광객에게 편했다는 후기가 있다(2024)",
+    "당일 어항 주변 교통규제가 있다"
+   ],
+   "sources": [
+    "https://ryukyushimpo.jp/tag/糸満ハーレー",
+    "https://ja.wikipedia.org/wiki/糸満ハーレー",
+    "https://summer.walkerplus.com/odekake/detail_e/ar1047e596007/"
+   ]
+  }
  },
  {
   "id": "okinawa-hateruma-island",

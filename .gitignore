@@ -3,5 +3,8 @@ data/raw/
 data/SPEC.md
 data/existing.tsv
 data/FILL.md
+data/FEST.md
+data/festivals.tsv
+data/raw_fest/
 scripts/
 .claude/
